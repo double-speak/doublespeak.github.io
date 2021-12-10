@@ -1,0 +1,249 @@
+body{
+	background-color:#fffdfa;
+	text-align:left;
+	margin: 0px;
+	font-size: 20px;
+}
+
+html,body {
+	height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+/*navigation bar*/
+
+.logo img {
+	position: static;
+	display: inline-block;
+	float: left;
+	padding: 0px 0px 0px 10px;
+	margin-left: 40px;
+	height: 80px;
+	width: 80px;
+}
+
+.nav {
+	position: static;
+	height: 40px;
+	padding: 5px;
+	padding-bottom: 30px;
+	border-bottom: solid black 1px;
+}
+
+.nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 10px;
+	overflow: hidden;
+}
+.nav li {
+	float: right;
+}
+.nav li a {
+	display: block;
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: right;
+	padding: 10px 16px;
+	border: transparent solid 1px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: 0.3s;
+}
+.nav a:hover{
+  	border: solid black 1px;
+}
+
+/*main content style!*/
+
+h1 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+h2 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 50px;
+	line-height: 55px;
+	color: black;
+}
+
+p {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+.latest {
+	border-bottom: solid black 1px;
+}
+
+.latest-h {
+	margin-top: 100px;
+}
+
+.latest-p {
+	width: 50%;
+	margin: 30px 0 30px 60px;
+}
+
+.read-button {
+	display: block;
+	width: 70px;
+	padding: 10px 25px 10px 25px;
+	margin: 0 0 40px 60px;
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	text-decoration: none;
+	border: solid black 1px;
+	background-color: #fffdfa;
+	text-align: center;
+	transition: 0.3s;
+}
+
+.read-button:hover {
+	background-color: black;
+	color: #fffdfa;
+}
+
+.read-a {
+	position: absolute;
+	width: 120px;
+	height: 42px;
+	margin-top: -11px;
+	margin-left: -94px;
+}
+
+.previssue {
+	margin: 0 60px 0 60px;
+}
+
+.previssue img {
+	width: 100%;
+}
+
+.previssue-row {
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 4%;
+}
+
+.left {
+	margin-right: 4%;
+	position: relative;
+	height: 89.3%;
+}
+
+.middle {
+	margin-right: 4%;
+	position: relative;
+	height: 89.3%;
+}
+
+.right {
+	height: 89.3%;
+	position: relative;
+}
+
+.left-overlay {
+	position: absolute;
+	background-color: black;
+	width: 100%;
+	height: 95.8%;
+	opacity: 0;
+	transition: 0.3s;
+}
+
+.left-overlay-text {
+	position: absolute;
+	color: white;
+	margin-left: 28.5%;
+	margin-top: 40%;
+	opacity: 0;
+}
+
+.left:hover .left-overlay {
+	opacity: 0.8;
+}
+
+.left:hover .left-overlay-text {
+	opacity: 1;
+}
+
+.middle-overlay {
+	position: absolute;
+	background-color: black;
+	width: 100%;
+	height: 95.8%;
+	opacity: 0;
+	transition: 0.3s;
+}
+
+.middle-overlay-text {
+	position: absolute;
+	color: white;
+	margin-left: 28.5%;
+	margin-top: 40%;
+	opacity: 0;
+}
+
+.middle:hover .middle-overlay {
+	opacity: 0.8;
+}
+
+.middle:hover .middle-overlay-text {
+	opacity: 1;
+}
+
+.right-overlay {
+	position: absolute;
+	background-color: black;
+	width: 100%;
+	height: 95.8%;
+	opacity: 0;
+	transition: 0.3s;
+}
+
+.right-overlay-text {
+	position: absolute;
+	color: white;
+	margin-left: 28.5%;
+	margin-top: 40%;
+	opacity: 0;
+}
+
+.right:hover .right-overlay {
+	opacity: 0.8;
+}
+
+.right:hover .right-overlay-text {
+	opacity: 1;
+}

@@ -1,0 +1,232 @@
+body{
+	background-color:#fffdfa;
+	text-align:left;
+	margin: 0px;
+	font-size: 20px;
+}
+
+html,body {
+	height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+/*navigation bar*/
+
+.logo img {
+	position: static;
+	display: inline-block;
+	float: left;
+	padding: 0px 0px 0px 10px;
+	margin-left: 40px;
+	height: 80px;
+	width: 80px;
+}
+
+.nav {
+	position: static;
+	height: 40px;
+	padding: 5px;
+	padding-bottom: 30px;
+	border-bottom: solid black 1px;
+}
+
+.nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 10px;
+	overflow: hidden;
+}
+.nav li {
+	float: right;
+}
+.nav li a {
+	display: block;
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: right;
+	padding: 10px 16px;
+	border: transparent solid 1px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: 0.3s;
+}
+.nav a:hover{
+  	border: solid black 1px;
+}
+
+/* table of contents */
+
+h1 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+h2 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+}
+
+h3 {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+p {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+
+.issuetitle h1{
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-bottom: 0px;
+	white-space: nowrap;
+	padding: 0px;
+}
+
+.tcontents {
+	height: 600px;
+	padding: 20px 60px 20px 60px;
+	border-bottom: solid black 1px;
+}
+
+.tcontents-title {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 48px;
+	color: black;
+	text-align: left;
+	margin: -10px 0 0 0;
+}
+
+.toc-container {
+	display: flex;
+	flex-direction: row;
+}
+
+.left {
+	display: flex;
+	flex-direction: column;
+	width: 30%;
+}
+
+.right {
+	display: flex;
+	flex-direction: column;
+}
+
+.tcleft {
+	display: inline-block;
+	width: 50%;
+	clear: left;
+	float: left;
+}
+
+.tcleft h2{
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 24px;
+	color: black;
+	text-align: left;
+	margin-left: 0px;
+	white-space: nowrap;
+	text-decoration: underline;
+}
+
+.tcleft h3{
+	width: 50%;
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin: -15px 0 0 30px;
+	white-space: nowrap;
+	line-height: 25px;
+}
+
+.tcright{
+	display: inline-block;
+	width: 50%;
+	float: left;
+}
+
+.tcright h2{
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 24px;
+	color: black;
+	text-align: left;
+	margin-left: 0px;
+	white-space: nowrap;
+	text-decoration: underline;
+}
+
+.tcright h3{
+	width: 50%;
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin: -15px 0 0 30px;
+	white-space: nowrap;
+	line-height: 25px;
+}
+
+/* editor's note */
+
+.ednote {
+	display: inline-block;
+	padding: 20px 60px 20px 0;
+}
+
+.ednote-p {
+	margin-top: 50px;
+}
+
+.ednote-signature {
+	text-align: right;
+}
