@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" type="text/css" href="../assets/css/poempagestyle.css">
+  <link rel="stylesheet" href="https://use.typekit.net/nje3rzy.css">
+  <script src="https://kit.fontawesome.com/5f40f4e0da.js" crossorigin="anonymous"></script>
+  <!-- the script is for fontawesome, which has a lot of icons that I thought would be good for the link arrows that we have in the figma design! -->
+</head>
+
+   <title>poem page</title>
+
+<body>
+  <header>
+    <a href="ds_homepage.html">
+      <div class="logo">
+        <img src="images/doublespeak_logo.png" alt="doublespeak logo">
+      </div>
+    </a>
+    <div class="nav">
+      <ul>
+        <li><a href="searchpage.html">search</a></li>
+        <li><a href="aboutpage.html">about</a></li>
+        <li><a href="submitpage.html">submit</a></li>
+        <li><a href="issuepage.html">issues</a></li>
+      </ul>
+    </div>
+  </header>
+  <div class="tcontentslink">
+    <p><a href="tcontentspage.html"><  &nbsp; table of contents</a></p>
+    <div class="poemtags">
+      <ul>
+        <li><a href="">tag</a></li>
+        <li><a href="">tag</a></li>
+        <li><a href="">tag</a></li>
+        <li><a href="">tag</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="poems">
+    <div class="ogpoem">
+      <h2>{{page.pid}}</h2>
+      <pre>{{page.poem}}</pre>
+    </div>
+    <div class="transpoem">
+      <h2>{{page.transtitle}}</h2>
+      <pre>{{page.transpoem}}</pre>
+    </div>
+  </div>
+  <div class="previouslink">
+    <p><a href="url"><  &nbsp; previous</a></p>
+  </div>
+  <div class="nextlink">
+    <p><a href="file:///C:/Users/Quinn/Documents/DoubleSpeak/Price%20Lab%20Work/ds-website-files/notepage.html">next &nbsp; ></a></p>
+  </div>
+</body>
+<html>

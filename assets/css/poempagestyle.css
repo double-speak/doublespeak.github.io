@@ -1,0 +1,239 @@
+body{
+	background-color:#fffdfa;
+	text-align:left;
+	margin: 0px;
+	font-size: 20px;
+}
+
+html,body {
+	height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+/*navigation bar*/
+
+.logo img {
+	position: static;
+	display: inline-block;
+	float: left;
+	padding: 0px 0px 0px 10px;
+	margin-left: 40px;
+	height: 80px;
+	width: 80px;
+}
+
+.nav {
+	position: static;
+	height: 40px;
+	padding: 5px;
+	padding-bottom: 30px;
+	border-bottom: solid black 1px;
+}
+
+.nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 10px;
+	overflow: hidden;
+}
+.nav li {
+	float: right;
+}
+.nav li a {
+	display: block;
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: right;
+	padding: 10px 16px;
+	border: transparent solid 1px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: 0.3s;
+}
+.nav a:hover{
+  	border: solid black 1px;
+}
+
+/* text */
+
+h1 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+h2 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 40px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+}
+
+h3 {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+pre {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+p {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+/*top links*/
+
+.tcontentslink {
+	height: 70px;
+}
+
+.tcontentslink a {
+	display: inline-block;
+	margin: 40px 0 0 -80px;
+	color: black;
+	text-decoration: none;
+}
+
+.tcontentslink a:hover {
+	text-decoration: underline;
+}
+
+.poemtags {
+	margin: -63px 30px 0 0;
+	column-width: 50%;
+}
+
+.poemtags ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.poemtags li {
+	float: right;
+}
+
+.poemtags li a {
+	display: block;
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 16px;
+	color: black;
+	border: solid black 1px;
+	text-align: right;
+	padding: 13px 25px 13px 25px;
+	margin: 0px 10px 0px 10px;
+	text-decoration: none;
+}
+
+.poemtags a:hover {
+	color: #fffdfa;
+	background-color: black;
+	text-decoration: none;
+}
+
+/*poem contents*/
+
+.poems {
+	width: 75%;
+	margin: 50px auto 0 auto;
+}
+
+.ogtitle {
+	width: 50%;
+	clear: left;
+	float: left;
+}
+
+.transtitle {
+	width: 50%;
+	float: left;
+}
+
+.ogpoem {
+	display: inline-block;
+	width: 48%;
+	float: left;
+}
+
+.transpoem {
+	display: inline-block;
+	width: 48%;
+	float: right;
+}
+
+/*links to other poems*/
+
+.previouslink {
+	position: fixed;
+	bottom: 0;
+	left: -10px;
+}
+
+.previouslink a {
+	display: inline-block;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+}
+
+.previouslink a:hover {
+	text-decoration: underline;
+}
+
+.nextlink {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+
+.nextlink a {
+	display: inline-block;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+}
+
+.nextlink a:hover {
+	text-decoration: underline;
+}

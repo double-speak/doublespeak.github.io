@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <link rel="stylesheet" type="text/css" href="assets/css/searchpagestyle.css">
+    <link rel="stylesheet" href="https://use.typekit.net/nje3rzy.css">
+    <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>  </head>
+
+   <title>search</title>
+
+<body>
+  <header>
+    <a href="ds_homepage.html">
+      <div class="logo">
+        <img src="images/doublespeak_logo.png" alt="doublespeak logo">
+      </div> 
+    </a>
+    <div class="nav">
+      <ul>
+        <li><a href="search.html">search</a></li>
+        <li><a href="about.html">about</a></li>
+        <li><a href="submit.html">submit</a></li>
+        <li><a href="issues.html">issues</a></li>
+      </ul>
+    </div>
+  </header>
+  <div class="search">
+    <h1>search</h1>
+    <p class="search-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis orci vel sapien convallis laoreet. Nulla ut ipsum magna. Integer in ligula imperdiet, facilisis velit at, laoreet sem. Etiam quis ipsum in nunc vulputate venenatis.<br>email us at staff@doublespeakmagazine.org</p>
+  </div>
+  <div class="searchform">
+    <!-- <form class="searchform" action="/action_page.php" method=get>
+      <input type="text" placeholder=" search here" id="searchterm" name="search"><br>
+      <button type="submit" value="submit">submit</button>     </form>-->
+    <input type="text" id="search-input" placeholder="Search blog posts..">
+      <ul id="results-container"></ul>
+    
+  </div>
+  <script>
+      window.simpleJekyllSearch = new SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>'
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+    </script>
+</body>
+<html>
