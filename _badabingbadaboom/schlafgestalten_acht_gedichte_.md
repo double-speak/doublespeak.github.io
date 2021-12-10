@@ -140,7 +140,7 @@ note: |-
       which is not a 'wink' but 'a<em> </em>sign, a hint.' <em>Augenblicke </em>
       to <em>Winke</em>: for English, I reimagine this as the decay from
   'moments' to the word 'omen' hidden within. I retain the assonance of    <em>schläft</em>/<em>steh</em> in 'eyes'/'rise.' <em>Fadensonnen </em>
-      (1968).<em></em>
+      (1968).
   </p>
   <p>
       <strong>'Deine Hände, die'/'Your hands, these'</strong>
