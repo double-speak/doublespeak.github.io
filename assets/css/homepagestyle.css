@@ -13,6 +13,11 @@ a {
 	text-decoration: none;
 }
 
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
 /*navigation bar*/
 
 .logo img {
