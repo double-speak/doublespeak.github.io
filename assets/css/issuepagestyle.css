@@ -185,7 +185,7 @@ p {
 .left-overlay-text {
 	position: absolute;
 	color: white;
-	margin-left: 28.5%;
+	margin-left: 18.5%;
 	margin-top: 40%;
 	opacity: 0;
 }
@@ -210,7 +210,7 @@ p {
 .middle-overlay-text {
 	position: absolute;
 	color: white;
-	margin-left: 28.5%;
+	margin-left: 18.5%;
 	margin-top: 40%;
 	opacity: 0;
 }
@@ -235,7 +235,7 @@ p {
 .right-overlay-text {
 	position: absolute;
 	color: white;
-	margin-left: 28.5%;
+	margin-left: 18.5%;
 	margin-top: 40%;
 	opacity: 0;
 }
