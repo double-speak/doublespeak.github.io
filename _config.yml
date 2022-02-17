@@ -62,3 +62,12 @@ collections:
       source: 'badabingbadaboom.csv' # path to the metadata file, must be within '_data'
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+
+  notes-2021:
+    layout: 'notepage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'tnotes_2021.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+
