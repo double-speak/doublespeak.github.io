@@ -1,45 +1,42 @@
-pid,title,author,translator,langtag
-every day the sun slits the throat of its former self,[chaque jour le soleil égorge son spectre],Amina Saïd,Ashley Sniffen,French
-A Chain Verse,[连环诗: 赏花归去],Su Shi (苏轼),"Gil Lehmann, Jacey Chang, and Yehudith Dashevsky ",Chinese
-Shapes in Sleep: Eight Poems,[Schlafgestalten: acht Gedichte],Paul Celan,David Ting,German
-Come,[Ven],Christina Perri Rossi,Elizabeth Rose,Spanish
-Choose,[إختاري],Nizar Qabbani,Leah Baxter,Arabic
-Conversation between a drunk poetess and her lover,"[Разговор
-пьяной поэтессы и ее нового любовника]
+pid,title,author,translator,language
+every day the sun slits the throat of its former self,chaque jour le soleil égorge son spectre,Amina Saïd,Ashley Sniffen,French
+A Chain Verse,连环诗: 赏花归去,Su Shi (苏轼),"Gil Lehmann, Jacey Chang, and Yehudith Dashevsky",Chinese
+Shapes in Sleep: Eight Poems,Schlafgestalten: acht Gedichte,Paul Celan,David Ting,German
+Come,Ven,Christina Perri Rossi,Elizabeth Rose,Spanish
+Choose,إختاري,Nizar Qabbani,Leah Baxter,Arabic
+Conversation between a drunk poetess and her lover,"Разговор
+пьяной поэтессы и ее нового любовника
 ",Yaroslav (Slava) Mogutin,Ryan Hardy,Russian
-Listen!,[Послушайте!],Vladimir Mayakovsky,Ryan Hardy,Russian
-Four Poems,[Cuatro Poemas],Tamara Grosso,Claudia Nuñez de Ibieta,Spanish
-Winter,[冬],Kobayashi Issa ,Vanessa Hu,Japanese
-The Sand and the Angel,[La sabbia e l’angelo],Margherita Guidacci,Quinn Gruber,Italian
-To a Black Dancer,[A une danseuse noire],David Diop,Samantha DeStefano,French
-Onlooker,[瞭望者],Yan An,Chen Du and Xisheng Chen,Chinese
-Sleeping with a Mirror,[和镜子睡在一起],Yan An,Chen Du and Xisheng Chen,Chinese
-"The Butterfly — June 4th, 1942 ",[Der Schmetterling — 4. Juni 1942],Pavel Friedmann ,Karina Carreras,German
-Verb,[Verbo],Pablo Neruda,Heta Patel,Spanish
-Two Poems by Qasmūna bint Ismāʿil,[Two Poems by Qasmūna bint Ismāʿil],Qasmūna bint Ismāʿil,Maria Dahvana Headley ,Arabic
-“From what mistake”,[어떤 과오로부터],Kim Soon Mi,Nadia Park,Korean
-"Like an illusion, poetry",[환영처럼 시가],Kim Soon Mi,Nadia Park,Korean
-XXV.,[XXV.],Osip Mandelstam,Elizabeth Balabayev,Russian
-The City,[Byen],Sigbjørn Obstfelder,Jordan Barger,Norwegian
-Epitaph For When I Die,[Epitaphe Quand Je Mourrai],Mariama Ndiaye,Donnisa Edmonds,French
-Women ,[Femmes],Mariama Ndiaye,Donnisa Edmonds,French
-Wild Grass,[《野草》题辞],Lu Xun (鲁迅),Chardonnay Needler,Chinese
-Eclipse ,[Eclipse],Carlos de Assumpção ,Pedro Lino,Portuguese
-Transfigured Night,[Verklärte Nacht],Richard Dehmel,Jonathan Iwry,German
-Declines of the monologue,[Declinaciones del monólogo],Eunice Odio,Couloir Hanson ,Spanish
-A Letter of Menakhem-Mendl, [מכתב של מנחם-מנדל]  ,Nathan Alterman,Dan Ben-Amos,Hebrew
-I want to live with you ,[Я бы хотела жить с Вами],Marina Tsvetaeva ,Wenhan Zhang,Russian
-Some Later Day,[먼 후일],Kim Sowol (김소월),Younghoon Jeong and Saagar Asnani,Korean
-Maybe it's clarity,[Forse la trasparenza],Filippo Vignali,Giulia Rupi and John Sherer,Italian
-Can we keep quiet,[Riusciamo a fare silenzio],Filippo Vignali,Giulia Rupi and John Sherer,Italian
-I see my father crying,[Vedo mio padre piangere],Filippo Vignali,Giulia Rupi and John Sherer,Italian
-Millibars of the storm ,[Millibars de l'orage],Aimé Césaire,Sue Jia,French
-If Heritage Were Called Hither-Air,[Wenn Die Herkunft Herluft Hiesse],Marica Bodrožić,Qingyang Zhou,German
-The Greatest Ink,[La Mejor Tinta],Armando Valladares,Margaret Lawlace,Spanish
-"Khun Chang Khun Phaen
-Book 4: The Affair of Phlai Kaew and Nang Phim",[ขุนช้างขุนแผน ตอนที่ 4 พลายแก้วเป็นชู้กับนางพิม],King Rama II,Peeriya Pongsarigun and John Viano ,Thai
-Lilies,[Krinovi],Mak Dizdar,Emma Arsekin,Bosnian
-Eternity,[L'Éternité],Arthur Rimbaud,Keshav Sharma ,French
-Romance of the moon and the child,"[Romance de la luna, luna]",Federico García Lorca,Darío Goldgel Carballo,Spanish
-Diary of the Lockdown Lifted,[开封日记],Zhang Zhihao (张执浩),"<em>DoubleSpeak</em> Staff
-",Multiple
+Listen!,Послушайте!,Vladimir Mayakovsky,Ryan Hardy,Russian
+Four Poems,Cuatro Poemas,Tamara Grosso,Claudia Nuñez de Ibieta,Spanish
+Winter,冬,Kobayashi Issa,Vanessa Hu,Japanese
+The Sand and the Angel,La sabbia e l’angelo,Margherita Guidacci,Quinn Gruber,Italian
+To a Black Dancer,A une danseuse noire,David Diop,Samantha DeStefano,French
+Onlooker,瞭望者,Yan An,Chen Du and Xisheng Chen,Chinese
+Sleeping with a Mirror,和镜子睡在一起,Yan An,Chen Du and Xisheng Chen,Chinese
+"The Butterfly — June 4th, 1942 ",Der Schmetterling — 4. Juni 1942 ,Pavel Friedmann ,Karina Carreras,German
+Verb,Verbo,Pablo Neruda,Heta Patel,Spanish
+Two Poems by Qasmūna bint Ismāʿil,Two Poems by Qasmūna bint Ismāʿil,Qasmūna bint Ismāʿil,Maria Dahvana Headley,Arabic
+“From what mistake”,어떤 과오로부터,Kim Soon Mi,Nadia Park,Korean
+"“Like an illusion, poetry”",환영처럼 시가,Kim Soon Mi,Nadia Park,Korean
+XXV.,XXV.,Osip Mandelstam,Elizabeth Balabayev,Russian
+The City,Byen,Sigbjørn Obstfelder,Jordan Barger,Norwegian
+Epitaph For When I Die,Epitaphe Quand Je Mourrai,Mariama Ndiaye,Donnisa Edmonds,French Women,Femmes,Mariama Ndiaye,Donnisa Edmonds,French
+Wild Grass,《野草》题辞,Lu Xun (鲁迅),Chardonnay Needler,Chinese
+Eclipse,Eclipse,Carlos de Assumpção,Pedro Lino,Portuguese
+Transfigured Night,Verklärte Nacht,Richard Dehmel,Jonathan Iwry,German
+Declines of the monologue,Declinaciones del monólogo,Eunice Odio,Couloir Hanson,Spanish
+A Letter of Menakhem-Mendl, מכתב של מנחם-מנדל ,Nathan Alterman,Dan Ben-Amos,Hebrew
+I want to live with you,Я бы хотела жить с Вами,Marina Tsvetaeva,Wenhan Zhang,Russian
+Some Later Day,먼 후일,Kim Sowol (김소월),Younghoon Jeong and Saagar Asnani,Korean
+Maybe it’s clarity,Forse la trasparenza,Filippo Vignali,Giulia Rupi and John Sherer,Italian
+Can we keep quiet,Riusciamo a fare silenzio,Filippo Vignali,Giulia Rupi and John Sherer,Italian
+I see my father crying,Vedo mio padre piangere,Filippo Vignali,Giulia Rupi and John Sherer,Italian
+Millibars of the storm,Millibars de l’orage,Aimé Césaire,Sue Jia,French
+If Heritage Were Called Hither-Air,Wenn Die Herkunft Herluft Hiesse,Marica Bodrožić,Qingyang Zhou,German
+The Greatest Ink,La Mejor Tinta,Armando Valladares,Margaret Lawlace,Spanish
+Khun Chang Khun Phaen Book 4: “The Affair of Phlai Kaew and Nang Phim”,ขุนช้างขุนแผน ตอนที่ 4 พลายแก้วเป็นชู้กับนางพิม,King Rama II,Peeriya Pongsarigun and John Viano,Thai
+Lilies,Krinovi,Mak Dizdar,Emma Arsekin,Bosnian
+Eternity,L’Éternité,Arthur Rimbaud,Keshav Sharma,French
+Romance of the moon and the child,"Romance de la luna, luna.",Federico García Lorca,Darío Goldgel Carballo,Spanish
+Diary of the Lockdown Lifted,开封日记,Zhang Zhihao (张执浩),<em>DoubleSpeak</em> Staff,Chinese
