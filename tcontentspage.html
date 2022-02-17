@@ -30,43 +30,17 @@
     <h3>season year issue</h3>
     <h1 class="tcontents-title">table of contents</h1>
     <div class="toc-container">
+      {% for item in site.data.toc_2021 %}
       <div class="left">
         <div class="tcleft">
-          <h2 class="tcleft">translated poem title (original poem title)</h2><!-- we may be able to use jekyll to have this format repeat automatically, or code it some other way than just having it repeat -->
-        </div>
-        <div class="tcleft">
-          <h3 class="tcleft">written by author <br> translated from language by translator</h3>
-        </div>
-        <div class="tcleft">
-          <h2 class="tcleft">translated poem title (original poem title)</h2>
-        </div>
-        <div class="tcleft">
-          <h3 class="tcleft">written by author <br> translated from language by translator</h3>
-        </div>
-        <div class="tcleft">
-          <h2 class="tcleft">translated poem title (original poem title)</h2>
-        </div>
-        <div class="tcleft">
-          <h3 class="tcleft">written by author <br> translated from language by translator</h3>
+          <h2 class="tcleft">{{ item.pid }} [{{ item.title }}]</h2>
+          <h3 class="tcleft">written by {{ item.author }} <br> translated from {{ item.langtag }} by {{ item.translator }}</h3>
         </div>
       </div>
+      {% endfor %}
       <div class="right">
         <div class= "tcright">
           <h2 class="tcright">translated poem title (original poem title)</h2>
-        </div>
-        <div class="tcright">
-          <h3 class="tcright">written by author <br> translated from language by translator</h3>
-        </div>
-        <div class= "tcright">
-          <h2 class="tcright">translated poem title (original poem title)</h2>
-        </div>
-        <div class="tcright">
-          <h3 class="tcright">written by author <br> translated from language by translator</h3>
-        </div>
-        <div class= "tcright">
-          <h2 class="tcright">translated poem title (original poem title)</h2>
-        </div>
-        <div class="tcright">
           <h3 class="tcright">written by author <br> translated from language by translator</h3>
         </div>
       </div>
