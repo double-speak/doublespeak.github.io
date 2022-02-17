@@ -1,4 +1,4 @@
-pid,transtitle,author,translator,poem,transpoem,langtag
+pid,transtitle,author,translator,poem,transpoem,language
 chaque jour le soleil égorge son spectre,every day the sun slits the throat of its former self,Amina Saïd,Ashley Sniffen,"chaque jour le soleil égorge son spectre
 et se lève dans son sang
 
@@ -2398,7 +2398,8 @@ Zhiqiao (Kate) Jiang and Liwa Sun","重复生活的危险性
 我会站起身来
 奔过去
 与他相拥而泣
-2020-4-7","The danger of life repeating itself
+2020-4-7
+","The danger of life repeating itself
 is that memory is prone to degaussing
 I already do not remember what happened yesterday
 as if yesterday did not exist
