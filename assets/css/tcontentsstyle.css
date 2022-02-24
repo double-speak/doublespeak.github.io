@@ -124,7 +124,6 @@ p {
 .tcontents {
 	height: 600px;
 	padding: 20px 60px 20px 60px;
-	border-bottom: solid black 1px;
 }
 
 .tcontents-title {
@@ -214,19 +213,4 @@ p {
 	margin: -15px 0 0 30px;
 	white-space: nowrap;
 	line-height: 25px;
-}
-
-/* editor's note */
-
-.ednote {
-	display: inline-block;
-	padding: 20px 60px 20px 0;
-}
-
-.ednote-p {
-	margin-top: 50px;
-}
-
-.ednote-signature {
-	text-align: right;
 }
