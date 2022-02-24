@@ -62,6 +62,10 @@ a {
 
 /* table of contents */
 
+:lang(ar) { 
+    font-family:'Adobe Arabic'; 
+  }
+
 h1 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;

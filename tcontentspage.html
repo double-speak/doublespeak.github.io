@@ -39,16 +39,9 @@ layout: default
         {% for item in site.data.toc_2021 %}
         <div class="tcleft">
           <h2 class="tcleft">{{ item.pid }} [{{ item.title }}]</h2>
-          <h3 class="tcleft">written by {{ item.author }} <br> translated from {{ item.language }} by {{ item.translator }}</h3>
+          <h3 class="tcleft">written by {{ item.engauthor }} {{ item.ogauthor}}<br> translated from {{ item.language }} by {{ item.translator }}</h3>
         </div>
         {% endfor %}
-      </div>
-      
-      <div class="right">
-        <div class= "tcright">
-          <h2 class="tcright"></h2>
-          <h3 class="tcright"><br> </h3>
-        </div>
       </div>
     </div>
   </div>
