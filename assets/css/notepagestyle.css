@@ -289,12 +289,12 @@ h1 {
 .nextlink a:hover {
 	text-decoration: underline;
 }
-<<<<<<< HEAD
+
 .note-text{
 	flex:1;
 }
 .poem-image {
-	width:10vw;
+	width:20vw;
 	height:30vw;
 	flex:1;
 	margin:20px;
