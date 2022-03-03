@@ -289,3 +289,406 @@ h1 {
 .nextlink a:hover {
 	text-decoration: underline;
 }
+
+/* language code */
+
+:lang(ar) h1{ 
+    font-family: nassim-arabic-pro, serif;
+    font-weight: 400;
+    font-style:  normal;
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(ar) h2{ 
+    font-family: adobe-arabic, sans-serif; 
+    font-weight: 400;
+    font-style:  normal;
+	font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(ar) h3{ 
+    font-family: adobe-arabic, sans-serif; 
+    font-weight: 400;
+    font-style:  normal;
+ 	font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(ar) p{ 
+    font-family: adobe-arabic, sans-serif; 
+    font-weight: 400;
+    font-style:  normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }  
+
+:lang(ru) h1{ 
+    font-family: garamond-premier-pro, serif;
+    font-weight:  400;
+    font-style:  normal;
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(ru) h2{ 
+    font-family: omnes-cyrillic, sans-serif; 
+    font-weight:  400;
+    font-style:  normal;
+	font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(ru) h3{ 
+    font-family: omnes-cyrillic, sans-serif; 
+    font-weight:  400;
+    font-style:  italic;
+    font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(ru) p{ 
+    font-family: omnes-cyrillic, sans-serif; 
+    font-weight:  400;
+    font-style:  normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(zh) h1{ 
+    font-family: source-han-sans-traditional, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(zh) h2{ 
+    font-family: adobe-heiti-std, sans-serif;
+    font-weight:  400;
+    font-style: normal;
+    font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(zh) h3{ 
+    font-family: adobe-heiti-std, sans-serif;
+    font-weight:  400;
+    font-style: normal;
+    font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(zh) p{ 
+    font-family: adobe-heiti-std, sans-serif;
+    font-weight:  400;
+    font-style: normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+
+:lang(ja) h1{ 
+    font-family: toppan-bunkyu-midashi-min-st, serif;
+    font-weight:  900;
+    font-style: normal;
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(ja) h2{ 
+    font-family: source-han-sans-japanese, sans-serif;
+    font-weight: 300;
+    font-style:  normal;
+    font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(ja) h3{ 
+    font-family: source-han-sans-japanese, sans-serif;
+    font-weight: 300;
+    font-style:  normal;
+    font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(ja) p{ 
+    font-family: source-han-sans-japanese, sans-serif;
+    font-weight: 300;
+    font-style:  normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }      
+
+:lang(bs) h1{ 
+    font-family: calibri, sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px; 
+  }
+
+:lang(bs) h2{ 
+    font-family: calibri, sans-serif;
+    font-weight: 300;
+    font-style: normal; 
+    font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(bs) h3{ 
+    font-family: calibri, sans-serif;
+    font-weight: 300;
+    font-style: normal; 
+    font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(bs) p{ 
+    font-family: calibri, sans-serif;
+    font-weight: 300;
+    font-style: normal; 
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px; 
+  }      
+
+:lang(ko) h1{ 
+    font-family: source-han-serif-korean, serif;
+    font-weight: 300;
+    font-style: normal; 
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(ko) h2{ 
+    font-family: source-han-sans-korean, sans-serif;
+    font-weight: 300;
+    font-style: normal; 
+    font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(ko) h3{ 
+    font-family: source-han-sans-korean, sans-serif;
+    font-weight: 300;
+    font-style: normal; 
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }    
+
+:lang(ko) p{ 
+    font-family: source-han-sans-korean, sans-serif; 
+    font-weight: 200;
+    font-style: normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px; 
+  }
+
+:lang(th) h1{ 
+    font-family: adobe-thai, serif; 
+    font-weight:  400;
+    font-style: normal;
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(th) h2{ 
+    font-family: ibm-plex-thai, sans-serif;
+    font-weight:  300;
+    font-style: normal;
+	font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }
+
+:lang(th) h3{ 
+    font-family: ibm-plex-thai, sans-serif; 
+    font-weight:  300;
+    font-style: normal;
+	font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }  
+
+:lang(th) p{ 
+    font-family: ibm-plex-thai, sans-serif; 
+    font-weight:  300;
+    font-style: normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(he) h1{ 
+    font-family: myriad-hebrew, sans-serif; 
+    font-weight:  400;
+    font-style: normal;
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(he) h2{ 
+    font-family: myriad-hebrew, sans-serif; 
+    font-weight:  300;
+    font-style: normal;
+    font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }  
+
+:lang(he) h3{ 
+    font-family: myriad-hebrew, sans-serif; 
+    font-weight:  300;
+    font-style: normal;
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(he) p{ 
+    font-family: myriad-hebrew, sans-serif; 
+    font-weight:  300;
+    font-style: normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+/* end language code */
