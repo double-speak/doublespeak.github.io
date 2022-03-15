@@ -239,6 +239,63 @@ p {
 }
 
 /* language code */
+:lang(en), :lang(es), :lang(fr), :lang(it), :lang(de), :lang(no), :lang(po) h1 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+:lang(en), :lang(es), :lang(fr), :lang(it), :lang(de), :lang(no), :lang(po) h2 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 40px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+}
+
+:lang(en), :lang(es), :lang(fr), :lang(it), :lang(de), :lang(no), :lang(po) h3 {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+:lang(en), :lang(es), :lang(fr), :lang(it), :lang(de), :lang(no), :lang(po) pre {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+:lang(en), :lang(es), :lang(fr), :lang(it), :lang(de), :lang(no), :lang(po) p {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
 
 :lang(ar) h1{ 
     font-family: nassim-arabic-pro, serif;
