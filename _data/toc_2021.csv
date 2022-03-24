@@ -16,7 +16,7 @@ pid,transtitle,title,engauthor,ogauthor,translator,language,lang
 13,Sleeping with a Mirror,和镜子睡在一起,Yan An,,Chen Du and Xisheng Chen,Chinese,zh
 14,"The Butterfly — June 4th, 1942 ",Der Schmetterling — 4. Juni 1942 ,Pavel Friedmann ,,Karina Carreras,German,de
 15,Verb,Verbo,Pablo Neruda,,Heta Patel,Spanish,es
-16,Two Poems by Qasmūna bint Ismāʿil,,"<span lang= ""{{ item.lang }}"" dir=""ltr"">Qasmūna bint Ismāʿil</span>",قسمونة بنت إسماعيل,Maria Dahvana Headley ,Arabic,bs
+16,Two Poems by Qasmūna bint Ismāʿil,,"<span lang= ""{{ item.lang }}"" dir=""ltr"">Qasmūna bint Ismāʿil</span>",,Maria Dahvana Headley ,Arabic,bo
 17,Interview with Maria Dahvana Headley,,,,,,en
 18,“From what mistake”,어떤 과오로부터,Kim Soon Mi,,Nadia Park,Korean,ko
 19,"Like an illusion, poetry",환영처럼 시가,Kim Soon Mi,,Nadia Park,Korean,ko
@@ -40,7 +40,7 @@ pid,transtitle,title,engauthor,ogauthor,translator,language,lang
 37,The Greatest Ink,La Mejor Tinta,Armando Valladares,,Margaret Lawlace,Spanish,es
 38,"Khun Chang Khun Phaen
 Book 4: The Affair of Phlai Kaew and Nang Phim",ขุนช้างขุนแผน ตอนที่ 4 พลายแก้วเป็นชู้กับนางพิม,King Rama II,พระพุทธเลิศหล้านภาลัย,Peeriya Pongsarigun and John Viano ,Thai,th
-39,Lilies,Krinovi,Mak Dizdar,,Emma Arsekin,Bosnian,bs
+39,Lilies,Krinovi,Mak Dizdar,,Emma Arsekin,Bosnian,bo
 40,Eternity,L’Éternité,Arthur Rimbaud,,Keshav Sharma ,French,fr
 41,Romance of the moon and the child,"Romance de la luna, luna.",Federico García Lorca,,Darío Goldgel Carballo,Spanish,es
 42,Diary of the Lockdown Lifted,开封日记,Zhang Zhihao ,张执浩,"<em>DoubleSpeak</em> Staff
