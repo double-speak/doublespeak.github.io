@@ -107,6 +107,32 @@ h1 {
 	margin-right: 10px;
 }
 
+.note p em {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 18px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.note p strong {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 18px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 .abio h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
@@ -127,6 +153,32 @@ h1 {
 .abio p {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.abio p em {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 18px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.abio p strong {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 400;
 	font-style: normal;
 	font-size: 18px;
 	color: black;
@@ -166,6 +218,33 @@ h1 {
 	margin-left: 10px;
 	margin-right: 10px;
 }
+
+.tbio p em{
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 18px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.tbio p strong{
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 18px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 
 
 
