@@ -369,6 +369,22 @@ h1 {
 	text-decoration: underline;
 }
 
+.note-text{
+	flex:1;
+}
+.poem-image {
+	width:20vw;
+	height:30vw;
+	flex:1;
+	margin:20px;
+}
+
+.flex-container{
+	display:flex;
+	align-items:center;
+}
+
+
 /* language code */
 
 :lang(ar) h1{ 
@@ -771,3 +787,4 @@ h1 {
   }
 
 /* end language code */
+
