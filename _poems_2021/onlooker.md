@@ -1,5 +1,5 @@
 ---
-pid: Onlooker
+pid: onlooker
 transtitle: Onlooker
 title: 瞭望者
 author: Yan An

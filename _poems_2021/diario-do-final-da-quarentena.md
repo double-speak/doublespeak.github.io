@@ -1,5 +1,5 @@
 ---
-pid: Diário-do-final-da-quarentena
+pid: diário-do-final-da-quarentena
 transtitle: Diário do final da quarentena
 title: Le Journal d’un Confinement Cessé
 author: translated by Couloir Hanson

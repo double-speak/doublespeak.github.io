@@ -1,5 +1,5 @@
 ---
-pid: Declines-of-the-monologue
+pid: declines-of-the-monologue
 transtitle: Declines of the monologue
 title: Declinaciones del monólogo
 author: Eunice Odio

@@ -1,5 +1,5 @@
 ---
-pid: Eclipse
+pid: eclipse
 transtitle: 'Eclipse '
 title: 'Eclipse '
 author: 'Carlos de Assumpção '

@@ -1,5 +1,5 @@
 ---
-pid: Interview-with-Maria-Dahvana-Headley
+pid: interview-with-maria-dahvana-headley
 transtitle: 
 title: Interview with Maria Dahvana Headley
 author: a conversation on translation, storytelling, and feminism

@@ -1,5 +1,5 @@
 ---
-pid: XXV
+pid: xxv
 transtitle: XXV.
 title: XXV.
 author: Osip Mandelstam

@@ -1,5 +1,5 @@
 ---
-pid: A-Chain-Verse
+pid: a-chain-verse
 transtitle: A Chain Verse
 title: '连环诗: 赏花归去 '
 author: Su Shi (<span lang= "{{ item.lang }}" dir="ltr">苏轼</span>)

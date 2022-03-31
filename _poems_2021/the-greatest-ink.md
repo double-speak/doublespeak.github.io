@@ -1,5 +1,5 @@
 ---
-pid: The-Greatest-Ink
+pid: the-greatest-ink
 transtitle: The Greatest Ink
 title: La Mejor Tinta
 author: Armando Valladares

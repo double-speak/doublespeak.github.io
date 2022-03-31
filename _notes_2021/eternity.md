@@ -1,5 +1,5 @@
 ---
-pid: Eternity
+pid: eternity
 transtitle: Eternity
 title: L’Éternité
 author: Arthur Rimbaud

@@ -1,5 +1,5 @@
 ---
-pid: Can-we-keep-quiet
+pid: can-we-keep-quiet
 transtitle: Can we keep quiet
 title: Riusciamo a fare silenzio
 author: Filippo Vignali

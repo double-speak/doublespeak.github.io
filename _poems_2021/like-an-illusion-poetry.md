@@ -1,5 +1,5 @@
 ---
-pid: Like-an-illusion-poetry
+pid: like-an-illusion-poetry
 transtitle: Like an illusion, poetry
 title: 환영처럼 시가
 author: Kim Soon Mi

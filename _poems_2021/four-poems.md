@@ -1,5 +1,5 @@
 ---
-pid: Four-Poems
+pid: four-poems
 transtitle: Four Poems
 title: Cuatro Poemas
 author: Tamara Grosso

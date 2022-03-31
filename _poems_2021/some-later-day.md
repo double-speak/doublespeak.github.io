@@ -1,5 +1,5 @@
 ---
-pid: Some-Later-Day
+pid: some-later-day
 transtitle: Some Later Day
 title: 먼 후일
 author: Kim Sowol (<span lang= "{{ item.lang }}" dir="ltr">김소월</span>)

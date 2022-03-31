@@ -1,5 +1,5 @@
 ---
-pid: Romance-of-the-moon-and-the-child
+pid: romance-of-the-moon-and-the-child
 transtitle: Romance of the moon and the child
 title: Romance de la luna, luna.
 author: Federico García Lorca

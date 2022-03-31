@@ -1,5 +1,5 @@
 ---
-pid: To-a-Black-Dancer
+pid: to-a-black-dancer
 transtitle: To a Black Dancer
 title: A une danseuse noire
 author: David Diop

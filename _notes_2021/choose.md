@@ -1,5 +1,5 @@
 ---
-pid: Choose
+pid: choose
 transtitle: Choose
 title: إختاري
 author: Nizar Qabbani

@@ -1,5 +1,5 @@
 ---
-pid: Epitaph-For-When-I-Die
+pid: epitaph-for-when-i-die
 transtitle: Epitaph For When I Die
 title: Epitaphe Quand Je Mourrai
 author: Mariama Ndiaye

@@ -1,5 +1,5 @@
 ---
-pid: Verb
+pid: verb
 transtitle: Verb
 title: Verbo
 author: Pablo Neruda

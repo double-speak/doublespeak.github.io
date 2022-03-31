@@ -1,5 +1,5 @@
 ---
-pid: Millibars-of-the-storm
+pid: millibars-of-the-storm
 transtitle: 'Millibars of the storm '
 title: Millibars de l’orage
 author: Aimé Césaire

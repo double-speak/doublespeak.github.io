@@ -1,5 +1,5 @@
 ---
-pid: From-what-mistake
+pid: from-what-mistake
 transtitle: "“From what mistake”"
 title: 어떤 과오로부터
 author: Kim Soon Mi

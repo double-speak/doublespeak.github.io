@@ -1,5 +1,5 @@
 ---
-pid: Editors-Note
+pid: editors-note
 transtitle: Editor's Note
 title: 
 author: 

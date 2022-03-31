@@ -1,5 +1,5 @@
 ---
-pid: Diary-of-the-Lockdown-Lifted
+pid: diary-of-the-lockdown-lifted
 transtitle: Diary of the Lockdown Lifted
 title: 开封日记
 author: Zhang Zhihao (<span lang= "{{ item.lang }}" dir="ltr">张执浩</span>)

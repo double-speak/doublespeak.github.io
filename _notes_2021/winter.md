@@ -1,5 +1,5 @@
 ---
-pid: Winter
+pid: winter
 transtitle: Winter
 title: 冬
 author: 'Kobayashi Issa '

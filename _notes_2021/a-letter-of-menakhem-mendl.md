@@ -1,5 +1,5 @@
 ---
-pid: A-Letter-of-Menakhem-Mendl
+pid: a-letter-of-menakhem-mendl
 transtitle: A Letter of Menakhem-Mendl
 title: " מכתב של מנחם-מנדל  "
 author: Nathan Alterman

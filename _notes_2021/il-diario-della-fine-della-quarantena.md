@@ -1,5 +1,5 @@
 ---
-pid: Il-diario-della-fine-della-quarantena
+pid: il-diario-della-fine-della-quarantena
 transtitle: Il diario della fine della quarantena
 title: Tagebuch vom Ende der Quarantäne
 author: translated by Quinn Gruber

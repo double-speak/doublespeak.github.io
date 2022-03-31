@@ -1,5 +1,5 @@
 ---
-pid: I-see-my-father-crying
+pid: i-see-my-father-crying
 transtitle: I see my father crying
 title: Vedo mio padre piangere
 author: Filippo Vignali

@@ -1,5 +1,5 @@
 ---
-pid: Women
+pid: women
 transtitle: 'Women '
 title: 'Femmes '
 author: Mariama Ndiaye

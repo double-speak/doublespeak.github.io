@@ -1,5 +1,5 @@
 ---
-pid: Shapes-in-Sleep-Eight-Poems
+pid: shapes-in-sleep-eight-poems
 transtitle: 'Shapes in Sleep: Eight Poems'
 title: 'Schlafgestalten: acht Gedichte '
 author: Paul Celan

@@ -1,5 +1,5 @@
 ---
-pid: The-Butterfly-June-4th-1942
+pid: the-butterfly-june-4th-1942
 transtitle: 'The Butterfly — June 4th, 1942 '
 title: 'Der Schmetterling — 4. Juni 1942 '
 author: 'Pavel Friedmann '

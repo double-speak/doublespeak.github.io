@@ -1,5 +1,5 @@
 ---
-pid: Lilies
+pid: lilies
 transtitle: Lilies
 title: Krinovi
 author: Mak Dizdar

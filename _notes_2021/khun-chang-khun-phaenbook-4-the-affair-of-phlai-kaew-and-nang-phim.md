@@ -1,7 +1,7 @@
 ---
 pid: |-
-  Khun-Chang-Khun-Phaen
-  Book-4:-The-Affair-of-Phlai-Kaew-and-Nang-Phim
+  khun-chang-khun-phaen
+  book-4:-the-affair-of-phlai-kaew-and-nang-phim
 transtitle: |-
   Khun Chang Khun Phaen
   Book 4: The Affair of Phlai Kaew and Nang Phim

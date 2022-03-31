@@ -1,5 +1,5 @@
 ---
-pid: Sleeping-with-a-Mirror
+pid: sleeping-with-a-mirror
 transtitle: Sleeping with a Mirror
 title: 和镜子睡在一起
 author: Yan An

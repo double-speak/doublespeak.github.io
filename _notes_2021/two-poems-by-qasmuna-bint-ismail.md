@@ -1,5 +1,5 @@
 ---
-pid: Two-Poems-by-Qasmūna-bint-Ismāʿil
+pid: two-poems-by-qasmūna-bint-ismāʿil
 transtitle: Two Poems by Qasmūna bint Ismāʿil
 title: Two Poems by Qasmūna bint Ismāʿil
 author: Qasmūna bint Ismāʿil

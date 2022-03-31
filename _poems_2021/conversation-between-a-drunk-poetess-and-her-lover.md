@@ -1,5 +1,5 @@
 ---
-pid: Conversation-between-a-drunk-poetess-and-her-lover
+pid: conversation-between-a-drunk-poetess-and-her-lover
 transtitle: Conversation between a drunk poetess and her lover
 title: |
   Разговор

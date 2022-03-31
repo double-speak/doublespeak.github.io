@@ -1,5 +1,5 @@
 ---
-pid: The-City
+pid: the-city
 transtitle: The City
 title: Byen
 author: Sigbjørn Obstfelder

@@ -1,5 +1,5 @@
 ---
-pid: Wild-Grass
+pid: wild-grass
 transtitle: Wild Grass
 title: "《野草》题辞 "
 author: Lu Xun (<span lang= "{{ item.lang }}" dir="ltr">鲁迅</span>)

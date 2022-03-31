@@ -1,5 +1,5 @@
 ---
-pid: Transfigured-Night
+pid: transfigured-night
 transtitle: Transfigured Night
 title: Verklärte Nacht
 author: Richard Dehmel

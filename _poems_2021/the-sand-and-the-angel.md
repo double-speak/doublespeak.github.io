@@ -1,5 +1,5 @@
 ---
-pid: The-Sand-and-the-Angel
+pid: the-sand-and-the-angel
 transtitle: The Sand and the Angel
 title: La sabbia e l’angelo
 author: Margherita Guidacci

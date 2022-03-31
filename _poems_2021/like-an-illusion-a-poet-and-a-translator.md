@@ -1,5 +1,5 @@
 ---
-pid: Like-an-illusion-a-poet-and-a-translator
+pid: like-an-illusion-a-poet-and-a-translator
 transtitle: Like an illusion, a poet and a translator
 title: 
 author: musing by Nadia Park

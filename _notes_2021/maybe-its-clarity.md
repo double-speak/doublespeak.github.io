@@ -1,5 +1,5 @@
 ---
-pid: Maybe-its-clarity
+pid: maybe-its-clarity
 transtitle: Maybe it's clarity
 title: Forse la trasparenza
 author: Filippo Vignali
