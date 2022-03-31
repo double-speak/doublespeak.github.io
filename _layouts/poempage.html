@@ -34,10 +34,9 @@ layout: default
     <p><a href="../tcontentspage_2021.html"><  &nbsp; table of contents</a></p>
     <div class="poemtags">
       <ul>
-        <li><a href="">tag</a></li>
-        <li><a href="">tag</a></li>
-        <li><a href="">tag</a></li>
-        <li><a href="">tag</a></li>
+        <li><a href="">{{page.language}}</a></li>
+        <li><a href="">{{page.author}}</a></li>
+        <li><a href="">{{page.translator}}</a></li>
       </ul>
     </div>
   </div>
@@ -53,11 +52,33 @@ layout: default
       <pre>{{page.transpoem}}</pre>
     </div>
   </div>
+
+<!--   {% assign previousIndex = page.pid | minus: 1 %} -->
+
+    {% for pg in site.data.poems_2021 %}
+
+      {% if pg.pid == page.pid %}
+
+          {% assign previousIndex = forloop.index | minus: 1 %}
+        {% endif %}
+
+
+    {% endfor %}
+
+    {% for pg in site.data.poems_2021 %}
+
+         {% if forloop.index == previousIndex %}
+
+          {% assign previousPage = pg.pid %}
+
+        {% endif %}
+
+    {% endfor %}
   <div class="previouslink">
-    <p><a href="url"><  &nbsp; previous</a></p>
+    <p><a href="{{site.url}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
   </div>
   <div class="nextlink">
-    <p><a href="file:///C:/Users/Quinn/Documents/DoubleSpeak/Price%20Lab%20Work/ds-website-files/notepage.html">next &nbsp; ></a></p>
+    <p><a href="{{site.url}}/notes_{{page.edition}}/{{page.pid}}">next &nbsp; ></a></p>
   </div>
 </body>
 <html>
