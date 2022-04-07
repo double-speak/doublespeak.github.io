@@ -522,7 +522,7 @@ p strong {
 	margin-right: 40px;
   }      
 
-:lang(bs) h1{ 
+:lang(bo) h1{ 
     font-family: calibri, sans-serif;
     font-weight: 400;
     font-style: normal; 
@@ -536,7 +536,7 @@ p strong {
 	margin-right: 40px; 
   }
 
-:lang(bs) h2{ 
+:lang(bo) h2{ 
     font-family: calibri, sans-serif;
     font-weight: 300;
     font-style: normal; 
@@ -547,7 +547,7 @@ p strong {
 	margin-left: 60px;
   }
 
-:lang(bs) h3{ 
+:lang(bo) h3{ 
     font-family: calibri, sans-serif;
     font-weight: 300;
     font-style: normal; 
@@ -558,7 +558,7 @@ p strong {
 	margin-left: 60px;
   }
 
-:lang(bs) p{ 
+:lang(bo) p{ 
     font-family: calibri, sans-serif;
     font-weight: 300;
     font-style: normal; 
@@ -713,6 +713,58 @@ p strong {
 
 :lang(he) p{ 
     font-family: myriad-hebrew, sans-serif; 
+    font-weight:  300;
+    font-style: normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+  :lang(hi) h1{ 
+    font-family: hind-siliguri, sans-serif;
+    font-weight:  400;
+    font-style: normal;
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(hi) h2{ 
+    font-family: hind-siliguri, sans-serif; 
+    font-weight:  300;
+    font-style: normal;
+    font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+  }  
+
+:lang(hi) h3{ 
+    font-family: hind-siliguri, sans-serif;
+    font-weight:  300;
+    font-style: normal;
+    font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(hi) p{ 
+    font-family: hind-siliguri, sans-serif;
     font-weight:  300;
     font-style: normal;
     font-size: 22px;
