@@ -87,6 +87,17 @@ h2 {
 	margin-left: 60px;
 }
 
+h3 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+}
+
 p {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 300;
@@ -101,13 +112,14 @@ p {
 }
 
 .submit-p {
-	width: 60%;
+	width: 70%;
 	margin-top: 30px;
 }
 
 .submit-p ul{
 	list-style-type: circle;
 	list-style-position: outside;
+	width: 70%;
 }
 
 .submit-p li{
