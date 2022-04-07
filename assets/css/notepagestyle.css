@@ -339,7 +339,7 @@ h1 {
 .previouslink {
 	position: fixed;
 	bottom: 0;
-	left: -10px;
+	left: -15px;
 }
 
 .previouslink a {
@@ -357,7 +357,7 @@ h1 {
 .nextlink {
 	position: fixed;
 	bottom: 0;
-	right: -10px;
+	right: -15px;
 }
 
 .nextlink a {
