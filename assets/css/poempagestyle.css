@@ -281,7 +281,7 @@ p strong {
 }
 
 
-
+:lang(en) h2, :lang(es) h2, :lang(fr) h2, :lang(it) h2, :lang(de) h2, :lang(no) h2, :lang(po) h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
