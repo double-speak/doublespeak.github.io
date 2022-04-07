@@ -94,16 +94,16 @@ h3 {
 }
 
 pre {
-	font-family: mr-eaves-modern, sans-serif;
-	font-weight: 300;
-	font-style: normal;
-	font-size: 22px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
+	font-family: mr-eaves-modern, sans-serif !important;
+	font-weight: 300 !important;
+	font-style: normal !important;
+	font-size: 22px !important;
+	color: black !important;
+	text-align: left !important;
+	margin-top: 0px !important;
+	margin-bottom: 30px !important;
+	margin-left: 60px !important;
+	margin-right: 40px !important;
 }
 
 p {
@@ -266,7 +266,7 @@ p strong {
 }
 
 /* language code */
-:lang(en), :lang(es), :lang(fr), :lang(it), :lang(de), :lang(no), :lang(po) h1 {
+:lang(en) h1, :lang(es) h1, :lang(fr) h1, :lang(it) h1, :lang(de) h1, :lang(no) h1, :lang(po) h1 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -280,7 +280,7 @@ p strong {
 	margin-right: 40px;
 }
 
-:lang(en), :lang(es), :lang(fr), :lang(it), :lang(de), :lang(no), :lang(po) h2 {
+:lang(es) h2, :lang(fr) h2, :lang(it) h2, :lang(de) h2, :lang(no) h2, :lang(po) h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -291,13 +291,13 @@ p strong {
 	margin-left: 60px;
 }
 
-:lang(en), :lang(es), :lang(fr), :lang(it), :lang(de), :lang(no), :lang(po) h3 {
+:lang(en) h3, :lang(es) h3, :lang(fr) h3, :lang(it) h3, :lang(de) h3, :lang(no) h3, :lang(po) h3 {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 300;
 	font-style: italic;
 }
 
-:lang(en), :lang(es), :lang(fr), :lang(it), :lang(de), :lang(no), :lang(po) pre {
+:lang(en) pre, :lang(es) pre, :lang(fr) pre, :lang(it) pre, :lang(de) pre, :lang(no) pre, :lang(po) pre {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -310,7 +310,7 @@ p strong {
 	margin-right: 40px;
 }
 
-:lang(en), :lang(es), :lang(fr), :lang(it), :lang(de), :lang(no), :lang(po) p {
+:lang(en) p, :lang(es) p, :lang(fr) p, :lang(it) p, :lang(de) p, :lang(no) p, :lang(po) p {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 300;
 	font-style: normal;
