@@ -280,7 +280,8 @@ p strong {
 	margin-right: 40px;
 }
 
-:lang(es) h2, :lang(fr) h2, :lang(it) h2, :lang(de) h2, :lang(no) h2, :lang(po) h2 {
+
+
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -387,7 +388,7 @@ p strong {
 	margin-right: 40px;
   }
 
-:lang(ru) h2{ 
+:lang(ru) h2 { 
     font-family: omnes-cyrillic, sans-serif; 
     font-weight:  400;
     font-style:  normal;
@@ -398,7 +399,7 @@ p strong {
 	margin-left: 60px;
   }
 
-:lang(ru) h3{ 
+:lang(ru) h3 { 
     font-family: omnes-cyrillic, sans-serif; 
     font-weight:  400;
     font-style:  italic;
@@ -409,7 +410,7 @@ p strong {
 	margin-left: 60px;
   }
 
-:lang(ru) p{ 
+:lang(ru) p { 
     font-family: omnes-cyrillic, sans-serif; 
     font-weight:  400;
     font-style:  normal;
@@ -422,7 +423,7 @@ p strong {
 	margin-right: 40px;
   }
 
-:lang(zh) h1{ 
+:lang(zh) h1 { 
     font-family: source-han-sans-traditional, sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -436,7 +437,7 @@ p strong {
 	margin-right: 40px;
   }
 
-:lang(zh) h2{ 
+:lang(zh) h2 { 
     font-family: adobe-heiti-std, sans-serif;
     font-weight:  400;
     font-style: normal;
@@ -447,7 +448,7 @@ p strong {
 	margin-left: 60px;
   }
 
-:lang(zh) h3{ 
+:lang(zh) h3 { 
     font-family: adobe-heiti-std, sans-serif;
     font-weight:  400;
     font-style: normal;

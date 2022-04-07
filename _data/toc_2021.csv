@@ -1,47 +1,48 @@
 pid,transtitle,title,engauthor,ogauthor,translator,language,lang
-1,every day the sun slits the throat of its former self,chaque jour le soleil égorge son spectre,Amina Saïd,,Ashley Sniffen,French,fr
-2,A Chain Verse,连环诗: 赏花归去 ,Su Shi ,苏轼,"Gil Lehmann, Jacey Chang, and Yehudith Dashevsky ",Chinese,zh
-3,Shapes in Sleep: Eight Poems,Schlafgestalten: acht Gedichte ,Paul Celan,,David Ting,German,de
-4,Come,Ven,Christina Perri Rossi,,Elizabeth Rose,Spanish,es
-5,Choose,إختاري,Nizar Qabbani,نزار توفيق قباني,Leah Baxter,Arabic,ar
-6,Conversation between a drunk poetess and her lover,"Разговор
+every-day-the-sun-slits-the-throat-of-its-former-self,every day the sun slits the throat of its former self,chaque jour le soleil égorge son spectre,Amina Saïd,,Ashley Sniffen,French,fr
+a-chain-verse,A Chain Verse,连环诗: 赏花归去 ,Su Shi ,(苏轼),"Gil Lehmann, Jacey Chang, and Yehudith Dashevsky ",Chinese,zh
+shapes-in-sleep-eight-poems,Shapes in Sleep: Eight Poems,Schlafgestalten: acht Gedichte ,Paul Celan,,David Ting,German,de
+come,Come,Ven,Christina Perri Rossi,,Elizabeth Rose,Spanish,es
+choose,Choose,إختاري,Nizar Qabbani,(نزار توفيق قباني),Leah Baxter,Arabic,ar
+conversation-between-a-drunk-poetess-and-her-lover,Conversation between a drunk poetess and her lover,"Разговор
 пьяной поэтессы и ее нового любовника
-",Yaroslav (Slava) Mogutin,Ярослав Могутин,Ryan Hardy,Russian,ru
-7,Listen!,Послушайте!,Vladimir Mayakovsky,Влади́мир Влади́мирович Маяко́вский,Ryan Hardy,Russian,ru
-8,Four Poems,Cuatro Poemas,Tamara Grosso,,Claudia Nuñez de Ibieta,Spanish,es
-9,Winter,冬,Kobayashi Issa ,小林一茶,Vanessa Hu,Japanese,ja
-10,The Sand and the Angel,La sabbia e l’angelo,Margherita Guidacci,,Quinn Gruber,Italian,it
-11,To a Black Dancer,A une danseuse noire,David Diop,,Samantha DeStefano,French,fr
-12,Onlooker,瞭望者,Yan An,,Chen Du and Xisheng Chen,Chinese,zh
-13,Sleeping with a Mirror,和镜子睡在一起,Yan An,,Chen Du and Xisheng Chen,Chinese,zh
-14,"The Butterfly — June 4th, 1942 ",Der Schmetterling — 4. Juni 1942 ,Pavel Friedmann ,,Karina Carreras,German,de
-15,Verb,Verbo,Pablo Neruda,,Heta Patel,Spanish,es
-16,Two Poems by Qasmūna bint Ismāʿil,,"<span lang= ""{{ item.lang }}"" dir=""ltr"">Qasmūna bint Ismāʿil</span>",,Maria Dahvana Headley ,Arabic,bo
-17,Interview with Maria Dahvana Headley,,,,,,en
-18,“From what mistake”,어떤 과오로부터,Kim Soon Mi,,Nadia Park,Korean,ko
-19,"Like an illusion, poetry",환영처럼 시가,Kim Soon Mi,,Nadia Park,Korean,ko
-20,"Like an illusion, a poet and translator: musing",,Nadia Park,,,,en
-21,XXV.,XXV.,Osip Mandelstam,Осип Эмильевич Мандельштам,Elizabeth Balabayev,Russian,ru
-22,The City,Byen,Sigbjørn Obstfelder,,Jordan Barger,Norwegian,no
-23,Epitaph For When I Die,Epitaphe Quand Je Mourrai,Mariama Ndiaye,,Donnisa Edmonds,French,fr
-24,Women ,Femmes ,Mariama Ndiaye,,Donnisa Edmonds,French,fr
-25,Wild Grass,《野草》题辞 ,Lu Xun ,鲁迅,Chardonnay Needler,Chinese,zh
-26,Eclipse ,Eclipse ,Carlos de Assumpção ,,Pedro Lino,Portuguese,pt
-27,Transfigured Night,Verklärte Nacht,Richard Dehmel,,Jonathan Iwry,German,de
-28,Declines of the monologue,Declinaciones del monólogo,Eunice Odio,,Couloir Hanson ,Spanish,es
-29,A Letter of Menakhem-Mendl, מכתב של מנחם-מנדל  ,Nathan Alterman,נתן אלתרמן,Dan Ben-Amos,Hebrew,he
-30,I want to live with you ,Я бы хотела жить с Вами,Marina Tsvetaeva ,Марина Ивановна Цветаева,Wenhan Zhang,Russian,ru
-31,Some Later Day,먼 후일,Kim Sowol ,김소월,Younghoon Jeong and Saagar Asnani,Korean,ko
-32,Maybe it's clarity,Forse la trasparenza,Filippo Vignali,,Giulia Rupi and John Sherer,Italian,it
-33,Can we keep quiet,Riusciamo a fare silenzio,Filippo Vignali,,Giulia Rupi and John Sherer,Italian,it
-34,I see my father crying,Vedo mio padre piangere,Filippo Vignali,,Giulia Rupi and John Sherer,Italian,it
-35,Millibars of the storm ,Millibars de l’orage,Aimé Césaire,,Sue Jia,French,fr
-36,If Heritage Were Called Hither-Air,Wenn Die Herkunft Herluft Hiesse,"Marica Bodroži<span lang= ""bs"" dir=""ltr"">ć</span>",,Qingyang Zhou,German,de
-37,The Greatest Ink,La Mejor Tinta,Armando Valladares,,Margaret Lawlace,Spanish,es
-38,"Khun Chang Khun Phaen
+",Yaroslav (Slava) Mogutin,(Ярослав Могутин),Ryan Hardy,Russian,ru
+listen,Listen!,Послушайте!,Vladimir Mayakovsky,(Влади́мир Влади́мирович Маяко́вский),Ryan Hardy,Russian,ru
+four-poems,Four Poems,Cuatro Poemas,Tamara Grosso,,Claudia Nuñez de Ibieta,Spanish,es
+winter,Winter,冬,Kobayashi Issa ,(小林一茶),Vanessa Hu,Japanese,ja
+the-sand-and-the-angel,The Sand and the Angel,La sabbia e l’angelo,Margherita Guidacci,,Quinn Gruber,Italian,it
+to-a-black-dancer,To a Black Dancer,A une danseuse noire,David Diop,,Samantha DeStefano,French,fr
+onlooker,Onlooker,瞭望者,Yan An,,Chen Du and Xisheng Chen,Chinese,zh
+sleeping-with-a-mirror,Sleeping with a Mirror,和镜子睡在一起,Yan An,,Chen Du and Xisheng Chen,Chinese,zh
+the-butterfly-june-4th-1942,"The Butterfly — June 4th, 1942 ",Der Schmetterling — 4. Juni 1942 ,Pavel Friedmann ,,Karina Carreras,German,de
+verb,Verb,Verbo,Pablo Neruda,,Heta Patel,Spanish,es
+two-poems-by-qasmūna-bint-ismāʿil,Two Poems by Qasmūna bint Ismāʿil,,"<span lang= ""{{ item.lang }}"" dir=""ltr"">Qasmūna bint Ismāʿil</span>",,Maria Dahvana Headley ,Arabic,bo
+interview-with-maria-dahvana-headley,Interview with Maria Dahvana Headley,,,,,,en
+from-what-mistake,“From what mistake”,어떤 과오로부터,Kim Soon Mi,,Nadia Park,Korean,ko
+like-an-illusion-poetry,"Like an illusion, poetry",환영처럼 시가,Kim Soon Mi,,Nadia Park,Korean,ko
+like-an-illusion-a-poet-and-a-translator,"Like an illusion, a poet and translator: musing",,Nadia Park,,,,en
+xxv,XXV.,XXV.,Osip Mandelstam,(Осип Эмильевич Мандельштам),Elizabeth Balabayev,Russian,ru
+the-city,The City,Byen,Sigbjørn Obstfelder,,Jordan Barger,Norwegian,no
+epitaph-for-when-i-die,Epitaph For When I Die,Epitaphe Quand Je Mourrai,Mariama Ndiaye,,Donnisa Edmonds,French,fr
+women,Women ,Femmes ,Mariama Ndiaye,,Donnisa Edmonds,French,fr
+wild-grass,Wild Grass,《野草》题辞 ,Lu Xun ,(鲁迅),Chardonnay Needler,Chinese,zh
+eclipse,Eclipse ,Eclipse ,Carlos de Assumpção ,,Pedro Lino,Portuguese,pt
+transfigured-night,Transfigured Night,Verklärte Nacht,Richard Dehmel,,Jonathan Iwry,German,de
+declines-of-the-monologue,Declines of the monologue,Declinaciones del monólogo,Eunice Odio,,Couloir Hanson ,Spanish,es
+a-letter-of-menakhem-mendl,A Letter of Menakhem-Mendl, מכתב של מנחם-מנדל  ,Nathan Alterman,(נתן אלתרמן),Dan Ben-Amos,Hebrew,he
+i-want-to-live-with-you,I want to live with you ,Я бы хотела жить с Вами,Marina Tsvetaeva ,(Марина Ивановна Цветаева),Wenhan Zhang,Russian,ru
+some-later-day,Some Later Day,먼 후일,Kim Sowol ,(김소월),Younghoon Jeong and Saagar Asnani,Korean,ko
+maybe-its-clarity,Maybe it's clarity,Forse la trasparenza,Filippo Vignali,,Giulia Rupi and John Sherer,Italian,it
+can-we-keep-quiet,Can we keep quiet,Riusciamo a fare silenzio,Filippo Vignali,,Giulia Rupi and John Sherer,Italian,it
+i-see-my-father-crying,I see my father crying,Vedo mio padre piangere,Filippo Vignali,,Giulia Rupi and John Sherer,Italian,it
+millibars-of-the-storm,Millibars of the storm ,Millibars de l’orage,Aimé Césaire,,Sue Jia,French,fr
+if-heritage-were-called-hither-air,If Heritage Were Called Hither-Air,Wenn Die Herkunft Herluft Hiesse,"Marica Bodroži<span lang= ""bs"" dir=""ltr"">ć</span>",,Qingyang Zhou,German,de
+the-greatest-ink,The Greatest Ink,La Mejor Tinta,Armando Valladares,,Margaret Lawlace,Spanish,es
+"khun-chang-khun-phaen
+book-4:-the-affair-of-phlai-kaew-and-nang-phim","Khun Chang Khun Phaen
 Book 4: The Affair of Phlai Kaew and Nang Phim",ขุนช้างขุนแผน ตอนที่ 4 พลายแก้วเป็นชู้กับนางพิม,King Rama II,พระพุทธเลิศหล้านภาลัย,Peeriya Pongsarigun and John Viano ,Thai,th
-39,Lilies,Krinovi,Mak Dizdar,,Emma Arsekin,Bosnian,bo
-40,Eternity,L’Éternité,Arthur Rimbaud,,Keshav Sharma ,French,fr
-41,Romance of the moon and the child,"Romance de la luna, luna.",Federico García Lorca,,Darío Goldgel Carballo,Spanish,es
-42,Diary of the Lockdown Lifted,开封日记,Zhang Zhihao ,张执浩,"<em>DoubleSpeak</em> Staff
+lilies,Lilies,Krinovi,Mak Dizdar,,Emma Arsekin,Bosnian,bo
+eternity,Eternity,L’Éternité,Arthur Rimbaud,,Keshav Sharma ,French,fr
+romance-of-the-moon-and-the-child,Romance of the moon and the child,"Romance de la luna, luna.",Federico García Lorca,,Darío Goldgel Carballo,Spanish,es
+diary-of-the-lockdown-lifted,Diary of the Lockdown Lifted,开封日记,Zhang Zhihao ,张执浩,"<em>DoubleSpeak</em> Staff
 ",Chinese,zh

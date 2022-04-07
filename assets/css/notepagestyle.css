@@ -256,7 +256,8 @@ h1 {
 
 .tcontentslink a {
 	display: inline-block;
-	margin: 40px 0 0 -80px;
+	font-family: mr-eaves-modern, sans-serif;
+	margin: 80px 0 0 -80px;
 	color: black;
 	text-decoration: none;
 }
@@ -338,11 +339,12 @@ h1 {
 .previouslink {
 	position: fixed;
 	bottom: 0;
-	left: -10px;
+	left: -15px;
 }
 
 .previouslink a {
 	display: inline-block;
+	font-family: mr-eaves-modern, sans-serif;
 	padding: 10px;
 	color: black;
 	text-decoration: none;
@@ -355,11 +357,12 @@ h1 {
 .nextlink {
 	position: fixed;
 	bottom: 0;
-	right: 0;
+	right: -15px;
 }
 
 .nextlink a {
 	display: inline-block;
+	font-family: mr-eaves-modern, sans-serif;
 	padding: 10px;
 	color: black;
 	text-decoration: none;
