@@ -522,7 +522,7 @@ p strong {
 	margin-right: 40px;
   }      
 
-:lang(bo) h1{ 
+:lang(bs) h1{ 
     font-family: calibri, sans-serif;
     font-weight: 400;
     font-style: normal; 
@@ -536,7 +536,7 @@ p strong {
 	margin-right: 40px; 
   }
 
-:lang(bo) h2{ 
+:lang(bs) h2{ 
     font-family: calibri, sans-serif;
     font-weight: 300;
     font-style: normal; 
@@ -547,7 +547,7 @@ p strong {
 	margin-left: 60px;
   }
 
-:lang(bo) h3{ 
+:lang(bs) h3{ 
     font-family: calibri, sans-serif;
     font-weight: 300;
     font-style: normal; 
@@ -558,7 +558,7 @@ p strong {
 	margin-left: 60px;
   }
 
-:lang(bo) p{ 
+:lang(bs) p{ 
     font-family: calibri, sans-serif;
     font-weight: 300;
     font-style: normal; 
