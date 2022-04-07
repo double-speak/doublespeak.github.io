@@ -105,6 +105,25 @@ p {
 	margin-top: 30px;
 }
 
+.submit-p ul{
+	list-style-type: circle;
+	list-style-position: outside;
+}
+
+.submit-p li{
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 80px;
+	margin-right: 40px;
+}
+
+
 /*submission form*/
 
 .submitform form{
