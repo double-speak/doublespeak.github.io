@@ -221,12 +221,14 @@ p strong {
 	display: inline-block;
 	width: 48%;
 	float: left;
+	overflow:scroll;
 }
 
 .transpoem {
 	display: inline-block;
 	width: 48%;
 	float: right;
+	overflow:scroll;
 }
 
 /*links to other poems*/

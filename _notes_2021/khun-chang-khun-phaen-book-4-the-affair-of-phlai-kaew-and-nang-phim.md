@@ -1,7 +1,5 @@
 ---
-pid: |-
-  khun-chang-khun-phaen
-  book-4:-the-affair-of-phlai-kaew-and-nang-phim
+pid: khun-chang-khun-phaen-book-4-the-affair-of-phlai-kaew-and-nang-phim
 transtitle: |-
   Khun Chang Khun Phaen
   Book 4: The Affair of Phlai Kaew and Nang Phim
@@ -61,6 +59,6 @@ origaudio:
 translaudio: 
 edition: '2021'
 order: '39'
-layout: poempage
-collection: poems_2021
+layout: notepage
+collection: notes_2021
 ---
