@@ -2,7 +2,7 @@
 pid: wild-grass
 transtitle: Wild Grass
 title: "《野草》题辞 "
-author: Lu Xun (<span lang= "{{ item.lang }}" dir="ltr">鲁迅</span>)
+author: Lu Xun (<span lang= "zh">鲁迅</span>)
 translator: Chardonnay Needler
 poem: "当我沉默着的时候，我觉得充实；我将开口，同时感到空虚 。 \n\r\n过去的生命已经死亡。我对于这死亡有大欢喜，因为我借此知道它曾经存活。死亡的生命已经朽腐。我对于这朽腐有大欢喜，因为我借此知道它还非空虚。
   \r\n生命的泥委弃在地面上，不生乔木，只生野草，这是我的罪过。 \n\r\n野草，根本不深，花叶不美，然而吸取露，吸取水，吸取陈死人的血和肉，各各夺取它的生存。当生存时，还是将遭践踏，将遭删刈，直至于死亡而朽腐。
@@ -32,14 +32,14 @@ transpoem: "When I'm quiet, I feel complete; I then open my mouth, simultaneousl
   decay come quickly. If not, I will not have lived at all; this, in actuality, is
   even more pitiful than dying and decaying. \n\r\nGo now, wild grass, along with
   my epigraph!"
-note: |
-  <p>I debated a lot about whether or not to change the punctuation to something more widely accepted (no run ons, fragments, etc.), but to honor Lu Xun and his legacy of spearheading the vernacular movement in the early twentieth century, I figured I should make it as conversational as possible. This meant preserving — for the most part — fragments and unorthodox comma rules, as well as keeping vocabulary and sentence structures at a very colloquial level. His poem is very conversational, and thus I opted for the use of contractions, such as “I’ll” instead of “I shall” or even “I will” for “<span lang= "{{ item.lang }}" dir="ltr">我将</span>,” among others.</p>
-  <p>Secondly, a note on why I veered away from a literal word choice: “<span lang= "{{ item.lang }}" dir="ltr">吸取</span>” literally translates to “absorb,” but I wanted to make the verb more active to personify the grass. Also, I felt that “absorb” wasn’t active enough to be used thrice in a row with the same biting tone the poem had — it dulled the energy. “Sucking” seemed good because the character “<span lang= "{{ item.lang }}" dir="ltr">吸</span>” is also used in the word for “straw,” “<span lang= "{{ item.lang }}" dir="ltr">吸管</span>,” and the image Lu presents in his poem is incredibly visceral while simultaneously whimsical. “Consume” felt too formal given Lu’s insistence on vernacular writing throughout his career.</p>
+note: |-
+  <p>I debated a lot about whether or not to change the punctuation to something more widely accepted (no run ons, fragments, etc.), but to honor Lu Xun and his legacy of spearheading the vernacular movement in the early twentieth century, I figured I should make it as conversational as possible. This meant preserving — for the most part — fragments and unorthodox comma rules, as well as keeping vocabulary and sentence structures at a very colloquial level. His poem is very conversational, and thus I opted for the use of contractions, such as “I’ll” instead of “I shall” or even “I will” for “<span lang= "zh">我将</span>,” among others.</p>
+  <p>Secondly, a note on why I veered away from a literal word choice: “<span lang= "zh">吸取</span>” literally translates to “absorb,” but I wanted to make the verb more active to personify the grass. Also, I felt that “absorb” wasn’t active enough to be used thrice in a row with the same biting tone the poem had — it dulled the energy. “Sucking” seemed good because the character “<span lang= "zh">吸</span>” is also used in the word for “straw,” “<span lang= "zh">吸管</span>,” and the image Lu presents in his poem is incredibly visceral while simultaneously whimsical. “Consume” felt too formal given Lu’s insistence on vernacular writing throughout his career.</p>
   <p>As for the title of the poem, it is typically translated as “The Foreword,” for it is both a poem as well as the foreword of Lu’s eponymous poetry book, <em>Wild Grass</em>. Since this is a standalone piece, I figured I should give it a standalone name. As for the tone, I tried to keep it ambivalent, as Lu Xun premises his book with this very morbid yet also playful introduction.</p>
-abio: |
-  <p>Lu Xun (<span lang= "{{ item.lang }}" dir="ltr">鲁迅</span>) (1881–1936, birth name: Zhou Shuren <span lang= "{{ item.lang }}" dir="ltr">周树人</span>) is one of the most important — if not the most influential — early twentieth-century Chinese literati figures and essayists. Originally on a pre-med track, the Shaoxing, Zhejiang, native dropped out of Japanese medical school to pursue literature and heal his country with culture. One of the founding names of the modern Chinese vernacular movement, Lu sought to popularize poetry and novels that were written in the language the people spoke (<em>baihua wen</em>), instead of the antiquated Classical Chinese that employed gatekeeping grammatical structures and vocabulary. This made him one of the most popular of the twentieth century.</p>
+abio: |-
+  <p>Lu Xun (<span lang= "zh">鲁迅</span>) (1881–1936, birth name: Zhou Shuren <span lang= "zh">周树人</span>) is one of the most important — if not the most influential — early twentieth-century Chinese literati figures and essayists. Originally on a pre-med track, the Shaoxing, Zhejiang, native dropped out of Japanese medical school to pursue literature and heal his country with culture. One of the founding names of the modern Chinese vernacular movement, Lu sought to popularize poetry and novels that were written in the language the people spoke (<em>baihua wen</em>), instead of the antiquated Classical Chinese that employed gatekeeping grammatical structures and vocabulary. This made him one of the most popular of the twentieth century.</p>
   <p>He is adored by revolutionaries of all factions and flavors — from Chairman Mao to dissidents — and was politically ambiguous even though he was a definite Leftist. To illustrate this, he was the head of Shanghai’s League of Left-Wing Writers, but when the Chinese Communist Party asked him to write a novel of the communist revolution in rural China, he declined. He, along with other early twentieth-century Chinese writers, popularized writing about problems that plagued the common man, akin to the Realist movement of Gustave Flaubert and Émile Zola.</p>
-  <p>Some of his other famous and amazing Chinese vernacular pieces are the short stories <span lang= "{{ item.lang }}" dir="ltr">《狂人日记》</span> (“A Madman’s Diary”) and <span lang= "{{ item.lang }}" dir="ltr">《阿Q正传》</span> (“A True Story of Ah Q”).</p>
+  <p>Some of his other famous and amazing Chinese vernacular pieces are the short stories <span lang= "zh">《狂人日记》</span> (“A Madman’s Diary”) and <span lang= "zh">《阿Q正传》</span> (“A True Story of Ah Q”).</p>
 tbio: "<p>Chardonnay Needler is just a scatterbrained person who likes languages.
   A sophomore at the University of Pennsylvania, she’s studying international relations
   and either Chinese or linguistics. She speaks and reads English, French, and Mandarin,
@@ -52,7 +52,7 @@ tbio: "<p>Chardonnay Needler is just a scatterbrained person who likes languages
 language: Chinese
 year: 
 lang: zh
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

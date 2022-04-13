@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
   <link rel="stylesheet" type="text/css" href="../assets/css/poempagestyle.css">
@@ -50,9 +50,9 @@ layout: default
   </div>
   <div class="poems">
     <div class="ogpoem">
-      <h1><span lang= "{{ item.lang }}" dir="ltr">{{page.title}}</span></h1>
+      <h1><span lang= "{{ page.lang }}" dir="ltr">{{page.title}}</span></h1>
       <h2>{{page.author}}</h2>
-      <pre><span lang= "{{ item.lang }}" dir="ltr">{{page.poem}}</span></pre>
+      <pre><span lang= "{{ page.lang }}" dir="ltr">{{page.poem}}</span></pre>
     </div>
     <div class="transpoem">
       <h1>{{page.transtitle}}</h1>

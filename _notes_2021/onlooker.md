@@ -40,7 +40,7 @@ tbio: |-
 language: Chinese
 year: 
 lang: zh
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

@@ -75,7 +75,7 @@ tbio: "<p>Jordan Barger is a Philadelphia-based translator specializing in trans
 language: Norwegian
 year: 
 lang: 'no'
-image: 
+image: none
 origaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1232730769%3Fsecret_token%3Ds-i57iE5OKGjK&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div
   style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:

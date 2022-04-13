@@ -38,7 +38,7 @@ tbio: "<p>Sue was raised in Canada, studied abroad in France, and currently work
 language: French
 year: 
 lang: fr
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

@@ -160,7 +160,7 @@ tbio: |-
 language: French
 year: 
 lang: fr
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

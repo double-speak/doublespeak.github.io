@@ -36,18 +36,17 @@ transpoem: "Take from my palms with delight\nA patch of sunshine and a touch of 
   gift,\nA plain necklace of her dried bees,\nHoney transformed into light. \n\n1920\nOsip
   Mandelstam"
 note: <p>In “XXV,” I really wanted to do more with mythology because it should be
-  noted that this poem appears in both <em>Tristia</em> (1922) and <span lang= "{{
-  item.lang }}" dir="ltr"><em>Вторая Книга</em></span> (<em>Second Book</em>, 1923),
-  which were written during Mandelstam’s exile in Crimea. <em>Tristia</em> refers
-  to Ovid’s Tristia, who was also exiled from Rome to the Crimea. I added the word
-  “her” in the penultimate line and changed “Taygetos” to “Taygete” in order to highlight
-  neoclassical themes. Mandelstam intersperses rhyming couplets throughout the poem,
-  but it’s nearly impossible to recreate a rhyme scheme in another language. I relied
-  on internal rhyme, slant rhyme, and some end rhymes to somewhat capture that effect.
-  I also ran into a problem with “Pulmonaria,” which is <span lang= "{{ item.lang
-  }}" dir="ltr"><em>медуница</em></span> (“medutsina”) in Russian, and sounds similar
-  to “honey” (<span lang= "{{ item.lang }}" dir="ltr"><em>мёд</em></span> or “meyod”).
-  The obvious choice would have been “honeysuckle,” which I’ve seen in other translations,
+  noted that this poem appears in both <em>Tristia</em> (1922) and <span lang= "ru"><em>Вторая
+  Книга</em></span> (<em>Second Book</em>, 1923), which were written during Mandelstam’s
+  exile in Crimea. <em>Tristia</em> refers to Ovid’s Tristia, who was also exiled
+  from Rome to the Crimea. I added the word “her” in the penultimate line and changed
+  “Taygetos” to “Taygete” in order to highlight neoclassical themes. Mandelstam intersperses
+  rhyming couplets throughout the poem, but it’s nearly impossible to recreate a rhyme
+  scheme in another language. I relied on internal rhyme, slant rhyme, and some end
+  rhymes to somewhat capture that effect. I also ran into a problem with “Pulmonaria,”
+  which is <span lang= "ru"><em>медуница</em></span> (“medutsina”) in Russian, and
+  sounds similar to “honey” (<span lang= "ru"><em>мёд</em></span> or “meyod”). The
+  obvious choice would have been “honeysuckle,” which I’ve seen in other translations,
   but I wanted to create a connection between Persephone at the beginning of the poem
   by capitalizing Pulmonaria. Pulmonaria is commonly called lungwort, and is used
   to treat asthma and bronchitis in folk remedies. It is a small, purple flower; the
@@ -60,16 +59,15 @@ abio: <p>Osip Mandelstam was born in Warsaw, Poland, Russian Empire, on January 
   the University of Heidelburg, and the University of St. Petersburg, converting from
   Judaism to Methodism so that he could attend the latter. He was a founding member
   of the Poets Guild, with Gumilev, Akhmatova, and Gorodetsky, which created the Acmeist
-  movement in Russian poetry. His poetry collections include <span lang= "{{ item.lang
-  }}" dir="ltr"><em>Каминь</em></span> (<em>Stone</em>, 1913), <em>Trista</em> (1922),
-  <span lang= "{{ item.lang }}" dir="ltr"><em>Вторая Книга</em></span> (<em>Second
-  Book</em>, 1923), as well as essays, short prose, and literary criticism in <em>The
-  Noise of Time</em> and <em>Feodosiya</em> (both 1925) and <em>The Egyptian Stamp</em>
-  (1928). He also worked as a translator. In 1934 he was arrested for his poem, “Stalin
-  Epigram,” and was sent to a transit camp in Vladivostok. Later, he was exiled with
-  his wife, Nadezhda, to Cherdyn in the Northern Urals. Mandelstam was arrested a
-  second time during Stalin’s Great Terror and was sent back to Vladivostok, where
-  he died on December 27, 1938, of starvation.</p>
+  movement in Russian poetry. His poetry collections include <span lang= "ru"><em>Каминь</em></span>
+  (<em>Stone</em>, 1913), <em>Trista</em> (1922), <span lang= "ru"><em>Вторая Книга</em></span>
+  (<em>Second Book</em>, 1923), as well as essays, short prose, and literary criticism
+  in <em>The Noise of Time</em> and <em>Feodosiya</em> (both 1925) and <em>The Egyptian
+  Stamp</em> (1928). He also worked as a translator. In 1934 he was arrested for his
+  poem, “Stalin Epigram,” and was sent to a transit camp in Vladivostok. Later, he
+  was exiled with his wife, Nadezhda, to Cherdyn in the Northern Urals. Mandelstam
+  was arrested a second time during Stalin’s Great Terror and was sent back to Vladivostok,
+  where he died on December 27, 1938, of starvation.</p>
 tbio: "<p>Elizabeth Balabayev studies English literature and creative writing (C’21).
   She studied Russian at Penn and Bryn Mawr’s Russian Language Institute. She also
   studied in Germany and speaks fluent German. Her poetry focuses on technology and

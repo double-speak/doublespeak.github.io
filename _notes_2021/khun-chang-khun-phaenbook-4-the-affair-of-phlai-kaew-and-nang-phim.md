@@ -56,7 +56,7 @@ tbio: |-
 language: Thai
 year: 
 lang: th
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

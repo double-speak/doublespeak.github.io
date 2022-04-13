@@ -16,7 +16,7 @@ tbio:
 language: English
 year: 
 lang: en
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

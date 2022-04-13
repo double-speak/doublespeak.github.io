@@ -44,7 +44,7 @@ tbio: |
 language: Portuguese
 year: 
 lang: pt
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

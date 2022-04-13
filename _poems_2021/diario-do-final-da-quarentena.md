@@ -27,7 +27,7 @@ tbio:
 language: Portuguese; French
 year: 
 lang: po, fr
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

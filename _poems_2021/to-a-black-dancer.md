@@ -61,7 +61,7 @@ tbio: "<p>Samantha DeStefano graduated <em>summa cum laude</em> from the Univers
 language: French
 year: 
 lang: fr
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

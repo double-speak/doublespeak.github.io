@@ -25,7 +25,7 @@ tbio:
 language: Italian; German
 year: 
 lang: it, de
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

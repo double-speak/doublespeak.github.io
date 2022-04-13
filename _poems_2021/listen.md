@@ -46,10 +46,10 @@ transpoem: "Listen!\nAfter all, if the stars are set alight,\ndoes it mean anyon
   anything now, do you?\nYou aren't scared?\nRight?!'\nListen!\nAfter all, if the
   stars\nare set alight,\ndoes it mean anyone needs it?\nDoes it mean it's necessary\nthat
   every night,\nabove the roofs,\nat least one star is set ablaze?!\n(1914)\n"
-note: |
+note: |-
   <p><strong>Listen!:</strong></p>
-  <p><span lang= "{{ item.lang }}" dir="ltr"><em>плевочки</em></span> — A plural, diminutive form of <span lang= "{{ item.lang }}" dir="ltr"><em>плевок</em></span>, meaning “spit.” Originally, I translated the word as “spittles,” but felt that it was out of place. While somewhat contrived, “spitlets” offered a more robust alternative that could more easily be imagined in individual units.</p>
-  <p><span lang= "{{ item.lang }}" dir="ltr"><em>жемчужиной</em></span> — In my rough translation, I translated this word as “pearl-like,” but found that it slowed the meter’s momentum. The shift to “pearls” as a subject complement to the direct object, improved fluidity while adding a luster to the otherwise gross imagery of bits of spit. I felt that this was closer to Mayakovsky’s poetic intentions for the phrase.</p>
+  <p><span lang= "ru"><em>плевочки</em></span> — A plural, diminutive form of <span lang= "ru"><em>плевок</em></span>, meaning “spit.” Originally, I translated the word as “spittles,” but felt that it was out of place. While somewhat contrived, “spitlets” offered a more robust alternative that could more easily be imagined in individual units.</p>
+  <p><span lang= "ru"><em>жемчужиной</em></span> — In my rough translation, I translated this word as “pearl-like,” but found that it slowed the meter’s momentum. The shift to “pearls” as a subject complement to the direct object, improved fluidity while adding a luster to the otherwise gross imagery of bits of spit. I felt that this was closer to Mayakovsky’s poetic intentions for the phrase.</p>
 abio: |-
   <p>
       Vladimir Mayakovsky—poet, playwright, satirist, revolutionary, and
@@ -89,7 +89,7 @@ tbio: |-
 language: Russian
 year: 
 lang: ru
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

@@ -389,6 +389,68 @@ h1 {
 
 
 /* language code */
+:lang(en) h1, :lang(es) h1, :lang(fr) h1, :lang(it) h1, :lang(de) h1, :lang(no) h1, :lang(po) h1 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 60px;
+	line-height: 63px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+
+:lang(en) h2, :lang(es) h2, :lang(fr) h2, :lang(it) h2, :lang(de) h2, :lang(no) h2, :lang(po) h2 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 40px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+}
+
+:lang(en) h3, :lang(es) h3, :lang(fr) h3, :lang(it) h3, :lang(de) h3, :lang(no) h3, :lang(po) h3 {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+:lang(en) pre, :lang(es) pre, :lang(fr) pre, :lang(it) pre, :lang(de) pre, :lang(no) pre, :lang(po) pre {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+:lang(en) p, :lang(es) p, :lang(fr) p, :lang(it) p, :lang(de) p, :lang(no) p, :lang(po) p {
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+:lang(ar){
+	font-family: nassim-arabic-pro, serif !important;
+
+}
 
 :lang(ar) h1{ 
     font-family: nassim-arabic-pro, serif;
@@ -397,7 +459,7 @@ h1 {
     font-size: 60px;
 	line-height: 63px;
 	color: black;
-	text-align: left;
+	text-align: right;
 	margin-top: 40px;
 	margin-bottom: 0px;
 	margin-left: 60px;
@@ -411,7 +473,7 @@ h1 {
 	font-size: 50px;
 	line-height: 55px;
 	color: black;
-	text-align: left;
+	text-align: right;
 	margin-left: 60px;
   }
 
@@ -422,7 +484,7 @@ h1 {
  	font-size: 50px;
 	line-height: 55px;
 	color: black;
-	text-align: left;
+	text-align: right;
 	margin-left: 60px;
   }
 
@@ -432,7 +494,7 @@ h1 {
     font-style:  normal;
     font-size: 22px;
 	color: black;
-	text-align: left;
+	text-align: right;
 	margin-top: 0px;
 	margin-bottom: 30px;
 	margin-left: 60px;
@@ -453,7 +515,7 @@ h1 {
 	margin-right: 40px;
   }
 
-:lang(ru) h2{ 
+:lang(ru) h2 { 
     font-family: omnes-cyrillic, sans-serif; 
     font-weight:  400;
     font-style:  normal;
@@ -464,7 +526,7 @@ h1 {
 	margin-left: 60px;
   }
 
-:lang(ru) h3{ 
+:lang(ru) h3 { 
     font-family: omnes-cyrillic, sans-serif; 
     font-weight:  400;
     font-style:  italic;
@@ -475,7 +537,7 @@ h1 {
 	margin-left: 60px;
   }
 
-:lang(ru) p{ 
+:lang(ru) p { 
     font-family: omnes-cyrillic, sans-serif; 
     font-weight:  400;
     font-style:  normal;
@@ -488,7 +550,11 @@ h1 {
 	margin-right: 40px;
   }
 
-:lang(zh) h1{ 
+:lang(zh) {
+	font-family: source-han-sans-traditional, sans-serif !important;
+}
+
+:lang(zh) h1 { 
     font-family: source-han-sans-traditional, sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -502,7 +568,7 @@ h1 {
 	margin-right: 40px;
   }
 
-:lang(zh) h2{ 
+:lang(zh) h2 { 
     font-family: adobe-heiti-std, sans-serif;
     font-weight:  400;
     font-style: normal;
@@ -513,7 +579,7 @@ h1 {
 	margin-left: 60px;
   }
 
-:lang(zh) h3{ 
+:lang(zh) h3 { 
     font-family: adobe-heiti-std, sans-serif;
     font-weight:  400;
     font-style: normal;
@@ -537,6 +603,9 @@ h1 {
 	margin-right: 40px;
   }
 
+:lang(ja) { 
+    font-family: toppan-bunkyu-midashi-min-st, serif !important;
+	}
 
 :lang(ja) h1{ 
     font-family: toppan-bunkyu-midashi-min-st, serif;
@@ -587,6 +656,10 @@ h1 {
 	margin-right: 40px;
   }      
 
+:lang(bs){ 
+	font-family: calibri, sans-serif !important;
+}
+
 :lang(bs) h1{ 
     font-family: calibri, sans-serif;
     font-weight: 400;
@@ -634,7 +707,11 @@ h1 {
 	margin-bottom: 30px;
 	margin-left: 60px;
 	margin-right: 40px; 
-  }      
+  }  
+
+:lang(ko){ 
+    font-family: source-han-serif-korean, serif !important;
+	}
 
 :lang(ko) h1{ 
     font-family: source-han-serif-korean, serif;
@@ -688,6 +765,10 @@ h1 {
 	margin-right: 40px; 
   }
 
+:lang(th){ 
+    font-family: adobe-thai, serif !important;
+    } 
+
 :lang(th) h1{ 
     font-family: adobe-thai, serif; 
     font-weight:  400;
@@ -737,6 +818,10 @@ h1 {
 	margin-right: 40px;
   }
 
+:lang(he){ 
+    font-family: myriad-hebrew, sans-serif; 
+	}
+
 :lang(he) h1{ 
     font-family: myriad-hebrew, sans-serif; 
     font-weight:  400;
@@ -744,7 +829,7 @@ h1 {
     font-size: 60px;
 	line-height: 63px;
 	color: black;
-	text-align: left;
+	text-align: right;
 	margin-top: 40px;
 	margin-bottom: 0px;
 	margin-left: 60px;
@@ -758,7 +843,7 @@ h1 {
     font-size: 50px;
 	line-height: 55px;
 	color: black;
-	text-align: left;
+	text-align: right;
 	margin-left: 60px;
   }  
 
@@ -769,7 +854,7 @@ h1 {
     font-size: 60px;
 	line-height: 63px;
 	color: black;
-	text-align: left;
+	text-align: right;
 	margin-top: 40px;
 	margin-bottom: 0px;
 	margin-left: 60px;
@@ -782,12 +867,16 @@ h1 {
     font-style: normal;
     font-size: 22px;
 	color: black;
-	text-align: left;
+	text-align: right;
 	margin-top: 0px;
 	margin-bottom: 30px;
 	margin-left: 60px;
 	margin-right: 40px;
   }
+
+:lang(hi){ 
+    font-family: hind-siliguri, sans-serif !important;
+	}
 
   :lang(hi) h1{ 
     font-family: hind-siliguri, sans-serif;
@@ -842,4 +931,3 @@ h1 {
   }
 
 /* end language code */
-

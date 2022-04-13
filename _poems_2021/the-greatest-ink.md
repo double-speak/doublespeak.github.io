@@ -65,7 +65,7 @@ tbio: "<p>Margaret Lawlace is a graduate student in clinical psychology at the U
 language: Spanish
 year: 
 lang: es
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

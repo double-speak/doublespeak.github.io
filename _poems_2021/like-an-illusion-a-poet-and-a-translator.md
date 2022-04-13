@@ -6,7 +6,7 @@ author: musing by Nadia Park
 translator: 
 poem: 
 transpoem: 
-note: |
+note: |-
   <p>Coffee became my safe space. My excitement. My calmness.
   <br>Languages were gifts and opportunities to discover dreams and meaning.
   <br>And like an illusion, poetry became a present.</p>
@@ -27,7 +27,7 @@ note: |
 
   <p>And looking forward to the publication of our work, it’s guaranteed that not all readers will enjoy the poetry she writes, whether they read it in English or in Korean. Yet, even if people can resonate with just 1% of her words, Kim finds value in writing poetry. “What do I feel and what do I want from each poem?” Even for Kim this is unclear. But these words were actually what gave me the confidence to translate her poems and be able to feel more comfortable in translating her poems that were so personal and abundant in intense emotions.</p>
 
-  <em><p>“<span lang= "{{ item.lang }}" dir="ltr">꿈을 생각하는 시간들이 많았다</span>.”</p>
+  <em><p>“<span lang= "ko">꿈을 생각하는 시간들이 많았다</span>.”</p>
   <p>“I’ve had much time to think about dreams.”</p></em>
 
   <p>At the end of the first day we met in person, she handed me the stickers she had laid out on the table prior to our conversation. “Play with them. Stick them on whatever you want. Make designs. Create words. It’s fun, I promise.” She explained to me that these little, adhesive glitter pieces of plastic were what helped her get out of her depression. She says these stickers gave her the ability to relax, to stay excited, and to hope.</p>
@@ -42,7 +42,7 @@ tbio:
 language: Korean
 year: 
 lang: ko
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

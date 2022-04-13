@@ -40,7 +40,7 @@ tbio:
 language: Italian
 year: 
 lang: it
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

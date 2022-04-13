@@ -110,7 +110,7 @@ tbio: "<p>Claudia Nuñez de Ibieta grew up in Los Angeles, California, and Santi
 language: Spanish
 year: 
 lang: es
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

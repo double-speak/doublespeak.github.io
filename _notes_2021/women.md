@@ -63,7 +63,7 @@ tbio: "<p>Donnisa Edmonds is a recent graduate of the University of Pennsylvania
 language: French
 year: 
 lang: fr
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

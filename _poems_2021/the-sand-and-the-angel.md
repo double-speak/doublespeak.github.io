@@ -102,7 +102,7 @@ tbio: "<p>Quinn Gruber is a junior at the University of Pennsylvania studying En
 language: Italian
 year: 
 lang: it
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

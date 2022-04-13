@@ -84,7 +84,7 @@ tbio: "<p>Jonathan Iwry graduated <em>summa cum laude</em> from the University o
 language: German
 year: 
 lang: de
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

@@ -94,16 +94,16 @@ h3 {
 }
 
 pre {
-	font-family: mr-eaves-modern, sans-serif !important;
-	font-weight: 300 !important;
-	font-style: normal !important;
-	font-size: 22px !important;
-	color: black !important;
-	text-align: left !important;
-	margin-top: 0px !important;
-	margin-bottom: 30px !important;
-	margin-left: 60px !important;
-	margin-right: 40px !important;
+	font-family: mr-eaves-modern, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
 }
 
 p {
@@ -324,6 +324,10 @@ p strong {
 	margin-right: 40px;
 }
 
+:lang(ar){
+	font-family: nassim-arabic-pro, serif !important;
+
+}
 
 :lang(ar) h1{ 
     font-family: nassim-arabic-pro, serif;
@@ -423,6 +427,10 @@ p strong {
 	margin-right: 40px;
   }
 
+:lang(zh) {
+	font-family: source-han-sans-traditional, sans-serif !important;
+}
+
 :lang(zh) h1 { 
     font-family: source-han-sans-traditional, sans-serif;
     font-weight: 400;
@@ -472,6 +480,9 @@ p strong {
 	margin-right: 40px;
   }
 
+:lang(ja) { 
+    font-family: toppan-bunkyu-midashi-min-st, serif !important;
+	}
 
 :lang(ja) h1{ 
     font-family: toppan-bunkyu-midashi-min-st, serif;
@@ -522,6 +533,10 @@ p strong {
 	margin-right: 40px;
   }      
 
+:lang(bs){ 
+	font-family: calibri, sans-serif !important;
+}
+
 :lang(bs) h1{ 
     font-family: calibri, sans-serif;
     font-weight: 400;
@@ -570,6 +585,10 @@ p strong {
 	margin-left: 60px;
 	margin-right: 40px; 
   }  
+
+:lang(ko){ 
+    font-family: source-han-serif-korean, serif !important;
+	}
 
 :lang(ko) h1{ 
     font-family: source-han-serif-korean, serif;
@@ -623,6 +642,10 @@ p strong {
 	margin-right: 40px; 
   }
 
+:lang(th){ 
+    font-family: adobe-thai, serif !important;
+    } 
+
 :lang(th) h1{ 
     font-family: adobe-thai, serif; 
     font-weight:  400;
@@ -671,6 +694,10 @@ p strong {
 	margin-left: 60px;
 	margin-right: 40px;
   }
+
+:lang(he){ 
+    font-family: myriad-hebrew, sans-serif; 
+	}
 
 :lang(he) h1{ 
     font-family: myriad-hebrew, sans-serif; 
@@ -723,6 +750,10 @@ p strong {
 	margin-left: 60px;
 	margin-right: 40px;
   }
+
+:lang(hi){ 
+    font-family: hind-siliguri, sans-serif !important;
+	}
 
   :lang(hi) h1{ 
     font-family: hind-siliguri, sans-serif;

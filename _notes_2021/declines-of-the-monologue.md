@@ -175,7 +175,7 @@ tbio: "<p>Couloir X. Hanson is a daughter of three worlds: Costa Rica, Germany, 
 language: Spanish
 year: 
 lang: es
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

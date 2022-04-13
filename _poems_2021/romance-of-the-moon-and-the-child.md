@@ -62,7 +62,7 @@ tbio: "<p>Darío Goldgel Carballo is a PhD candidate in the romance languages de
 language: Spanish
 year: 
 lang: es
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'

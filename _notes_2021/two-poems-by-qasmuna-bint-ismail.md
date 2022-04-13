@@ -14,13 +14,13 @@ transpoem: "I. \nO gazelle, tasting leaves,\nhere in the green of my garden.\nLo
   garden is filled with fruit on the vines, but the gardener\r\nrefuses to brush a
   finger over the skin of even one piece.\r\nHow sad it is! The season of splendor
   passes,\r\nand the fruit that ripens only in darkness\r\nRemains lonely. "
-note: <span lang= "{{ item.lang }}" dir="ltr"><p>These two poems were written by the
-  eleventh-century Iberian Jewish poet Qasmūna bint Ismāʿil. Very little is known
-  about her, and only a few poems survive, written in Arabic. For these translations,
-  which were included in my 2017 story “The Orange Tree” about a female wooden golem
-  and the poet who commissions her to be built, I did literal translations and then
-  played with them. The story was in the <em>Best American Fantasy and Science Fiction</em>
-  volume edited by N.K. Jemisin.</p></span>
+note: <span lang= "bs"><p>These two poems were written by the eleventh-century Iberian
+  Jewish poet Qasmūna bint Ismāʿil. Very little is known about her, and only a few
+  poems survive, written in Arabic. For these translations, which were included in
+  my 2017 story “The Orange Tree” about a female wooden golem and the poet who commissions
+  her to be built, I did literal translations and then played with them. The story
+  was in the <em>Best American Fantasy and Science Fiction</em> volume edited by N.K.
+  Jemisin.</p></span>
 abio: 
 tbio: 
 language: Arabic

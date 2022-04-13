@@ -116,7 +116,7 @@ tbio: |-
 language: Arabic
 year: 
 lang: ar
-image: 
+image: none
 origaudio: 
 translaudio: 
 edition: '2021'
