@@ -1,5 +1,5 @@
 ---
-pid: 監禁の日記
+pid: staer-coouloca
 transtitle: 監禁の日記
 title: Stær coðuloca
 author: translated by Chardonnay Needler
