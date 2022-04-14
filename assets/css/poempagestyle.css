@@ -6,7 +6,7 @@ body{
 }
 
 html,body {
-	height: 100%;
+/*	height: 100%;*/
 }
 
 a {
@@ -112,7 +112,6 @@ p {
 	font-weight: 300;
 	font-style: normal;
 	font-size: 16px;
-	line-height:18;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
