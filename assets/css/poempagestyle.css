@@ -66,8 +66,8 @@ h1 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 60px;
-	line-height: 63px;
+	font-size: 32px;
+	line-height: 38.4px;
 	color: black;
 	text-align: left;
 	margin-top: 40px;
@@ -80,8 +80,8 @@ h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 40px;
-	line-height: 55px;
+	font-size: 20px;
+	line-height: 24px;
 	color: black;
 	text-align: left;
 	margin-left: 60px;
@@ -97,7 +97,8 @@ pre {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 22px;
+	font-size: 13px;
+	line-height: 15.6px;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
@@ -110,7 +111,8 @@ p {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 22px;
+	font-size: 13px;
+	line-height:15.6;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
@@ -123,7 +125,8 @@ p em {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 300;
 	font-style: italic;
-	font-size: 22px;
+	font-size: 13px;
+	line-height:15.6px;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
@@ -136,7 +139,8 @@ p strong {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 22px;
+	font-size: 13px;
+	line-height:15.6px;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
@@ -272,8 +276,8 @@ p strong {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 60px;
-	line-height: 63px;
+	font-size: 32px;
+	line-height: 38.4px;
 	color: black;
 	text-align: left;
 	margin-top: 40px;
@@ -287,8 +291,8 @@ p strong {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 40px;
-	line-height: 55px;
+	font-size: 20px;
+	line-height: 24px;
 	color: black;
 	text-align: left;
 	margin-left: 60px;
@@ -304,7 +308,8 @@ p strong {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 22px;
+	font-size: 13px;
+	line-height: 15.6px;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
