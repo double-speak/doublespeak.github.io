@@ -182,8 +182,8 @@ p {
 }
 
 .sublink-button {
-	display: block;
-	width: 55px;
+	display: inline-block;
+/*	width: 55px;*/
 	padding: 10px 25px 10px 25px;
 	margin-left: 60px;
 	font-family: mr-eaves-modern, sans-serif;
@@ -206,8 +206,8 @@ p {
 
 .sublink-a {
 	position: absolute;
-	width: 105px;
-	height: 42px;
+/*	width: 105px;
+*/	height: 42px;
 	margin-top: -11px;
 	margin-left: -76px;
 }
