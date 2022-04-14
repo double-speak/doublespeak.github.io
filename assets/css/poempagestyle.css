@@ -225,14 +225,14 @@ p strong {
 	display: inline-block;
 	width: 48%;
 	float: left;
-	overflow:scroll;
+	overflow-x:auto;
 }
 
 .transpoem {
 	display: inline-block;
 	width: 48%;
 	float: right;
-	overflow:scroll;
+	overflow-x:auto;
 }
 
 /*links to other poems*/
@@ -322,7 +322,8 @@ p strong {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 22px;
+	font-size: 13px;
+	line-height: 15.6px;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
