@@ -161,6 +161,7 @@ p strong {
 	margin: 40px 0 0 -80px;
 	color: black;
 	text-decoration: none;
+	font-size:22px;
 }
 
 .tcontentslink a:hover {
@@ -188,7 +189,7 @@ p strong {
 	font-family: mr-eaves-modern, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 16px;
+	font-size:22px;
 	color: black;
 	border: solid black 1px;
 	text-align: right;
@@ -248,6 +249,7 @@ p strong {
 	padding: 10px;
 	color: black;
 	text-decoration: none;
+	font-size:22px;
 }
 
 .previouslink a:hover {
@@ -265,6 +267,7 @@ p strong {
 	padding: 10px;
 	color: black;
 	text-decoration: none;
+	font-size:22px;
 }
 
 .nextlink a:hover {
