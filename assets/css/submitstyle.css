@@ -45,7 +45,7 @@ a {
 }
 .nav li a {
 	display: block;
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 20px;
@@ -100,7 +100,7 @@ h3 {
 }
 
 p {
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 22px;
@@ -124,7 +124,7 @@ p {
 }
 
 .submit-p li{
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 22px;
@@ -141,7 +141,7 @@ p {
 
 .submitform form{
 	padding: 10px;
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	font-size: 18px;
@@ -171,7 +171,7 @@ textarea {
 
 input[type="file"] {
 	width: 200px;
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: bold;
 	font-size: 18px;
@@ -182,7 +182,7 @@ button[type="submit"] {
 	margin: 10px 0 40px 0;
 	width: 110px;
 	height: 45px;
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: bold;
 	font-size: 20px;

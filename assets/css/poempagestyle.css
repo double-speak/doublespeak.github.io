@@ -44,7 +44,7 @@ a {
 }
 .nav li a {
 	display: block;
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 20px;
@@ -88,13 +88,13 @@ h2 {
 }
 
 h3 {
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: italic;
 }
 
 pre {
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 16px;
@@ -108,7 +108,7 @@ pre {
 }
 
 p {
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 16px;
@@ -121,7 +121,7 @@ p {
 }
 
 p em {
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: italic;
 	font-size: 16px;
@@ -135,7 +135,7 @@ p em {
 }
 
 p strong {
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	font-size: 16px;
@@ -185,7 +185,7 @@ p strong {
 
 .poemtags li a {
 	display: block;
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size:22px;
@@ -274,7 +274,7 @@ p strong {
 }
 
 /* language code */
-:lang(en) h1, :lang(es) h1, :lang(fr) h1, :lang(it) h1, :lang(de) h1, :lang(no) h1, :lang(po) h1 {
+:lang(en) h1, :lang(es) h1, :lang(fr) h1, :lang(it) h1, :lang(de) h1, :lang(no) h1, :lang(po) h1, :lang(ru) h1, :lang(bs) h1, :lang(cs) h1{
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -289,7 +289,7 @@ p strong {
 }
 
 
-:lang(en) h2, :lang(es) h2, :lang(fr) h2, :lang(it) h2, :lang(de) h2, :lang(no) h2, :lang(po) h2 {
+:lang(en) h2, :lang(es) h2, :lang(fr) h2, :lang(it) h2, :lang(de) h2, :lang(no) h2, :lang(po) h2, :lang(ru) h2, :lang(bs) h2, :lang(cs) h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -300,14 +300,14 @@ p strong {
 	margin-left: 60px;
 }
 
-:lang(en) h3, :lang(es) h3, :lang(fr) h3, :lang(it) h3, :lang(de) h3, :lang(no) h3, :lang(po) h3 {
-	font-family: mr-eaves-modern, sans-serif;
+:lang(en) h3, :lang(es) h3, :lang(fr) h3, :lang(it) h3, :lang(de) h3, :lang(no) h3, :lang(po) h3, :lang(ru) h3, :lang(bs) h3, :lang(cs) h3 {
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: italic;
 }
 
-:lang(en) pre, :lang(es) pre, :lang(fr) pre, :lang(it) pre, :lang(de) pre, :lang(no) pre, :lang(po) pre {
-	font-family: mr-eaves-modern, sans-serif;
+:lang(en) pre, :lang(es) pre, :lang(fr) pre, :lang(it) pre, :lang(de) pre, :lang(no) pre, :lang(po) pre, :lang(ru) pre, :lang(bs) pre, :lang(cs) pre {
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 13px;
@@ -320,8 +320,8 @@ p strong {
 	margin-right: 40px;
 }
 
-:lang(en) p, :lang(es) p, :lang(fr) p, :lang(it) p, :lang(de) p, :lang(no) p, :lang(po) p {
-	font-family: mr-eaves-modern, sans-serif;
+:lang(en) p, :lang(es) p, :lang(fr) p, :lang(it) p, :lang(de) p, :lang(no) p, :lang(po) p, :lang(ru) p, :lang(bs) p, :lang(cs) p{
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 13px;
@@ -386,56 +386,7 @@ p strong {
 	margin-bottom: 30px;
 	margin-left: 60px;
 	margin-right: 40px;
-  }  
-
-:lang(ru) h1{ 
-    font-family: garamond-premier-pro, serif;
-    font-weight:  400;
-    font-style:  normal;
-    font-size: 60px;
-	line-height: 63px;
-	color: black;
-	text-align: left;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
-  }
-
-:lang(ru) h2 { 
-    font-family: omnes-cyrillic, sans-serif; 
-    font-weight:  400;
-    font-style:  normal;
-	font-size: 50px;
-	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
-  }
-
-:lang(ru) h3 { 
-    font-family: omnes-cyrillic, sans-serif; 
-    font-weight:  400;
-    font-style:  italic;
-    font-size: 50px;
-	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
-  }
-
-:lang(ru) p { 
-    font-family: omnes-cyrillic, sans-serif; 
-    font-weight:  400;
-    font-style:  normal;
-    font-size: 22px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
-  }
+  } 
 
 :lang(zh) {
 	font-family: source-han-sans-traditional, sans-serif !important;
@@ -541,60 +492,7 @@ p strong {
 	margin-bottom: 30px;
 	margin-left: 60px;
 	margin-right: 40px;
-  }      
-
-:lang(bs){ 
-	font-family: calibri, sans-serif !important;
-}
-
-:lang(bs) h1{ 
-    font-family: calibri, sans-serif;
-    font-weight: 400;
-    font-style: normal; 
-    font-size: 60px;
-	line-height: 63px;
-	color: black;
-	text-align: left;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px; 
-  }
-
-:lang(bs) h2{ 
-    font-family: calibri, sans-serif;
-    font-weight: 300;
-    font-style: normal; 
-    font-size: 50px;
-	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
-  }
-
-:lang(bs) h3{ 
-    font-family: calibri, sans-serif;
-    font-weight: 300;
-    font-style: normal; 
-    font-size: 50px;
-	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
-  }
-
-:lang(bs) p{ 
-    font-family: calibri, sans-serif;
-    font-weight: 300;
-    font-style: normal; 
-    font-size: 22px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px; 
-  }  
+  }     
 
 :lang(ko){ 
     font-family: source-han-serif-korean, serif !important;

@@ -44,7 +44,7 @@ a {
 }
 .nav li a {
 	display: block;
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 20px;
@@ -102,7 +102,7 @@ h2 {
 }
 
 p {
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 22px;
@@ -186,7 +186,7 @@ p {
 /*	width: 55px;*/
 	padding: 10px 25px 10px 25px;
 	margin-left: 60px;
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 20px;
