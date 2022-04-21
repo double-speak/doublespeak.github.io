@@ -13,6 +13,11 @@ a {
 	text-decoration: none;
 }
 
+/*.wf-loading {
+font-family: "futura-pt";
+visibility: hidden;
+}*/
+
 /*navigation bar*/
 
 .logo img {
