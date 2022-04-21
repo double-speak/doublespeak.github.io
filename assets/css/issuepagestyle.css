@@ -183,9 +183,8 @@ p {
 }
 
 .left-overlay-text {
-	position: absolute;
+	position: relative;
 	color: white;
-	font-size: 80%;
 	width: 100%;
 	margin-top: 40%;
 	opacity: 0;
