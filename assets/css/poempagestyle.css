@@ -336,13 +336,13 @@ p strong {
 }
 
 :lang(ar){
-	font-family: nassim-arabic-pro, serif !important;
+	font-family: adobe-arabic, sans-serif !important;
 
 }
 
 :lang(ar) h1{ 
-    font-family: nassim-arabic-pro, serif;
-    font-weight: 400;
+    font-family: adobe-arabic, sans-serif; 
+    font-weight: 700;
     font-style:  normal;
     font-size: 60px;
 	line-height: 63px;
@@ -395,7 +395,7 @@ p strong {
 
 :lang(zh) h1 { 
     font-family: source-han-sans-traditional, sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-style: normal;
     font-size: 60px;
 	line-height: 63px;
@@ -408,7 +408,7 @@ p strong {
   }
 
 :lang(zh) h2 { 
-    font-family: adobe-heiti-std, sans-serif;
+    font-family: source-han-sans-traditional, sans-serif;
     font-weight:  400;
     font-style: normal;
     font-size: 50px;
@@ -419,7 +419,7 @@ p strong {
   }
 
 :lang(zh) h3 { 
-    font-family: adobe-heiti-std, sans-serif;
+    font-family: source-han-sans-traditional, sans-serif;
     font-weight:  400;
     font-style: normal;
     font-size: 50px;
@@ -430,7 +430,7 @@ p strong {
   }
 
 :lang(zh) p{ 
-    font-family: adobe-heiti-std, sans-serif;
+    font-family: source-han-sans-traditional, sans-serif;
     font-weight:  400;
     font-style: normal;
     font-size: 22px;
@@ -443,12 +443,12 @@ p strong {
   }
 
 :lang(ja) { 
-    font-family: toppan-bunkyu-midashi-min-st, serif !important;
+    font-family: source-han-sans-japanese, sans-serif !important;
 	}
 
 :lang(ja) h1{ 
-    font-family: toppan-bunkyu-midashi-min-st, serif;
-    font-weight:  900;
+    font-family: source-han-sans-japanese, sans-serif;
+    font-weight:  500;
     font-style: normal;
     font-size: 60px;
 	line-height: 63px;
@@ -496,12 +496,12 @@ p strong {
   }     
 
 :lang(ko){ 
-    font-family: source-han-serif-korean, serif !important;
+    font-family: source-han-sans-korean, sans-serif !important;
 	}
 
 :lang(ko) h1{ 
-    font-family: source-han-serif-korean, serif;
-    font-weight: 300;
+    font-family: source-han-sans-korean, sans-serif;
+    font-weight: 500;
     font-style: normal; 
     font-size: 60px;
 	line-height: 63px;
@@ -552,11 +552,11 @@ p strong {
   }
 
 :lang(th){ 
-    font-family: adobe-thai, serif !important;
+    font-family: ibm-plex-thai-looped, sans-serif !important;
     } 
 
 :lang(th) h1{ 
-    font-family: adobe-thai, serif; 
+    font-family: ibm-plex-thai-looped, sans-serif; 
     font-weight:  400;
     font-style: normal;
     font-size: 60px;
@@ -570,7 +570,7 @@ p strong {
   }
 
 :lang(th) h2{ 
-    font-family: ibm-plex-thai, sans-serif;
+    font-family: ibm-plex-thai-looped, sans-serif;
     font-weight:  300;
     font-style: normal;
 	font-size: 50px;
@@ -581,7 +581,7 @@ p strong {
   }
 
 :lang(th) h3{ 
-    font-family: ibm-plex-thai, sans-serif; 
+    font-family: ibm-plex-thai-looped, sans-serif;
     font-weight:  300;
     font-style: normal;
 	font-size: 50px;
@@ -592,7 +592,7 @@ p strong {
   }  
 
 :lang(th) p{ 
-    font-family: ibm-plex-thai, sans-serif; 
+    font-family: ibm-plex-thai-looped, sans-serif;
     font-weight:  300;
     font-style: normal;
     font-size: 22px;
