@@ -386,8 +386,9 @@ h1 {
 	align-items:center;
 }
 
+/* language code */
 
-:lang(en) h1, :lang(es) h1, :lang(fr) h1, :lang(it) h1, :lang(de) h1, :lang(no) h1, :lang(po) h1, :lang(ru) h1, :lang(bs) h1, :lang(cs) h1{
+:lang(en) h1, :lang(es) h1, :lang(fr) h1, :lang(it) h1, :lang(de) h1, :lang(no) h1, :lang(po) h1, :lang(ru) h1, :lang(bs) h1, :lang(cs) h1, :lang(tr) h1 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -402,7 +403,7 @@ h1 {
 }
 
 
-:lang(en) h2, :lang(es) h2, :lang(fr) h2, :lang(it) h2, :lang(de) h2, :lang(no) h2, :lang(po) h2, :lang(ru) h2, :lang(bs) h2, :lang(cs) h2 {
+:lang(en) h2, :lang(es) h2, :lang(fr) h2, :lang(it) h2, :lang(de) h2, :lang(no) h2, :lang(po) h2, :lang(ru) h2, :lang(bs) h2, :lang(cs) h2, :lang(tr) h2{
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -413,13 +414,13 @@ h1 {
 	margin-left: 60px;
 }
 
-:lang(en) h3, :lang(es) h3, :lang(fr) h3, :lang(it) h3, :lang(de) h3, :lang(no) h3, :lang(po) h3, :lang(ru) h3, :lang(bs) h3, :lang(cs) h3 {
+:lang(en) h3, :lang(es) h3, :lang(fr) h3, :lang(it) h3, :lang(de) h3, :lang(no) h3, :lang(po) h3, :lang(ru) h3, :lang(bs) h3, :lang(cs) h3, :lang(tr) h3 {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: italic;
 }
 
-:lang(en) pre, :lang(es) pre, :lang(fr) pre, :lang(it) pre, :lang(de) pre, :lang(no) pre, :lang(po) pre, :lang(ru) pre, :lang(bs) pre, :lang(cs) pre {
+:lang(en) pre, :lang(es) pre, :lang(fr) pre, :lang(it) pre, :lang(de) pre, :lang(no) pre, :lang(po) pre, :lang(ru) pre, :lang(bs) pre, :lang(cs) pre, :lang(tr) pre {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -433,7 +434,7 @@ h1 {
 	margin-right: 40px;
 }
 
-:lang(en) p, :lang(es) p, :lang(fr) p, :lang(it) p, :lang(de) p, :lang(no) p, :lang(po) p, :lang(ru) p, :lang(bs) p, :lang(cs) p{
+:lang(en) p, :lang(es) p, :lang(fr) p, :lang(it) p, :lang(de) p, :lang(no) p, :lang(po) p, :lang(ru) p, :lang(bs) p, :lang(cs) p, :lang(tr) p{
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
