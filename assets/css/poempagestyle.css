@@ -617,6 +617,7 @@ p strong {
 	line-height: 63px;
 	color: black;
 	text-align: right;
+	direction: rtl;
 	margin-top: 40px;
 	margin-bottom: 0px;
 	margin-left: 60px;
@@ -631,6 +632,7 @@ p strong {
 	line-height: 55px;
 	color: black;
 	text-align: right;
+	direction: rtl;
 	margin-left: 60px;
   }  
 
@@ -642,6 +644,7 @@ p strong {
 	line-height: 63px;
 	color: black;
 	text-align: right;
+	direction: rtl;
 	margin-top: 40px;
 	margin-bottom: 0px;
 	margin-left: 60px;
@@ -655,6 +658,7 @@ p strong {
     font-size: 22px;
 	color: black;
 	text-align: right;
+	direction: rtl;
 	margin-top: 0px;
 	margin-bottom: 30px;
 	margin-left: 60px;
