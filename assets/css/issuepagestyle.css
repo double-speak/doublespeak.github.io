@@ -80,7 +80,7 @@ h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 50px;
+	font-size: 3vw;;
 	line-height: 55px;
 	color: black;
 }
@@ -185,7 +185,6 @@ p {
 .left-overlay-text {
 	position: absolute;
 	color: white;
-	font-size: 3vw;
 	text-align: center;
 	margin-top: 40%;
 	margin-left: 18.5%;
