@@ -390,6 +390,20 @@ p strong {
 	margin-right: 40px;
   } 
 
+  :lang(ar) pre { 
+    font-family: adobe-arabic, sans-serif; 
+    font-weight: 400;
+    font-style:  normal;
+    font-size: 22px;
+	color: black;
+	text-align: right;
+	direction: rtl;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  } 
+
 :lang(zh) {
 	font-family: source-han-sans-traditional, sans-serif !important;
 }
@@ -443,6 +457,19 @@ p strong {
 	margin-right: 40px;
   }
 
+:lang(zh) pre { 
+    font-family: source-han-sans-traditional, sans-serif;
+    font-weight:  400;
+    font-style: normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
 :lang(ja) { 
     font-family: source-han-sans-japanese, sans-serif !important;
 	}
@@ -481,6 +508,19 @@ p strong {
 	color: black;
 	text-align: left;
 	margin-left: 60px;
+  }
+
+:lang(ja) p{ 
+    font-family: source-han-sans-japanese, sans-serif;
+    font-weight: 300;
+    font-style:  normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
   }
 
 :lang(ja) p{ 
@@ -552,6 +592,19 @@ p strong {
 	margin-right: 40px; 
   }
 
+:lang(ko) pre { 
+    font-family: source-han-sans-korean, sans-serif; 
+    font-weight: 200;
+    font-style: normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px; 
+  }
+
 :lang(th){ 
     font-family: ibm-plex-thai-looped, sans-serif !important;
     } 
@@ -593,6 +646,19 @@ p strong {
   }  
 
 :lang(th) p{ 
+    font-family: ibm-plex-thai-looped, sans-serif;
+    font-weight:  300;
+    font-style: normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(th) pre { 
     font-family: ibm-plex-thai-looped, sans-serif;
     font-weight:  300;
     font-style: normal;
@@ -665,11 +731,25 @@ p strong {
 	margin-right: 40px;
   }
 
+:lang(he) pre { 
+    font-family: myriad-hebrew, sans-serif; 
+    font-weight:  300;
+    font-style: normal;
+    font-size: 22px;
+	color: black;
+	text-align: right;
+	direction: rtl;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
 :lang(hi){ 
     font-family: hind-siliguri, sans-serif !important;
 	}
 
-  :lang(hi) h1{ 
+:lang(hi) h1{ 
     font-family: hind-siliguri, sans-serif;
     font-weight:  400;
     font-style: normal;
@@ -709,6 +789,19 @@ p strong {
   }
 
 :lang(hi) p{ 
+    font-family: hind-siliguri, sans-serif;
+    font-weight:  300;
+    font-style: normal;
+    font-size: 22px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+  }
+
+:lang(hi) pre { 
     font-family: hind-siliguri, sans-serif;
     font-weight:  300;
     font-style: normal;
