@@ -100,7 +100,6 @@ pre {
 	font-size: 16px;
 	line-height: 18px;
 	color: black;
-	text-align: left;
 	margin-top: 0px;
 	margin-bottom: 30px;
 	margin-left: 60px;
@@ -335,6 +334,7 @@ p strong {
 
 :lang(ar){
 	font-family: adobe-arabic, sans-serif !important;
+	text-align:right !important;
 
 }
 
@@ -396,7 +396,7 @@ p strong {
     font-style:  normal;
     font-size: 22px;
 	color: black;
-	text-align: right;
+	text-align: right !important;
 	direction: rtl;
 	margin-top: 0px;
 	margin-bottom: 30px;
@@ -672,7 +672,8 @@ p strong {
   }
 
 :lang(he){ 
-    font-family: myriad-hebrew, sans-serif; 
+    font-family: myriad-hebrew, sans-serif;
+    text-align:right; 
 	}
 
 :lang(he) h1{ 

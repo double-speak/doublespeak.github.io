@@ -2,13 +2,14 @@
 layout: none
 ---
 [
-  {% for post in site.badabingbadaboom %}
+  {% for post in site.collections._poems_2021 %}
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
+      "title"    : "{{ post.transtitle | escape }}",
+      "category" : "{{ post.transtitle }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}"
+
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
