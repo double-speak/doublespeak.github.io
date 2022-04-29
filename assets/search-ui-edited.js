@@ -16,13 +16,15 @@ function getThumbnail(item, url) {
   else {
     return '';
   }
+  console.log("returned thumbnail")
 }
 
 function displayResult(item, fields, url) {
+  console.log("display thumbnail")
   var pid   = item.pid;
   var label = item.title || 'Untitled';
   var link  = item.permalink;
-  var thumb = getThumbnail(item, url);
+  var thumb = getThumbnail(item,url);
   var meta  = []
 
   for (i in fields) {
@@ -40,11 +42,12 @@ function startSearchUI(fields, indexFile, url) {
 
     index.saveDocument(false);
     index.setRef('lunr_id');
-
+    console.log("started search UI")
     for (i in fields) { index.addField(fields[i]); }
     for (i in store)  { index.addDoc(store[i]); }
 
     $('input#search').on('keyup', function() {
+      console.log("getting results")
       var results_div = $('#results');
       var query       = $(this).val();
       var results     = index.search(query, { boolean: 'AND', expand: true });
