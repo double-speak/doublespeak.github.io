@@ -71,3 +71,18 @@ collections:
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
 
+search:
+  main:
+    index: '/search/index.json' # file the index will get written to
+    collections:
+      poems_2021:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - transtitle
+          - title
+          - author
+          - translator
+          - poem
+          - transpoem
+
+
