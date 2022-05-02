@@ -62,7 +62,7 @@ layout: default
 <!-- this is borrowed from wax tasks search + https://github.com/minicomp/wax/blob/main/_includes/search_box.html -->
 <div class='search-block'>
   <div class='input-group'>
-    <input type="text" class='form-control'id="search search-input" placeholder="Search poems and notes..">
+    <input type="text" class='form-control'id="search" placeholder="Search poems and notes..">
   </div>
   <div id='results'></div>
 </div>
@@ -70,9 +70,13 @@ layout: default
   </div>
 
 </body>
-<html>
+</html>
+<!-- i think this is necessary but unclear - emily -->
+<!-- <script type='text/javascript' async defer src='{{ "/assets/bootstrap/bootstrap.min.js" | absolute_url }}'></script>
+<script type='text/javascript' async defer src='{{ "/assets/popper.min.js" | absolute_url }}'></script> -->
 <script type='text/javascript' src="{{ '/assets/elasticlunr.min.js' | absolute_url }}"></script>
 <script type="text/javascript" src="{{ '/assets/search-ui.js' | absolute_url }}"></script>
+<script type="text/javascript" src="{{ '/assets/search-ui-edited.js' | absolute_url }}"></script>
 <script type='text/javascript' src="{{ '/assets/jquery-3.2.1.min.js' | absolute_url }}"></script>
 <script type='text/javascript'>
   var fields    = {{ fields | jsonify }};
@@ -81,8 +85,7 @@ layout: default
 
   $(document).ready(function() {
     startSearchUI(fields, indexFile, url);
+    console.log(fields);
   });
 </script>
-<!-- i think this is necessary but unclear - emily -->
-<script type='text/javascript' async defer src='{{ "/assets/bootstrap/bootstrap.min.js" | absolute_url }}'></script>
-<script type='text/javascript' async defer src='{{ "/assets/popper.min.js" | absolute_url }}'></script>
+

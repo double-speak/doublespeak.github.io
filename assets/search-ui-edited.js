@@ -21,19 +21,23 @@ function getThumbnail(item, url) {
 
 function displayResult(item, fields, url) {
   console.log("display thumbnail")
-  var pid   = item.pid;
-  var label = item.title || 'Untitled';
+  var transtitle = item.transtitle;
+  var title = item.title || 'Untitled';
   var link  = item.permalink;
-  var thumb = getThumbnail(item,url);
+  var author = item.author;
+  var translator = item.translator;
   var meta  = []
+
 
   for (i in fields) {
     fieldLabel = fields[i];
     if (fieldLabel in item ) {
-      meta.push(`<b>${fieldLabel}:</b> ${excerptedString(item[fieldLabel])}`);
+      if (fieldLabel !== "title" && fieldLabel !== "poem" && fieldLabel !== "transpoem") {
+      meta.push(`<br>${excerptedString(item[fieldLabel])}`);
+      }
     }
   }
-  return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
+  return `<div class="result"><a href="${url}${link}"><p><b><span class="title">${item.title}</span></b><span class="meta">${meta.join('')}</span></p></a></div>`;
 }
 
 function startSearchUI(fields, indexFile, url) {

@@ -126,6 +126,18 @@ p {
 	margin-right: 40px;
 }
 
+.result{
+/*	background-color:lightgray;
+*/	max-width:80%;
+	margin:auto;
+	padding:10px;
+	margin-bottom:15px;
+	border:1px solid white;
+}
+.result:hover{
+	border:1px solid black;
+}
+
 input {
 	width: 990px;
 	height: 30px;
@@ -177,3 +189,5 @@ input:focus {
 textarea:focus {
   border: 2px solid #555;
 }
+
+
