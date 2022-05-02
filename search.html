@@ -17,8 +17,7 @@ layout: default
     h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
   })(document);</script>
     <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>  
-    <link rel="stylesheet" href="../assets/css/_wax.scss">
-
+    <link rel="stylesheet/less" href="../assets/css/_wax.scss">
 
   </head>
 
@@ -73,18 +72,17 @@ layout: default
 </body>
 <html>
 <script type='text/javascript' src="{{ '/assets/elasticlunr.min.js' | absolute_url }}"></script>
-<script type='text/javascript' src="{{ '/assets/search-ui.js' | absolute_url }}"></script>
+<script type="text/javascript" src="{{ '/assets/search-ui.js' | absolute_url }}"></script>
 <script type='text/javascript' src="{{ '/assets/jquery-3.2.1.min.js' | absolute_url }}"></script>
 <script type='text/javascript'>
-  var fields    = "{{ fields | jsonify }}";
+  var fields    = {{ fields | jsonify }};
   var indexFile = "{{ index }}";
   var url       = "{{ '' | absolute_url }}";
-  var config = "{{ config }}";
+
   $(document).ready(function() {
     startSearchUI(fields, indexFile, url);
   });
-
-
-  console.log(indexFile);
-  console.log(config);
 </script>
+<!-- i think this is necessary but unclear - emily -->
+<script type='text/javascript' async defer src='{{ "/assets/bootstrap/bootstrap.min.js" | absolute_url }}'></script>
+<script type='text/javascript' async defer src='{{ "/assets/popper.min.js" | absolute_url }}'></script>
