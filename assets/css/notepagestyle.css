@@ -130,7 +130,7 @@ h1 {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 22px;
+	font-size: 18px;
 	color: black;
 	text-align: left;
 }
@@ -373,34 +373,29 @@ h1 {
 
 :lang(ar){
 	font-family: adobe-arabic, sans-serif !important;
+	font-style:  normal;
 	color: black;
 	text-align: right;
 	direction: rtl;
 }
 
-:lang(ar) h1{ 
-    font-family: adobe-arabic, sans-serif; 
+:lang(ar) h1{
     font-weight: 700;
-    font-style:  normal;
     font-size: 60px;
 	line-height: 63px;
 
   }
 
-:lang(ar) h2{ 
-    font-family: adobe-arabic, sans-serif; 
+:lang(ar) h2{
     font-weight: 400;
-    font-style:  normal;
-	font-size: 50px;
-	line-height: 55px;
+	font-size: 28px;
+	line-height: 34.4px;
   }
 
-:lang(ar) p{ 
-    font-family: adobe-arabic, sans-serif; 
+:lang(ar) p{
     font-weight: 400;
     font-style:  normal;
     font-size: 22px;
-
   } 
 
 :lang(zh) {
@@ -418,13 +413,13 @@ h1 {
 
 :lang(zh) h2 { 
     font-weight:  400;
-    font-size: 50px;
-	line-height: 55px;
+    font-size: 28px;
+	line-height: 34.4px;
   }
 
 :lang(zh) p{ 
     font-weight:  400;
-    font-size: 22px;
+    font-size: 18px;
   }
 
 :lang(ja) { 
@@ -436,20 +431,20 @@ h1 {
 
 :lang(ja) h1{ 
     font-weight:  500;
-    font-size: 60px;
-	line-height: 63px;
+    font-size: 32px;
+	line-height: 38.4px;
   }
 
 :lang(ja) h2{ 
     font-weight: 300;
-    font-size: 50px;
-	line-height: 55px;
+    font-size: 28px;
+	line-height: 34.4px;
   }
 
 :lang(ja) p{ 
     font-weight: 300;
     font-style:  normal;
-    font-size: 22px;
+    font-size: 18px;
   }     
 
 :lang(ko){ 
@@ -461,21 +456,19 @@ h1 {
 
 :lang(ko) h1{ 
     font-weight: 500;
-    font-size: 60px;
-	line-height: 63px;
-
+ 	
   }
 
 :lang(ko) h2{ 
     font-weight: 300;
-    font-size: 50px;
-	line-height: 55px;
+    font-size: 28px;
+	line-height: 34.4px;
   }   
 
 :lang(ko) p{ 
     font-weight: 200;
     font-style: normal;
-    font-size: 22px;
+    font-size: 18px;
   }
 
 :lang(th){ 
@@ -487,23 +480,23 @@ h1 {
 
 :lang(th) h1{ 
     font-weight:  400;
-    font-size: 60px;
-	line-height: 63px;
+    font-size: 32px;
+	line-height: 38.4px;
   }
 
 :lang(th) h2{ 
     font-weight:  300;
-	font-size: 50px;
-	line-height: 55px;
+	font-size: 28px;
+	line-height: 34.4px;
   }
 
 
 :lang(th) p{ 
     font-weight:  300;
-    font-size: 22px;
+    font-size: 18px;
   }
 
-:lang(he){ 
+:lang(he) { 
     font-family: myriad-hebrew, sans-serif; 
     font-style: normal;
     direction: rtl;
@@ -512,20 +505,20 @@ h1 {
 
 :lang(he) h1{ 
     font-weight:  400;
-    font-size: 60px;
-	line-height: 63px;
+    font-size: 32px;
+	line-height: 38.4px;
   }
 
 :lang(he) h2{ 
     font-weight:  300;
-    font-size: 50px;
-	line-height: 55px;
+    font-size: 28px;
+	line-height: 34.4px;
   }  
 
 
 :lang(he) p{ 
     font-weight:  300;
-    font-size: 22px;
+    font-size: 18px;
   }
 
 :lang(hi){ 
@@ -537,21 +530,20 @@ h1 {
 
 :lang(hi) h1{ 
     font-weight:  400;
-    font-size: 60px;
-	line-height: 63px;
-	
+    font-size: 32px;
+	line-height: 38.4px;
   }
 
 :lang(hi) h2{
     font-weight:  300;
-    font-size: 50px;
-	line-height: 55px;
+    font-size: 28px;
+	line-height: 34.4px;
   }  
 
 
 :lang(hi) p{ 
     font-weight:  300;
-    font-size: 22px;
+    font-size: 18px;
   }
 
 /* end language code */

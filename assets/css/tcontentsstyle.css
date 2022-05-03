@@ -75,12 +75,13 @@ h1 {
 	margin-right: 40px;
 }
 
+
 h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 30px;
-	line-height: 55px;
+	font-size: 28px;
+	line-height: 34.4px;
 	color: black;
 	text-align: left;
 	margin-left: 60px;
@@ -89,7 +90,9 @@ h2 {
 h3 {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
-	font-style: italic;
+	font-style: normal;
+	font-size: 28px;
+	line-height: 34.4px;
 	margin-left: 50px;
 	margin-right: 40px;
 }
@@ -107,21 +110,6 @@ p {
 	margin-right: 40px;
 }
 
-
-.issuetitle h1{
-	font-family: mr-eaves-modern, sans-serif;
-	font-weight: 300;
-	font-style: italic;
-	font-size: 20px;
-	color: black;
-	text-align: left;
-	margin-top: 20px;
-	margin-left: 50px;
-	margin-bottom: 0px;
-	white-space: nowrap;
-	padding: 0px;
-}
-
 .tcontents {
 	height: 600px;
 	padding: 20px 60px 20px 60px;
@@ -131,7 +119,7 @@ p {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 48px;
+	font-size: 40px;
 	color: black;
 	text-align: left;
 	margin: -10px 0 0 0;
@@ -163,19 +151,21 @@ p {
 .tcleft h2{
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
-	font-style: italic;
-	font-size: 24px;
+	font-style: normal;
+	font-size: 28px;
+	line-height: 34.4px;
 	text-align: left;
 	margin-left: 0px;
 	white-space: nowrap;
 	text-decoration: underline;
+	text-decoration-thickness: 5%;
 }
 
 .tcleft h3{
 	width: 50%;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
-	font-style: italic;
+	font-style: normal;
 	font-size: 22px;
 	text-align: left;
 	margin: -15px 0 0 30px;
@@ -192,8 +182,9 @@ p {
 .tcright h2{
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
-	font-style: italic;
-	font-size: 24px;
+	font-style: normal;
+	font-size: 28px;
+	line-height: 34.4px;
 	color: black;
 	text-align: left;
 	margin-left: 0px;
@@ -205,7 +196,7 @@ p {
 	width: 50%;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
-	font-style: italic;
+	font-style: normal;
 	font-size: 22px;
 	color: black;
 	text-align: left;
@@ -229,15 +220,6 @@ p {
 	direction: rtl;
 }
 
-:lang(ar) h1{ 
-    font-family: adobe-arabic, sans-serif; 
-    font-weight: 700;
-    font-style:  normal;
-    font-size: 60px;
-	line-height: 63px;
-
-  }
-
 :lang(ar) h2{ 
     font-family: adobe-arabic, sans-serif; 
     font-weight: 400;
@@ -259,30 +241,24 @@ p {
     font-weight: 400;
     font-style:  normal;
     font-size: 22px;
-
   } 
 
 :lang(zh) {
 	font-family: source-han-sans-traditional, sans-serif !important;
+	font-weight: 400;
 	font-style: normal;
 	color: black;
 	text-align: left;
 }
 
-:lang(zh) h1 { 
-    font-weight: 500;
-    font-size: 60px;
-	line-height: 63px;
-  }
-
 :lang(zh) h2 { 
-    font-weight:  400;
+    font-weight: 400;
     font-size: 50px;
 	line-height: 55px;
   }
 
 :lang(zh) h3 { 
-    font-weight:  400;
+    font-weight: 400;
     font-size: 50px;
 	line-height: 55px;
   }
@@ -298,12 +274,6 @@ p {
     color: black;
 	text-align: left;
 	}
-
-:lang(ja) h1{ 
-    font-weight:  500;
-    font-size: 60px;
-	line-height: 63px;
-  }
 
 :lang(ja) h2{ 
     font-weight: 300;
@@ -330,13 +300,6 @@ p {
 	text-align: left;
 	}
 
-:lang(ko) h1{ 
-    font-weight: 500;
-    font-size: 60px;
-	line-height: 63px;
-
-  }
-
 :lang(ko) h2{ 
     font-weight: 300;
     font-size: 50px;
@@ -362,12 +325,6 @@ p {
 	text-align: left;
     } 
 
-:lang(th) h1{ 
-    font-weight:  400;
-    font-size: 60px;
-	line-height: 63px;
-  }
-
 :lang(th) h2{ 
     font-weight:  300;
 	font-size: 50px;
@@ -392,12 +349,6 @@ p {
     color: black;
 	}
 
-:lang(he) h1{ 
-    font-weight:  400;
-    font-size: 60px;
-	line-height: 63px;
-  }
-
 :lang(he) h2{ 
     font-weight:  300;
     font-size: 50px;
@@ -421,13 +372,6 @@ p {
     color: black;
 	text-align: left;
 	}
-
-:lang(hi) h1{ 
-    font-weight:  400;
-    font-size: 60px;
-	line-height: 63px;
-	
-  }
 
 :lang(hi) h2{
     font-weight:  300;
