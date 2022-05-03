@@ -161,9 +161,9 @@ p {
 }
 
 .tcleft h2{
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
-	font-style: normal;
+	font-style: italic;
 	font-size: 24px;
 	text-align: left;
 	margin-left: 0px;
@@ -173,9 +173,9 @@ p {
 
 .tcleft h3{
 	width: 50%;
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
-	font-style: normal;
+	font-style: italic;
 	font-size: 22px;
 	text-align: left;
 	margin: -15px 0 0 30px;
@@ -190,9 +190,9 @@ p {
 }
 
 .tcright h2{
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
-	font-style: normal;
+	font-style: italic;
 	font-size: 24px;
 	color: black;
 	text-align: left;
@@ -203,9 +203,9 @@ p {
 
 .tcright h3{
 	width: 50%;
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
-	font-style: normal;
+	font-style: italic;
 	font-size: 22px;
 	color: black;
 	text-align: left;
