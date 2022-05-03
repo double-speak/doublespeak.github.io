@@ -157,6 +157,7 @@ h1 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: italic;
+	font-size: 36px;
 }
 
 .abio p {
@@ -209,6 +210,7 @@ h1 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: italic;
+	font-size: 36px;
 }
 
 .tbio p {
@@ -385,69 +387,16 @@ h1 {
 
 /* language code */
 
-:lang(en) h1, :lang(es) h1, :lang(fr) h1, :lang(it) h1, :lang(de) h1, :lang(no) h1, :lang(po) h1, :lang(ru) h1, :lang(bs) h1, :lang(cs) h1, :lang(tr) h1 {
-	font-family: garamond-premier-pro, serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 32px;
-	line-height: 38.4px;
+
+:lang(ar){
+	font-family: adobe-arabic, sans-serif !important;
 	color: black;
-	text-align: left;
+	text-align: right;
+	direction: rtl;
 	margin-top: 40px;
 	margin-bottom: 0px;
 	margin-left: 60px;
 	margin-right: 40px;
-}
-
-
-:lang(en) h2, :lang(es) h2, :lang(fr) h2, :lang(it) h2, :lang(de) h2, :lang(no) h2, :lang(po) h2, :lang(ru) h2, :lang(bs) h2, :lang(cs) h2, :lang(tr) h2{
-	font-family: garamond-premier-pro, serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 20px;
-	line-height: 24px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
-}
-
-:lang(en) h3, :lang(es) h3, :lang(fr) h3, :lang(it) h3, :lang(de) h3, :lang(no) h3, :lang(po) h3, :lang(ru) h3, :lang(bs) h3, :lang(cs) h3, :lang(tr) h3 {
-	font-family: futura-pt, sans-serif;
-	font-weight: 300;
-	font-style: italic;
-}
-
-:lang(en) pre, :lang(es) pre, :lang(fr) pre, :lang(it) pre, :lang(de) pre, :lang(no) pre, :lang(po) pre, :lang(ru) pre, :lang(bs) pre, :lang(cs) pre, :lang(tr) pre {
-	font-family: futura-pt, sans-serif;
-	font-weight: 300;
-	font-style: normal;
-	font-size: 13px;
-	line-height: 15.6px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
-}
-
-:lang(en) p, :lang(es) p, :lang(fr) p, :lang(it) p, :lang(de) p, :lang(no) p, :lang(po) p, :lang(ru) p, :lang(bs) p, :lang(cs) p, :lang(tr) p{
-	font-family: futura-pt, sans-serif;
-	font-weight: 300;
-	font-style: normal;
-	font-size: 13px;
-	line-height: 15.6px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
-}
-
-:lang(ar){
-	font-family: adobe-arabic, sans-serif !important;
-
 }
 
 :lang(ar) h1{ 
@@ -456,13 +405,7 @@ h1 {
     font-style:  normal;
     font-size: 60px;
 	line-height: 63px;
-	color: black;
-	text-align: right;
-	direction: rtl;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
+
   }
 
 :lang(ar) h2{ 
@@ -471,10 +414,6 @@ h1 {
     font-style:  normal;
 	font-size: 50px;
 	line-height: 55px;
-	color: black;
-	text-align: right;
-	direction: rtl;
-	margin-left: 60px;
   }
 
 :lang(ar) h3{ 
@@ -483,10 +422,6 @@ h1 {
     font-style:  normal;
  	font-size: 50px;
 	line-height: 55px;
-	color: black;
-	text-align: right;
-	direction: rtl;
-	margin-left: 60px;
   }
 
 :lang(ar) p{ 
@@ -494,344 +429,191 @@ h1 {
     font-weight: 400;
     font-style:  normal;
     font-size: 22px;
-	color: black;
-	text-align: right;
-	direction: rtl;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
+
   } 
 
 :lang(zh) {
 	font-family: source-han-sans-traditional, sans-serif !important;
+	font-style: normal;
+	color: black;
+	text-align: left;
 }
 
 :lang(zh) h1 { 
-    font-family: source-han-sans-traditional, sans-serif;
     font-weight: 500;
-    font-style: normal;
     font-size: 60px;
 	line-height: 63px;
-	color: black;
-	text-align: left;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
   }
 
 :lang(zh) h2 { 
-    font-family: source-han-sans-traditional, sans-serif;
     font-weight:  400;
-    font-style: normal;
     font-size: 50px;
 	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
   }
 
 :lang(zh) h3 { 
-    font-family: source-han-sans-traditional, sans-serif;
     font-weight:  400;
-    font-style: normal;
     font-size: 50px;
 	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
   }
 
 :lang(zh) p{ 
-    font-family: source-han-sans-traditional, sans-serif;
     font-weight:  400;
-    font-style: normal;
     font-size: 22px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
   }
 
 :lang(ja) { 
     font-family: source-han-sans-japanese, sans-serif !important;
+    font-style:  normal;
+    color: black;
+	text-align: left;
 	}
 
 :lang(ja) h1{ 
-    font-family: source-han-sans-japanese, sans-serif;
     font-weight:  500;
-    font-style: normal;
     font-size: 60px;
 	line-height: 63px;
-	color: black;
-	text-align: left;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
   }
 
 :lang(ja) h2{ 
-    font-family: source-han-sans-japanese, sans-serif;
     font-weight: 300;
-    font-style:  normal;
     font-size: 50px;
 	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
   }
 
 :lang(ja) h3{ 
-    font-family: source-han-sans-japanese, sans-serif;
     font-weight: 300;
-    font-style:  normal;
     font-size: 50px;
 	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
   }
 
 :lang(ja) p{ 
-    font-family: source-han-sans-japanese, sans-serif;
     font-weight: 300;
     font-style:  normal;
     font-size: 22px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
   }     
 
 :lang(ko){ 
     font-family: source-han-sans-korean, sans-serif !important;
+    font-style: normal; 
+    color: black;
+	text-align: left;
 	}
 
 :lang(ko) h1{ 
-    font-family: source-han-sans-korean, sans-serif;
     font-weight: 500;
-    font-style: normal; 
     font-size: 60px;
 	line-height: 63px;
-	color: black;
-	text-align: left;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
+
   }
 
 :lang(ko) h2{ 
-    font-family: source-han-sans-korean, sans-serif;
     font-weight: 300;
-    font-style: normal; 
     font-size: 50px;
 	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
   }
 
 :lang(ko) h3{ 
-    font-family: source-han-sans-korean, sans-serif;
     font-weight: 300;
-    font-style: normal; 
     font-size: 60px;
 	line-height: 63px;
-	color: black;
-	text-align: left;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
   }    
 
 :lang(ko) p{ 
-    font-family: source-han-sans-korean, sans-serif; 
     font-weight: 200;
     font-style: normal;
     font-size: 22px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px; 
   }
 
 :lang(th){ 
     font-family: ibm-plex-thai-looped, sans-serif !important;
+    font-style: normal;
+    color: black;
+	text-align: left;
     } 
 
 :lang(th) h1{ 
-    font-family: ibm-plex-thai-looped, sans-serif; 
     font-weight:  400;
-    font-style: normal;
     font-size: 60px;
 	line-height: 63px;
-	color: black;
-	text-align: left;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
   }
 
 :lang(th) h2{ 
-    font-family: ibm-plex-thai-looped, sans-serif;
     font-weight:  300;
-    font-style: normal;
 	font-size: 50px;
 	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
   }
 
 :lang(th) h3{ 
-    font-family: ibm-plex-thai-looped, sans-serif;
     font-weight:  300;
-    font-style: normal;
 	font-size: 50px;
 	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
   }  
 
 :lang(th) p{ 
-    font-family: ibm-plex-thai-looped, sans-serif;
     font-weight:  300;
-    font-style: normal;
     font-size: 22px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
   }
 
 :lang(he){ 
     font-family: myriad-hebrew, sans-serif; 
+    font-style: normal;
+    direction: rtl;
+    color: black;
 	}
 
 :lang(he) h1{ 
-    font-family: myriad-hebrew, sans-serif; 
     font-weight:  400;
-    font-style: normal;
     font-size: 60px;
 	line-height: 63px;
-	color: black;
-	text-align: right;
-	direction: rtl;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
   }
 
 :lang(he) h2{ 
-    font-family: myriad-hebrew, sans-serif; 
     font-weight:  300;
-    font-style: normal;
     font-size: 50px;
 	line-height: 55px;
-	color: black;
-	text-align: right;
-	direction: rtl;
-	margin-left: 60px;
   }  
 
 :lang(he) h3{ 
-    font-family: myriad-hebrew, sans-serif; 
     font-weight:  300;
-    font-style: normal;
     font-size: 60px;
 	line-height: 63px;
-	color: black;
-	text-align: right;
-	direction: rtl;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
-  }
+}
 
 :lang(he) p{ 
-    font-family: myriad-hebrew, sans-serif; 
     font-weight:  300;
-    font-style: normal;
     font-size: 22px;
-	color: black;
-	text-align: right;
-	direction: rtl;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
   }
 
 :lang(hi){ 
     font-family: hind-siliguri, sans-serif !important;
+    font-style: normal;
+    color: black;
+	text-align: left;
 	}
 
-  :lang(hi) h1{ 
-    font-family: hind-siliguri, sans-serif;
+:lang(hi) h1{ 
     font-weight:  400;
-    font-style: normal;
     font-size: 60px;
 	line-height: 63px;
-	color: black;
-	text-align: left;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
+	
   }
 
-:lang(hi) h2{ 
-    font-family: hind-siliguri, sans-serif; 
+:lang(hi) h2{
     font-weight:  300;
-    font-style: normal;
     font-size: 50px;
 	line-height: 55px;
-	color: black;
-	text-align: left;
-	margin-left: 60px;
   }  
 
 :lang(hi) h3{ 
-    font-family: hind-siliguri, sans-serif;
     font-weight:  300;
-    font-style: normal;
-    font-size: 60px;
-	line-height: 63px;
-	color: black;
-	text-align: left;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
+    font-size: 36px;
+	line-height: 40px;
   }
 
 :lang(hi) p{ 
-    font-family: hind-siliguri, sans-serif;
     font-weight:  300;
-    font-style: normal;
     font-size: 22px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
   }
 
 /* end language code */
