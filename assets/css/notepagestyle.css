@@ -121,6 +121,7 @@ h1 {
 }
 
 .note p strong {
+	display: inline;
 	font-family: futura-pt, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -163,6 +164,7 @@ h1 {
 }
 
 .abio p em {
+	display: inline;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -175,6 +177,7 @@ h1 {
 }
 
 .abio p strong {
+	display: inline;
 	font-family: futura-pt, sans-serif;
 	font-weight: 400;
 	font-style: normal;
