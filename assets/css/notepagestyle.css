@@ -106,8 +106,9 @@ h1 {
 	margin-left: 10px;
 	margin-right: 10px;
 }
-/*
+
 .note p em {
+	display: inline;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -130,7 +131,7 @@ h1 {
 	margin-left: 10px;
 	margin-right: 10px;
 }
-*/
+
 .abio h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
@@ -160,7 +161,7 @@ h1 {
 	margin-left: 10px;
 	margin-right: 10px;
 }
-/*
+
 .abio p em {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
@@ -184,7 +185,7 @@ h1 {
 	margin-left: 10px;
 	margin-right: 10px;
 }
-*/
+
 .tbio h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
@@ -214,12 +215,14 @@ h1 {
 	margin-left: 10px;
 	margin-right: 10px;
 }
-/*
+
 
 .tbio p em{
+	display: inline;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: italic;
+	font-size: 18px;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
@@ -240,7 +243,6 @@ h1 {
 	margin-right: 10px;
 }
 
-*/
 
 
 /*top links*/
@@ -340,7 +342,7 @@ h1 {
 .previouslink a {
 	display: inline-block;
 	font-family: futura-pt, sans-serif;
-	padding: 10px;
+	padding: 18px;
 	color: black;
 	text-decoration: none;
 }
@@ -358,7 +360,7 @@ h1 {
 .nextlink a {
 	display: inline-block;
 	font-family: futura-pt, sans-serif;
-	padding: 10px;
+	padding: 18px;
 	color: black;
 	text-decoration: none;
 }
