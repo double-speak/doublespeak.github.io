@@ -79,26 +79,20 @@ h1 {
 h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
-	font-style: normal;
-	font-size: 20px;
-	line-height: 24px;
+	font-style: italic;
+	font-size: 28px;
+	line-height: 34.4px;
 	color: black;
 	text-align: left;
 	margin-left: 60px;
-}
-
-h3 {
-	font-family: futura-pt, sans-serif;
-	font-weight: 300;
-	font-style: italic;
 }
 
 pre {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 16px;
-	line-height: 18px;
+	font-size: 18px;
+	line-height: 20px;
 	color: black;
 	margin-top: 0px;
 	margin-bottom: 30px;
@@ -110,7 +104,8 @@ p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 16px;
+	font-size: 18px;
+	line-height: 20px;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
@@ -311,18 +306,6 @@ p strong {
     font-size: 22px;
   } 
 
-:lang(ar) pre { 
-    font-weight: 400;
-    font-size: 22px;
-	color: black;
-	text-align: right !important;
-	direction: rtl;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
-  } 
-
 :lang(zh) {
 	font-family: source-han-sans-traditional, sans-serif !important;
 	font-style: normal;
@@ -351,19 +334,6 @@ p strong {
 :lang(zh) p{ 
     font-weight:  400;
     font-size: 22px;
-  }
-
-:lang(zh) pre { 
-    font-family: source-han-sans-traditional, sans-serif;
-    font-weight:  400;
-    font-style: normal;
-    font-size: 22px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
   }
 
 :lang(ja) { 
@@ -396,19 +366,7 @@ p strong {
     font-style:  normal;
     font-size: 22px;
   }     
-
-:lang(ja) pre{ 
-    font-family: source-han-sans-japanese, sans-serif;
-    font-weight: 300;
-    font-style:  normal;
-    font-size: 22px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
-  }     
+ 
 
 :lang(ko){ 
     font-family: source-han-sans-korean, sans-serif !important;
@@ -442,15 +400,6 @@ p strong {
     font-size: 22px;
   }
 
-:lang(ko) pre { 
-    font-family: source-han-sans-korean, sans-serif; 
-    font-weight: 200;
-    font-style: normal;
-    font-size: 22px;
-	color: black;
-	text-align: left;
-  }
-
 :lang(th){ 
     font-family: ibm-plex-thai-looped, sans-serif !important;
     font-style: normal;
@@ -479,19 +428,6 @@ p strong {
 :lang(th) p{ 
     font-weight:  300;
     font-size: 22px;
-  }
-
-:lang(th) pre { 
-    font-family: ibm-plex-thai-looped, sans-serif;
-    font-weight:  300;
-    font-style: normal;
-    font-size: 22px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
   }
 
 :lang(he) { 
@@ -525,17 +461,10 @@ p strong {
   }
 
 :lang(he) pre { 
-    font-family: myriad-hebrew, sans-serif; 
     font-weight:  300;
-    font-style: normal;
     font-size: 22px;
-	color: black;
 	text-align: right;
 	direction: rtl;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
   }
 
 :lang(hi){ 
@@ -567,15 +496,6 @@ p strong {
 :lang(hi) p{ 
     font-weight:  300;
     font-size: 22px;
-  }
-
-:lang(hi) pre { 
-    font-family: hind-siliguri, sans-serif;
-    font-weight:  300;
-    font-style: normal;
-    font-size: 22px;
-	color: black;
-	text-align: left;
   }
 
 /* end language code */

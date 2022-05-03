@@ -60,14 +60,15 @@ a {
   	border: solid black 1px;
 }
 
-/* text */
+/* text */ /*should we make consistent sizing for h1 h2 p across all classes?
+seems redundant otherwise */
 
 h1 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 60px;
-	line-height: 63px;
+	font-size: 32px;
+    line-height: 38.4px;
 	color: black;
 	text-align: left;
 	margin-top: 40px;
@@ -79,20 +80,13 @@ h1 {
 .note h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
-	font-style: normal;
-	font-size: 40px;
-	line-height: 55px;
+	font-style: italic;
+	font-size: 28px;
+	line-height: 34.4px;
 	color: black;
 	text-align: left;
 	margin-left: 10px;
 	margin-right: 10px;
-}
-
-.note h3 {
-	font-family: garamond-premier-pro, serif;
-	font-weight: 400;
-	font-style: italic;
-	font-size: 36px;
 }
 
 .note p {
@@ -145,22 +139,17 @@ h1 {
 .abio h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
-	font-style: normal;
-	font-size: 40px;
-	line-height: 55px;
+	font-style: italic;
+	font-size: 28px;
+	line-height: 34.4px;
 	color: black;
 	text-align: left;
 	margin-left: 10px;
 }
 
-.abio h3 {
-	font-family: garamond-premier-pro, serif;
-	font-weight: 400;
-	font-style: italic;
-	font-size: 36px;
-}
 
 .abio p {
+	display: inline-block;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -198,22 +187,16 @@ h1 {
 .tbio h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
-	font-style: normal;
-	font-size: 40px;
-	line-height: 55px;
+	font-style: italic;
+	font-size: 28px;
+	line-height: 34.4px;
 	color: black;
 	text-align: left;
 	margin-left: 10px;
 }
 
-.tbio h3 {
-	font-family: garamond-premier-pro, serif;
-	font-weight: 400;
-	font-style: italic;
-	font-size: 36px;
-}
-
 .tbio p {
+	display: inline-block;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -393,10 +376,6 @@ h1 {
 	color: black;
 	text-align: right;
 	direction: rtl;
-	margin-top: 40px;
-	margin-bottom: 0px;
-	margin-left: 60px;
-	margin-right: 40px;
 }
 
 :lang(ar) h1{ 
@@ -413,14 +392,6 @@ h1 {
     font-weight: 400;
     font-style:  normal;
 	font-size: 50px;
-	line-height: 55px;
-  }
-
-:lang(ar) h3{ 
-    font-family: adobe-arabic, sans-serif; 
-    font-weight: 400;
-    font-style:  normal;
- 	font-size: 50px;
 	line-height: 55px;
   }
 
@@ -451,12 +422,6 @@ h1 {
 	line-height: 55px;
   }
 
-:lang(zh) h3 { 
-    font-weight:  400;
-    font-size: 50px;
-	line-height: 55px;
-  }
-
 :lang(zh) p{ 
     font-weight:  400;
     font-size: 22px;
@@ -476,12 +441,6 @@ h1 {
   }
 
 :lang(ja) h2{ 
-    font-weight: 300;
-    font-size: 50px;
-	line-height: 55px;
-  }
-
-:lang(ja) h3{ 
     font-weight: 300;
     font-size: 50px;
 	line-height: 55px;
@@ -511,13 +470,7 @@ h1 {
     font-weight: 300;
     font-size: 50px;
 	line-height: 55px;
-  }
-
-:lang(ko) h3{ 
-    font-weight: 300;
-    font-size: 60px;
-	line-height: 63px;
-  }    
+  }   
 
 :lang(ko) p{ 
     font-weight: 200;
@@ -544,11 +497,6 @@ h1 {
 	line-height: 55px;
   }
 
-:lang(th) h3{ 
-    font-weight:  300;
-	font-size: 50px;
-	line-height: 55px;
-  }  
 
 :lang(th) p{ 
     font-weight:  300;
@@ -574,11 +522,6 @@ h1 {
 	line-height: 55px;
   }  
 
-:lang(he) h3{ 
-    font-weight:  300;
-    font-size: 60px;
-	line-height: 63px;
-}
 
 :lang(he) p{ 
     font-weight:  300;
@@ -605,11 +548,6 @@ h1 {
 	line-height: 55px;
   }  
 
-:lang(hi) h3{ 
-    font-weight:  300;
-    font-size: 36px;
-	line-height: 40px;
-  }
 
 :lang(hi) p{ 
     font-weight:  300;
