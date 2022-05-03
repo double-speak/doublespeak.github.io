@@ -372,7 +372,7 @@ h1 {
 }
 .poem-image {
 	width:20vw;
-	height:30vw;
+	height:30vh;
 	flex:1;
 	margin:20px;
 }
