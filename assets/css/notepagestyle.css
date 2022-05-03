@@ -90,8 +90,9 @@ h1 {
 
 .note h3 {
 	font-family: garamond-premier-pro, serif;
-	font-weight: 300;
+	font-weight: 400;
 	font-style: italic;
+	font-size: 36px;
 }
 
 .note p {
@@ -125,6 +126,22 @@ h1 {
 	text-align: left;
 }
 
+.note ul{
+	list-style-type: circle;
+	list-style-position: outside;
+	width: 70%;
+}
+
+.note li{
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	color: black;
+	text-align: left;
+}
+
+
 .abio h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
@@ -138,7 +155,7 @@ h1 {
 
 .abio h3 {
 	font-family: garamond-premier-pro, serif;
-	font-weight: 300;
+	font-weight: 400;
 	font-style: italic;
 }
 
@@ -190,7 +207,7 @@ h1 {
 
 .tbio h3 {
 	font-family: garamond-premier-pro, serif;
-	font-weight: 300;
+	font-weight: 400;
 	font-style: italic;
 }
 
