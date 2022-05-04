@@ -66,13 +66,13 @@ h1 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 60px;
+	font-size: 4.5vw;
 	line-height: 63px;
 	color: black;
 	text-align: left;
 	margin-top: 40px;
 	margin-bottom: 0px;
-	margin-left: 60px;
+	margin-left: 40px;
 	margin-right: 40px;
 }
 
@@ -90,7 +90,7 @@ p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 22px;
+	font-size: 1.65vw;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
@@ -120,7 +120,7 @@ p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 20px;
+	font-size: 1.6vw;
 	color: black;
 	text-align: left;
 	text-decoration: none;
@@ -186,9 +186,10 @@ p {
 .left-overlay-text {
 	position: absolute;
 	color: white;
-	text-align: center;
+	width: 80%;
 	margin-top: 40%;
 	opacity: 0;
+	margin-right: 40%;
 }
 
 .left:hover .left-overlay {

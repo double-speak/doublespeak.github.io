@@ -72,7 +72,7 @@ h1 {
 	color: black;
 	text-align: left;
 	margin-top: 40px;
-	margin-bottom: 0px;
+	margin-bottom: 10px;
 	margin-left: 10px;
 	margin-right: 10px;
 }
@@ -286,7 +286,7 @@ h1 {
 /*main content*/ 
 
 .container {
-	margin: 0 350px 0 350px;
+	margin: 0 15% 0 15%;
 } 
 
 .transnote {
@@ -317,18 +317,34 @@ h1 {
 
 /*links to other poems*/
 
+/*links to other poems*/
+
+p.link {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
 .previouslink {
 	position: fixed;
 	bottom: 0;
-	left: 0;
+	left: -10px;
 }
 
 .previouslink a {
 	display: inline-block;
-	font-family: futura-pt, sans-serif;
-	padding: 18px;
+	padding: 10px;
 	color: black;
 	text-decoration: none;
+	font-size:18px;
 }
 
 .previouslink a:hover {
@@ -343,10 +359,10 @@ h1 {
 
 .nextlink a {
 	display: inline-block;
-	font-family: futura-pt, sans-serif;
-	padding: 18px;
+	padding: 10px;
 	color: black;
 	text-decoration: none;
+	font-size:18px;
 }
 
 .nextlink a:hover {
@@ -357,9 +373,7 @@ h1 {
 	flex:1;
 }
 .poem-image {
-	width:20vw;
-	height:30vh;
-	flex:1;
+	max-width:100%;
 	margin:20px;
 }
 

@@ -25,7 +25,7 @@ layout: default
 
 <body>
   <header>
-    <a href="ds_homepage.html">
+    <a href="../index.html">
       <div class="logo">
         <img src="../assets/images/doublespeak_logo.png" alt="doublespeak logo">
       </div>
@@ -35,13 +35,12 @@ layout: default
         <li><a href="../search.html">search</a></li>
         <li><a href="../about.html">about</a></li>
         <li><a href="../submit.html">submit</a></li>
-        <li><a href="../
-          issues.html">issues</a></li>
+        <li><a href="../issues.html">issues</a></li>
       </ul>
     </div>
   </header>
    <div class="tcontentslink">
-    <p><a href="../tcontentspage_2021.html"><  &nbsp; table of contents</a></p>
+    <p class="link"><a href="../tcontentspage_2021.html"><  &nbsp; table of contents</a></p>
     <div class="poemtags">
       <ul>
         <li><a href="">{{page.author}}</a></li>
@@ -69,10 +68,10 @@ layout: default
             <p>{{page.tbio}}</p>
            </div>
          </div>
-      {% unless page.image == "none" %}
+    </div>
+    {% unless page.image == "none" %}
         <img class="poem-image" src="{{page.image}}"></img>
       {% endunless %}
-    </div>
   </div>
 {% for pg in site.data.poems_2021 %}
 
@@ -94,10 +93,10 @@ layout: default
 
     {% endfor %}
   <div class="previouslink">
-    <p><a href="{{site.url}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
+    <p class = "link"><a href="{{site.url}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
   </div>
   <div class="nextlink">
-    <p><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
+    <p class = "link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
   </div>
 </body>
 <html>

@@ -44,7 +44,7 @@ a {
 }
 .nav li a {
 	display: block;
-	font-family: mr-eaves-modern, sans-serif;
+	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 20px;
@@ -126,6 +126,7 @@ p {
 
 .staff {
 	border-left: solid black 1px;
+	padding: 60px 60px 20px 0;
 }
 
 .staff-u ul {
