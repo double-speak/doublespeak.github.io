@@ -69,10 +69,10 @@ layout: default
             <p>{{page.tbio}}</p>
            </div>
          </div>
-      {% unless page.image == "none" %}
+    </div>
+    {% unless page.image == "none" %}
         <img class="poem-image" src="{{page.image}}"></img>
       {% endunless %}
-    </div>
   </div>
 {% for pg in site.data.poems_2021 %}
 

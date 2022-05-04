@@ -373,9 +373,7 @@ p.link {
 	flex:1;
 }
 .poem-image {
-	width:20vw;
-	height:30vh;
-	flex:1;
+	max-width:100%;
 	margin:20px;
 }
 
