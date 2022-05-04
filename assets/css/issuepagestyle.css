@@ -66,7 +66,7 @@ h1 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 60px;
+	font-size: 4.5vw;
 	line-height: 63px;
 	color: black;
 	text-align: left;
@@ -90,7 +90,7 @@ p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 22px;
+	font-size: 1.65vw;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
@@ -120,7 +120,7 @@ p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 20px;
+	font-size: 1.6vw;
 	color: black;
 	text-align: left;
 	text-decoration: none;
