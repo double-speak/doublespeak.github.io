@@ -186,7 +186,7 @@ p {
 .left-overlay-text {
 	position: absolute;
 	color: white;
-	text-align: center;
+	width: 80%;
 	margin-top: 40%;
 	opacity: 0;
 	-webkit-transform: translate(-50%,-50%);
