@@ -126,6 +126,7 @@ p {
 
 .staff {
 	border-left: solid black 1px;
+	padding: 60px 60px 20px 0;
 }
 
 .staff-u ul {
