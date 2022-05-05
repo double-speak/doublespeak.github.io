@@ -1,9 +1,46 @@
 ---
 pid: the-sand-and-the-angel
-transtitle: The Sand and the Angel
 title: La sabbia e l’angelo
+transtitle: The Sand and the Angel
 author: Margherita Guidacci
 translator: Quinn Gruber
+transpoem: "I.\nThey were not needed, the temples in ruin at the edges of deserts,\nwith
+  their broken columns and stairs that led nowhere;\nnor the sand-buried shipwrecks,
+  nor the whitening bones by the sea;\nnot even the violence of fire through our fields
+  and homes. \nEnough that the shadow rose from the room’s quietest corner,\nor kept
+  watch behind our half-closed door —\nThe thin rain on windows, a tin sheet that
+  wailed in wind:\nwe already knew we belonged to death.\n\nII.\nIf you want to leave
+  your trace, person, just scratch the sand,\nbecause the tallest tower will become
+  sand in the end.\nWrite your name on the deserted shore and pray the sea soon covers
+  it with sorrow:\nbecause you yourself are sand, you are the death that remains after
+  you.\n\nIII.\nEvery time we said goodbye,\nevery time we turned to childhood fallen
+  at our backs\n(soul trembling in its long sorrow),\nevery time we separated from
+  the beloved in the cold clarity of dawn,\nevery time we saw the enigma reseal itself
+  over dead eyes,\nor even when we simply listened to wind in deserted streets,\nand
+  watched autumn pass through the hills,\nit was the Angel at our side, consuming
+  us.\n\nIV.\nNow our love will spread through vineyards and wheatfields, \nour venom
+  in cacti and their mean spines.\nThe living will lean down to the springs and ask:\n“Who
+  pushes this water toward us from the world’s inscrutable veins?” \nAnd long before
+  the cold gathers them and night lies down on their heart,\neven in a midday of bees
+  \ and ardent nectars,\nthe living will know anguish because we are powerful and
+  near\nand there is no escape from the circle in which we already hold them,\nwith
+  every stalk that sprouted from us, and every fruit tree that bends full and grave
+  to our earth.\n\nV.\nThe voices were last to separate themselves. Not the massive
+  voices\nof the war and the hurricanes, \nnor the human, beloved voices,\nbut murmurs
+  of grasses and waters,  wind’s laughter, rustle\nof leaves where invisible squirrels
+  played,\ninsects’ joyed buzz  during many summers,\ndown to the insect that buzzed
+  more insistently\nin the room where we didn’t want to die.\nAnd everything collided
+  in a note, in a steady\nand whispered tumult, like blood,\nwhen our blood was living.
+  But by then we knew\nit was impossible to respond.\nAnd when the Angel asked: “Do
+  you still want to remember?”\nWe ourselves begged: “Leave, so silence comes!”\n\n\nVI.\nNeither
+  the broken branch nor the trampled grass on the paths\ntold us of its passage, but
+  the touch of solitude\nthat each thing kept inside itself and offered us, freeing—\nafter
+  the usual message—the other, unknown word. \nHow we startled, listening to it, how
+  securely it set\nour heart on the invisible trail!\nSo we always followed you, Ruler
+  and Beloved,\nand it didn’t surprise us, the white light in which you walked unveiled
+  at our side,\n(Now that the body’s shadow has cut across death’s meridian),\nSince
+  for a long time we knew only, we obeyed\nonly you, your fated prey, \nDragging,
+  on the streets of the earth, your strange celestial chain..\n"
 poem: "I.\nNon occorrevano i templi in rovina sul limitare dei deserti,\nCon le colonne
   mozze e le gradinate che in nessun luogo conducono;\nNé i relitti insabbiati, le
   ossa biancheggianti lungo il mare;\nE nemmeno la violenza del fuoco contro i nostri
@@ -42,56 +79,18 @@ poem: "I.\nNon occorrevano i templi in rovina sul limitare dei deserti,\nCon le 
   carnale è tramontata sul meridiano della morte),\nPoiché da lungo tempo te solo
   conoscevamo, a te solo \nObbedivamo, tua destinata preda,\nTrascinando sulle vie
   della terra la tua celeste catena straniera.\n"
-transpoem: "I.\nThey were not needed, the temples in ruin at the edge of deserts,\nWith
-  broken columns and stairs that led nowhere;\nNor the sand-buried shipwrecks, the
-  whitening bones along the sea;\nNot even the violence of the fire against our fields
-  and homes.\nIt was enough that the shadow rose from the quietest corner of the room,\nOr
-  kept vigil behind our half-closed door —\nThe thin rain on the windows, a sheet
-  of tin that groaned in the wind:\nWe already knew we belonged to death.\n\nII.\nIf
-  you want to leave your trace, soul, just scratch the sand,\nBecause the highest
-  tower will become sand in the end.\nWrite your name on the deserted shore, and pray
-  the sea soon covers it in tears:\nBecause you yourself are sand, you are the death
-  that remains after you.\n\nIII.\nEvery time we said goodbye;\nEvery time that we
-  turned toward childhood, fallen at our backs,\n(The soul shaking in its long lament);\nEvery
-  time that we separated ourselves from a beloved in the cold brightness of the sunrise;\nEvery
-  time that we saw the enigma reseal itself upon dead eyes;\nOr even when we simply
-  listened to the wind in the deserted streets,\nAnd watched autumn pass on the hill,\nThe
-  Angel stayed at our side and it consumed us.\n\nIV.\nNow our love will spread in
-  the vineyard and the grain,\nOur venom in the cacti and the cruel spines.\nThe living
-  will lean down to the springs, they will say:\n“Who pushes the water toward us from
-  the world’s unseen/lightless veins?”\nAnd long before the cold gathers them and
-  the night lays down upon their heart,\nEven in a midday of bees and sweet nectars,\nThey
-  will know anguish because we are powerful and near,\nAnd there is no escape from
-  the circle in which we already hold them,\nWith every stalk raised from us, and
-  every fruitful and heavy tree that bows toward our earth.\n\nV.\nThe voices were
-  the last to cease. Not the frightening voices\nOf wars and hurricanes, \nNor the
-  human and loved voices,\nBut murmurs of grasses and waters, laughter of wind, rustle\nOf
-  branches between which invisible squirrels played,\nJoyed hum of insects across
-  many summers\nDown to that insect that most insistently hummed\nIn the room where
-  we did not want to die.\nAnd everything collided in a note, in a rest\nAnd whispered
-  tumult, like that of blood,\nWhen our blood was living. But we already knew\nThat
-  it was impossible to respond to everything.\nAnd when the Angel asked us: “Do you
-  still want to remember?”\nWe ourselves implored: “Leave, that silence comes!”\n\nVI.\nNeither
-  the broken branch, nor the trampled blades of grass along the paths\nTold us of
-  its passage, but the touch of solitude\nThat each thing keeps in itself and returns
-  to us, freeing\nAfter the usual message, the other, unknown word.\nHow we startled
-  listening to it, how securely it set\nOur heart on the invisible trail!\nSo we always
-  followed you, Ruler and Beloved,\nNor did the white light in which you walk unveiled
-  at our side surprise us,\n(Now that the carnal shadow has set on death’s meridian),\nSince
-  for many years you alone we knew, you alone\nWe obeyed, your destined prey,\nDragging
-  on the streets of the earth your strange celestial chain.\n"
 note: |
-  <p>This series of six short poems from Margherita Guidacci’s first book of poetry, <em>La Sabbia e L’Angelo</em> (<em>The Sand and the Angel</em>, 1946) reckons with the relationship between humans and nature, as well as the broader cycle of life and death.</p>
-  <p>The last image in the poem of death as a “celeste catena straniera,” a “strange celestial chain,” particularly captivated me and guided my translation. I translated <em>straniero</em> as “strange” rather than the usual “foreign” because the Angel, a sort of overseer of the life/death balance, is a continuous presence in human life. I wanted “strange” to capture our inability to reconcile our knowledge of death with our own desire to live; we know death intimately, but are unable to fully comprehend what it entails.</p>
-  <p>As I translated the poem, I was surprised to find that Guidacci’s voice, both direct and clear, cosmic and spiritual, had an almost Romantic lilt in English that comes across in phrases such as “o uomo” (“O man,” which I translated simply as “soul”) and “Dominatore ed Amato” (“Ruler and Lover”). It’s crucial to note that Guidacci was not invested in the closed style of her contemporaries, the Hermetic poets; she instead used a more “ordinary” language to form the complex meanings and sounds of her works. Keeping this in mind, I tried to adhere as closely as I could to the flexible sentence order common to Italian while still maintaining sense in English, to convey that sense of familiarity and strangeness that coexists in the work.</p>
+  <p>This series of six short poems from Margherita Guidacci’s first book of poetry, <em>La sabbia e l’angelo</em> (<em>The Sand and the Angel</em>, 1946) reckons with the relationship between humans and nature, as well as the broader cycle of life and death.</p>
+  <p>The last image in the poem of death as a <i>celeste catena straniera</i>, a “strange celestial chain,” particularly captivated me and guided my translation. I translated <em>straniero</em> as “strange” rather than the usual “foreign” because the Angel, a sort of overseer of the life/death balance, is a continuous presence in human life. I wanted “strange” to capture our inability to reconcile our knowledge of death with our own desire to live; we know death intimately, but are unable to fully comprehend what it entails.</p>
+  <p>As I translated the poem, I was surprised to find that Guidacci’s voice, both direct and clear, cosmic and spiritual, had an almost Romantic lilt in English that comes across in phrases such as <i>o uomo</i> (“O man,” which I translated simply as “person”) and <i>Dominatore ed Amato</i> (“Ruler and Lover”). It’s crucial to note that Guidacci was not invested in the closed style of her contemporaries, the Hermetic poets; she instead used a more “ordinary” language to form the complex meanings and sounds of her works. Keeping this in mind, I tried to adhere as closely as I could to the flexible sentence order common to Italian while still maintaining sense in English, to convey that sense of familiarity and strangeness that coexists in the work.</p>
   <p>What struck me most deeply about the poem is how Guidacci recognizes the brevity of human life without assuming that our lives do not matter because of it. Rather, our absence serves as a permanent reminder of our existence: “Perché tu stesso sei sabbia, sei la morte che dopo te rimane.” “Because you yourself are sand, you are the death that remains after you.”</p>
 abio: "<p>Margherita Guidacci (1921–1992, Florence) was an Italian poet and translator.
   Without companions her own age, Guidacci’s childhood was marked by solitude and
-  a series of losses—most notably, the death of her father—that led her to poetry
+  a series of losses — most notably, the death of her father — that led her to poetry
   and literature. Guidacci graduated in 1943 from the Università di Firenze with a
-  degree in Italian literature; only three years later, <em>La Sabbia e L’Angelo</em>
+  degree in Italian literature; only three years later, <em>La sabbia e l’angelo</em>
   marked the beginning of her prolific literary career, over the course of which she
-  received many prestigious awards, such as the Biela Poesia prize and the Premio
+  received many prestigious awards, such as the Biela Poesia Prize and the Premio
   Caserta. Her poetry fused the domestic and the universal, resounding with deep emotion,
   yet stunningly clear. Alongside her many books of poetry, Guidacci published translations
   of the works of Emily Dickinson, Ernest Hemingway, H.D., T.S. Eliot, John Donne,
@@ -100,13 +99,12 @@ abio: "<p>Margherita Guidacci (1921–1992, Florence) was an Italian poet and tr
 tbio: "<p>Quinn Gruber is a junior at the University of Pennsylvania studying English
   and Italian literature. They love writing, editing, and having far too many hobbies.</p>"
 language: Italian
-year: 
 lang: it
 image: none
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2021'
-order: '11'
+order: '09'
 layout: poempage
 collection: poems_2021
 ---

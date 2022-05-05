@@ -1,9 +1,17 @@
 ---
 pid: xxv
-transtitle: XXV.
 title: XXV.
+transtitle: XXV.
 author: Osip Mandelstam
 translator: Elizabeth Balabayev
+transpoem: "Take from my palms with delight\nA patch of sunshine and a touch of honey,
+  \nAs decreed by Persephone’s bees.\n\nDo not untie an unmoored boat,\nDo not listen
+  for fur-shod shadows, \nDo not try to overcome a dense life of fear. \n\nAll that
+  remains for us are kisses —\nFurry like small bees\nwho die after leaving the hive.
+  \n\nThey rustle in the transparent, wild night,\nTheir home — the dense forests
+  of Taygete,\nTheir nectar — time, Pulmonaria, mint.\n\nJust take with delight my
+  savage gift,\nA plain necklace of her dried bees,\nHoney transformed into light.
+  \n\n1920\nOsip Mandelstam"
 poem: |-
   Возьми на радость из моих ладоней
   Немного солнца и немного меда,
@@ -27,14 +35,6 @@ poem: |-
 
   1920
   Осип Мандельштам
-transpoem: "Take from my palms with delight\nA patch of sunshine and a touch of honey,
-  \nAs decreed by Persephone's bees.\n\nDo not untie an unmoored boat,\nDo not listen
-  for fur-shod shadows, \nDo not try to overcome a dense life of fear. \n\nAll that
-  remains for us are kisses—\nFurry like small bees\nwho die after leaving the hive.
-  \n\nThey rustle in the transparent, wild night,\nTheir home—the dense forests of
-  Taygete,\nTheir nectar—time, Pulmonaria, mint.\n\nJust take with delight my savage
-  gift,\nA plain necklace of her dried bees,\nHoney transformed into light. \n\n1920\nOsip
-  Mandelstam"
 note: <p>In “XXV,” I really wanted to do more with mythology because it should be
   noted that this poem appears in both <em>Tristia</em> (1922) and <span lang= "ru"><em>Вторая
   Книга</em></span> (<em>Second Book</em>, 1923), which were written during Mandelstam’s
@@ -75,13 +75,12 @@ tbio: "<p>Elizabeth Balabayev studies English literature and creative writing (C
   She is from Texas, North Carolina, and Pennsylvania, and considers herself both
   Southern and Northern. Her family is American and Russian.</p>"
 language: Russian
-year: 
 lang: ru
 image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/obstfelder.jpg
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2021'
-order: '22'
+order: '20'
 layout: poempage
 collection: poems_2021
 ---

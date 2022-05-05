@@ -1,18 +1,17 @@
 ---
 pid: like-an-illusion-poetry
+title: <span lang="ko">환영처럼 시가</span>
 transtitle: Like an illusion, poetry
-title: 환영처럼 시가
 author: Kim Soon Mi
 translator: Nadia Park
-poem: "오월이 왔을 때\n환영처럼 \n시가 걸어 오는 모습이 보였다\n시낭송이 이어진 후\n시인들이 환대를 받았다\n창의문 너머에 휘영창 달이
-  왔고\n늙은 감나무가 달빛을 받았다\n그때 수수밭 사이로\n시인의 실루엣이 보였다\n시가 올 것 같아\n가슴 두근거렸다"
 transpoem: "When May came,\nlike an illusion\nI saw poetry walking to me.\nAfter the
   reading,\npoets were warmly welcomed.\nThe glistening moon hanging \nover Changuimun
   Gate, \nits moonlight illuminating\nthe old persimmon tree.\nThen amid the sorghum
-  field,\nI saw the poet's silhouette.\nMy heart pounded,\nas though poetry had arrived."
+  field,\nI saw the poet’s silhouette.\nMy heart pounded,\nas though poetry had arrived."
+poem: "오월이 왔을 때\n환영처럼 \n시가 걸어 오는 모습이 보였다\n시낭송이 이어진 후\n시인들이 환대를 받았다\n창의문 너머에 휘영창 달이
+  왔고\n늙은 감나무가 달빛을 받았다\n그때 수수밭 사이로\n시인의 실루엣이 보였다\n시가 올 것 같아\n가슴 두근거렸다"
 note: |-
   <p>Kim Soon Mi chooses words that often seem to float on their own, carrying a great deal of movement and feeling in each word that makes her poetry difficult to translate. This first poem I translated carries a sense of depression and desperation starting from the very first word, <span lang= "ko">과오로</span>. Is it a mistake? An error? A problem? A fault? A regret? I choose the word “mistake” because there can be a certain amount of sadness in this word, but there is nothing that can be done with what has happened in the past. There is only the option of moving forward with whatever is to come. Thus, when describing the actions of the shorebirds, there needed to be a desperation in the simple actions they were performing. As Kim states, her images of shorebirds are those of constant movement and a need to get from one point to the next, and felt this reflected her own life, especially when she most recently had depression. Furthermore, I took liberties in translation by adding more lines than the original, as I wanted to emphasize the desperation the narrator emits throughout the poem.</p>
-
   <p>“Like an illusion, poetry” was written as a moment in the year 2000 when Kim decided to become a poet. But the word, “illusion” was the most difficult word to translate. The word in English, coincidentally means “welcome” as well as “phantasm/illusion/fantasy.” Kim states that she did not intentionally choose this word, but it ultimately seemed to give readers that potential connection. Yet, when translating the poem, since we do not have a homophone word that holds both definitions, I wanted to focus on making sure the narrator was in a fantasy world, displaced from whatever current location they are in, and instead in a sort of mystical environment, where the moon would glow in vibrant color in an unbelievable size, and poetry would seem to be both present and somehow unattainable at the same time.</p>
 abio: "<p>Kim Soon Mi (1959–present) is a South Korean poet born in Uiseong in the
   Gyeongbuk region of South Korea. Kim’s way to becoming a poet was not always at
@@ -35,13 +34,12 @@ tbio: "<p>Nadia Park graduated from the University of Pennsylvania in 2019 as a 
   and unconsciously, discovering and encountering non-English poems and this year
   — a poet.</p>"
 language: Korean
-year: 
 lang: ko
 image: none
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2021'
-order: '20'
+order: '18'
 layout: poempage
 collection: poems_2021
 ---

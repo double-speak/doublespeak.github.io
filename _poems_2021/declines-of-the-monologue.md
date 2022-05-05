@@ -1,9 +1,63 @@
 ---
 pid: declines-of-the-monologue
-transtitle: Declines of the monologue
 title: Declinaciones del monólogo
+transtitle: Declines of the monologue
 author: Eunice Odio
 translator: 'Couloir Hanson '
+transpoem: |-
+  I
+  I am alone,
+  very alone,
+  between my waist and my dress,
+  alone among my entire voice,
+  with a charge of fragile angels
+  like those caresses
+  that collapse by themselves in the fingers.
+  In my hair, adrift,
+  a blue rower,
+  confused,
+  seeks a boy of sand.
+  Holding his tribes of smells
+  with a pale thread,
+  against a silhouette of roses,
+  in the quietest corner of my eyelids
+  thirteen pilgrims jostle against each other.
+
+  II
+  Arching myself lightly
+  over my heart of stone in bloom
+  to see it,
+  to tailor his arteries and my voice
+  in a given moment
+  in that someone comes,
+  and calls me…
+  but now please no one call me,
+  I no longer fit in anyone’s voice,
+  please no one call me,
+  because I am sinking to the depths of my smallness,
+  to the satisfied root of my shadow,
+  because now I am descending to the agonizing
+  touch of a miner, with his half flower at the shoulder,
+  and a great letter of I want you at the waist.
+  And I fall farther,
+  into the immediacies of the air
+  that lightened awaits the letters of his name
+  to be born perfect and inhabitable.
+  Lower,
+  I descend much more,
+  who will find me?
+  I wear my arteries
+  (what great haste I have),
+  I wear my arteries and my voice,
+  I don my heart of stone in bloom,
+  so that in a given moment
+  someone would come,
+  and call for me,
+  and I won’t be
+  lightly arched over my heart, to see it.
+  and I won’t have to go and leave my great voice,
+  and my high heart
+  of stone in bloom.
 poem: |+
   I
   Estoy sola,
@@ -60,60 +114,6 @@ poem: |+
   de piedra en flor.
 
 
-transpoem: |-
-  I
-  I am alone,
-  very alone,
-  between my waist and my dress,
-  alone among my entire voice,
-  with a charge of fragile angels
-  like those caresses
-  that collapse by themselves in the fingers.
-  In my hair, adrift,
-  a blue rower,
-  confused,
-  seeks a boy of sand.
-  Holding his tribes of smells
-  with a pale thread,
-  against a silhouette of roses,
-  in the quietest corner of my eyelids
-  thirteen pilgrims jostle against each other.
-
-  II
-  Arching myself lightly
-  over my heart of stone in bloom
-  to see it,
-  to tailor his arteries and my voice
-  in a given moment
-  in that someone comes,
-  and calls me…
-  but now please no one call me,
-  I no longer fit in anyone’s voice,
-  please no one call me,
-  because I am sinking to the depths of my smallness,
-  to the satisfied root of my shadow,
-  because now I am descending to the agonizing
-  touch of a miner, with his half flower at the shoulder,
-  and a great letter of I want you at the waist.
-  And I fall farther,
-  into the immediacies of the air
-  that lightened awaits the letters of his name
-  to be born perfect and inhabitable.
-  Lower,
-  I descend much more,
-  who will find me?
-  I wear my arteries
-  (what great haste I have),
-  I wear my arteries and my voice,
-  I don my heart of stone in bloom,
-  so that in a given moment
-  someone would come,
-  and call for me,
-  and I won’t be
-  lightly arched over my heart, to see it.
-  and I won’t have to go and leave my great voice,
-  and my high heart
-  of stone in bloom.
 note: "<p>Throughout her entire <em>oeuvre</em>, Odio plays with similar themes. In
   her earlier work, Odio analyzes the relationship between the lover and the beloved.
   In later poems, Odio will go on to explore the relationship between the creator
@@ -126,7 +126,7 @@ note: "<p>Throughout her entire <em>oeuvre</em>, Odio plays with similar themes.
   in Odio’s poetry. Through the erotic, Odio discusses the relationship between sexuality,
   the poetic body, and existential awareness. By touching upon the physical, she also
   transgresses the limits of conventional love poetry, becoming at once incredibly
-  avant-garde yet also completely rooted in her humanity.</p>\n\n<p>In two parts of
+  avant-garde yet also completely rooted in her humanity.</p>\n<p>In two parts of
   Declinaciones del monólogo, Odio writes of <em>calzarme,</em> be it “calzarme sus
   arterias y mi voz” or “me calzo mis arterias (y mi voz).” <em>Calzar</em> brings
   two images to my mind: fitting feet into shoes or fitting puzzle pieces together.
@@ -141,27 +141,26 @@ note: "<p>Throughout her entire <em>oeuvre</em>, Odio plays with similar themes.
   as “I don,” which is both a literal translation (albeit a rather old-fashioned one)
   and a translingual pun — in Spanish, <em>don</em> is an honorific derived from Latin
   <em>dominus</em>, master of a household. In this context, <em>don</em> places additional
-  emphasis on the mastery of the lyric “I” over herself.</p>\n\n<p>In Spanish, you
-  can express a desire in a commanding tone by using constructions like “que no me
-  llamen.” In translating this forceful wish into English, I thought of it as “please
-  no one call me,” highlighting the vulnerability and intensity of the lyric “I.”</p>\n\nThe
+  emphasis on the mastery of the lyric “I” over herself.</p>\n<p>In Spanish, you can
+  express a desire in a commanding tone by using constructions like “que no me llamen.”
+  In translating this forceful wish into English, I thought of it as “please no one
+  call me,” highlighting the vulnerability and intensity of the lyric “I.”</p>\nThe
   most common translation of “I like you” into Spanish is <em>te quiero</em> — to
   me, it is also one of the most careless. <em>Te quiero</em> connotes “I want you”
   and “I’m fond of you.” In attempting to transmit Odio’s erotic spirit as well as
   this poem’s struggle between love and independence, I opted for the “I want you”
-  variation.</p>\n\n<p>In all her poems, Odio plays with the different genders words
-  have in Spanish. In this poem, the salient example is “el aire,” “the (masculine)
+  variation.</p>\n<p>In all her poems, Odio plays with the different genders words
+  have in Spanish. In this poem, the salient example is <i>el aire</i>, “the (masculine)
   air.” He links the human with the eternal: immediate, waiting, and about to become
-  reborn. A counterpart to the lyric I, a masculine to her feminine. Thus, I emphasized
+  reborn. A counterpart to the lyric “I,” a masculine to her feminine. Thus, I emphasized
   the air’s masculinity in my translation (“the letters of <strong>his</strong> name”),
-  subtly alluded to in the original through Odio’s purposeful use of “de<strong>l</strong>
-  aire” as opposed to a possible “de aire” (deliberately including the implied masculine
-  “l”), and the gendered adjectives <em>aligerad<strong>o</strong></em> and <em>perfect<strong>o</strong></em>.</p> "
+  subtly alluded to in the original through Odio’s purposeful use of <i>de <strong>l</strong>
+  aire</i> as opposed to a possible <i>de aire</i> (deliberately including the implied
+  masculine “l”), and the gendered adjectives <em>aligerad<strong>o</strong></em>
+  and <em>perfect<strong>o</strong></em>.</p> "
 abio: |
   <p>Eunice Odio (1919–1974) detested biographies. “The affairs of my private life are the most private and, in general, no one knows them, except me.” Even so, I will attempt to provide a brief sketch of Odio’s lives — both the inner poetic life she constructed and the outer tragedy she lived — to better color her work.</p>
-
   <p>Octavio Paz once told Odio that she was “of that line of poets who invent their own mythology, like Blake, like St. John Perse, like Ezra Pound; and they are rubbed out, because no one understands them until years or even centuries after their death.” And as mythological Odio’s writing certainly is: she plays with language and gender and reality, often relaying her own mystical experiences in her poetry, inspired by old epics.</p>
-
   <p>Odio’s biography is impossible to extricate from her own personal mythology. For the longest time, scholars believed her birth year to have been 1922, perhaps due to Odio’s coquetry, until it was discovered that Odio had in fact been born in 1919. Her own death is even further shrouded in mystery: she was found ten days after her death, alone, in her bathtub in Mexico sometime in 1974; the exact date is uncertain. Suspicions as to how she died abound: suicide by venom, an accidental slip in the tub, assassination. The one certainty from Odio’s life is that she migrated from Costa Rica northward, seeking a home for her fierce individuality and expression. She never found it.</p>
 tbio: "<p>Couloir X. Hanson is a daughter of three worlds: Costa Rica, Germany, and
   the United States. Her favorite authors are magical realists, like Juan Rulfo and
@@ -173,13 +172,12 @@ tbio: "<p>Couloir X. Hanson is a daughter of three worlds: Costa Rica, Germany, 
   estate, where she hopes to use her whimsy to see what is and imagine what could
   be.</p>"
 language: Spanish
-year: 
 lang: es
 image: none
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2021'
-order: '29'
+order: '27'
 layout: poempage
 collection: poems_2021
 ---

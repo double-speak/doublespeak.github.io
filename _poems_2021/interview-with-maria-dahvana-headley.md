@@ -1,11 +1,11 @@
 ---
 pid: interview-with-maria-dahvana-headley
-transtitle: 
 title: Interview with Maria Dahvana Headley
+transtitle: Interview with Maria Dahvana Headley
 author: a conversation on translation, storytelling, and feminism
-translator: 
-poem: 
-transpoem: 
+translator:
+transpoem:
+poem:
 note: "<p><em>This interview was conducted by </em>DoubleSpeak<em> staff and Professor
   Taije Silverman.</em></p>\n \n<p><strong><em>DoubleSpeak</em>:</strong> The first
   question for today is: What got you interested in translation, and how do you see
@@ -43,7 +43,7 @@ note: "<p><em>This interview was conducted by </em>DoubleSpeak<em> staff and Pro
   events in order to create understanding across cultures.</p>\n\n<p>There’s a way
   to do this translation entirely in contemporary slang, like a translation of the
   twenty-first century, but the twenty-first century is  a compendium of everything
-  that came before it. That’s something that's always been really meaningful to me
+  that came before it. That’s something that’s always been really meaningful to me
   when thinking about history, especially the history of power structures and unfair
   status grabs. I think we tend to be like, “No, we’re just free-standing here in
   <em>our</em> time.” We don’t want to think about what our history has created for
@@ -86,7 +86,7 @@ note: "<p><em>This interview was conducted by </em>DoubleSpeak<em> staff and Pro
   see the same power language in <em>Beowulf</em> that we see today.</p>\n\n<p>I think
   about how, in our time, everyone stands on a little virtual soapbox, giving their
   own, often highly poetry-infused versions of events, going “I’m the hero.” We have
-  an entire society of “heroes,” all at odds, because the reality is that you can't
+  an entire society of “heroes,” all at odds, because the reality is that you can’t
   be a hero professionally for your whole life. A hero can only exist in a moment,
   in an action. I think that the notion of heroism is just a question of whether you’re
   trying to do it because of the status and the legacy and wanting a statue made of
@@ -219,16 +219,15 @@ note: "<p><em>This interview was conducted by </em>DoubleSpeak<em> staff and Pro
   poem is about. I got a new window into it. So, the things that I lost in terms of
   my ability to just write all day, I gained in my ability to see through the eyes
   of the mothers in the <em>Beowulf</em> story.</p>\n"
-abio: 
-tbio: 
+abio:
+tbio:
 language: English
-year: 
 lang: en
 image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/interview.jpeg
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2021'
-order: '18'
+order: '16'
 layout: poempage
 collection: poems_2021
 ---

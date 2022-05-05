@@ -1,24 +1,9 @@
 ---
 pid: maybe-its-clarity
-transtitle: Maybe it's clarity
 title: Forse la trasparenza
+transtitle: Maybe it’s clarity
 author: Filippo Vignali
 translator: Giulia Rupi and John Sherer
-poem: |-
-  Forse la trasparenza o la capacità di rendere bella
-  la luce che lo attraversa anche quando è scarsa.
-  La prima caratteristica
-  che ti verrebbe in mente per definire il cristallo
-  non è la fragilità.
-  E allora parliamo di coraggio, sensibilità, prudenza
-  nell'offrirsi al mondo con pochi filtri
-  sapendo che il torrente scava un greto
-  e deposita i suoi detriti
-  solo quando passa lontano dalla terra degli indifferenti.
-  L’innocenza può essere costruita
-  lavorata come la purezza del cristallo
-  non dipende dall’essere troppo giovani
-  per aver assaggiato abbastanza veleno.
 transpoem: |-
   Maybe it’s clarity, or the power to make the light
   shining through it beautiful, even when it’s scarce.
@@ -34,17 +19,31 @@ transpoem: |-
   polished to a crystal’s purity;
   it can be young or old
   as long as enough venom has been tasted.
-note: 
-abio: 
-tbio: 
+poem: |-
+  Forse la trasparenza o la capacità di rendere bella
+  la luce che lo attraversa anche quando è scarsa.
+  La prima caratteristica
+  che ti verrebbe in mente per definire il cristallo
+  non è la fragilità.
+  E allora parliamo di coraggio, sensibilità, prudenza
+  nell’offrirsi al mondo con pochi filtri
+  sapendo che il torrente scava un greto
+  e deposita i suoi detriti
+  solo quando passa lontano dalla terra degli indifferenti.
+  L’innocenza può essere costruita
+  lavorata come la purezza del cristallo
+  non dipende dall’essere troppo giovani
+  per aver assaggiato abbastanza veleno.
+note:
+abio:
+tbio:
 language: Italian
-year: 
 lang: it
 image: none
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2021'
-order: '33'
+order: '31'
 layout: poempage
 collection: poems_2021
 ---

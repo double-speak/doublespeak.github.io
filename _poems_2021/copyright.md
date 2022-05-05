@@ -55,7 +55,7 @@ image:
 origaudio:
 translaudio:
 edition:
-order: '48'
+order: '46'
 layout: poempage
 collection: poems_2021
 ---

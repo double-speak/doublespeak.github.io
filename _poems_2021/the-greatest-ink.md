@@ -1,9 +1,17 @@
 ---
 pid: the-greatest-ink
+title: La mejor tinta
 transtitle: The Greatest Ink
-title: La Mejor Tinta
 author: Armando Valladares
 translator: Margaret Lawlace
+transpoem: "They’ve taken everything from me,\nthe pens, \nthe pencils, \nthe ink,\nbecause
+  they don’t want\nme to write,\nand they’ve sunk me down \ndeep in this cell,\nbut
+  my rebellion will not drown.\nThey’ve taken everything from me —\nwell, almost everything
+  —\nbut here is my smile,\nthe pride of a man set free,\nand in my soul a garden,\nflowering
+  eternally.\nThey’ve taken everything from me,\nthe pens, \nthe pencils,\nbut here
+  is the ink of life —\nmy own blood —\nand thus I write my verses still.\n\n*Original
+  written with my blood and a splinter of wood in April 1981 in the cells of the East
+  Combined Prison in Havana."
 poem: |-
   Me lo han quitado todo
   las plumas
@@ -29,14 +37,6 @@ poem: |-
 
   *Original escrito con mi sangre y una astillita de madera en abril de 1981 en las celdas
   de castigo de la Cárcel Combinado del Este, en La Habana.
-transpoem: "They’ve taken everything from me,\nthe pens, \nthe pencils, \nthe ink,\nbecause
-  they don’t want\nme to write,\nand they’ve sunk me down \ndeep in this cell,\nbut
-  my rebellion will not drown.\nThey've taken everything from me —\nwell, almost everything
-  —\nbut here is my smile,\nthe pride of a man set free,\nand in my soul a garden,\nflowering
-  eternally.\nThey’ve taken everything from me,\nthe pens, \nthe pencils,\nbut here
-  is the ink of life —\nmy own blood —\nand thus I write my verses still.\n\n*Original
-  written with my blood and a splinter of wood in April 1981 in the cells of the East
-  Combined Prison in Havana."
 note: "<p>The most striking part of this poem to me is the ending, when we find out
   that the central metaphor is no metaphor at all. Our author takes the well-used
   living-through-writing idea and writes with his actual blood, the only means available
@@ -63,13 +63,12 @@ abio: "<p>What little information exists about Armando Valladares on the interne
 tbio: "<p>Margaret Lawlace is a graduate student in clinical psychology at the University
   of Cincinnati. She enjoys watching birds, cats, and cats watching birds.</p>"
 language: Spanish
-year: 
 lang: es
 image: none
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2021'
-order: '38'
+order: '36'
 layout: poempage
 collection: poems_2021
 ---
