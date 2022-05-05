@@ -55,6 +55,21 @@ plugins:
 #   - vendor/ruby/
 
 collections:
+  poems_2022:
+    layout: 'poempage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2022.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  notes_2022:
+    layout: 'notepage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2022.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  
   poems_2021:
     layout: 'poempage'
     output: true # this must be true for your .md pages to be built to html!
@@ -84,5 +99,16 @@ search:
           - translator
           - poem
           - transpoem
+          - language
+      poems_2022:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - transtitle
+          - title
+          - author
+          - translator
+          - poem
+          - transpoem
+          - language
 
 
