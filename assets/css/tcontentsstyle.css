@@ -245,26 +245,26 @@ p {
 
 :lang(zh) {
 	font-family: source-han-sans-traditional, sans-serif !important;
-	font-weight: 400;
+	font-weight: 300;
 	font-style: normal;
 	color: black;
 	text-align: left;
 }
 
 :lang(zh) h2 { 
-    font-weight: 400;
+    font-weight: 300;
     font-size: 50px;
 	line-height: 55px;
   }
 
 :lang(zh) h3 { 
-    font-weight: 400;
+    font-weight: 300;
     font-size: 50px;
 	line-height: 55px;
   }
 
 :lang(zh) p{ 
-    font-weight:  400;
+    font-weight:  300;
     font-size: 22px;
   }
 
