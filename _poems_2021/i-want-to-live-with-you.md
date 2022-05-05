@@ -104,6 +104,7 @@ translaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" 
   title="Wenhan - I Want To Live With You" target="_blank" style="color: #cccccc;
   text-decoration: none;">Wenhan - I Want To Live With You</a></div>'
 edition: '2021'
+pagetype: submission
 order: '29'
 layout: poempage
 collection: poems_2021

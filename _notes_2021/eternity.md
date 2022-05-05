@@ -1,9 +1,16 @@
 ---
 pid: eternity
-transtitle: Eternity
 title: L’Éternité
+transtitle: Eternity
 author: Arthur Rimbaud
 translator: 'Keshav Sharma '
+transpoem: "It is found anew.\nWhat? — Eternity.\n’Tis the sea that pursues\nThe sun’s
+  infinity.\n\nOh, vigilant soul,\nSoftly we confess\nOf night’s empty hole\nAnd kindling
+  day’s caress.\n\nFrom human praise\nFrom common desires\nYou part ways\nAnd still
+  fly higher.\n\nSince from only you,\nEmbers of satin,\nDuty exhales through\nWith
+  no end imagined.\n\nThere is no hope there, \nNor any rising\nReason and patience
+  pare, \nTorment is on the horizon.\n\nIt is found again.\nWhat? — Eternity.\n’Tis
+  the sea that pursues\nThe sun’s infinity. \n"
 poem: |
   Elle est retrouvée.
   Quoi? — L’Éternité.
@@ -34,13 +41,6 @@ poem: |
   Quoi? — L’Éternité.
   C’est la mer allée
   Avec le soleil.
-transpoem: "It is found anew.\nWhat? — Eternity.\n’Tis the sea that pursues\nThe sun’s
-  infinity.\n\nOh, vigilant soul,\nSoftly we confess\nOf night’s empty hole\nAnd kindling
-  day’s caress.\n\nFrom human praise\nFrom common desires\nYou part ways\nAnd still
-  fly higher.\n\nSince from only you,\nEmbers of satin,\nDuty exhales through\nWith
-  no end imagined.\n\nThere is no hope there, \nNor any rising\nReason and patience
-  pare, \nTorment is on the horizon.\n\nIt is found again.\nWhat? — Eternity.\n’Tis
-  the sea that pursues\nThe sun’s infinity. \n"
 note: |-
   <p>Arthur Rimbaud’s “Eternity,” published in May 1872, reflects a marked shift in the poet’s form and style, opting for a more subtle tone and delicate imagery to express his desire for spiritual rejuvenation. This follows a period of violent passion, jealousy, and guilt on account of his illicit relationship with fellow poet Paul Verlaine. More importantly, the poem represents a liminal stage in Rimbaud’s poetic career: the departure from poetic convention in the form of verse composition into the individual territory, where he pushed the boundaries of poetic structure and style through his later works. “Eternity” is a timeless depiction of an evanescent moment, the sunset at sea.</p>
   <p>The interplay of light and dark and the layered visual and aural imagery that Rimbaud uses to emphasize the abstract nature of the setting portrays eternity as an elusive yet tantalizing experience for the narrator. In keeping with this interpretation while consolidating the original form to the greatest extent possible, I chose to translate <em>allée</em>, which is literally translated as “gone” to “pursues.” By doing so, I aimed to characterize this scene between the sea and the sun as an eternal journey as opposed to an eternal destination for the narrator, thereby setting the stage for the flurry of observations and emotions that ensues. The sun also represents an object of rapture for the narrator, so I translated it in a manner that complements the transience of the moment: “the sun’s infinity” within an “Eternity.”</p>
@@ -67,7 +67,6 @@ tbio: "<p>Keshav Sharma is a freshman at Queen’s University in Kingston, Ontar
   playwright Molière. His interest in translating poetry stems from his belief that
   all languages have universal similarities and it is simply up to us to uncover them.</p>"
 language: French
-year: 
 lang: fr
 image: none
 origaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"
@@ -89,7 +88,8 @@ translaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" 
   title="L&#x27;Eternite English Translation Recording" target="_blank" style="color:
   #cccccc; text-decoration: none;">L&#x27;Eternite English Translation Recording</a></div>'
 edition: '2021'
-order: '41'
+pagetype: submission
+order: '37'
 layout: notepage
 collection: notes_2021
 ---

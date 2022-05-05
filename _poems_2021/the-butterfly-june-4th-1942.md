@@ -69,6 +69,7 @@ translaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" 
   title="English Audio" target="_blank" style="color: #cccccc; text-decoration: none;">English
   Audio</a></div>'
 edition: '2021'
+pagetype: submission
 order: '13'
 layout: poempage
 collection: poems_2021

@@ -43,7 +43,8 @@ image: none
 origaudio:
 translaudio:
 edition: '2021'
-order: '34'
+pagetype: submission
+order: '32'
 layout: poempage
 collection: poems_2021
 ---

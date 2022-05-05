@@ -14,7 +14,7 @@ transpoem: "<i>To all my sisters who suffer far from me</i>\n\nWomen of Africa! 
   of Africa! \nBeautiful women with dark skin \nAccept the request of your sister
   from Senegal. \n\nBeautiful black women \nTo your enteral destinies, \nEnlist in
   your brigades\nI will put on the uniform of refusal, \nI will participate in your
-  mockery\nOf combat, and I will cry: \n\nLONG LIVE THE LIBERATED AFRICA! \n"
+  mockery\nOf combat, and I will cry: \n\nLONG LIVE THE LIBERATED AFRICA! "
 poem: "<i>A toute mes soeurs qui souffrent loin de moi</i>\n\nFemmes africaines !\nFemmes
   de savanes et de la steppe ! \nFemmes des régions libérées ! \nFemmes de la Guinée
   Bissau, femmes d’Afrique ! \n\nVous avez aimé devant la rougeur de feux, \nSous
@@ -64,6 +64,7 @@ image: none
 origaudio:
 translaudio:
 edition: '2021'
+pagetype: submission
 order: '23'
 layout: poempage
 collection: poems_2021

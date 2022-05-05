@@ -88,7 +88,8 @@ translaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" 
   title="L&#x27;Eternite English Translation Recording" target="_blank" style="color:
   #cccccc; text-decoration: none;">L&#x27;Eternite English Translation Recording</a></div>'
 edition: '2021'
-order: '39'
+pagetype: submission
+order: '37'
 layout: poempage
 collection: poems_2021
 ---

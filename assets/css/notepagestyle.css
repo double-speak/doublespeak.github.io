@@ -114,7 +114,7 @@ h1 {
 .note p strong {
 	display: inline;
 	font-family: futura-pt, sans-serif;
-	font-weight: 400;
+	font-weight: 300;
 	font-style: normal;
 	color: black;
 	text-align: left;
@@ -123,7 +123,15 @@ h1 {
 .note ul{
 	list-style-type: circle;
 	list-style-position: outside;
-	width: 70%;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 24px;
+	font-style: normal;
+	color: black;
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .note li{
@@ -131,8 +139,10 @@ h1 {
 	font-weight: 300;
 	font-style: normal;
 	font-size: 18px;
+	line-height: 24px;
 	color: black;
 	text-align: left;
+	padding-bottom: 20px;
 }
 
 
@@ -174,7 +184,7 @@ h1 {
 .abio p strong {
 	display: inline;
 	font-family: futura-pt, sans-serif;
-	font-weight: 400;
+	font-weight: 300;
 	font-style: normal;
 	color: black;
 	text-align: left;
@@ -222,7 +232,7 @@ h1 {
 
 .tbio p strong{
 	font-family: futura-pt, sans-serif;
-	font-weight: 400;
+	font-weight: 300;
 	font-style: normal;
 	color: black;
 	text-align: left;

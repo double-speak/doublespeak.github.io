@@ -60,6 +60,7 @@ image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets
 origaudio:
 translaudio:
 edition: '2021'
+pagetype: submission
 order: '01'
 layout: poempage
 collection: poems_2021

@@ -1,10 +1,21 @@
 ---
 pid: women
-transtitle: 'Women '
 title: 'Femmes '
+transtitle: Women
 author: Mariama Ndiaye
 translator: Donnisa Edmonds
-poem: "A toute mes soeurs qui souffrent loin de moi \n\nFemmes africaines !\nFemmes
+transpoem: "<i>To all my sisters who suffer far from me</i>\n\nWomen of Africa! \nWomen
+  of the Savanah and the Plain! \nWomen of the liberated regions! \nWomen of the Guinea-Bissau,
+  women of Africa! \n\nYou have loved before the blush of fire, \nUnder the silence
+  of the enemy, \nYou have given life under the sputter of machine guns, \nYou the
+  sisters oppressed, you who guard in your womb, \nThe face of the immortal Africa!
+  \nYou will not be neither forgotten, nor left to fade. \n\nYou have fed Africa from
+  your lifeblood\nYour skin of ebony refuses the caress of the colonizer. \n\nWomen
+  of Africa! \nBeautiful women with dark skin \nAccept the request of your sister
+  from Senegal. \n\nBeautiful black women \nTo your enteral destinies, \nEnlist in
+  your brigades\nI will put on the uniform of refusal, \nI will participate in your
+  mockery\nOf combat, and I will cry: \n\nLONG LIVE THE LIBERATED AFRICA! "
+poem: "<i>A toute mes soeurs qui souffrent loin de moi</i>\n\nFemmes africaines !\nFemmes
   de savanes et de la steppe ! \nFemmes des régions libérées ! \nFemmes de la Guinée
   Bissau, femmes d’Afrique ! \n\nVous avez aimé devant la rougeur de feux, \nSous
   le silence de l’ennemi, \nVous avez donné vie sous les crépitements des mitrailleuses\nVous
@@ -15,19 +26,6 @@ poem: "A toute mes soeurs qui souffrent loin de moi \n\nFemmes africaines !\nFem
   votre sœur du Sénégal. \n\nBelles femmes noires \nAux destinées éternelles, \nEnrôle
   dans vos brigades\nJe mettrai l’uniforme du refus, \nJe participerai à vos simulacres\nDe
   combat, et je crierai : \n\nVIVE L’AFRIQUE LIBRE ! "
-transpoem: "To all my sister who suffer far from me\nWomen of Africa! \nWomen of the
-  Savanah and the Plain! \nWomen of the liberated regions! \nWomen of the Guinea-Bissau,
-  women of Africa! \n\nYou have loved before the blush of fire, \nUnder the silence
-  of the enemy, \nYou have given life under the sputter of machine guns, \nYou the
-  sisters oppressed, you who guard in your womb, \nThe face of the immortal Africa!
-  \nYou will not be neither forgotten, nor left to fade. \n\nYou have fed Africa from
-  your lifeblood (sap, vital essence, life blood of life) \nYour skin of ebony refuses
-  the caress of the colonizer. \n\nWomen of Africa! \nBeautiful women with dark skin
-  \nAccept the request of your sister from Senegal. \n\nBeautiful black women \nTo
-  your enteral destinies, \nEnlist in your brigades\nI will put on the uniform of
-  refusal, \nI will participate in your mockery/sham simulacrum/false representation/
-  poor imitation) \nOf combat, and I will cry: \n\nLONG LIVE THE LIBERATED AFRICA!
-  \n"
 note: "<p>Three years ago, I translated the poem “Femme Noir” by Léopold Senghor for
   the 2018 edition of <em>DoubleSpeak</em>. When I found this poem by Ndiaye, I felt
   that it was a near perfect follow-up to my first translation, as it offers both
@@ -52,7 +50,7 @@ note: "<p>Three years ago, I translated the poem “Femme Noir” by Léopold Se
 abio: "<p>Mariam Ndiaye is a Senegalese poet and politician. Unfortunately, this was
   the extent of the information I was able to find about her through the Internet.
   These poems were sourced from an anthology of Senegalese poetry published by the
-  Senegalese Center of P.E.N. International.</p>"
+  Senegalese Center of PEN International.</p>"
 tbio: "<p>Donnisa Edmonds is a recent graduate of the University of Pennsylvania who
   is currently working as a neuroscience researcher trying to understand how we use
   our brains to make decisions. She was born in the Bronx, New York, but grew up in
@@ -61,13 +59,13 @@ tbio: "<p>Donnisa Edmonds is a recent graduate of the University of Pennsylvania
   sewing, roller skating, excessive visits to the craft store, and discussing music
   opinions with anyone who will listen.</p>"
 language: French
-year: 
 lang: fr
 image: none
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2021'
-order: '25'
+pagetype: submission
+order: '23'
 layout: notepage
 collection: notes_2021
 ---

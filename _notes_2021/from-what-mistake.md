@@ -1,9 +1,14 @@
 ---
 pid: from-what-mistake
+title: <span lang="ko">어떤 과오로부터</span>
 transtitle: "“From what mistake”"
-title: 어떤 과오로부터
 author: Kim Soon Mi
 translator: Nadia Park
+transpoem: "From what mistake\nfrom what joy\nhave you come?\nLight and heavy, the
+  bodies of shorebirds\ndestroyed wings\ntruncated tails\nemaciated legs and webbed
+  feet\nstuck in a grey whirl\nprecariously lined up\nlimping, slipping\ntoward a
+  single destination.\nSome dive\neyes closed.\nBut need to go\nmust go\nto a home
+  \nalready gone."
 poem: |
   어떤 과오로부터
   어떤 환희로부터
@@ -20,22 +25,17 @@ poem: |
   눈 감고서라도
   가야 하고 가야만 하는
   이미 사라진 귀로
-transpoem: "From what mistake\nfrom what joy\nhave you come?\nLight and heavy, the
-  bodies of shorebirds\ndestroyed wings\ntruncated tails\nemaciated legs and webbed
-  feet\nstuck in a grey whirl\nprecariously lined up\nlimping, slipping\ntoward a
-  single destination.\nSome dive\neyes closed.\nBut need to go\nmust go\nto a home
-  \nalready gone."
-note: 
-abio: 
-tbio: 
+note:
+abio:
+tbio:
 language: Korean
-year: 
 lang: ko
 image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/kim_soon_mi.jpg
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2021'
-order: '19'
+pagetype: submission
+order: '17'
 layout: notepage
 collection: notes_2021
 ---

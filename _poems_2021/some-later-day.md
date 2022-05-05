@@ -60,6 +60,7 @@ image: none
 origaudio:
 translaudio:
 edition: '2021'
+pagetype: submission
 order: '30'
 layout: poempage
 collection: poems_2021

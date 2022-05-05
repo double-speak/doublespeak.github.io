@@ -35,6 +35,7 @@ image: none
 origaudio:
 translaudio:
 edition: '2021'
+pagetype:
 order: '19'
 layout: poempage
 collection: poems_2021

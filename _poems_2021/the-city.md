@@ -85,6 +85,7 @@ translaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" 
   title="The City ENG" target="_blank" style="color: #cccccc; text-decoration: none;">The
   City ENG</a></div>'
 edition: '2021'
+pagetype: submission
 order: '21'
 layout: poempage
 collection: poems_2021
