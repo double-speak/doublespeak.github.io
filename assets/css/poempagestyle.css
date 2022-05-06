@@ -66,8 +66,8 @@ h1 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 32px;
-	line-height: 38.4px;
+	font-size: 34px;
+	line-height: 36px;
 	color: black;
 	text-align: left;
 	margin-top: 40px;
@@ -80,8 +80,8 @@ h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: italic;
-	font-size: 28px;
-	line-height: 34.4px;
+	font-size: 18px;
+	line-height: 20px;
 	color: black;
 	text-align: left;
 	margin-left: 60px;
@@ -152,7 +152,8 @@ p strong {
 	margin: 40px 0 0 -80px;
 	color: black;
 	text-decoration: none;
-	font-size:22px;
+	font-size: 18px;
+	line-height: 20px;
 }
 
 .tcontentslink a:hover {
@@ -180,11 +181,12 @@ p strong {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size:22px;
+	font-size: 16px;
+	line-height: 14px;
 	color: black;
 	border: solid black 1px;
 	text-align: right;
-	padding: 13px 25px 13px 25px;
+	padding: 10px 20px 10px 20px;
 	margin: 0px 10px 0px 10px;
 	text-decoration: none;
 }
@@ -240,7 +242,8 @@ p strong {
 	padding: 10px;
 	color: black;
 	text-decoration: none;
-	font-size:18px;
+	font-size: 18px;
+	line-height: 20px;
 }
 
 .previouslink a:hover {
@@ -258,7 +261,8 @@ p strong {
 	padding: 10px;
 	color: black;
 	text-decoration: none;
-	font-size:18px;
+	font-size: 18px;
+	line-height: 20px;
 }
 
 .nextlink a:hover {
@@ -274,16 +278,15 @@ p strong {
 	direction: rtl;
 }
 
-:lang(ar) h1{ 
+h1:lang(ar) { 
     font-family: adobe-arabic, sans-serif; 
     font-weight: 700;
     font-style:  normal;
     font-size: 60px;
 	line-height: 63px;
-
   }
 
-:lang(ar) h2{ 
+h2:lang(ar) { 
     font-family: adobe-arabic, sans-serif; 
     font-weight: 400;
     font-style:  normal;
@@ -291,7 +294,7 @@ p strong {
 	line-height: 55px;
   }
 
-:lang(ar) h3{ 
+h3:lang(ar) { 
     font-family: adobe-arabic, sans-serif; 
     font-weight: 400;
     font-style:  normal;
@@ -299,11 +302,12 @@ p strong {
 	line-height: 55px;
   }
 
-:lang(ar) p{ 
+pre:lang(ar), pre:lang(ar) { 
     font-family: adobe-arabic, sans-serif; 
     font-weight: 400;
     font-style:  normal;
     font-size: 22px;
+	line-height: 24px;
   } 
 
 :lang(zh) {
@@ -313,27 +317,28 @@ p strong {
 	text-align: left;
 }
 
-:lang(zh) h1 { 
+h1:lang(zh) { 
     font-weight: 500;
     font-size: 60px;
 	line-height: 63px;
   }
 
-:lang(zh) h2 { 
+h2:lang(zh) { 
     font-weight:  400;
     font-size: 50px;
 	line-height: 55px;
   }
 
-:lang(zh) h3 { 
+h3:lang(zh) { 
     font-weight:  400;
     font-size: 50px;
 	line-height: 55px;
   }
 
-:lang(zh) p{ 
+p:lang(zh), pre:lang(zh){ 
     font-weight:  400;
-    font-size: 22px;
+    font-size: 26px;
+	line-height: 28px;
   }
 
 :lang(ja) { 
@@ -343,28 +348,29 @@ p strong {
 	text-align: left;
 	}
 
-:lang(ja) h1{ 
+h1:lang(ja) { 
     font-weight:  500;
     font-size: 60px;
 	line-height: 63px;
   }
 
-:lang(ja) h2{ 
+h2:lang(ja) { 
     font-weight: 300;
     font-size: 50px;
 	line-height: 55px;
   }
 
-:lang(ja) h3{ 
+h3:lang(ja) { 
     font-weight: 300;
     font-size: 50px;
 	line-height: 55px;
   }
 
-:lang(ja) p{ 
+p:lang(ja), pre:lang(ja) { 
     font-weight: 300;
     font-style:  normal;
-    font-size: 22px;
+    font-size: 26px;
+	line-height: 28px;
   }     
  
 
@@ -375,57 +381,58 @@ p strong {
 	text-align: left;
 	}
 
-:lang(ko) h1{ 
+h1:lang(ko) { 
     font-weight: 500;
     font-size: 60px;
 	line-height: 63px;
 
   }
 
-:lang(ko) h2{ 
+h2:lang(ko) { 
     font-weight: 300;
     font-size: 50px;
 	line-height: 55px;
   }
 
-:lang(ko) h3{ 
+h3:lang(ko) { 
     font-weight: 300;
     font-size: 60px;
 	line-height: 63px;
   }    
 
-:lang(ko) p{ 
+p:lang(ko), pre:lang(ko) { 
     font-weight: 200;
     font-style: normal;
-    font-size: 22px;
+    font-size: 26px;
+	line-height: 28px;
   }
 
-:lang(th){ 
+:lang(th) { 
     font-family: ibm-plex-thai-looped, sans-serif !important;
     font-style: normal;
     color: black;
 	text-align: left;
     } 
 
-:lang(th) h1{ 
+h1:lang(th) { 
     font-weight:  400;
     font-size: 60px;
 	line-height: 63px;
   }
 
-:lang(th) h2{ 
+h2:lang(th) { 
     font-weight:  300;
 	font-size: 50px;
 	line-height: 55px;
   }
 
-:lang(th) h3{ 
+h3:lang(th) { 
     font-weight:  300;
 	font-size: 50px;
 	line-height: 55px;
   }  
 
-:lang(th) p{ 
+p:lang(th), pre:lang(th) { 
     font-weight:  300;
     font-size: 22px;
   }
@@ -437,30 +444,30 @@ p strong {
     color: black;
 	}
 
-:lang(he) h1{ 
+h1:lang(he) { 
     font-weight:  400;
     font-size: 60px;
 	line-height: 63px;
   }
 
-:lang(he) h2{ 
+h2:lang(he) { 
     font-weight:  300;
     font-size: 50px;
 	line-height: 55px;
   }  
 
-:lang(he) h3{ 
+h3:lang(he) { 
     font-weight:  300;
     font-size: 60px;
 	line-height: 63px;
 }
 
-:lang(he) p{ 
+pre:lang(he) { 
     font-weight:  300;
     font-size: 22px;
   }
 
-:lang(he) pre { 
+p:lang(he), pre:lang(he) { 
     font-weight:  300;
     font-size: 22px;
 	text-align: right;
@@ -474,26 +481,26 @@ p strong {
 	text-align: left;
 	}
 
-:lang(hi) h1{ 
+h1:lang(hi) { 
     font-weight:  400;
     font-size: 60px;
 	line-height: 63px;
 	
   }
 
-:lang(hi) h2{
+h2:lang(hi) {
     font-weight:  300;
     font-size: 50px;
 	line-height: 55px;
   }  
 
-:lang(hi) h3{ 
+h3:lang(hi) { 
     font-weight:  300;
     font-size: 36px;
 	line-height: 40px;
   }
 
-:lang(hi) p{ 
+p:lang(hi), pre:lang(hi) { 
     font-weight:  300;
     font-size: 22px;
   }
