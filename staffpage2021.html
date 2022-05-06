@@ -1,0 +1,88 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="../assets/css/miscpagestyle.css">
+      <link rel="stylesheet" href="https://use.typekit.net/ixt2gok.css">
+    <script>
+  (function(d) {
+    var config = {
+      kitId: 'lit0ksd',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);</script>
+  <script src="https://kit.fontawesome.com/5f40f4e0da.js" crossorigin="anonymous"></script>
+  <!-- the script is for fontawesome, which has a lot of icons that I thought would be good for the link arrows that we have in the figma design! -->
+</head>
+
+   <title>staff page</title>
+
+<body>
+  <header>
+    <a href="../index.html">
+      <div class="logo">
+        <img src="../assets/images/doublespeak_logo.png" alt="doublespeak logo">
+      </div>
+    </a>
+    <div class="nav">
+      <ul>
+        <li><a href="../search.html">search</a></li>
+        <li><a href="../about.html">about</a></li>
+        <li><a href="../submit.html">submit</a></li>
+        <li><a href="../issues.html">issues</a></li>
+      </ul>
+    </div>
+  </header>
+  <div class="tcontentslink">
+    <p><a href="../tcontentspage_2021.html"><  &nbsp; table of contents</a></p>
+  </div>
+  <div class=container>
+    <div class="staff">
+      <h2>our staff</h2>
+      <ul class="staff-u">
+        {% for item in site.data.staff_2021 %}
+        <li class="staff-l"><a><strong>{{item.name}}</strong> — {{item.role}}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="acknowledgements">
+        <h2> acknowledgements </h2>
+        <p>Thank you to the Kelly Writers House, the Student Activities Council at the University of Pennsylvania, and the Price Lab for Digital Humanities, especially Cassandra Hradil, for their support of <em>DoubleSpeak</em>.</p>
+    </div>
+  </div>
+
+<!--   {% assign previousIndex = page.pid | minus: 1 %} -->
+
+    {% for pg in site.data.poems_2021 %}
+
+      {% if pg.pid == page.pid %}
+
+          {% assign previousIndex = forloop.index | minus: 1 %}
+        {% endif %}
+
+
+    {% endfor %}
+
+    {% for pg in site.data.poems_2021 %}
+
+         {% if forloop.index == previousIndex %}
+
+          {% assign previousPage = pg.pid %}
+
+        {% endif %}
+
+    {% endfor %}
+  <div class="previouslink">
+    <p><a href="{{site.url}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
+  </div>
+  <div class="nextlink">
+    <p><a href="{{site.url}}/notes_{{page.edition}}/{{page.pid}}">next &nbsp; ></a></p>
+  </div>
+</body>
+<html>

@@ -46,20 +46,9 @@ layout: default
     <div class="staff">
       <h2>our staff</h2>
       <ul class="staff-u">
-        <li class="staff-l"><a><strong>Kate Jiang</strong> — editor-in-chief</a></li>
-        <li class="staff-l"><a><strong>Quinn Gruber</strong> — senior editor, design editor</a></li>
-        <br>
-        <li class="staff-l"><a><strong>Ryan Hardy</strong> — lead copy editor, staff editor</a></li>
-        <li class="staff-l"><a><strong>Chardonnay Needler</strong> — copyright regulator, marketing chair, staff editor, copy editor</a></li>
-        <li class="staff-l"><a><strong>Stacy Shimanuki</strong> — staff editor</a></li>
-        <li class="staff-l"><a><strong>Daniel Shevchenko</strong> — staff editor, copy editor</a></li>
-        <li class="staff-l"><a><strong>Arthur Wei</strong> — staff editor, copy editor</a></li>
-        <li class="staff-l"><a><strong>Hannah Zhao</strong> — staff editor, copy editor</a></li>
-        <li class="staff-l"><a><strong>Andrea Conde</strong> — staff editor, copy editor</a></li>
-        <li class="staff-l"><a><strong>Alisha Kumar</strong> — webmaster</a></li>
-        <li class="staff-l"><a><strong>Ashley Sniffen</strong> — copy editor</a></li>
-        <br>
-        <li class="staff-l"><a><strong>Taije Silverman</strong> — faculty advisor</a></li>
+        {% for item in site.data.staff_2022 %}
+        <li class="staff-l"><a><strong>{{item.name}}</strong> — {{item.role}}</a></li>
+        {% endfor %}
       </ul>
     </div>
     <div class="acknowledgements">
