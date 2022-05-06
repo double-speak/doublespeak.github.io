@@ -271,6 +271,20 @@ p strong {
 
 /* language code */
 
+p:lang(ru), pre:lang(ru){
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
 :lang(ar){
 	font-family: adobe-arabic, sans-serif !important;
 	color: black;
