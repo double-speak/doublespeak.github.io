@@ -1,0 +1,52 @@
+---
+pid: Whispered
+title: Tiše
+transtitle: Whispered
+author: František Halas
+translator: Kathryn Dettmer
+poem: |
+  Kláskem hubeným je tělo tvé
+  z nějž zrno vypadlo a nevzlící
+  jak klásek hubený je tělo tvé
+
+  Přadenem z hedvábí je tělo tvé
+  toužením popsané do vrásky poslední
+  jak přadeno z hedvábí je tělo tvé
+
+  Spáleným nebem je tělo tvé
+  čivavě v tkáni smrtka sní
+  jak spálené nebe je tělo tvé
+
+  Přetiché je tělo tvé
+  jeho pláč zachvívá mými víčky
+  jak tiché je tělo tvé
+transpoem: |-
+  A thin stalk is your body
+  from which grain fell without sprouting
+  how like a thin stalk is your body
+
+  A skein of silk is your body
+  desire written on the tissues’s every last wrinkling
+  how like a skein of silk is your body
+
+  A burning sky is your body
+  furtively, a banshee with it, in the weaving
+  how like a burning sky is your body
+
+  The quiet is your body
+  its cry sets my eyelids trembling
+  how like the quiet is your body
+note: 
+abio: 
+tbio: 
+language: Czech
+lang: cs
+image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/halas.jpg
+image2: none
+translaudio: 
+origaudio: 
+edition: '2022'
+order: '03'
+layout: notepage
+collection: notes_2022
+---
