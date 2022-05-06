@@ -155,6 +155,7 @@ p {
 	display: flex;
 	flex-direction: row;
 	margin-bottom: 4%;
+	max-height:30vw;
 }
 
 .left {
