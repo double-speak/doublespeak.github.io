@@ -125,6 +125,8 @@ p {
 	position: absolute;
 }
 
+/*staff page formats */
+
 
 .staff {
 	border-left: solid black 1px;
@@ -157,6 +159,28 @@ p {
 
 .acknowledgements {
 	padding: 30px 0 10px 0;
+}
+
+/* ednote formats */
+
+.ednote {
+	width: 70%;
+	margin-top: 30px;
+}
+
+.signature {
+	text-align: right;
+}
+
+h2 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 50px;
+	line-height: 55px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
 }
 
 /*links to other poems*/
