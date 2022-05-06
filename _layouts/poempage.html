@@ -64,7 +64,9 @@ layout: default
 
 <!--   {% assign previousIndex = page.pid | minus: 1 %} -->
 
-    {% for pg in site.data.poems_2021 %}
+{% assign path = "poems_" | append: page.edition %}
+
+  {% for pg in site.data[path] %}
 
       {% if pg.pid == page.pid %}
 
@@ -74,7 +76,7 @@ layout: default
 
     {% endfor %}
 
-    {% for pg in site.data.poems_2021 %}
+    {% for pg in site.data[path] %}
 
          {% if forloop.index == previousIndex %}
 

@@ -40,7 +40,7 @@ layout: default
     </div>
   </header>
    <div class="tcontentslink">
-    <p class="link"><a href="../tcontentspage_2021.html"><  &nbsp; table of contents</a></p>
+    <p class="link"><a href="../tcontentspage_{{page.edition}}.html"><  &nbsp; table of contents</a></p>
     <div class="poemtags">
       <ul>
         <li><a href="">{{page.author}}</a></li>
@@ -73,7 +73,10 @@ layout: default
         <img class="poem-image" src="{{page.image}}"></img>
       {% endunless %}
   </div>
-{% for pg in site.data.poems_2021 %}
+
+{% assign path = "poems_" | append: page.edition %}
+
+{% for pg in site.data[path] %}
 
       {% if pg.pid == page.pid %}
 
@@ -83,7 +86,7 @@ layout: default
 
     {% endfor %}
 
-    {% for pg in site.data.poems_2021 %}
+    {% for pg in site.data[path] %}
 
          {% if forloop.index == nextIndex %}
   
@@ -96,7 +99,7 @@ layout: default
     <p class = "link"><a href="{{site.url}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
   </div>
   <div class="nextlink">
-    <p class = "link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
+    <p class = "link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
   </div>
 </body>
 <html>
