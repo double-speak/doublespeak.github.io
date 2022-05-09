@@ -1,5 +1,5 @@
 ---
-pid: The-Vultures
+pid: the-vultures
 title: Les vautours
 transtitle: The Vultures
 author: David Diop
@@ -68,8 +68,10 @@ language: French
 lang: fr
 image: none
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '07'
 layout: notepage

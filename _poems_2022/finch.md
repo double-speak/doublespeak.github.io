@@ -63,6 +63,8 @@ language: Mandarin
 lang: zh
 image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/ergun.jpg
 image2: none
+imagecredit:
+imagecredit2:
 translaudio: |-
   <iframe
     frameborder="0"

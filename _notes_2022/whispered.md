@@ -1,5 +1,5 @@
 ---
-pid: Whispered
+pid: whispered
 title: Tiše
 transtitle: Whispered
 author: František Halas
@@ -36,15 +36,17 @@ transpoem: |-
   The quiet is your body
   its cry sets my eyelids trembling
   how like the quiet is your body
-note: 
-abio: 
-tbio: 
+note:
+abio:
+tbio:
 language: Czech
 lang: cs
 image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/halas.jpg
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '03'
 layout: notepage

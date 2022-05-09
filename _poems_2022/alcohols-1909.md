@@ -1,5 +1,5 @@
 ---
-pid: Alcohols-1909
+pid: alcohols-1909
 title: 'Alcools: 1909'
 transtitle: 'Alcohols: 1909'
 author: Guillaume Apollinaire
@@ -74,10 +74,13 @@ language: French
 lang: fr
 image: https://github.com/qgruber8/qgruber8.github.io/blob/02d9a6732a2b902e3047151ad1fda95bb5190523/assets/images/images_22/apollinaire.jpg
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '15'
 layout: poempage
 collection: poems_2022
+...
 ---

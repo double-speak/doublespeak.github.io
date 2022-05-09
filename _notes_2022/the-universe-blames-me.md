@@ -1,5 +1,5 @@
 ---
-pid: The-universe-blames-me
+pid: the-universe-blames-me
 title: تلومني الدنيا
 transtitle: The universe blames me
 author: Nizar Qabbani
@@ -96,8 +96,10 @@ language: Arabic
 lang: ar
 image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/qabbani.jpg
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '18'
 layout: notepage
