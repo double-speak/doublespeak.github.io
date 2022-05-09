@@ -99,6 +99,11 @@ p {
 	margin-right: 40px;
 }
 
+.issue-link {
+	text-decoration:none;
+	color:white;
+}
+
 .latest {
 	border-bottom: solid black 1px;
 }
