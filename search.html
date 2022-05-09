@@ -47,7 +47,7 @@ layout: default
 {% assign placeholder = include.placeholder | default: 'Search... ' %}
 {% assign key = 'main' | default: 'main' %}
 {% assign config = site.search[key] %}
-{% assign index = '/search/index.json' | absolute_url %}
+{% assign index = '../search/index.json' | absolute_url %}
 {%- capture fields -%}
   {%- for collection in config.collections -%}
     {%- for field in collection[1].fields -%}
@@ -74,10 +74,9 @@ layout: default
 <!-- i think this is necessary but unclear - emily -->
 <!-- <script type='text/javascript' async defer src='{{ "/assets/bootstrap/bootstrap.min.js" | absolute_url }}'></script>
 <script type='text/javascript' async defer src='{{ "/assets/popper.min.js" | absolute_url }}'></script> -->
-<script type='text/javascript' src="{{ '/assets/elasticlunr.min.js' | absolute_url }}"></script>
-<script type="text/javascript" src="{{ '/assets/search-ui.js' | absolute_url }}"></script>
-<script type="text/javascript" src="{{ '/assets/search-ui-edited.js' | absolute_url }}"></script>
-<script type='text/javascript' src="{{ '/assets/jquery-3.2.1.min.js' | absolute_url }}"></script>
+<script type='text/javascript' src="{{ '/assets/elasticlunr.min.js' }}"></script>
+<script type="text/javascript" src="{{ '/assets/search-ui-edited.js' }}"></script>
+<script type='text/javascript' src="{{ '/assets/jquery-3.2.1.min.js' }}"></script>
 <script type='text/javascript'>
   var fields    = {{ fields | jsonify }};
   var indexFile = "{{ index }}";
