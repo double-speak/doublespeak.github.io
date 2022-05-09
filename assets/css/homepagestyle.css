@@ -140,6 +140,7 @@ p {
 	height: 175%;
 	width: 100%;
 	margin-top: -100px;
+	object-fit: cover;
 }
 
 .currentissue-overlay {
