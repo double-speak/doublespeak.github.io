@@ -62,7 +62,7 @@ a {
 
 /* text */
 
-h1 {
+.ednote h1, .copyright h1 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -100,7 +100,7 @@ pre {
 	margin-right: 40px;
 }
 
-p {
+.ednote p, .copyright p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -118,7 +118,7 @@ p em {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: italic;
-	line-height:18px;
+	line-height: 20px;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
@@ -131,7 +131,7 @@ p strong {
 	font-family: futura-pt, sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	line-height:18px;
+	line-height: 20px;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
