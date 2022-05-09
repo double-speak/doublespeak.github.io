@@ -71,7 +71,7 @@ h1 {
 	color: black;
 	text-align: left;
 	margin-top: 40px;
-	margin-bottom: 0px;
+	margin-bottom: 30px;
 	margin-left: 60px;
 	margin-right: 40px;
 }
@@ -91,7 +91,8 @@ p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 22px;
+	font-size: 18px;
+	line-height: 20px;
 	color: black;
 	text-align: left;
 	margin-top: 0px;
@@ -117,16 +118,16 @@ p {
 
 .about {
 	border-bottom: solid black 1px;
-	padding: 60px 60px 20px 0;
+	padding: 0px 60px 20px 0;
 }
 
 .acknowledgements {
-	padding: 60px 0 20px 0;
+	padding: 0px 0 20px 0;
 }
 
 .staff {
 	border-left: solid black 1px;
-	padding: 60px 60px 20px 0;
+	padding: 0px 60px 20px 0;
 }
 
 .staff-u ul {
@@ -136,7 +137,8 @@ p {
 	column-width: 1000px;
 	column-gap: 60px;
 	width: 60%;
-	font-size: 20px;
+	font-size: 18px;
+	line-height: 20px;
 
 	border: solid red 1px;
 	background-color: black;
@@ -146,8 +148,8 @@ p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 20px;
-	line-height: 40px;
+	font-size: 18px;
+	line-height: 30px;
 	color: black;
 	text-align: left;
 	margin: 0 180px 0 20px;

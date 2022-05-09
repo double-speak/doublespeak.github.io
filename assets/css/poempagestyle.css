@@ -298,6 +298,7 @@ h1:lang(ar) {
     font-style:  normal;
     font-size: 60px;
 	line-height: 63px;
+	text-align: right;
   }
 
 h2:lang(ar) { 
@@ -306,6 +307,7 @@ h2:lang(ar) {
     font-style:  normal;
 	font-size: 50px;
 	line-height: 55px;
+	text-align: right;
   }
 
 h3:lang(ar) { 

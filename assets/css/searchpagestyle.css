@@ -111,7 +111,7 @@ p {
 	width: 50%;
 }
 
-/*submission form*/
+/*search form*/
 
 .searchform form{
 	padding: 10px;
@@ -142,7 +142,7 @@ p {
 input {
 	width: 990px;
 	height: 30px;
-	margin: 0px 0px 15px 10px;
+	margin: 0px 0px 15px 60px;
 	background-color: #f5eee4;
 	border: solid black 1px;
 }
