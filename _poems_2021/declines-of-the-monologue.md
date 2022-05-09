@@ -178,7 +178,7 @@ origaudio:
 translaudio:
 edition: '2021'
 pagetype: submission
-order: '27'
+order: '26'
 layout: poempage
 collection: poems_2021
 ---

@@ -2,7 +2,7 @@
 pid: some-later-day
 title: <span lang="ko">먼 후일</span>
 transtitle: Some Later Day
-author: Kim Sowol (<span lang= "ko">김소월</span>)
+author: 'Kim Sowol (<span lang= "ko" style="font-style: normal">김소월</span>)'
 translator: Younghoon Jeong and Saagar Asnani
 transpoem: |-
   If in the distant future you seek me,
@@ -61,7 +61,7 @@ origaudio:
 translaudio:
 edition: '2021'
 pagetype: submission
-order: '30'
+order: '29'
 layout: poempage
 collection: poems_2021
 ---

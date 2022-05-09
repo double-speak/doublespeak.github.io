@@ -2,7 +2,7 @@
 pid: if-heritage-were-called-hither-air
 title: Wenn Die Herkunft Herluft Hiesse
 transtitle: If Heritage Were Called Hither-Air
-author: Marica Bodroži<span lang= "bs" dir="ltr">ć</span>
+author: 'Marica Bodroži<span lang= "bs" style="font-style: normal">ć</span>'
 translator: Qingyang Zhou
 transpoem: "If Heritage were called Hither-Air,\nI could say,\nI was a person of clouds.
   I could say,\nI was a turf of weather and no one was disturbed\nBy my Yugoslavian
@@ -96,7 +96,7 @@ translaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" 
   Air</a></div>'
 edition: '2021'
 pagetype: submission
-order: '33'
+order: '32'
 layout: notepage
 collection: notes_2021
 ---

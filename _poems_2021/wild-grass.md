@@ -2,7 +2,7 @@
 pid: wild-grass
 title: <span lang="zh">《野草》题辞 </span>
 transtitle: Wild Grass
-author: Lu Xun (<span lang= "zh">鲁迅</span>)
+author: 'Lu Xun (<span lang= "zh" style="font-style: normal">鲁迅</span>)'
 translator: Chardonnay Needler
 transpoem: "When I’m quiet, I feel complete; I then open my mouth, simultaneously
   feeling empty. \n\nThe past life has already died. With respect to its death, I
@@ -55,7 +55,7 @@ origaudio:
 translaudio:
 edition: '2021'
 pagetype: submission
-order: '24'
+order: '23'
 layout: poempage
 collection: poems_2021
 ---

@@ -1,5 +1,5 @@
 ---
-pid: дневник-снятого-локдауна
+pid: diario-del-encierro-levantado
 title: Diario del encierro levantado
 transtitle: Дневник снятого локдауна
 author: translated by Ryan Hardy
@@ -54,7 +54,7 @@ origaudio:
 translaudio:
 edition: '2021'
 pagetype: submission
-order: '43'
-layout: poempage
-collection: poems_2021
+order: '42'
+layout: notepage
+collection: notes_2021
 ---

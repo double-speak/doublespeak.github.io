@@ -52,7 +52,7 @@ layout: default
       <div class="left">
         {% for item in site.data.toc_2021 %}
         <div class="tcleft">
-          <h2 class="tcleft"><a href="poems_2021/{{item.pid}}">{{ item.transtitle }}</a> [<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</h2>
+          <h2 class="tcleft"><a href="poems_2021/{{item.pid}}">{{ item.transtitle }} [<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</a></h2>
           <h3 class="tcleft">written by {{ item.engauthor }} <span lang= "{{ item.lang }}" dir="ltr">{{ item.ogauthor }}</span><br> translated from {{ item.language }} by {{ item.translator }}</h3>
         </div>
         {% endfor %}

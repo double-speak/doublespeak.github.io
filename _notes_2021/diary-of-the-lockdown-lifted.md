@@ -2,7 +2,7 @@
 pid: diary-of-the-lockdown-lifted
 title: <span lang="zh">开封日记</span>
 transtitle: Diary of the Lockdown Lifted
-author: Zhang Zhihao (<span lang= "zh">张执浩</span>)
+author: 'Zhang Zhihao (<span lang= "zh" style="font-style: normal">张执浩</span>)'
 translator: 'Zhiqiao (Kate) Jiang and Liwa Sun
 
   '
@@ -37,7 +37,7 @@ origaudio:
 translaudio:
 edition: '2021'
 pagetype: submission
-order: '39'
+order: '38'
 layout: notepage
 collection: notes_2021
 ---

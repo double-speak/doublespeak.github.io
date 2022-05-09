@@ -1,5 +1,5 @@
 ---
-pid: diário-do-final-da-quarentena
+pid: diario-do-final-da-quarentena
 title: Le journal d’un confinement cessé
 transtitle: Diário do final da quarentena
 author: translated by Couloir Hanson
@@ -31,7 +31,7 @@ origaudio:
 translaudio:
 edition: '2021'
 pagetype: submission
-order: '42'
+order: '41'
 layout: poempage
 collection: poems_2021
 ---

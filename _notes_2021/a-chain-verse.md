@@ -2,7 +2,7 @@
 pid: a-chain-verse
 title: '<span lang="zh">连环诗: 赏花归去</span>'
 transtitle: A Chain Verse
-author: Su Shi (<span lang= "zh">苏轼</span>)
+author: 'Su Shi (<span lang= "zh" style="font-style: normal">苏轼</span>)'
 translator: 'Gil Lehmann, Jacey Chang, and Yehudith Dashevsky '
 transpoem: "Enjoy\nDusk                Flower\nAlready                        Come\nTime
   \                               Back\nWaking                                Horse\nSlightly
