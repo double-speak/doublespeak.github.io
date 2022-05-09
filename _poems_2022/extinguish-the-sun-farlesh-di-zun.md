@@ -1,5 +1,5 @@
 ---
-pid: Extinguish-the-Sun-Farlesh-Di-Zun
+pid: extinguish-the-sun-farlesh-di-zun
 title: פאַרלעש די זון
 transtitle: Extinguish the Sun (Farlesh Di Zun)
 author: Zusman Segalovitsh
@@ -40,8 +40,10 @@ language: Yiddish
 lang: he
 image: none
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '06'
 layout: poempage

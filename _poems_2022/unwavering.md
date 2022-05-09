@@ -1,5 +1,5 @@
 ---
-pid: Unwavering
+pid: unwavering
 title: Manteniéndome firme
 transtitle: Unwavering
 author: Zoraida Armengol
@@ -74,8 +74,10 @@ tbio: "<p>howdy, i am Pablo (he/him)! i am Spanish and Cuban and Miamian! i do s
   — may or may not be forthcoming.</p>"
 language: Spanish
 lang: es
-image: 
+image:
 image2: none
+imagecredit:
+imagecredit2:
 translaudio: |-
   <div>
   <h3> Original Poem </h3>

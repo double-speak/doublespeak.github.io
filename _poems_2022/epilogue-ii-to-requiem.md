@@ -1,5 +1,5 @@
 ---
-pid: Epilogue-II-to-Requiem
+pid: epilogue-ii-to-requiem
 title: Реквием. Эпилог II
 transtitle: Epilogue II to "Requiem"
 author: Anna Akhmatova
@@ -101,8 +101,10 @@ language: Russian
 lang: ru
 image: https://github.com/qgruber8/qgruber8.github.io/blob/02d9a6732a2b902e3047151ad1fda95bb5190523/assets/images/images_22/akhmatova.jpeg
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '19'
 layout: poempage

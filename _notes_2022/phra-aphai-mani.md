@@ -1,5 +1,5 @@
 ---
-pid: Phra-Aphai-Mani
+pid: phra-aphai-mani
 title: พระอภัยมณี
 transtitle: Phra Aphai Mani
 author: Sunthorn Phu
@@ -54,8 +54,10 @@ language: Thai
 lang: th
 image: none
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '13'
 layout: notepage

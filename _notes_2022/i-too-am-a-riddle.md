@@ -1,5 +1,5 @@
 ---
-pid: I-Too-Am-a-Riddle
+pid: i-too-am-a-riddle
 title: प्रिय! मैं हूँ एक पहेली भी
 transtitle: I, Too, Am a Riddle
 author: Mahadevi Varma
@@ -43,8 +43,10 @@ language: Hindi
 lang: hi
 image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/varma.jpg
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '00'
 layout: notepage

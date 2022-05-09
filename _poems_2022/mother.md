@@ -1,5 +1,5 @@
 ---
-pid: Mother
+pid: mother
 title: Anne
 transtitle: Mother
 author: Sirin Parkan
@@ -44,8 +44,10 @@ language: Turkish
 lang: tr
 image: none
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '16'
 layout: poempage

@@ -1,5 +1,5 @@
 ---
-pid: Zinka
+pid: zinka
 title: Зинка
 transtitle: Zinka
 author: Yuliya Drunina
@@ -98,8 +98,10 @@ language: Russian
 lang: ru
 image: https://github.com/qgruber8/qgruber8.github.io/blob/02d9a6732a2b902e3047151ad1fda95bb5190523/assets/images/images_22/drunina1.jpg
 image2: https://github.com/qgruber8/qgruber8.github.io/blob/02d9a6732a2b902e3047151ad1fda95bb5190523/assets/images/images_22/drunina2.jpg
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '12'
 layout: poempage

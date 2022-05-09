@@ -1,5 +1,5 @@
 ---
-pid: Morituri
+pid: morituri
 title: Morituri
 transtitle: Morituri
 author: Adolf Brand
@@ -50,8 +50,10 @@ language: German
 lang: de
 image: https://github.com/qgruber8/qgruber8.github.io/blob/e7a3a5f21a2e9d57650483f646e6120452302194/assets/images/images_22/Brand_Morituri.png
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '09'
 layout: notepage

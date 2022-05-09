@@ -1,5 +1,5 @@
 ---
-pid: I-Have-Seen-Ikh-Hob-Gezen
+pid: i-have-seen-ikh-hob-gezen
 title: " איך האָבּ געזען"
 transtitle: I Have Seen (Ikh Hob Gezen)
 author: Zusman Segalovitsh
@@ -14,15 +14,17 @@ transpoem: "I have seen how the sun shines upon slaughter, \nI have seen what Ma
   wonder the night has become dear, then.\n \nOne can only cover the bodies, conceal
   them,\nFor the image still wanders and my heart is not blind.\nLet the barren roads
   of Poland wail,\nLet the wind cry with blood for all of our kind.\n"
-note: 
-abio: 
-tbio: 
+note:
+abio:
+tbio:
 language: Yiddish
 lang: he
 image: none
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '05'
 layout: notepage

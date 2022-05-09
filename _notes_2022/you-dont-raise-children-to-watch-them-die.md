@@ -1,5 +1,5 @@
 ---
-pid: YOU-DONT-RAISE-CHILDREN-TO-WATCH-THEM-DIE
+pid: you-dont-raise-children-to-watch-them-die
 title: NO SE CRÍAN HIJOS PARA VERLOS MORIR
 transtitle: YOU DON’T RAISE CHILDREN TO WATCH THEM DIE
 author: Rosabetty Muñoz
@@ -63,8 +63,10 @@ language: Spanish
 lang: es
 image: none
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '01'
 layout: notepage

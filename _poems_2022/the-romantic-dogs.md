@@ -1,5 +1,5 @@
 ---
-pid: The-Romantic-Dogs
+pid: the-romantic-dogs
 title: Los perros románticos
 transtitle: The Romantic Dogs
 author: Roberto Bolaño
@@ -41,15 +41,17 @@ transpoem: "Back then I was twenty years old\nand crazy.\nI had lost a country\n
   leave behind the images of the pain and the labyrinth\nand you’ll forget.\nBut at
   that time growing up would’ve been a crime.\nI’m here, I said, together with the
   romantic dogs\nand here I’ll stay."
-note: 
-abio: 
-tbio: 
+note:
+abio:
+tbio:
 language: Spanish; English
 lang: es
 image: none
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '20'
 layout: poempage

@@ -456,29 +456,34 @@ p:lang(th), pre:lang(th) {
     font-style: normal;
     direction: rtl;
     color: black;
+    text-align:right;
 	}
 
 h1:lang(he) { 
     font-weight:  400;
     font-size: 60px;
 	line-height: 63px;
+	text-align:right;
   }
 
 h2:lang(he) { 
     font-weight:  300;
     font-size: 50px;
 	line-height: 55px;
+	text-align:right;
   }  
 
 h3:lang(he) { 
     font-weight:  300;
     font-size: 60px;
 	line-height: 63px;
+	text-align:right;
 }
 
 pre:lang(he) { 
     font-weight:  300;
     font-size: 22px;
+    text-align:right;
   }
 
 p:lang(he), pre:lang(he) { 

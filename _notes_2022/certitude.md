@@ -1,5 +1,5 @@
 ---
-pid: Certitude
+pid: certitude
 title: Jistota
 transtitle: Certitude
 author: František Halas
@@ -42,8 +42,10 @@ language: Czech
 lang: cs
 image: none
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '04'
 layout: notepage

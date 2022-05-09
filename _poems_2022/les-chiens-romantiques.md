@@ -1,5 +1,5 @@
 ---
-pid: Les-chiens-romantiques
+pid: les-chiens-romantiques
 title: 浪漫主义狗
 transtitle: Les chiens romantiques
 author: translated by Zhiqiao (Kate) Jiang, Ziang (Arthur) Wei, Hannah Zhao, Chardonnay
@@ -44,15 +44,17 @@ transpoem: "À ce temps-là j’avais vingt ans                        \net j’
   m’a dit : tu grandiras.\nTu laisseras tomber les images de la douleur et du labyrinthe\net
   tu oublieras.\nMais à ce temps-là, grandir aurait été un crime.\nJe suis ici, ai-je
   dit, avec les chiens romantiques\net c’est ici que je vais rester."
-note: 
-abio: 
-tbio: 
+note:
+abio:
+tbio:
 language: Chinese; French
 lang: zh
 image: none
 image2: none
-translaudio: 
-origaudio: 
+imagecredit:
+imagecredit2:
+translaudio:
+origaudio:
 edition: '2022'
 order: '21'
 layout: poempage
