@@ -54,11 +54,17 @@ layout: default
       <h1><span lang= "{{ page.lang }}">{{page.title}}</span></h1>
       <h2>{{page.author}}</h2>
       <pre lang="{{ page.lang }}">{{page.poem}}</pre>
+      <div class="audio">
+        {{page.origaudio}}
+      </div>
     </div>
     <div class="transpoem">
       <h1>{{page.transtitle}}</h1>
       <h2>{{page.translator}}</h2>
       <pre>{{page.transpoem}}</pre>
+      <div class="audio">
+        {{page.translaudio}}
+      </div>
     </div>
   </div>
 
