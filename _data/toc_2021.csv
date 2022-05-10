@@ -1,5 +1,5 @@
 pid,transtitle,title,engauthor,ogauthor,translator,language,lang,pagetype
-ednote2021,Editor’s Note,,,,,,,frontmatter
+ednote2021,Editor's Note,,,,,,,frontmatter
 staffpage2021,Staff Page,,,,,,,frontmatter
 every-day-the-sun-slits-the-throat-of-its-former-self,every day the sun slits the throat of its former self,chaque jour le soleil égorge son spectre,Amina Saïd,,Ashley Sniffen,French,fr,content
 a-chain-verse,A Chain Verse,"<span lang=""zh"">连环诗: 赏花归去</span>",Su Shi,"(<span lang=""zh"">苏轼</span>)","Gil Lehmann, Jacey Chang, and Yehudith Dashevsky",Chinese,zh,content
@@ -33,9 +33,9 @@ wild-grass,Wild Grass,"<span lang=""zh"">《野草》题辞 </span>",Lu Xun,"(<s
 eclipse,Eclipse,Eclipse,Carlos de Assumpção,,Pedro Lino,Portuguese,pt,content
 transfigured-night,Transfigured Night,Verklärte Nacht,Richard Dehmel,,Jonathan Iwry,German,de,content
 declines-of-the-monologue,Declines of the monologue,Declinaciones del monólogo,Eunice Odio,,Couloir Hanson,Spanish,es,content
-a-letter-of-menakhem-mendl,A Letter of Menakhem-Mendl,"<""span lang=""he>
- מכתב של מנחם-מנדל  
-<span/>",Nathan Alterman,"(<span lang=""he"">נתן אלתרמן</span>)",Dan Ben-Amos,Hebrew,he,content
+a-letter-of-menakhem-mendl,A Letter of Menakhem-Mendl,"<span lang=""he"">
+מכתב של מנחם-מנדל
+</span>",Nathan Alterman,"(<span lang=""he"">נתן אלתרמן</span>)",Dan Ben-Amos,Hebrew,he,content
 i-want-to-live-with-you,I want to live with you,"<span lang=""ru"">Я бы хотела жить с Вами</span>",Marina Tsvetaeva,"(<span lang=""ru"">Марина Ивановна Цветаева</span>)",Wenhan Zhang,Russian,ru,content
 some-later-day,Some Later Day,"<span lang=""ko"">먼 후일</span>",Kim Sowol,"(<span lang=""ko"">김소월</ko>)",Younghoon Jeong and Saagar Asnani,Korean,ko,content
 maybe-its-clarity,Maybe it’s clarity,Forse la trasparenza,Filippo Vignali,,Giulia Rupi and John Sherer,Italian,it,content
@@ -51,3 +51,4 @@ eternity,Eternity,L’Éternité,Arthur Rimbaud,,Keshav Sharma,French,fr,content
 romance-of-the-moon-and-the-child,Romance of the moon and the child,"Romance de la luna, luna.",Federico García Lorca,,Darío Goldgel Carballo,Spanish,es,content
 diary-of-the-lockdown-lifted,Diary of the Lockdown Lifted,"<span lang=""zh"">开封日记</span>",Zhang Zhihao,"<span lang=""zh"">张执浩</span>","<em>DoubleSpeak</em> Staff
 ",Chinese,zh,content
+copyright_2021,Copyright,,,,,,,frontmatter

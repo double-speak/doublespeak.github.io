@@ -43,9 +43,9 @@ layout: default
     <p><a href="../tcontentspage_{{page.edition}}.html"><  &nbsp; table of contents</a></p>
     <div class="poemtags">
       <ul>
-        <li><a href="../tcontentspage_2021.html">{{page.language}}</a></li>
-        <li><a href="../tcontentspage_2021.html">{{page.translator}}</a></li>
-        <li><a href="../tcontentspage_2021.html">{{page.author}}</a></li>
+        <li><a href="">{{page.language}}</a></li>
+        <li><a href="">{{page.translator}}</a></li>
+        <li><a href="">{{page.author}}</a></li>
       </ul>
     </div>
   </div>
@@ -73,7 +73,6 @@ layout: default
           {% assign previousIndex = forloop.index | minus: 1 %}
         {% endif %}
 
-
     {% endfor %}
 
     {% for pg in site.data[path] %}
@@ -82,14 +81,17 @@ layout: default
 
           {% assign previousPage = pg.pid %}
 
-        {% endif %}
 
+        {% endif %}
+      
     {% endfor %}
   <div class="previouslink">
-    <p><a href="{{site.url}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
+    <p class="link"><a href="{{site.url}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
   </div>
   <div class="nextlink">
-    <p><a href="{{site.url}}/notes_{{page.edition}}/{{page.pid}}">next &nbsp; ></a></p>
+
+      <p class="link"><a href="{{site.url}}/notes_{{page.edition}}/{{page.pid}}">next &nbsp; ></a></p>
+
   </div>
 </body>
 <html>

@@ -81,7 +81,7 @@ layout: default
 
           {% assign nextIndex = forloop.index | plus: 1 %}
         {% endif %}
-
+      {% assign endLength = forloop.length %}
 
     {% endfor %}
 
@@ -97,8 +97,12 @@ layout: default
   <div class="previouslink">
     <p class = "link"><a href="{{site.url}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
   </div>
-  <div class="nextlink">
-    <p class = "link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
-  </div>
+    <div class="nextlink">
+    {% if nextIndex == endLength %}
+      <p class="link"><a href="{{site.url}}/frontmatter/copyright_{{page.edition}}">next &nbsp; ></a></p>
+    {% else %}
+      <p class = "link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
+    {% endif %}
+
 </body>
 <html>
