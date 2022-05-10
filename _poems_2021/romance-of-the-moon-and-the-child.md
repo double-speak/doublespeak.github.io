@@ -4,6 +4,19 @@ title: Romance de la luna, luna.
 transtitle: Romance of the moon and the child
 author: Federico García Lorca
 translator: Darío Goldgel Carballo
+poem: "La luna vino a la fragua  \ncon su polisón de nardos.  \nEl niño la mira, mira.
+  \nEl niño la está mirando.  \n\nEn el aire conmovido  \nmueve la luna sus brazos
+  \ \ny enseña, lúbrica y pura,  \nsus senos de duro estaño.  \n\nHuye luna, luna,
+  luna.  \nSi vinieran los gitanos,  \nharían con tu corazón \ncollares y anillos
+  blancos.\n   \nNiño, déjame que baile.  \nCuando vengan los gitanos, \nte encontrarán
+  sobre el yunque  \ncon los ojillos cerrados.   \n\nHuye luna, luna, luna, \nque
+  ya siento sus caballos. \nNiño, déjame, no pises  \nmi blancor almidonado.   \n\nEl
+  jinete se acercaba  \ntocando el tambor del llano.  \nDentro de la fragua el niño,
+  \ntiene los ojos cerrados.  \n\nPor el olivar venían, \nbronce y sueño, los gitanos.
+  \nLas cabezas levantadas  \ny los ojos entornados.    \n\nCómo canta la zumaya,
+  \n¡ay, cómo canta en el árbol! \nPor el cielo va la luna  \ncon un niño de la mano.
+  \ \n\nDentro de la fragua lloran, \ndando gritos, los gitanos.\nEl aire la vela,
+  vela.\nEl aire la está velando."
 transpoem: "The moon has flown down to the forge, \na dress of blossoms, white, she
   wears,\nthe child at her, he stares, he looks, \nhe looks still, and still he stares.\n\nHer
   arms extend and slide and move, \narouse and stir the shaken air.\nLubricious, she
@@ -21,19 +34,6 @@ transpoem: "The moon has flown down to the forge, \na dress of blossoms, white, 
   its song, its grieved fanfare! \nUp in the sky, the moon ascends \nnext to a child,
   his hand with hers.\n\nInside the forge, the gypsies moan, \ntheir voices cast cries
   of despair.\nA vigil keeps, the air with gloom, \na gloomy vigil keeps the air.\n"
-poem: "La luna vino a la fragua  \ncon su polisón de nardos.  \nEl niño la mira, mira.
-  \nEl niño la está mirando.  \n\nEn el aire conmovido  \nmueve la luna sus brazos
-  \ \ny enseña, lúbrica y pura,  \nsus senos de duro estaño.  \n\nHuye luna, luna,
-  luna.  \nSi vinieran los gitanos,  \nharían con tu corazón \ncollares y anillos
-  blancos.\n   \nNiño, déjame que baile.  \nCuando vengan los gitanos, \nte encontrarán
-  sobre el yunque  \ncon los ojillos cerrados.   \n\nHuye luna, luna, luna, \nque
-  ya siento sus caballos. \nNiño, déjame, no pises  \nmi blancor almidonado.   \n\nEl
-  jinete se acercaba  \ntocando el tambor del llano.  \nDentro de la fragua el niño,
-  \ntiene los ojos cerrados.  \n\nPor el olivar venían, \nbronce y sueño, los gitanos.
-  \nLas cabezas levantadas  \ny los ojos entornados.    \n\nCómo canta la zumaya,
-  \n¡ay, cómo canta en el árbol! \nPor el cielo va la luna  \ncon un niño de la mano.
-  \ \n\nDentro de la fragua lloran, \ndando gritos, los gitanos.\nEl aire la vela,
-  vela.\nEl aire la está velando."
 note: "<p>I read several English translations of this famous poem and always encountered
   the same problem: the words of the poet are treated as a sacred material, and the
   translator’s objective is to find the closest intelligible approximation. Yet here
@@ -62,11 +62,30 @@ tbio: "<p>Darío Goldgel Carballo is a PhD candidate in the romance languages de
 language: Spanish
 lang: es
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1H2SLjgNfAjNHDhwDXMunm2grSD0-XPtG/preview">
+    </iframe>
+  </div>
+translaudio: |
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1tZ1srWJ1UXH7DVMGmfIQOUoSPyxOARkj/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
-order: '37'
+order: '35'
 layout: poempage
 collection: poems_2021
 ---

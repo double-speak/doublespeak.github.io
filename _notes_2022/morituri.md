@@ -50,12 +50,14 @@ language: German
 lang: de
 image: https://github.com/qgruber8/qgruber8.github.io/blob/e7a3a5f21a2e9d57650483f646e6120452302194/assets/images/images_22/Brand_Morituri.png
 image2: none
-imagecredit:
-imagecredit2:
-translaudio:
-origaudio:
+imagecredit: An illustration by Richard Grimm accompanying the original poem in <i>Der
+  Eigene</i>.
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2022'
-order: '09'
+pagetype: submission
+order: '07'
 layout: notepage
 collection: notes_2022
 ---

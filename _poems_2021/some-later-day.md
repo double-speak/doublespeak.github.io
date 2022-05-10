@@ -4,18 +4,6 @@ title: <span lang="ko">먼 후일</span>
 transtitle: Some Later Day
 author: 'Kim Sowol (<span lang= "ko" style="font-style: normal">김소월</span>)'
 translator: Younghoon Jeong and Saagar Asnani
-transpoem: |-
-  If in the distant future you seek me,
-  Then at that time, I will say, “I forgot.”
-
-  If you do blame me silently within,
-  “Having truly longed for you, I forgot.”
-
-  If you would still insist on blaming me,
-  “Since I could not accept it, I forgot.”
-
-  I, neither today nor the day before,
-  But on that distant future day, forgot.
 poem: |-
   먼 훗날 당신이 찾으시면
   그때에 내 말이 잊었노라.
@@ -28,6 +16,18 @@ poem: |-
 
   오늘도 어제도 아니 잊고
   먼 훗날 그때에 잊었노라.
+transpoem: |-
+  If in the distant future you seek me,
+  Then at that time, I will say, “I forgot.”
+
+  If you do blame me silently within,
+  “Having truly longed for you, I forgot.”
+
+  If you would still insist on blaming me,
+  “Since I could not accept it, I forgot.”
+
+  I, neither today nor the day before,
+  But on that distant future day, forgot.
 note: |-
   <p>
   Approaching Kim Sowol’s poetry was a uniquely challenging task because of its ties to Korean folk songs, its economical use of language, and its tight metrical structure. Though it is composed of but eight short lines, Kim takes the reader on a journey of heartbreak, inner conflict, and eventual catharsis through the poem. While translating, we wanted to preserve three key elements of the original: the decasyllabic metrical structure, the alternating end repetition of the conditional tense with the word “forgot” (<span lang= "ko">잊었노라</span>), and the facile movement between narration and direct speech. We hoped to bring out his nuanced emotions in English without obfuscating the beautiful Korean words from which they arose.</p>
@@ -57,11 +57,30 @@ tbio: |
 language: Korean
 lang: ko
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |-
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1CtI76YH2UqLpPzRvr48I8ftG1KVcFWYK/preview">
+    </iframe>
+  </div>
+translaudio: |-
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1N5Ghhuzo5E-U-H5ggK_NhldOoC0YrDlQ/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
-order: '29'
+order: '27'
 layout: poempage
 collection: poems_2021
 ---

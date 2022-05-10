@@ -4,25 +4,6 @@ title: Ven
 transtitle: Come
 author: Christina Perri Rossi
 translator: Elizabeth Rose
-transpoem: "Come. Come naked and\r\nsilent to make sense of the\r\nmerciless Sunday
-  \r\nand its futile night \r\ncome and say nothing \r\nas you strip off your small
-  black\r\nthong and I don’t ask where you’ve \r\nbeen nor you what I’ve been up to.
-  \r\nThe night is short for those\r\nwho dream to prolong it \r\nand forget the daytime
-  \r\nI don’t know another way \r\nto eternalize the night \r\nbesides caressing you
-  \r\nyou caressing me \r\nand in the midst of kisses \r\nyou would say te esnifas
-  el \r\ntiempo and I would reply \r\nun día es largo como un \r\nsiglo if I don’t
-  touch you \r\nif you don’t touch me \r\nand the thong on the floor \r\nis a useless
-  memory \r\nof ages past \r\nof absences long as epochs. \r\nI know of no other way
-  \r\nto transcend time and its \r\nclocks the days and their\r\nirritations \r\nthe
-  migraines and \r\nunemployment rates\r\nworldwide turmoil \r\nand injustice \r\nsave
-  this melting of bodies \r\nof skin and sex \r\nthis space without borders \r\nthis
-  time without checkpoints \r\nthis freedom to chain yourself \r\nto the ones you
-  love \r\nnot to those you obey \r\nsubmissive to love \r\nand not to the hemispheres
-  \r\nnor to convention \r\nnor to empires \r\nnor even to the laws of physics that
-  \r\nmake an emotional encounter a \r\nfriction of muscles skin and saliva. \r\nEinstein
-  discovered that time and \r\nspace are metaphors \r\nthough I still don’t know \r\na
-  metaphor for you and me \r\nperhaps an ancient melody\r\nof the universe\r\nbefore
-  its decay.\n"
 poem: "Ven. Ven desnuda y sigilosa\npara que el domingo cruel\ny su inútil noche\ntengan
   sentido \nven y no digas nada \nmientras te despojas de tu breve tanga \nnegra y
   yo no te pregunto dónde has estado \nni tú qué estuve haciendo hoy.\nLa noche es
@@ -57,6 +38,25 @@ poem: "Ven. Ven desnuda y sigilosa\npara que el domingo cruel\ny su inútil noch
   músculos y salivas. \nEinstein descubrió que el tiempo y el \nespacio son metáforas
   \naunque yo todavía no sé \nmetáfora de qué somos tú y yo \nquizás de una antigua
   melodía del \nuniverso antes de su descomposición."
+transpoem: "Come. Come naked and\r\nsilent to make sense of the\r\nmerciless Sunday
+  \r\nand its futile night \r\ncome and say nothing \r\nas you strip off your small
+  black\r\nthong and I don’t ask where you’ve \r\nbeen nor you what I’ve been up to.
+  \r\nThe night is short for those\r\nwho dream to prolong it \r\nand forget the daytime
+  \r\nI don’t know another way \r\nto eternalize the night \r\nbesides caressing you
+  \r\nyou caressing me \r\nand in the midst of kisses \r\nyou would say te esnifas
+  el \r\ntiempo and I would reply \r\nun día es largo como un \r\nsiglo if I don’t
+  touch you \r\nif you don’t touch me \r\nand the thong on the floor \r\nis a useless
+  memory \r\nof ages past \r\nof absences long as epochs. \r\nI know of no other way
+  \r\nto transcend time and its \r\nclocks the days and their\r\nirritations \r\nthe
+  migraines and \r\nunemployment rates\r\nworldwide turmoil \r\nand injustice \r\nsave
+  this melting of bodies \r\nof skin and sex \r\nthis space without borders \r\nthis
+  time without checkpoints \r\nthis freedom to chain yourself \r\nto the ones you
+  love \r\nnot to those you obey \r\nsubmissive to love \r\nand not to the hemispheres
+  \r\nnor to convention \r\nnor to empires \r\nnor even to the laws of physics that
+  \r\nmake an emotional encounter a \r\nfriction of muscles skin and saliva. \r\nEinstein
+  discovered that time and \r\nspace are metaphors \r\nthough I still don’t know \r\na
+  metaphor for you and me \r\nperhaps an ancient melody\r\nof the universe\r\nbefore
+  its decay.\n"
 note: "<p>The poem “Come”/“Ven” is from one of Cristina Peri Rossi’s most recent volumes
   of poetry, <em>Las Replicantes</em> (<em>The Replicants</em>, Ediciones Cálamo,
   2016). Peri Rossi’s poetic work over the past fifty years creates an archive of
@@ -88,8 +88,27 @@ tbio: "<p>Elizabeth Rose is a poet, translator, and PhD candidate in comparative
 language: Spanish
 lang: es
 image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/rossi.png
-origaudio:
-translaudio:
+imagecredit: "<em>Majo al atardecer</em> by Elizabeth Rose"
+origaudio: |
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1VtpXkp9m2ymixxUEflZd_x5zsicbH4Sq/preview">
+    </iframe>
+  </div>
+translaudio: |
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1XBh09UdM4BEZK0_r5POjJ4DbjEufFkOX/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
 order: '03'

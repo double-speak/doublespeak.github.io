@@ -59,7 +59,7 @@ note: |+
   <p>this poem was tough to translate without sacrificing the rhyme — i’m very thankful for my friend Olive’s help here! i like to say that, when translating, <em>something has to go</em>, be it tone, literalness, or rhyme. i think that translation means composing a poem like a native speaker of another language, but if you keep the form, you usually sacrifice literal meaning.</p>
   <p>take <em>alas vistiendo</em>: a native speaker might compose that flourish as “dressed in wings,” but then how do we rhyme that with “existing”?
   <em>arrepientan</em> doesn’t have an object in the Spanish… <i>what exactly would the dim lights regret?</i></p>
-  <em>de pie, erguida</em> means “on my feet, standing straight,” but that’s so many words and the tone is all formal. the expression is physical, but the poet clearly uses it symbolically as well.</p>
+  <p><em>de pie, erguida</em> means “on my feet, standing straight,” but that’s so many words and the tone is all formal. the expression is physical, but the poet clearly uses it symbolically as well.</p>
   <p>i took advantage of those ambiguous moments and a little enjambment to preserve the rhyme. the rhythm is light in spanish, whereas my translation stretches and crunches back and forth. something had to go, i think.</p>
   <p>the repetition of <em>para</em> was another obstacle, since most literally that’s “for” or at least “in order to.” even my choice to go with “so” is more formal than the relatively neutral register <em>para</em>, but it keeps the motif without taking up too much space. i knew i wanted to translate this poem as soon as i read it. the more i sat with this piece, the more it grew on me. hopefully it’s a reminder to keep <em>me</em> writing; i, too, am keeping alive.</p>
   <p>but who are these <em>avenue muses</em>?</p>
@@ -74,20 +74,10 @@ tbio: "<p>howdy, i am Pablo (he/him)! i am Spanish and Cuban and Miamian! i do s
   — may or may not be forthcoming.</p>"
 language: Spanish
 lang: es
-image:
+image: https://github.com/qgruber8/qgruber8.github.io/blob/8b7744a1dc22e531bfbbfb0e4ca384d29cbc943f/assets/images/images_22/armengol.jpg
 image2: none
-imagecredit:
-imagecredit2:
-translaudio: |-
-  <div>
-  <h3> Original Poem </h3>
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/17NVzJOMqL12P05Y3k0m_WsHQ4NyIebrr/preview">
-  </iframe>
-  </div>
+imagecredit: Stacy Shimanuki
+imagecredit2: 
 origaudio: |-
   <iframe
     frameborder="0"
@@ -95,7 +85,18 @@ origaudio: |-
     height="65"
     src="https://drive.google.com/file/d/1bSQcXPggZHg-jAR5vzmMwgaQsyaYBup3/preview">
   </iframe>
+translaudio: |-
+  <div>
+  <h3>Original Poem</h3>
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/17NVzJOMqL12P05Y3k0m_WsHQ4NyIebrr/preview">
+  </iframe>
+  </div>
 edition: '2022'
+pagetype: submission
 order: '02'
 layout: notepage
 collection: notes_2022

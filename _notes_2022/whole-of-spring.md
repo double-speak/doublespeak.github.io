@@ -52,15 +52,8 @@ language: Spanish
 lang: es
 image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/vilarino.jpeg
 image2: none
-imagecredit:
-imagecredit2:
-translaudio: |-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1fDPNhHk9ZG5llRbZ8vQbFL5Yb_ocnrsW/preview">
-  </iframe>
+imagecredit: Ryan Hardy
+imagecredit2: 
 origaudio: |-
   <iframe
     frameborder="0"
@@ -68,8 +61,16 @@ origaudio: |-
     height="65"
     src="https://drive.google.com/file/d/1r_ANT0OSI2uXFJFielfs3Kt_hF_jX5D_/preview">
   </iframe>
+translaudio: |-
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1fDPNhHk9ZG5llRbZ8vQbFL5Yb_ocnrsW/preview">
+  </iframe>
 edition: '2022'
-order: '14'
+pagetype: submission
+order: '12'
 layout: notepage
 collection: notes_2022
 ---

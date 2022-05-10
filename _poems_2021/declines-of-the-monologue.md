@@ -4,60 +4,6 @@ title: Declinaciones del monólogo
 transtitle: Declines of the monologue
 author: Eunice Odio
 translator: 'Couloir Hanson '
-transpoem: |-
-  I
-  I am alone,
-  very alone,
-  between my waist and my dress,
-  alone among my entire voice,
-  with a charge of fragile angels
-  like those caresses
-  that collapse by themselves in the fingers.
-  In my hair, adrift,
-  a blue rower,
-  confused,
-  seeks a boy of sand.
-  Holding his tribes of smells
-  with a pale thread,
-  against a silhouette of roses,
-  in the quietest corner of my eyelids
-  thirteen pilgrims jostle against each other.
-
-  II
-  Arching myself lightly
-  over my heart of stone in bloom
-  to see it,
-  to tailor his arteries and my voice
-  in a given moment
-  in that someone comes,
-  and calls me…
-  but now please no one call me,
-  I no longer fit in anyone’s voice,
-  please no one call me,
-  because I am sinking to the depths of my smallness,
-  to the satisfied root of my shadow,
-  because now I am descending to the agonizing
-  touch of a miner, with his half flower at the shoulder,
-  and a great letter of I want you at the waist.
-  And I fall farther,
-  into the immediacies of the air
-  that lightened awaits the letters of his name
-  to be born perfect and inhabitable.
-  Lower,
-  I descend much more,
-  who will find me?
-  I wear my arteries
-  (what great haste I have),
-  I wear my arteries and my voice,
-  I don my heart of stone in bloom,
-  so that in a given moment
-  someone would come,
-  and call for me,
-  and I won’t be
-  lightly arched over my heart, to see it.
-  and I won’t have to go and leave my great voice,
-  and my high heart
-  of stone in bloom.
 poem: |+
   I
   Estoy sola,
@@ -114,6 +60,60 @@ poem: |+
   de piedra en flor.
 
 
+transpoem: |-
+  I
+  I am alone,
+  very alone,
+  between my waist and my dress,
+  alone among my entire voice,
+  with a charge of fragile angels
+  like those caresses
+  that collapse by themselves in the fingers.
+  In my hair, adrift,
+  a blue rower,
+  confused,
+  seeks a boy of sand.
+  Holding his tribes of smells
+  with a pale thread,
+  against a silhouette of roses,
+  in the quietest corner of my eyelids
+  thirteen pilgrims jostle against each other.
+
+  II
+  Arching myself lightly
+  over my heart of stone in bloom
+  to see it,
+  to tailor his arteries and my voice
+  in a given moment
+  in that someone comes,
+  and calls me…
+  but now please no one call me,
+  I no longer fit in anyone’s voice,
+  please no one call me,
+  because I am sinking to the depths of my smallness,
+  to the satisfied root of my shadow,
+  because now I am descending to the agonizing
+  touch of a miner, with his half flower at the shoulder,
+  and a great letter of I want you at the waist.
+  And I fall farther,
+  into the immediacies of the air
+  that lightened awaits the letters of his name
+  to be born perfect and inhabitable.
+  Lower,
+  I descend much more,
+  who will find me?
+  I wear my arteries
+  (what great haste I have),
+  I wear my arteries and my voice,
+  I don my heart of stone in bloom,
+  so that in a given moment
+  someone would come,
+  and call for me,
+  and I won’t be
+  lightly arched over my heart, to see it.
+  and I won’t have to go and leave my great voice,
+  and my high heart
+  of stone in bloom.
 note: "<p>Throughout her entire <em>oeuvre</em>, Odio plays with similar themes. In
   her earlier work, Odio analyzes the relationship between the lover and the beloved.
   In later poems, Odio will go on to explore the relationship between the creator
@@ -174,11 +174,21 @@ tbio: "<p>Couloir X. Hanson is a daughter of three worlds: Costa Rica, Germany, 
 language: Spanish
 lang: es
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |
+  <div>
+    <h3> Original and Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1E-WXA42l7Zua7rsUTsOMD-H8DLp_gxeb/preview">
+    </iframe>
+  </div>
+translaudio: 
 edition: '2021'
 pagetype: submission
-order: '26'
+order: '24'
 layout: poempage
 collection: poems_2021
 ---

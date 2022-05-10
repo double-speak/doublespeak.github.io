@@ -43,11 +43,12 @@ language: Hindi
 lang: hi
 image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/varma.jpg
 image2: none
-imagecredit:
-imagecredit2:
-translaudio:
-origaudio:
+imagecredit: Yan Zhang
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2022'
+pagetype: submission
 order: '00'
 layout: notepage
 collection: notes_2022

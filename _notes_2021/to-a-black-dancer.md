@@ -4,17 +4,6 @@ title: A une danseuse noire
 transtitle: To a Black Dancer
 author: David Diop
 translator: Samantha DeStefano
-transpoem: "Black woman my hot rumble of Africa\nMy land of enigma and my fruit of
-  reason\nYou are dance by the nude joy of your smile\nBy the offering of your breasts
-  and your secret powers\nYou are dance by the golden legends of wedding nights\nBy
-  new times and ancient rhythms \nBlack woman unceasing triumph of dreams and stars\nDocile
-  mistress in the kora harps’ embrace\nYou are dance by the giddiness\nBy the magic
-  of loins beginning the world anew\nYou are dance\nAnd the myths around me burn\nAround
-  me the wigs of learning\nIn great fires of joy in the sky of your steps\nYou are
-  dance\nAnd false gods burn beneath your vertical flame\nYou are the face of the
-  initiate\nSacrificing folly beneath the guardian tree\nYou are the idea of All and
-  the voice of the Ancient.\nGravely hurled to attack chimeras\nYou are the Word that
-  explodes\nIn miraculous bursts on the coasts of oblivion.\n"
 poem: "Négresse ma chaude rumeur d’Afrique\nMa terre d’énigme et mon fruit de raison\nTu
   es danse par la joie nue de ton sourire\nPar l’offrande de tes seins et tes secrets
   pouvoirs\nTu es danse par les légendes d’or des nuits nuptiales\nPar les temps nouveaux
@@ -26,6 +15,17 @@ poem: "Négresse ma chaude rumeur d’Afrique\nMa terre d’énigme et mon fruit
   l’initié\nSacrifiant la folie auprès de l’arbre-gardien\nTu es l’idée du Tout et
   la voix de l’Ancien.\nLancée grave à l’assaut des chimères\nTu es le Verbe qui explose\nEn
   gerbes miraculeuses sur les côtes de l’oubli."
+transpoem: "Black woman my hot rumble of Africa\nMy land of enigma and my fruit of
+  reason\nYou are dance by the nude joy of your smile\nBy the offering of your breasts
+  and your secret powers\nYou are dance by the golden legends of wedding nights\nBy
+  new times and ancient rhythms \nBlack woman unceasing triumph of dreams and stars\nDocile
+  mistress in the kora harps’ embrace\nYou are dance by the giddiness\nBy the magic
+  of loins beginning the world anew\nYou are dance\nAnd the myths around me burn\nAround
+  me the wigs of learning\nIn great fires of joy in the sky of your steps\nYou are
+  dance\nAnd false gods burn beneath your vertical flame\nYou are the face of the
+  initiate\nSacrificing folly beneath the guardian tree\nYou are the idea of All and
+  the voice of the Ancient.\nGravely hurled to attack chimeras\nYou are the Word that
+  explodes\nIn miraculous bursts on the coasts of oblivion.\n"
 note: |
   <p>In “To a Black Dancer,” which is often considered David Diop’s best poem, Diop celebrates the beauty, grace, and exuberance of an African woman who is performing a traditional dance. European Surrealism’s surprising juxtapositions of seemingly unrelated images and endorsement of revolutionary movements influenced Négritude poets’ writing style and anticolonial politics, both of which are evident in Diop’s experimental poem.</p>
   <p><em>Rumeur</em> can mean either “rumor” or “murmur, hum, rumble,” an ambiguity which has divided other translators. I chose to translate it as “rumble” to convey the dancer’s earthshaking impact on the world and to enrich the description of her dancing with a visceral sense of sound and movement. She is not a vague “rumor of Africa” but a powerful creative force rendered in energetic images, an ecstatic personification of Africa and its vibrant traditional culture. Négritude poets often used Black female figures as symbols of Africa’s strength and potential for regeneration. Like Léopold Sédar Senghor’s poem “Black Woman” (translated by Donnisa Edmonds in the Spring 2018 issue of <em>DoubleSpeak</em>) but with more concrete imagery, Diop uses a sensual woman to evoke Africa. The dancer’s vitality embodies Diop’s pride that Africa’s present attributes and ancient traditions would redeem the continent from the damage done by colonialism.</p>
@@ -59,8 +59,27 @@ tbio: "<p>Samantha DeStefano graduated <em>summa cum laude</em> from the Univers
 language: French
 lang: fr
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |-
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1Z2i1quF_lJHUCN5qSCBOzcLTkoc-ScGk/preview">
+    </iframe>
+  </div>
+translaudio: |-
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1coutRUWh_weazk81bR_GQDyGNnirLqNp/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
 order: '10'

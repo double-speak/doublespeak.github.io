@@ -63,15 +63,8 @@ language: Mandarin
 lang: zh
 image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/ergun.jpg
 image2: none
-imagecredit:
-imagecredit2:
-translaudio: |-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1mlPwShxmifJifVB_xtJf_7wJwqbEJ6l2/preview">
-  </iframe>
+imagecredit: Stacy Shimanuki
+imagecredit2: 
 origaudio: |-
   <iframe
     frameborder="0"
@@ -79,8 +72,16 @@ origaudio: |-
     height="65"
     src="https://drive.google.com/file/d/1d5u0RTGF_rDFrUBxiM4gh_44NCIViAx6/preview">
   </iframe>
+translaudio: |-
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1mlPwShxmifJifVB_xtJf_7wJwqbEJ6l2/preview">
+  </iframe>
 edition: '2022'
-order: '08'
+pagetype: submission
+order: '06'
 layout: notepage
 collection: notes_2022
 ---

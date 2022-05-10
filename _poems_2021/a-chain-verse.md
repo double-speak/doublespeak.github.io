@@ -4,13 +4,6 @@ title: '<span lang="zh">连环诗: 赏花归去</span>'
 transtitle: A Chain Verse
 author: 'Su Shi (<span lang= "zh" style="font-style: normal">苏轼</span>)'
 translator: 'Gil Lehmann, Jacey Chang, and Yehudith Dashevsky '
-transpoem: "Enjoy\nDusk                Flower\nAlready                        Come\nTime
-  \                               Back\nWaking                                Horse\nSlightly
-  \                       Like\nImpact                Flying\nWine\n\n\nA Chain Verse
-  \n\nOutside, enjoying the flowers, then coming back\non a horse, running, running,
-  almost flying.\nThe sprightly horse seems like it’s flying;\nthe impact of the wine
-  \nis fading. My drunken\nfog is clearing; \nthe hour \nis already \nlate.\nWhen\n
-  I woke, \nit was already dusk,\nand I’ve come back from enjoying the flowers. \n"
 poem: |2-
                         赏
               暮                   花
@@ -28,6 +21,13 @@ poem: |2-
   去马如飞酒力微
   酒力微醒时已暮
   醒时已暮赏花归
+transpoem: "Enjoy\nDusk                Flower\nAlready                        Come\nTime
+  \                               Back\nWaking                                Horse\nSlightly
+  \                       Like\nImpact                Flying\nWine\n\n\nA Chain Verse
+  \n\nOutside, enjoying the flowers, then coming back\non a horse, running, running,
+  almost flying.\nThe sprightly horse seems like it’s flying;\nthe impact of the wine
+  \nis fading. My drunken\nfog is clearing; \nthe hour \nis already \nlate.\nWhen\n
+  I woke, \nit was already dusk,\nand I’ve come back from enjoying the flowers. \n"
 note: |-
   <p>
       The original poem, an example of chain verses (<span lang= "zh">连环诗</span>) in ancient Chinese, is
@@ -57,8 +57,27 @@ tbio: |-
 language: Chinese
 lang: zh
 image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/su_shi.jpg
-origaudio:
-translaudio:
+imagecredit: Zhiqiao (Kate) Jiang
+origaudio: |-
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1PG4J1x58uwju_lxP2X3nDl8p8ZC-8z3e/preview">
+    </iframe>
+  </div>
+translaudio: |-
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/149MNpxeba2WjUKO9mPdFgKP6krFIb3MR/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
 order: '01'

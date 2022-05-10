@@ -4,6 +4,11 @@ title: <span lang="zh">《野草》题辞 </span>
 transtitle: Wild Grass
 author: 'Lu Xun (<span lang= "zh" style="font-style: normal">鲁迅</span>)'
 translator: Chardonnay Needler
+poem: "当我沉默着的时候，我觉得充实；我将开口，同时感到空虚 。 \n\r\n过去的生命已经死亡。我对于这死亡有大欢喜，因为我借此知道它曾经存活。死亡的生命已经朽腐。我对于这朽腐有大欢喜，因为我借此知道它还非空虚。
+  \r\n生命的泥委弃在地面上，不生乔木，只生野草，这是我的罪过。 \n\r\n野草，根本不深，花叶不美，然而吸取露，吸取水，吸取陈死人的血和肉，各各夺取它的生存。当生存时，还是将遭践踏，将遭删刈，直至于死亡而朽腐。
+  \r\n但我坦然，欣然。我将大笑，我将歌唱。 \n\r\n我自爱我的野草，但我憎恶这以野草作装饰的地面。 \n\r\n地火在地下运行，奔突；熔岩一旦喷出，将烧尽一切野草，以及乔木，于是并且无可朽腐。但我坦然，欣然。我将大笑，我将歌唱。
+  \n\r\n天地有如此静穆，我不能大笑而且歌唱。天地即不如此静穆，我或者也将不能。我以这一丛野草，在明与暗，生与死，过去与未来之际，献于友与仇，人与兽，爱者与不爱者之前作证。
+  \n\r\n为我自己，为友与仇，人与兽，爱者与不爱者，我希望这野草的死亡与朽腐，火速到来。要 不然，我先就未曾生存，这实在比死亡与朽腐更其不幸。 \r\n去罢，野草，连着我的题辞！"
 transpoem: "When I’m quiet, I feel complete; I then open my mouth, simultaneously
   feeling empty. \n\nThe past life has already died. With respect to its death, I
   am overjoyed, for from its death I know that it once was alive. \n\nThis dead life
@@ -26,11 +31,6 @@ transpoem: "When I’m quiet, I feel complete; I then open my mouth, simultaneou
   I hope this wild grass’ destruction and decay come quickly. If not, I will not have
   lived at all; this, in actuality, is even more pitiful than dying and decaying.
   \n\nGo now, wild grass, along with my epigraph!"
-poem: "当我沉默着的时候，我觉得充实；我将开口，同时感到空虚 。 \n\r\n过去的生命已经死亡。我对于这死亡有大欢喜，因为我借此知道它曾经存活。死亡的生命已经朽腐。我对于这朽腐有大欢喜，因为我借此知道它还非空虚。
-  \r\n生命的泥委弃在地面上，不生乔木，只生野草，这是我的罪过。 \n\r\n野草，根本不深，花叶不美，然而吸取露，吸取水，吸取陈死人的血和肉，各各夺取它的生存。当生存时，还是将遭践踏，将遭删刈，直至于死亡而朽腐。
-  \r\n但我坦然，欣然。我将大笑，我将歌唱。 \n\r\n我自爱我的野草，但我憎恶这以野草作装饰的地面。 \n\r\n地火在地下运行，奔突；熔岩一旦喷出，将烧尽一切野草，以及乔木，于是并且无可朽腐。但我坦然，欣然。我将大笑，我将歌唱。
-  \n\r\n天地有如此静穆，我不能大笑而且歌唱。天地即不如此静穆，我或者也将不能。我以这一丛野草，在明与暗，生与死，过去与未来之际，献于友与仇，人与兽，爱者与不爱者之前作证。
-  \n\r\n为我自己，为友与仇，人与兽，爱者与不爱者，我希望这野草的死亡与朽腐，火速到来。要 不然，我先就未曾生存，这实在比死亡与朽腐更其不幸。 \r\n去罢，野草，连着我的题辞！"
 note: |-
   <p>I debated a lot about whether or not to change the punctuation to something more widely accepted (no run ons, fragments, etc.), but to honor Lu Xun and his legacy of spearheading the vernacular movement in the early twentieth century, I figured I should make it as conversational as possible. This meant preserving — for the most part — fragments and unorthodox comma rules, as well as keeping vocabulary and sentence structures at a very colloquial level. His poem is very conversational, and thus I opted for the use of contractions, such as “I’ll” instead of “I shall” or even “I will” for <span lang= "zh">我将</span>, among others.</p>
   <p>Secondly, a note on why I veered away from a literal word choice: <span lang= "zh">吸取</span> literally translates to “absorb,” but I wanted to make the verb more active to personify the grass. Also, I felt that “absorb” wasn’t active enough to be used thrice in a row with the same biting tone the poem had — it dulled the energy. “Sucking” seemed good because the character <span lang= "zh">吸</span> is also used in the word for “straw,” <span lang= "zh">吸管</span>, and the image Lu presents in his poem is incredibly visceral while simultaneously whimsical. “Consume” felt too formal given Lu’s insistence on vernacular writing throughout his career.</p>
@@ -51,11 +51,30 @@ tbio: "<p>Chardonnay Needler is just a scatterbrained person who likes languages
 language: Chinese
 lang: zh
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1ueih_DElFy7tBYd5R0OC5mY6xjx-UbOQ/preview">
+    </iframe>
+  </div>
+translaudio: |
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1kM4gbCDQbaTjVUQ7P7Xmtfn_098r6MxP/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
-order: '23'
+order: '21'
 layout: poempage
 collection: poems_2021
 ---

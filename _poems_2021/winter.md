@@ -4,16 +4,16 @@ title: <span lang="ja">冬</span>
 transtitle: Winter
 author: 'Kobayashi Issa '
 translator: Vanessa Hu
-transpoem: "first snowfalls: \nthose are matters \nof mortal beings\n\noh, how the
-  kitty \nwhirls ’n twirls in dance \namongst the drifting leaves\n\nin pearls of
-  hail \nperhaps a nightjar \nreturns to the moon\n<p>*Nightjars are small, nocturnal
-  or crepuscular (twilight) birds; the gray nightjar is particular to East Asia.</p>"
 poem: "初雪や                 \nそれは世にある         \n人の事\n\n猫の子の                 \nくるくる舞や
   \         \n散る木の葉\n\n玉霰                         \n夜鷹は月に                 \n帰るめり\n<p>From
   the haiku collection <span lang=”ja”>《猫与四季》</span> (<i>Cats and the Four Seasons</i>)
   by <span lang=”ja”>小林一茶</span> (Kobayashi Issa), Mandarin translations from Japanese
   by <span lang=”ja”>吴菲</span> (Wu Fei), illustrated by <span lang=”ja”>千巨万</span>
   (Qian Ju Wan).</p>"
+transpoem: "first snowfalls: \nthose are matters \nof mortal beings\n\noh, how the
+  kitty \nwhirls ’n twirls in dance \namongst the drifting leaves\n\nin pearls of
+  hail \nperhaps a nightjar \nreturns to the moon\n<p>*Nightjars are small, nocturnal
+  or crepuscular (twilight) birds; the gray nightjar is particular to East Asia.</p>"
 note: |-
   <p>At first glance, you may notice that I prioritized expressing the haiku’s overall succinctness over the strict five-seven-five syllable pattern. Moreover, I tussled with grammar and vocabulary ambiguities in these poems, as well as the features of traditional haiku: one, the <em>kigo</em> <span lang= "ja">季語</span>, a seasonal phrase; and two, the <em>kireji</em> <span lang= "ja">切れ字</span>, to convey emphasis, contrast, or other nuances.</p>
   <p>In the first haiku, the <em>ya</em> <span lang= "ja">や</span> <em>kireji</em> juxtaposes two elements, and I chose to use a colon, rather than a dash or emphatic “oh!” to preserve the gentleness of the contemplation. I also considered why first snowfalls were <em>yo ni aru </em> / <em>hito no koto</em>, or “living people’s business.” Perhaps it’s not just because we like to measure the natural world through human-made joys and concerns, from postcard scenes to snow-shoveling woes, but also because we simply must exist alongside such markers of passing time. So, I chose “matter” to translate <em>koto</em> (“business”) to imply this obligatory quality and “mortal” rather than “living” being because, to me, a first snowfall emphasizes that impermanence.</p>
@@ -32,8 +32,71 @@ tbio: <p>Vanessa is a rising sophomore studying computer science and Ethnicity, 
 language: Japanese
 lang: ja
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |+
+  <div>
+    <h3> Original Poem 1 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1WLTVSdP-ppMneJ5S7wpy9AAVGVjitsdu/preview">
+    </iframe>
+  </div>
+
+  <div>
+    <h3> Original Poem 2 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1pMM9n8YAQ9GbwCsCDlJmNTGI7KMzQdSX/preview">
+    </iframe>
+  </div>
+
+
+  <div>
+    <h3> Original Poem 3 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1fv6EKuZg74N4kJ9fMRSbYoyj11u2h2ng/preview">
+    </iframe>
+  </div>
+
+translaudio: |+
+  <div>
+    <h3> Translated Poem 1 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1IOKKGIeExmNJmmW_KHsem-KbQt21R5AV/preview">
+    </iframe>
+  </div>
+
+  <div>
+    <h3> Translated Poem 2 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1qTu6QMVNqZLA7XaRYBg8WAqkJRmC1hL-/preview">
+    </iframe>
+  </div>
+
+
+  <div>
+    <h3> Translated Poem 3 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1VgaOevbmgp7DcYEdn7xi0w9ZMKPSOLjN/preview">
+    </iframe>
+  </div>
+
 edition: '2021'
 pagetype: submission
 order: '08'

@@ -4,15 +4,6 @@ title: 'Der Schmetterling — 4. Juni 1942 '
 transtitle: The Butterfly — June 4th, 1942
 author: 'Pavel Friedmann '
 translator: Karina Carreras
-transpoem: "The last was the last of the last\nthe full and bitter blinding glare\n\nmaybe
-  somewhere the sun’s tear echoes against a white stone\n\nso yellow\nlightly drifting
-  higher\n\n                                                                                                      he’s
-  left \n                                                            surely to kiss
-  my last world goodbye\n\nseven weeks I have lived here,\nghettoized\nmy own found
-  me here\nthe dandelions call out to me\nnear the white branch of the chestnut tree
-  in the court\n\n                 ihaven’tseenanotherbutterfly \n                                                                                       nothere\n\n\nthat
-  was surely the last, the very last\nButterflies don’t live here\n\n                                                                                                    in
-  the ghetto."
 poem: "Der letzte war’s der aller allerletzte\nder satt und bitter blendend grelle\nvielleicht
   wenn eine Sonnenträne irgendwo auf \n                                                                           weißem
   Stein erklingt \n\nso war das Gelb\nund trug sich schwebend in die Höhe\ner stieg
@@ -23,6 +14,15 @@ poem: "Der letzte war’s der aller allerletzte\nder satt und bitter blendend gr
   i e r n i ch t g e s e h n \n\ndas war gewiß der allerletzte \ndenn Schmetterlinge
   leben nicht \n                                                                                                    im
   Getto."
+transpoem: "The last was the last of the last\nthe full and bitter blinding glare\n\nmaybe
+  somewhere the sun’s tear echoes against a white stone\n\nso yellow\nlightly drifting
+  higher\n\n                                                                                                      he’s
+  left \n                                                            surely to kiss
+  my last world goodbye\n\nseven weeks I have lived here,\nghettoized\nmy own found
+  me here\nthe dandelions call out to me\nnear the white branch of the chestnut tree
+  in the court\n\n                 ihaven’tseenanotherbutterfly \n                                                                                       nothere\n\n\nthat
+  was surely the last, the very last\nButterflies don’t live here\n\n                                                                                                    in
+  the ghetto."
 note: "<p>I translated this poem in a very minimalistic way because I wanted to emphasize
   the sadness and emptiness of the poem. The meaning of this poem is Pavel trying
   to find hope where he is. He finds hope when he sees this beautiful yellow butterfly
@@ -50,27 +50,30 @@ tbio: "<p>My name is Karina Carreras, and I am a senior at the University of Iow
 language: German
 lang: de
 image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/friedmann.jpeg
-origaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1232734342%3Fsecret_token%3Ds-y0Lq5XqN6Ij&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div
-  style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
-  hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
-  Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
-  100;"><a href="https://soundcloud.com/staff-doublespeak" title="DoubleSpeak" target="_blank"
-  style="color: #cccccc; text-decoration: none;">DoubleSpeak</a> · <a href="https://soundcloud.com/staff-doublespeak/german-audio/s-y0Lq5XqN6Ij"
-  title="German Audio" target="_blank" style="color: #cccccc; text-decoration: none;">German
-  Audio</a></div>'
-translaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1232734375%3Fsecret_token%3Ds-X6AGPXO7APK&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div
-  style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
-  hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
-  Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
-  100;"><a href="https://soundcloud.com/staff-doublespeak" title="DoubleSpeak" target="_blank"
-  style="color: #cccccc; text-decoration: none;">DoubleSpeak</a> · <a href="https://soundcloud.com/staff-doublespeak/english-audio/s-X6AGPXO7APK"
-  title="English Audio" target="_blank" style="color: #cccccc; text-decoration: none;">English
-  Audio</a></div>'
+imagecredit: Quinn Gruber
+origaudio: |
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1lV_dzFOlHHBTZU4AMSiwrBMyuhQwJ6Mu/preview">
+    </iframe>
+  </div>
+translaudio: |
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1mKcmJ5mlNZG4dD_JTXEJdr656vrjGi2F/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
-order: '13'
+order: '12'
 layout: poempage
 collection: poems_2021
 ---

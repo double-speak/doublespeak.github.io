@@ -48,7 +48,7 @@ transpoem: |
   Spring will take flesh under our steps of light.
 note: |
   <p>
-  <b>David Diop’s</b> “The Vultures” describes the destructive collaboration of Christian missionaries and French colonizers in Africa. Translator Ulli Beier renders the second line (“à coups de gueule de civilisation”) as “when civilization kicked us in the face” by reading “coups de gueule” as a literal composite of <em>coups</em> (“blows”) and <em>gueule</em> (an informal word for “mouth, face”). However, “coup de gueule” is an idiom that means “roar, yell, rant, tirade,” so I translated this line as “with the rantings of civilization.” I translated <em>domestiqués</em> as “domesticated,” rather than its secondary meaning of “controlled, subjugated,” to show that the Christian missionaries who helped colonize Africa sought to erase traditional African culture and replace it with European culture under the guise of “domesticating” and allegedly improving Black people. Before Diop describes the physical violence of colonization, he condemns the cultural imperialism that supported it, which relied as much on “all the books” as on “machine guns.” He immediately dismisses the racist ideology that justified the spread of “civilization” as mere “rantings,” establishing the hopeful promise of the poem’s conclusion.
+  David Diop’s “The Vultures” describes the destructive collaboration of Christian missionaries and French colonizers in Africa. Translator Ulli Beier renders the second line (“à coups de gueule de civilisation”) as “when civilization kicked us in the face” by reading “coups de gueule” as a literal composite of <em>coups</em> (“blows”) and <em>gueule</em> (an informal word for “mouth, face”). However, “coup de gueule” is an idiom that means “roar, yell, rant, tirade,” so I translated this line as “with the rantings of civilization.” I translated <em>domestiqués</em> as “domesticated,” rather than its secondary meaning of “controlled, subjugated,” to show that the Christian missionaries who helped colonize Africa sought to erase traditional African culture and replace it with European culture under the guise of “domesticating” and allegedly improving Black people. Before Diop describes the physical violence of colonization, he condemns the cultural imperialism that supported it, which relied as much on “all the books” as on “machine guns.” He immediately dismisses the racist ideology that justified the spread of “civilization” as mere “rantings,” establishing the hopeful promise of the poem’s conclusion.
   </p>
   <p>
   The Paternoster is the Lord’s Prayer, which Jesus used to teach his disciples how to pray just as Europeans forced Africans to follow their Christian practices. I translated <em>couvrait</em> as its more intense secondary meaning, “drowned out,” instead of the literal “covered,” to emphasize how missionary activities dismissed the brutal realities of slavery.
@@ -68,12 +68,13 @@ language: French
 lang: fr
 image: none
 image2: none
-imagecredit:
-imagecredit2:
-translaudio:
-origaudio:
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2022'
-order: '07'
+pagetype: submission
+order: '05'
 layout: poempage
 collection: poems_2022
 ---

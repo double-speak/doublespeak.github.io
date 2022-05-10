@@ -6,41 +6,6 @@ title: |
 transtitle: Conversation between a drunk poetess and her lover
 author: Yaroslav (Slava) Mogutin
 translator: Ryan Hardy
-transpoem: |
-  - trees grow all around,
-  but I’m a naked, drunken, healthy cow, a poetess,
-  well, what are you gonna do?!
-  should I tell you my name?
-  - no, you better not.
-  - i’ll swing by houses, you know, to sort of grace them…
-  red circles are all around, can’t see anything at all…
-
-  beams of light come from me, going in all directions…
-  maybe i’m some sort of saint?!
-  - of course, you’re a saint, without a doubt!
-  by the way, your phone line was cut off ’cause of me,
-  even though i’d never even seen it…
-  you know, your phone is a total piece of shit, you motherfucker!
-  - i’m a saint, a saint!
-  - yes, yes, a saint you are…
-
-  * * *
-
-  Snow, having fallen in the morning,
-  was the first page
-  of memoirs yet to be written
-            about big bodies
-  imprisoned in a confined space
-
-  Is it through friction, insulation,
-  or a feeling of being adrift,
-            of uncertainty
-  that rushes of blood are driven to the temples?
-
-  When the element of choice is lost,
-            you fit into the system
-            and forget to think
-  the season’s change is coming.
 poem: |-
   — деревья вокруг растут,
   а я голая, пьяная, здоровая корова, поэтесса,
@@ -79,6 +44,41 @@ poem: |-
             укладываешься в систему
             и забываешь думать
   наступает Смена Времен Года
+transpoem: |
+  - trees grow all around,
+  but I’m a naked, drunken, healthy cow, a poetess,
+  well, what are you gonna do?!
+  should I tell you my name?
+  - no, you better not.
+  - i’ll swing by houses, you know, to sort of grace them…
+  red circles are all around, can’t see anything at all…
+
+  beams of light come from me, going in all directions…
+  maybe i’m some sort of saint?!
+  - of course, you’re a saint, without a doubt!
+  by the way, your phone line was cut off ’cause of me,
+  even though i’d never even seen it…
+  you know, your phone is a total piece of shit, you motherfucker!
+  - i’m a saint, a saint!
+  - yes, yes, a saint you are…
+
+  * * *
+
+  Snow, having fallen in the morning,
+  was the first page
+  of memoirs yet to be written
+            about big bodies
+  imprisoned in a confined space
+
+  Is it through friction, insulation,
+  or a feeling of being adrift,
+            of uncertainty
+  that rushes of blood are driven to the temples?
+
+  When the element of choice is lost,
+            you fit into the system
+            and forget to think
+  the season’s change is coming.
 note: |-
   <p>I began with a literal translation of the poem, ignoring word order and providing several translations of the same words to choose from later. Next, I formatted lines to match the original poem. Before moving onto polishing, I also identified turns of phrase that would need more time and thought to accurately incorporate into a final product. In polishing my rough translation of Mogutin’s poem, I began by adjusting word order to best match the point of syllabic emphasis in each clause, while with Mayakovsky’s I focused more on the emotions behind the poem. I then moved to honing in on word choices, leaving notes that indicated desired sentiment where I was still unsure of what I wanted to highlight. Next, I read through, thoughtfully evaluating and altering verb choices based on verbal aspect and active-passive voice within the clause. Lastly, I reviewed capitalization, punctuation, and line breaks to best match the original. A series of more detailed notes regarding stylistic choices in my translation are listed below:</p>
   <ul class="note"><strong>“Conversation of a drunk poetess and her new lover”:</strong></ul>
@@ -104,8 +104,27 @@ tbio: "<p>Ryan is an undergraduate at the University of Pennsylvania, pursuing a
 language: Russian
 lang: ru
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |-
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/10fjasOsGkVp21mx0OwAb4roQ3OnB8o4A/preview">
+    </iframe>
+  </div>
+translaudio: |-
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1xGIV86eB_RWdh-J3OmqZtC9rBl22rUiw/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
 order: '05'

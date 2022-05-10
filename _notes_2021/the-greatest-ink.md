@@ -4,14 +4,6 @@ title: La mejor tinta
 transtitle: The Greatest Ink
 author: Armando Valladares
 translator: Margaret Lawlace
-transpoem: "They’ve taken everything from me,\nthe pens, \nthe pencils, \nthe ink,\nbecause
-  they don’t want\nme to write,\nand they’ve sunk me down \ndeep in this cell,\nbut
-  my rebellion will not drown.\nThey’ve taken everything from me —\nwell, almost everything
-  —\nbut here is my smile,\nthe pride of a man set free,\nand in my soul a garden,\nflowering
-  eternally.\nThey’ve taken everything from me,\nthe pens, \nthe pencils,\nbut here
-  is the ink of life —\nmy own blood —\nand thus I write my verses still.\n\n*Original
-  written with my blood and a splinter of wood in April 1981 in the cells of the East
-  Combined Prison in Havana."
 poem: |-
   Me lo han quitado todo
   las plumas
@@ -37,6 +29,14 @@ poem: |-
 
   *Original escrito con mi sangre y una astillita de madera en abril de 1981 en las celdas
   de castigo de la Cárcel Combinado del Este, en La Habana.
+transpoem: "They’ve taken everything from me,\nthe pens, \nthe pencils, \nthe ink,\nbecause
+  they don’t want\nme to write,\nand they’ve sunk me down \ndeep in this cell,\nbut
+  my rebellion will not drown.\nThey’ve taken everything from me —\nwell, almost everything
+  —\nbut here is my smile,\nthe pride of a man set free,\nand in my soul a garden,\nflowering
+  eternally.\nThey’ve taken everything from me,\nthe pens, \nthe pencils,\nbut here
+  is the ink of life —\nmy own blood —\nand thus I write my verses still.\n\n*Original
+  written with my blood and a splinter of wood in April 1981 in the cells of the East
+  Combined Prison in Havana."
 note: "<p>The most striking part of this poem to me is the ending, when we find out
   that the central metaphor is no metaphor at all. Our author takes the well-used
   living-through-writing idea and writes with his actual blood, the only means available
@@ -65,11 +65,31 @@ tbio: "<p>Margaret Lawlace is a graduate student in clinical psychology at the U
 language: Spanish
 lang: es
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |+
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/16cfcpPsFhBwXltFLY7yo-uBFK1_sEGNg/preview">
+    </iframe>
+  </div>
+
+translaudio: |
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1nlLqvTHcmZSI7V7bJI-2xkNPQXSIU9Vl/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
-order: '33'
+order: '31'
 layout: notepage
 collection: notes_2021
 ---

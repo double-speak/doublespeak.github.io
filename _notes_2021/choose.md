@@ -7,6 +7,16 @@ title: |-
 transtitle: Choose
 author: Nizar Qabbani
 translator: Leah Baxter
+poem: "إني خيرتك فاختاري\nما بين الموت على صدري.. \nأو فوق دفاتر أشعاري..\nإختاري
+  الحب.. أو اللاحب\nفجبنٌ ألا تختاري..\nلا توجد منطقةٌ وسطى\nما بين الجنة والنار..\nإرمي
+  أوراقك كاملةً..\nوسأرضى عن أي قرار..\nقولي. إنفعلي. إنفجري\nلا تقفي مثل المسمار..\nلا
+  يمكن أن أبقى أبداً\nكالقشة تحت الأمطار\nإختاري قدراً بين اثنين\nوما أعنفها أقداري..\nمرهقةٌ
+  أنت.. وخائفةٌ\nوطويلٌ جداً.. مشواري\nغوصي في البحر.. أو ابتعدي\nلا بحرٌ من غير دوار..\nالحب
+  مواجهةٌ كبرى\nإبحارٌ ضد التيار\nصلبٌ.. وعذابٌ.. ودموعٌ\nورحيلٌ بين الأقمار..\nيقتلني
+  جبنك يا امرأةً\nتتسلى من خلف ستار..\nإني لا أؤمن في حبٍ..\nلا يحمل نزق الثوار..\nلا
+  يكسر كل الأسوار\nلا يضرب مثل الإعصار..\nآهٍ.. لو حبك يبلعني\nيقلعني.. مثل الإعصار..\nإني
+  خيرتك.. فاختاري\nما بين الموت على صدري\nأو فوق دفاتر أشعاري\nلا توجد منطقةٌ وسطى\nما
+  بين الجنة والنار.."
 transpoem: |
   I’ve asked that you choose
   between dying on my chest
@@ -48,16 +58,6 @@ transpoem: |
   Or atop a notebook of my poetry.
   There can be no compromise
   between Paradise and Hellfire.
-poem: "إني خيرتك فاختاري\nما بين الموت على صدري.. \nأو فوق دفاتر أشعاري..\nإختاري
-  الحب.. أو اللاحب\nفجبنٌ ألا تختاري..\nلا توجد منطقةٌ وسطى\nما بين الجنة والنار..\nإرمي
-  أوراقك كاملةً..\nوسأرضى عن أي قرار..\nقولي. إنفعلي. إنفجري\nلا تقفي مثل المسمار..\nلا
-  يمكن أن أبقى أبداً\nكالقشة تحت الأمطار\nإختاري قدراً بين اثنين\nوما أعنفها أقداري..\nمرهقةٌ
-  أنت.. وخائفةٌ\nوطويلٌ جداً.. مشواري\nغوصي في البحر.. أو ابتعدي\nلا بحرٌ من غير دوار..\nالحب
-  مواجهةٌ كبرى\nإبحارٌ ضد التيار\nصلبٌ.. وعذابٌ.. ودموعٌ\nورحيلٌ بين الأقمار..\nيقتلني
-  جبنك يا امرأةً\nتتسلى من خلف ستار..\nإني لا أؤمن في حبٍ..\nلا يحمل نزق الثوار..\nلا
-  يكسر كل الأسوار\nلا يضرب مثل الإعصار..\nآهٍ.. لو حبك يبلعني\nيقلعني.. مثل الإعصار..\nإني
-  خيرتك.. فاختاري\nما بين الموت على صدري\nأو فوق دفاتر أشعاري\nلا توجد منطقةٌ وسطى\nما
-  بين الجنة والنار.."
 note: |-
   <p>This poem was recommended to me by an Arabic-speaking friend (who also proofread my translation, bless her). I loved the beautiful and — is it silly to say? — poetic metaphors that Qabbani employs throughout the poem. These images translated very well into English. Descriptions such as “like hay under the rain” need no explanation or elaboration to connote the sense of slowly soaking into uselessness and rotting away; the metaphor itself does all of that already. Though no contextualization was needed, the tricky part was simply choosing the right words to illustrate those metaphors and to maintain the same implications.</p>
   <p>I found myself struggling with the tone of the speaker. Because the poem is mostly in the imperative, he comes across as a bit harsh and exasperated with his beloved and her waffling. However, he at times also softens his words, as in the end of the second verse and beginning of the third, in which he recognizes how difficult his request is for her and how much he is asking of her. Striking a balance between his exasperation and his understanding of her was difficult.</p>
@@ -83,8 +83,27 @@ tbio: "<p>Leah Baxter is a senior in the College studying English, linguistics, 
 language: Arabic
 lang: ar
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |-
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1riWY1NrBLfTI4Je_mgtY4LfZCgNY2SvM/preview">
+    </iframe>
+  </div>
+translaudio: |-
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1IyzUivxs4lsdxed41VhwJJATngI7Vz-W/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
 order: '04'

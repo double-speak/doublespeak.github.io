@@ -4,32 +4,6 @@ title: "<\"span lang=\"he>\n מכתב של מנחם-מנדל  \n<span/>"
 transtitle: A Letter of Menakhem-Mendl
 author: Nathan Alterman
 translator: Dan Ben-Amos
-transpoem: "My lovely wife Sheyne-Sheyndl,\nThrough a cloud the moon is shining.  \nThrough
-  storm and night, you handle \nMy dreamy head, gently patting. \n \nThe mighty wind
-  blows up my capota\nMy hat drops to the back of my head.\nLike that I walked alive,
-  like that I lie dead\nSince my figure, so they say, is immortal.\n\nMy Sheyne-Sheyndl,
-  it is snowing white.\nNot a soul, all are gone, face it.\nTevye died \nAnd Motl
-  died too, the son of cantor Peyse,\nUncle Pinye, dear man, is dead too. \n\nStempenyu
-  on the snow cradles, small and barefoot,\nCharming as ever and more.\nBut his fiddle
-  is silent, no sound no hoot \nAll are gone, all who listened before.\n\nTopeleh
-  too is resting, simple-minded tuturitu \nThe toddler is resting dead and smiling.
-  \nPeople’s jokes and tears are immortal, \nSo immortal is Topeleh too.\n\nMy Sheyne-Sheyndl,
-  do you remember\nDeep, deep was the night we parted,\nIn line we stood facing death
-  together\nWith whom in tears and laughs we delighted.\n\nSheyne-Sheyndl you wore
-  your holiday shawl,\nMy tattered capota you tried to mend.\nThis time our people
-  did not laugh, not at all,\nThey just kissed your glowing hand.\n\nThe night turned
-  scarlet from flames,\nAnd for you, my will I wrote \nOn a small piece of paper with
-  your name.\nAnd, sure enough, the main point I forgot.\n\nI wanted to thank you,
-  so much and no less\nFor being a patient, forgiving wife\nSheyne-Sheyndl, we played
-  our life\nFor a laugh, but the finish was something else.\n\nOur joke foretold this
-  end from the start, \nPlaying silent music in us, inside.\nWe pounded our heroes
-  at their heart\nBut nobody listened or cared to mind.\n\nI did not know and you
-  did not get\nThe sad drama we played till too late.\nNo lit., so they say, has a
-  jester tell jokes\nWhile a hangman’s noose his neck chokes.\n\nTill judgement day
-  we did not exit,      \nDreamy knights and clumsy heroes,\nThe figures of the great
-  Yiddish lit,\nThat like me in the snow wallow.\n\nThrough storm and night, Sheyne
-  Sheyndl, \nMy murdered head you are gently patting. \nMy lovely wife Sheyne-Sheyndl,\nIn
-  heaven the moon is shining."
 poem: |-
   שינה שינדל שלי, זוגתי היפה,
   בין עבים הלבנה נוגהת.
@@ -96,6 +70,32 @@ poem: |-
   בראשי ההרוג את נוגעת.
   שינה שינדל שלי, זוגתי היפה
   במרומים הלבנה נוגהת.
+transpoem: "My lovely wife Sheyne-Sheyndl,\nThrough a cloud the moon is shining.  \nThrough
+  storm and night, you handle \nMy dreamy head, gently patting. \n \nThe mighty wind
+  blows up my capota\nMy hat drops to the back of my head.\nLike that I walked alive,
+  like that I lie dead\nSince my figure, so they say, is immortal.\n\nMy Sheyne-Sheyndl,
+  it is snowing white.\nNot a soul, all are gone, face it.\nTevye died \nAnd Motl
+  died too, the son of cantor Peyse,\nUncle Pinye, dear man, is dead too. \n\nStempenyu
+  on the snow cradles, small and barefoot,\nCharming as ever and more.\nBut his fiddle
+  is silent, no sound no hoot \nAll are gone, all who listened before.\n\nTopeleh
+  too is resting, simple-minded tuturitu \nThe toddler is resting dead and smiling.
+  \nPeople’s jokes and tears are immortal, \nSo immortal is Topeleh too.\n\nMy Sheyne-Sheyndl,
+  do you remember\nDeep, deep was the night we parted,\nIn line we stood facing death
+  together\nWith whom in tears and laughs we delighted.\n\nSheyne-Sheyndl you wore
+  your holiday shawl,\nMy tattered capota you tried to mend.\nThis time our people
+  did not laugh, not at all,\nThey just kissed your glowing hand.\n\nThe night turned
+  scarlet from flames,\nAnd for you, my will I wrote \nOn a small piece of paper with
+  your name.\nAnd, sure enough, the main point I forgot.\n\nI wanted to thank you,
+  so much and no less\nFor being a patient, forgiving wife\nSheyne-Sheyndl, we played
+  our life\nFor a laugh, but the finish was something else.\n\nOur joke foretold this
+  end from the start, \nPlaying silent music in us, inside.\nWe pounded our heroes
+  at their heart\nBut nobody listened or cared to mind.\n\nI did not know and you
+  did not get\nThe sad drama we played till too late.\nNo lit., so they say, has a
+  jester tell jokes\nWhile a hangman’s noose his neck chokes.\n\nTill judgement day
+  we did not exit,      \nDreamy knights and clumsy heroes,\nThe figures of the great
+  Yiddish lit,\nThat like me in the snow wallow.\n\nThrough storm and night, Sheyne
+  Sheyndl, \nMy murdered head you are gently patting. \nMy lovely wife Sheyne-Sheyndl,\nIn
+  heaven the moon is shining."
 note: "<p>The poem was published in Hebrew in the newspaper <em>Davar</em> (March
   9, 1945) and was included in subsequent editions of Alterman’s collected poems.
   The speaker in this poetic monologue is Menakhem Mendl, the protagonist of the epistolary
@@ -129,11 +129,30 @@ tbio: "<p>Dan Ben-Amos teaches folklore at the University of Pennsylvania. He ea
 language: Hebrew
 lang: he
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |-
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1entKtPfghmJuAVe2WBXaU1Xuf17wh4x1/preview">
+    </iframe>
+  </div>
+translaudio: |-
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1LrOA5BRE14JfJWx-uA_2IyoU6zSdSOhI/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
-order: '27'
+order: '25'
 layout: notepage
 collection: notes_2021
 ---

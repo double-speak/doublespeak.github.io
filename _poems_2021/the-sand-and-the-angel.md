@@ -4,43 +4,6 @@ title: La sabbia e l’angelo
 transtitle: The Sand and the Angel
 author: Margherita Guidacci
 translator: Quinn Gruber
-transpoem: "I.\nThey were not needed, the temples in ruin at the edges of deserts,\nwith
-  their broken columns and stairs that led nowhere;\nnor the sand-buried shipwrecks,
-  nor the whitening bones by the sea;\nnot even the violence of fire through our fields
-  and homes. \nEnough that the shadow rose from the room’s quietest corner,\nor kept
-  watch behind our half-closed door —\nThe thin rain on windows, a tin sheet that
-  wailed in wind:\nwe already knew we belonged to death.\n\nII.\nIf you want to leave
-  your trace, person, just scratch the sand,\nbecause the tallest tower will become
-  sand in the end.\nWrite your name on the deserted shore and pray the sea soon covers
-  it with sorrow:\nbecause you yourself are sand, you are the death that remains after
-  you.\n\nIII.\nEvery time we said goodbye,\nevery time we turned to childhood fallen
-  at our backs\n(soul trembling in its long sorrow),\nevery time we separated from
-  the beloved in the cold clarity of dawn,\nevery time we saw the enigma reseal itself
-  over dead eyes,\nor even when we simply listened to wind in deserted streets,\nand
-  watched autumn pass through the hills,\nit was the Angel at our side, consuming
-  us.\n\nIV.\nNow our love will spread through vineyards and wheatfields, \nour venom
-  in cacti and their mean spines.\nThe living will lean down to the springs and ask:\n“Who
-  pushes this water toward us from the world’s inscrutable veins?” \nAnd long before
-  the cold gathers them and night lies down on their heart,\neven in a midday of bees
-  \ and ardent nectars,\nthe living will know anguish because we are powerful and
-  near\nand there is no escape from the circle in which we already hold them,\nwith
-  every stalk that sprouted from us, and every fruit tree that bends full and grave
-  to our earth.\n\nV.\nThe voices were last to separate themselves. Not the massive
-  voices\nof the war and the hurricanes, \nnor the human, beloved voices,\nbut murmurs
-  of grasses and waters,  wind’s laughter, rustle\nof leaves where invisible squirrels
-  played,\ninsects’ joyed buzz  during many summers,\ndown to the insect that buzzed
-  more insistently\nin the room where we didn’t want to die.\nAnd everything collided
-  in a note, in a steady\nand whispered tumult, like blood,\nwhen our blood was living.
-  But by then we knew\nit was impossible to respond.\nAnd when the Angel asked: “Do
-  you still want to remember?”\nWe ourselves begged: “Leave, so silence comes!”\n\n\nVI.\nNeither
-  the broken branch nor the trampled grass on the paths\ntold us of its passage, but
-  the touch of solitude\nthat each thing kept inside itself and offered us, freeing—\nafter
-  the usual message—the other, unknown word. \nHow we startled, listening to it, how
-  securely it set\nour heart on the invisible trail!\nSo we always followed you, Ruler
-  and Beloved,\nand it didn’t surprise us, the white light in which you walked unveiled
-  at our side,\n(Now that the body’s shadow has cut across death’s meridian),\nSince
-  for a long time we knew only, we obeyed\nonly you, your fated prey, \nDragging,
-  on the streets of the earth, your strange celestial chain..\n"
 poem: "I.\nNon occorrevano i templi in rovina sul limitare dei deserti,\nCon le colonne
   mozze e le gradinate che in nessun luogo conducono;\nNé i relitti insabbiati, le
   ossa biancheggianti lungo il mare;\nE nemmeno la violenza del fuoco contro i nostri
@@ -79,6 +42,43 @@ poem: "I.\nNon occorrevano i templi in rovina sul limitare dei deserti,\nCon le 
   carnale è tramontata sul meridiano della morte),\nPoiché da lungo tempo te solo
   conoscevamo, a te solo \nObbedivamo, tua destinata preda,\nTrascinando sulle vie
   della terra la tua celeste catena straniera.\n"
+transpoem: "I.\nThey were not needed, the temples in ruin at the edges of deserts,\nwith
+  their broken columns and stairs that led nowhere;\nnor the sand-buried shipwrecks,
+  nor the whitening bones by the sea;\nnot even the violence of fire through our fields
+  and homes. \nEnough that the shadow rose from the room’s quietest corner,\nor kept
+  watch behind our half-closed door —\nThe thin rain on windows, a tin sheet that
+  wailed in wind:\nwe already knew we belonged to death.\n\nII.\nIf you want to leave
+  your trace, person, just scratch the sand,\nbecause the tallest tower will become
+  sand in the end.\nWrite your name on the deserted shore and pray the sea soon covers
+  it with sorrow:\nbecause you yourself are sand, you are the death that remains after
+  you.\n\nIII.\nEvery time we said goodbye,\nevery time we turned to childhood fallen
+  at our backs\n(soul trembling in its long sorrow),\nevery time we separated from
+  the beloved in the cold clarity of dawn,\nevery time we saw the enigma reseal itself
+  over dead eyes,\nor even when we simply listened to wind in deserted streets,\nand
+  watched autumn pass through the hills,\nit was the Angel at our side, consuming
+  us.\n\nIV.\nNow our love will spread through vineyards and wheatfields, \nour venom
+  in cacti and their mean spines.\nThe living will lean down to the springs and ask:\n“Who
+  pushes this water toward us from the world’s inscrutable veins?” \nAnd long before
+  the cold gathers them and night lies down on their heart,\neven in a midday of bees
+  \ and ardent nectars,\nthe living will know anguish because we are powerful and
+  near\nand there is no escape from the circle in which we already hold them,\nwith
+  every stalk that sprouted from us, and every fruit tree that bends full and grave
+  to our earth.\n\nV.\nThe voices were last to separate themselves. Not the massive
+  voices\nof the war and the hurricanes, \nnor the human, beloved voices,\nbut murmurs
+  of grasses and waters,  wind’s laughter, rustle\nof leaves where invisible squirrels
+  played,\ninsects’ joyed buzz  during many summers,\ndown to the insect that buzzed
+  more insistently\nin the room where we didn’t want to die.\nAnd everything collided
+  in a note, in a steady\nand whispered tumult, like blood,\nwhen our blood was living.
+  But by then we knew\nit was impossible to respond.\nAnd when the Angel asked: “Do
+  you still want to remember?”\nWe ourselves begged: “Leave, so silence comes!”\n\n\nVI.\nNeither
+  the broken branch nor the trampled grass on the paths\ntold us of its passage, but
+  the touch of solitude\nthat each thing kept inside itself and offered us, freeing—\nafter
+  the usual message—the other, unknown word. \nHow we startled, listening to it, how
+  securely it set\nour heart on the invisible trail!\nSo we always followed you, Ruler
+  and Beloved,\nand it didn’t surprise us, the white light in which you walked unveiled
+  at our side,\n(Now that the body’s shadow has cut across death’s meridian),\nSince
+  for a long time we knew only, we obeyed\nonly you, your fated prey, \nDragging,
+  on the streets of the earth, your strange celestial chain..\n"
 note: |
   <p>This series of six short poems from Margherita Guidacci’s first book of poetry, <em>La sabbia e l’angelo</em> (<em>The Sand and the Angel</em>, 1946) reckons with the relationship between humans and nature, as well as the broader cycle of life and death.</p>
   <p>The last image in the poem of death as a <i>celeste catena straniera</i>, a “strange celestial chain,” particularly captivated me and guided my translation. I translated <em>straniero</em> as “strange” rather than the usual “foreign” because the Angel, a sort of overseer of the life/death balance, is a continuous presence in human life. I wanted “strange” to capture our inability to reconcile our knowledge of death with our own desire to live; we know death intimately, but are unable to fully comprehend what it entails.</p>
@@ -101,8 +101,27 @@ tbio: "<p>Quinn Gruber is a junior at the University of Pennsylvania studying En
 language: Italian
 lang: it
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |-
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1LT4e5Cvi4jiW0L1agPqV8eYBckxlxT4n/preview">
+    </iframe>
+  </div>
+translaudio: |-
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1EJr3p8CvcpiAg6Yb7mOLxd4CQxd8GWwT/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
 order: '09'

@@ -4,6 +4,23 @@ title: 'Schlafgestalten: acht Gedichte '
 transtitle: 'Shapes in Sleep: Eight Poems'
 author: Paul Celan
 translator: David Ting
+poem: "AUGENBLICKE, wessen Winke, \nkeine Helle schläft. \nUnentworden, allerorten,
+  \nsammle dich, \nsteh. \n\n\n\nDeine Hände, die unermüdlichen Jäger. Gott \nist
+  vergessen, sie greifen die Beute, du lebst. \nEine Stunde, diese, \nbläst dir den
+  Namen leer. \n\n\n\nIN DIE NACHT GEGANGEN, helferisch \nein stern-\ndurchlässiges
+  Blatt \nstatt des Mundes: \n\nes bleibt \nnoch etwas wild zu vertun, \nbäumlings.\n\n\n\nEin
+  Dritter steht neben uns, \ner spricht unsre Sprache, \ner spricht sie besser als
+  wir, \ntödlicher, rauschender, heller. \n\n\n\nKOMM, wir löffeln \nNervenzellen
+  \n- die Entengrütze, multipolar, \nder leergeleuchteten Teiche — \naus den \nRauten-\ngruben.
+  \n\nZehn Fasern ziehn \naus den noch erreichbaren Zentren \nHalberkennbares nach.
+  \n\n\n\n\nSCHNEEPART, gebäumt, bis zuletzt, \nim Aufwind, vor \nden für immer entfensterten
+  \nHütten: \n\nFlachträume schirken \nübers \ngeriffelte Eis; \n\ndie Wortschatten
+  \nheraushaun, sie klaftern \nrings um den Krampen \nim Kolk.\n\n\n\n\nKleine Silbe,
+  kurze Heimat, \nin der du dich eingeheimnißt verlierst, \n\nder Eine, Viele, \nder
+  Nachbar \nim beseelten Kristall \nfügt dir zehn Tage Nachwahn \nzu. \n\n\n\n\nAlle
+  die Schlafgestalten, kristallin, \ndie du annahmst \nim Sprachschatten, \n\nihnen
+  \nführ ich mein Blut zu, \n\ndie Bildzeilen, sie \nsoll ich bergen \nin den Schlitzvenen
+  \nmeiner Erkenntnis -, \n\nmeine Trauer, ich seh’s, \nläuft zu dir über.\n"
 transpoem: |
   MOMENTS, filled with omens,
   never shut your eyes.
@@ -96,23 +113,6 @@ transpoem: |
 
   I mourn.
   It infects you.
-poem: "AUGENBLICKE, wessen Winke, \nkeine Helle schläft. \nUnentworden, allerorten,
-  \nsammle dich, \nsteh. \n\n\n\nDeine Hände, die unermüdlichen Jäger. Gott \nist
-  vergessen, sie greifen die Beute, du lebst. \nEine Stunde, diese, \nbläst dir den
-  Namen leer. \n\n\n\nIN DIE NACHT GEGANGEN, helferisch \nein stern-\ndurchlässiges
-  Blatt \nstatt des Mundes: \n\nes bleibt \nnoch etwas wild zu vertun, \nbäumlings.\n\n\n\nEin
-  Dritter steht neben uns, \ner spricht unsre Sprache, \ner spricht sie besser als
-  wir, \ntödlicher, rauschender, heller. \n\n\n\nKOMM, wir löffeln \nNervenzellen
-  \n- die Entengrütze, multipolar, \nder leergeleuchteten Teiche — \naus den \nRauten-\ngruben.
-  \n\nZehn Fasern ziehn \naus den noch erreichbaren Zentren \nHalberkennbares nach.
-  \n\n\n\n\nSCHNEEPART, gebäumt, bis zuletzt, \nim Aufwind, vor \nden für immer entfensterten
-  \nHütten: \n\nFlachträume schirken \nübers \ngeriffelte Eis; \n\ndie Wortschatten
-  \nheraushaun, sie klaftern \nrings um den Krampen \nim Kolk.\n\n\n\n\nKleine Silbe,
-  kurze Heimat, \nin der du dich eingeheimnißt verlierst, \n\nder Eine, Viele, \nder
-  Nachbar \nim beseelten Kristall \nfügt dir zehn Tage Nachwahn \nzu. \n\n\n\n\nAlle
-  die Schlafgestalten, kristallin, \ndie du annahmst \nim Sprachschatten, \n\nihnen
-  \nführ ich mein Blut zu, \n\ndie Bildzeilen, sie \nsoll ich bergen \nin den Schlitzvenen
-  \nmeiner Erkenntnis -, \n\nmeine Trauer, ich seh’s, \nläuft zu dir über.\n"
 note: |-
   <p>A narrative binds these eight poems. Paul Celan’s lifelong subject: the presence of evil. The transitions between these poems are as important as what each poem contains. In order: a dead thing resurrects itself; a set of hands remembers its owner; a loved one vanishes; a sinister stranger appears; a skull is opened; a worksite remains haunted; someone is possessed; the reader is acquainted with grief. Allow the other voices to emerge.</p>
   <p>I have carefully selected these poems from four of his later volumes (<em>Fadensonnen</em>, <em>Lichtzwang</em>, <em>Schneepart</em>, <em> Zeitgehöft</em>), and his uncollected work, which is rarely translated into English. His work is shot through with allusions, metaphors, distorted grammar, specialized vocabulary. His poems operate like Trojan horses. In English, I cautiously open the trapdoor.</p>
@@ -150,8 +150,27 @@ tbio: "<p>David F. Ting works for a renowned lung cancer specialist as a medical
 language: German
 lang: de
 image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/celan.jpg
-origaudio:
-translaudio:
+imagecredit: Heta Patel
+origaudio: |-
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1ano_WwbTdechI5VP5-utZV6WWF_Cq9in/preview">
+    </iframe>
+  </div>
+translaudio: |-
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1fBGuzFzX1nfSeS5a-QyTH5In97wcX7H6/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
 order: '02'

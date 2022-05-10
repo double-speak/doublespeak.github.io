@@ -4,7 +4,8 @@ title: NO SE CRÍAN HIJOS PARA VERLOS MORIR
 transtitle: YOU DON’T RAISE CHILDREN TO WATCH THEM DIE
 author: Rosabetty Muñoz
 translator: Claudia Nuñez de Ibieta
-poem: "Cuando el mar se llevó a sus tres hijos Ella\n                                                             estaba
+poem: "                                                             Cuando el mar
+  se llevó a sus tres hijos Ella\n                                                             estaba
   acodada en la puerta de su casa, pensando \n                                                             en
   ollas aladas y repletas. De pronto cayó en \n                                                             un
   vacío del que surgió vieja y encorvada. No \n                                                             necesitó
@@ -16,7 +17,8 @@ poem: "Cuando el mar se llevó a sus tres hijos Ella\n                          
   corales hieren los cuerpos amados.\n\nSin hijos bajo sus ojos\nquisiéramos las madres\nofrecerle
   un trozo de pañal\npara vendar sus muñones o un arca\ndonde recoger los salados
   restos.\n"
-transpoem: "When the sea took away her three sons She \n                                                             was
+transpoem: "                                                             When the
+  sea took away her three sons She \n                                                             was
   leaning in the doorway of her home, thinking \n                                                             of
   winged and brimming pots. Suddenly she fell into\n                                                             an
   abyss, from which she emerged old and hunched. She didn’t \n                                                             need
@@ -63,11 +65,30 @@ language: Spanish
 lang: es
 image: none
 image2: none
-imagecredit:
-imagecredit2:
-translaudio:
-origaudio:
+imagecredit: 
+imagecredit2: 
+origaudio: |-
+  <div>
+  <h3>Original Poem</h3>
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1k33TmXe1FCr_np2FV10xp9TqY9jMuxH6/preview">
+  </iframe>
+  </div>
+translaudio: |-
+  <div>
+  <h3>Original Poem</h3>
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/13Xxcmkc0LFk7XPVkdFPcUzg2JYruCbux/preview">
+  </iframe>
+  </div>
 edition: '2022'
+pagetype: submission
 order: '01'
 layout: notepage
 collection: notes_2022

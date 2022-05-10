@@ -4,15 +4,6 @@ title: <span lang="ru">Послушайте!</span>
 transtitle: Listen!
 author: Vladimir Mayakovsky
 translator: Ryan Hardy
-transpoem: "Listen!\nAfter all, if the stars are set alight,\ndoes it mean anyone
-  needs it?\nDoes it mean someone wants them to be?\nDoes it mean someone is calling
-  these spitlets pearls?\nAnd, toiling away\nin the torrents of midday dust,\nhe bursts
-  in on God,\nfears that he was late,\ncries,\nkisses his veiny hand,\nasks \nthat
-  there must be stars! -\nswears \nhe will not bear this starless torment!\nAnd after,\nhe
-  walks about, restless,\nbut outwardly calm.\nSaying to someone:\n‘You don’t have
-  anything now, do you?\nYou aren’t scared?\nRight?!’\nListen!\nAfter all, if the
-  stars\nare set alight,\ndoes it mean anyone needs it?\nDoes it mean it’s necessary\nthat
-  every night,\nabove the roofs,\nat least one star is set ablaze?!\n(1914)\n"
 poem: |
   Послушайте!
   Ведь, если звезды зажигают —
@@ -46,6 +37,15 @@ poem: |
   над крышами
   загоралась хоть одна звезда?!
   (1914)
+transpoem: "Listen!\nAfter all, if the stars are set alight,\ndoes it mean anyone
+  needs it?\nDoes it mean someone wants them to be?\nDoes it mean someone is calling
+  these spitlets pearls?\nAnd, toiling away\nin the torrents of midday dust,\nhe bursts
+  in on God,\nfears that he was late,\ncries,\nkisses his veiny hand,\nasks \nthat
+  there must be stars! -\nswears \nhe will not bear this starless torment!\nAnd after,\nhe
+  walks about, restless,\nbut outwardly calm.\nSaying to someone:\n‘You don’t have
+  anything now, do you?\nYou aren’t scared?\nRight?!’\nListen!\nAfter all, if the
+  stars\nare set alight,\ndoes it mean anyone needs it?\nDoes it mean it’s necessary\nthat
+  every night,\nabove the roofs,\nat least one star is set ablaze?!\n(1914)\n"
 note: |-
   <ul class="note"><strong>Listen!:</strong></ul>
   <li class="note"><span lang= "ru"><em>плевочки</em></span> — A plural, diminutive form of <span lang= "ru"><em>плевок</em></span>, meaning “spit.” Originally, I translated the word as “spittles,” but felt that it was out of place. While somewhat contrived, “spitlets” offered a more robust alternative that could more easily be imagined in individual units.</li>
@@ -79,8 +79,27 @@ tbio: "<p>Ryan is an undergraduate at the University of Pennsylvania, pursuing a
 language: Russian
 lang: ru
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1DyW5LJAluutOBbP63VxrjR_z_QGXYmbd/preview">
+    </iframe>
+  </div>
+translaudio: |-
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1MF9AonATOBceRfNA-pb34fn9kmuaGTlG/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
 order: '06'

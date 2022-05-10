@@ -4,13 +4,6 @@ title: Verbo
 transtitle: Verb
 author: Pablo Neruda
 translator: Heta Patel
-transpoem: "I’m going to shrivel this word,\nI’m going to sprain it,\nyes,\nit is
-  much too plain,\nit is as if a great dog or great river \nhas passed its tongue
-  or water over it \nfor many years. \n\nI want in the word \nthe sharpness to be
-  seen,\nthe rusted salt \nthe de-fanged strength  \nof the land, \nthe blood \nof
-  those who have spoken and those who have not. \n\nI want to see the thirst \nlodged
-  in the syllables: \nI want to touch the fire \nin the noise: \nI want to feel the
-  darkness \nof the cry. I want \nwords as rough \nas virgin rocks. \n"
 poem: "Voy a arrugar esta palabra, \nvoy a torcerla, \nsí,\nes demasiado lisa, \nes
   como si un gran perro o un gran río\nle hubiera repasado lengua o agua\ndurante
   muchos años.\n\nQuiero que en la palabra\nse vea la aspereza,\nla sal ferruginosa\nla
@@ -18,6 +11,13 @@ poem: "Voy a arrugar esta palabra, \nvoy a torcerla, \nsí,\nes demasiado lisa, 
   hablaron.\n\nQuiero ver la sed\nadentro de las sílabas:\nquiero tocar el fuego\nen
   el sonido:\nquiero sentir la oscuridad\ndel grito. Quiero\npalabras ásperas\ncomo
   piedras vírgenes."
+transpoem: "I’m going to shrivel this word,\nI’m going to sprain it,\nyes,\nit is
+  much too plain,\nit is as if a great dog or great river \nhas passed its tongue
+  or water over it \nfor many years. \n\nI want in the word \nthe sharpness to be
+  seen,\nthe rusted salt \nthe de-fanged strength  \nof the land, \nthe blood \nof
+  those who have spoken and those who have not. \n\nI want to see the thirst \nlodged
+  in the syllables: \nI want to touch the fire \nin the noise: \nI want to feel the
+  darkness \nof the cry. I want \nwords as rough \nas virgin rocks. \n"
 note: "<p>“Verb” by Pablo Neruda explores language at its very core – as a medium
   for conveying the human experience. Yet Neruda, in his poem, latches onto that liminal
   space of the inexpressible, yearning for words that could begin to capture the pain
@@ -59,11 +59,30 @@ tbio: "<p>Heta Patel is a senior at the University of Pennsylvania studying Heal
 language: Spanish
 lang: es
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |-
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1H32REqqNHK2YHQ-0jo_u4KX8e1K5wRg8/preview">
+    </iframe>
+  </div>
+translaudio: |-
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1Z0FcQxaIDRAXPWmU3OitHm1S_aWZ4n3k/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
-order: '14'
+order: '13'
 layout: notepage
 collection: notes_2021
 ---

@@ -101,12 +101,13 @@ language: Russian
 lang: ru
 image: https://github.com/qgruber8/qgruber8.github.io/blob/02d9a6732a2b902e3047151ad1fda95bb5190523/assets/images/images_22/akhmatova.jpeg
 image2: none
-imagecredit:
-imagecredit2:
-translaudio:
-origaudio:
+imagecredit: Ryan Hardy
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2022'
-order: '19'
+pagetype: submission
+order: '17'
 layout: notepage
 collection: notes_2022
 ---

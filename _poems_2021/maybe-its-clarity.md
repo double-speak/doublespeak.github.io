@@ -4,52 +4,6 @@ title: Three Poems
 transtitle: Three Poems
 author: Filippo Vignali
 translator: Giulia Rupi and John Sherer
-transpoem: |-
-  Maybe it’s clarity, or the power to make the light
-  shining through it beautiful, even when it’s scarce.
-  The first quality
-  that would come to mind when defining a crystal
-  is not fragility.
-  And so we speak of courage, sensitivity, prudence
-  when giving in to the world with few filters,
-  knowing that the creek digs its bed
-  and leaves its debris
-  only when it flows far from the land of the indifferent.
-  Innocence can be built,
-  polished to a crystal’s purity;
-  it can be young or old
-  as long as enough venom has been tasted.
-
-  Can we keep quiet
-  and listen in to our bodies?
-  They speak of symmetries, dovetails
-  ships finding the coast again
-  silent correspondences
-  intertwining breaths
-  redness clotted on the face
-  for warmth given and received.
-  The wisdom of bodies is a mystery
-  we should give in to with confidence:
-  how a hug props us up
-  a caress heals us
-  how our tides are moved
-  by the half-moon of a true smile.
-
-  I see my father crying,
-  melting under that rain.
-  Bastions falling
-  bombs imploding
-  in my playroom.
-  I see him drenched
-  gleaming with a force
-  grown silent inside
-  in a warlike wait.
-  I see him as a plastic
-  monument to the prudence
-  of not splitting apart and taking back sentences
-  so as to let out something
-  more polite
-  but less true.
 poem: |
   Forse la trasparenza o la capacità di rendere bella
   la luce che lo attraversa anche quando è scarsa.
@@ -96,6 +50,52 @@ poem: |
   per fare uscire qualcosa
   di più educato
   ma di meno vero.
+transpoem: |-
+  Maybe it’s clarity, or the power to make the light
+  shining through it beautiful, even when it’s scarce.
+  The first quality
+  that would come to mind when defining a crystal
+  is not fragility.
+  And so we speak of courage, sensitivity, prudence
+  when giving in to the world with few filters,
+  knowing that the creek digs its bed
+  and leaves its debris
+  only when it flows far from the land of the indifferent.
+  Innocence can be built,
+  polished to a crystal’s purity;
+  it can be young or old
+  as long as enough venom has been tasted.
+
+  Can we keep quiet
+  and listen in to our bodies?
+  They speak of symmetries, dovetails
+  ships finding the coast again
+  silent correspondences
+  intertwining breaths
+  redness clotted on the face
+  for warmth given and received.
+  The wisdom of bodies is a mystery
+  we should give in to with confidence:
+  how a hug props us up
+  a caress heals us
+  how our tides are moved
+  by the half-moon of a true smile.
+
+  I see my father crying,
+  melting under that rain.
+  Bastions falling
+  bombs imploding
+  in my playroom.
+  I see him drenched
+  gleaming with a force
+  grown silent inside
+  in a warlike wait.
+  I see him as a plastic
+  monument to the prudence
+  of not splitting apart and taking back sentences
+  so as to let out something
+  more polite
+  but less true.
 note: |
   <p>Filippo Vignali’s poems hark back to the <em>poetica del fanciullino</em>, the “poetics of the child,” as described by the Italian poet Giovanni Pascoli. In this tradition, fragility, innocence, and vulnerability are the keys that open many doors, teaching us to be our truest selves and to feel unreservedly all things good and bad. These characteristics allow us to be more aware of the world around us, to open our eyes and see reality anew; we are called to use our intuition instead of our so-called mature, rational faculties.</p>
   <p>The poems in Vignali’s book <em>Le conseguenze dell’infanzia</em> (<em>Childhood Consequences</em>) engage with childhood experiences never for the sake of mere nostalgia, but in order to investigate the radical possibilities of innocence. In these poems, innocence is not a beginning state from which one emerges, but instead a quality that one achieves through trial and difficulty: “Innocence can be built, / polished to a crystal’s purity; it can be young or old / as long as enough venom has been tasted.” Youth is a source of wisdom, a wisdom rekindled in the thoughts of a retrospective adult. And that’s as it should be, for adults — too often inured to apathy — are the ones in need of such wisdom.</p>
@@ -111,11 +111,74 @@ tbio: |-
 language: Italian
 lang: it
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |+
+  <div>
+    <h3> Original Poem 1 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1TlTOiTXRb5ZU-bzCCoxwg3cL4xU8RPxQ/preview">
+    </iframe>
+  </div>
+
+  <div>
+    <h3> Original Poem 2 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1KSasxirEWUIa6Yj0fFpWvIDP0QcpY_AX/preview">
+    </iframe>
+  </div>
+
+
+  <div>
+    <h3> Original Poem 3 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/17z1gEnaUB5_17Jvf_ov_dDLII6z5w6-l/preview">
+    </iframe>
+  </div>
+
+translaudio: |+
+  <div>
+    <h3> Translated Poem 1 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/11wzROo_V0VLHPZ0LZa0BC2PA8xzqJ-Pu/preview">
+    </iframe>
+  </div>
+
+  <div>
+    <h3> Translated Poem 2 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1bvMku0xPb0bd6S_ypCbx6Qj7phhXRQSP/preview">
+    </iframe>
+  </div>
+
+
+  <div>
+    <h3> Translated Poem 3 </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1gwniTThX4gs6QiNXCdBaGpXbFuMMfgcc/preview">
+    </iframe>
+  </div>
+
 edition: '2021'
 pagetype: submission
-order: '30'
+order: '28'
 layout: poempage
 collection: poems_2021
 ---

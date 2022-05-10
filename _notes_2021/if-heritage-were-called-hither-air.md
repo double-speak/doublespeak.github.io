@@ -4,25 +4,6 @@ title: Wenn Die Herkunft Herluft Hiesse
 transtitle: If Heritage Were Called Hither-Air
 author: 'Marica Bodroži<span lang= "bs" style="font-style: normal">ć</span>'
 translator: Qingyang Zhou
-transpoem: "If Heritage were called Hither-Air,\nI could say,\nI was a person of clouds.
-  I could say,\nI was a turf of weather and no one was disturbed\nBy my Yugoslavian
-  birth, not even \nMyself. Each day would be my weather.\nA change of sunlight would
-  be the simplest thing on this world.\nWith the lungs I’d stroll on Andromeda,\nFill
-  up Venus with a catlike leap.\nHither, Air! I could then say while laughing,\nSince
-  the most serious part of me aged, a playmate\nOf the ones waiting, of the ones crouching,
-  of the ones hoping \nFor the borders to open. People became familiar to me,\nAfter
-  all. For quite some time, I thought people\nWere perhaps the last thing I would
-  be accustomed to\nHere on Earth. While the magnitude of the trees is always\nIn
-  my mind, how capable they are, capable, \nOf receiving the rain. On a Sunday, it
-  was in the city of \nBerlin, it was a rainy day, it was an hour of its own,\nWhen
-  I saw one tower among thirteen full-fledged towers.\nI thus grew out of the Earth
-  and received\nThe opportunity for a speech. I said to myself,\nIf each of the towers
-  were made of light, the heritage\nWould no longer concern me. As I thought so,\nThe
-  sunbeams tinted my kitchen,\nThe thirteenth tower revealed itself. I heard\nClearly,
-  how its name became truth, my\nTruth. I relinquish, I let go of what had been.\nPreferably
-  I would have given my name\nTo the guard, so jaunty and joyful was I.\nBut the man
-  said, keep it, it will help you,\nMove here and there, with shoes or without, with
-  your\nFeet and the quest of the soul."
 poem: "Wenn die Herkunft Herluft hiesse,\nkönnte ich sagen,\nich sei ein Mensch aus
   Wolken, könnte ich sagen,\nich sei ein Gebiet des Wetters und niemand störte\nsich
   an meiner jugoslawischen Geburt, auch ich\nselbst nicht. Mein Wetter wäre jeder
@@ -44,6 +25,25 @@ poem: "Wenn die Herkunft Herluft hiesse,\nkönnte ich sagen,\nich sei ein Mensc
   übermütig und froh war ich.\nDer Mann sagte aber, behalte ihn, er wird dir helfen,\ndich
   hier und dort, mit Schuhen oder ohne, mit deinen\nFüßen und der Queste der Seele
   fortzubewegen."
+transpoem: "If Heritage were called Hither-Air,\nI could say,\nI was a person of clouds.
+  I could say,\nI was a turf of weather and no one was disturbed\nBy my Yugoslavian
+  birth, not even \nMyself. Each day would be my weather.\nA change of sunlight would
+  be the simplest thing on this world.\nWith the lungs I’d stroll on Andromeda,\nFill
+  up Venus with a catlike leap.\nHither, Air! I could then say while laughing,\nSince
+  the most serious part of me aged, a playmate\nOf the ones waiting, of the ones crouching,
+  of the ones hoping \nFor the borders to open. People became familiar to me,\nAfter
+  all. For quite some time, I thought people\nWere perhaps the last thing I would
+  be accustomed to\nHere on Earth. While the magnitude of the trees is always\nIn
+  my mind, how capable they are, capable, \nOf receiving the rain. On a Sunday, it
+  was in the city of \nBerlin, it was a rainy day, it was an hour of its own,\nWhen
+  I saw one tower among thirteen full-fledged towers.\nI thus grew out of the Earth
+  and received\nThe opportunity for a speech. I said to myself,\nIf each of the towers
+  were made of light, the heritage\nWould no longer concern me. As I thought so,\nThe
+  sunbeams tinted my kitchen,\nThe thirteenth tower revealed itself. I heard\nClearly,
+  how its name became truth, my\nTruth. I relinquish, I let go of what had been.\nPreferably
+  I would have given my name\nTo the guard, so jaunty and joyful was I.\nBut the man
+  said, keep it, it will help you,\nMove here and there, with shoes or without, with
+  your\nFeet and the quest of the soul."
 note: |
   <p>Bodrožić’s poem contains plenty of neologisms, which encourage the translator to experiment with the target language and actively interpret the meaning of the poem in order to find the best translation. For instance, the word “Herluft” in the title is entirely the poet’s original creation. I chose to translate it as “Hither-Air” in order to evoke a poetic tone and to create an alliteration with the preceding word, “heritage,” (<em>Herkunft</em>). The word <em>Gebiet</em> in the fourth line can be translated as area, territory, region, zone, domain, or sphere. I initially decided to use “territory,” since the narrator appears to be quite possessive of her heritage. However, in English, “territory” triggers associations with the animal world, which is perhaps not the original intention of the poet. I eventually chose “turf,” since it can be defined as “an area or sphere of activity regarded as someone’s personal territory,” which transitions well into the discussion of the narrator’s Yugoslavian birth in the following line. Bodrožić also describes towers (<em>Türme</em>) as <em>volljährig</em>, which means “full-aged,” “mature,” or “adult,” bestowing human qualities on inanimate objects. The adjective that I chose in the translation, “full-fledged,” can be used to describe both people and objects. This word might sound less strange to English speakers, without deviating too much from the original text.</p>
 
@@ -75,28 +75,31 @@ tbio: "<p>Qingyang Zhou (Freya) is a PhD candidate in German at UC Berkeley. She
 language: German
 lang: de
 image: none
-origaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1225687435%3Fsecret_token%3Ds-6sO8lnOn4GD&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div
-  style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
-  hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
-  Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
-  100;"><a href="https://soundcloud.com/staff-doublespeak" title="DoubleSpeak" target="_blank"
-  style="color: #cccccc; text-decoration: none;">DoubleSpeak</a> · <a href="https://soundcloud.com/staff-doublespeak/qingyang-zhou-wenn-die-herkunft-herluft-hiesse/s-6sO8lnOn4GD"
-  title="Qingyang Zhou. Wenn Die Herkunft Herluft Hiesse" target="_blank" style="color:
-  #cccccc; text-decoration: none;">Qingyang Zhou. Wenn Die Herkunft Herluft Hiesse</a></div>'
-translaudio: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1225687456%3Fsecret_token%3Ds-yowBoYArOVa&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div
-  style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
-  hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
-  Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
-  100;"><a href="https://soundcloud.com/staff-doublespeak" title="DoubleSpeak" target="_blank"
-  style="color: #cccccc; text-decoration: none;">DoubleSpeak</a> · <a href="https://soundcloud.com/staff-doublespeak/qingyang-zhou-if-heritage-were-called-hither-air/s-yowBoYArOVa"
-  title="Qingyang Zhou. If Heritage Were Called Hither - Air" target="_blank" style="color:
-  #cccccc; text-decoration: none;">Qingyang Zhou. If Heritage Were Called Hither -
-  Air</a></div>'
+imagecredit: 
+origaudio: |+
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1FzgKF7p6yfM_mGnRyOm2XN7CI2TySE6D/preview">
+    </iframe>
+  </div>
+
+translaudio: |-
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1TcCBVDvvZrMaH_vu_aB4GoFDGErvkeWB/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
-order: '32'
+order: '30'
 layout: notepage
 collection: notes_2021
 ---

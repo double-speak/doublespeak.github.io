@@ -6,19 +6,6 @@ transtitle: |-
   Book 4: The Affair of Phlai Kaew and Nang Phim
 author: King Rama II
 translator: 'Peeriya Pongsarigun and John Viano '
-transpoem: "Beautiful Phlai Kaew returned to the monastery\nToo much burden of affection,
-  he did carry \nAll he did was bide the time\nWhen two a.m. strikes, he will climb\n
-  \       The moon shone among the glittering stars \nThe clouds are shifting; “Tonight
-  is ours.” \nPhlai Kaew stared at the starry white sky \nHe was well groomed and
-  ready to fly\n        Sacred weapons, metal amulets, and Royal souls\nAt his side
-  are playing their roles\nHe was relaxed, brave, and wise —\nKnowing the sun and
-  the moon are his allies\n        At Nang Phim’s place, there he goes\nSowing the
-  sacred grain to make people doze\nAnd he unlocks every single door\nThe house is
-  for him to explore\n        They lean on their pillows, discovering \nEach other,
-  moaning, grasping tight, smothering —\nTossing and turning — struggling in each
-  other’s arms\nThe sky turns black and come the heavy storms\n        Which then
-  come groaning and growling\nWith rain sloshing and scouring\nLike the first rain
-  that God had given\nLashing at the earth and the heavens\n"
 poem: |
   ครานั้นจึงโฉมเจ้าพลายแก้ว                ไปวัดคํ่าแล้วหาบวชไม่
   คอยดูฤกษ์เวลาจะคลาไคล                        ประมาณได้สักสองยามปลาย
@@ -33,6 +20,19 @@ poem: |
   กระเดือกเสือกดิ้นอยู่ไปมา                        เกิดมหาเมฆมืดโพยมบน
   ฮือฮืออื้อเสียงพายุพัด                        กลิ้งกลัดเกลื่อนกลุ้มชอุ่มฝน
   เป็นห่าแรกแตกพยับโพยมบน                        ไม่ทานทนทั่วกระทั่งทั้งแดนไตร ฯ
+transpoem: "Beautiful Phlai Kaew returned to the monastery\nToo much burden of affection,
+  he did carry \nAll he did was bide the time\nWhen two a.m. strikes, he will climb\n
+  \       The moon shone among the glittering stars \nThe clouds are shifting; “Tonight
+  is ours.” \nPhlai Kaew stared at the starry white sky \nHe was well groomed and
+  ready to fly\n        Sacred weapons, metal amulets, and Royal souls\nAt his side
+  are playing their roles\nHe was relaxed, brave, and wise —\nKnowing the sun and
+  the moon are his allies\n        At Nang Phim’s place, there he goes\nSowing the
+  sacred grain to make people doze\nAnd he unlocks every single door\nThe house is
+  for him to explore\n        They lean on their pillows, discovering \nEach other,
+  moaning, grasping tight, smothering —\nTossing and turning — struggling in each
+  other’s arms\nThe sky turns black and come the heavy storms\n        Which then
+  come groaning and growling\nWith rain sloshing and scouring\nLike the first rain
+  that God had given\nLashing at the earth and the heavens\n"
 note: |
   <p>We chose <em>The Story of Khun Chang Khun Phaen</em> because it tells the story of commoners in the epic poem style, which was traditionally reserved only for Kings or the Buddha, despite being written by the King himself. Other works written in the same period only portray the life of the elite classes and royalty, real or imagined. However, this work tells the story of commoners in the small province of Suphanburi and references the religions, culture, and beliefs of the non-elite there. Despite being mostly about “normal people,” the popularity of <em>The Story of Khun Chang Khun Phaen</em> has endured, having been retold in movie and TV formats.</p>
   <p>The excerpt opens with Khun Phaen, a novice monk, sneaking into Nang Phim’s room to make love to her. This is quite striking because it contravenes Buddhist monks’ vow of celibacy. The explicit language used to describe the scene is shocking because it runs counter to Thai cultural norms. This act is also a breach of public trust because Khun Phaen is a monk, representing both religion and the King, as the monarchy is the patron of Thai Buddhism; and so, lays bare the unspeakable aspects of Thai society. Those same taboos are relevant today, as people are obligated to be silent (or silenced) about issues like prostitution, despite being common practice.</p>
@@ -54,11 +54,30 @@ tbio: |-
 language: Thai
 lang: th
 image: none
-origaudio:
-translaudio:
+imagecredit: 
+origaudio: |-
+  <div>
+    <h3>Original Poem</h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1JXPDsNBiGAaVEltDaPcH6ISynhwbexSu/preview">
+    </iframe>
+  </div>
+translaudio: |-
+  <div>
+    <h3> Translated Poem </h3>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/13d7Clbma72yH4fdyV95Za7z9qQTRChUS/preview">
+    </iframe>
+  </div>
 edition: '2021'
 pagetype: submission
-order: '34'
+order: '32'
 layout: notepage
 collection: notes_2021
 ---

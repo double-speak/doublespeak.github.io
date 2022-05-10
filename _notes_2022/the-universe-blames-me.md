@@ -96,12 +96,13 @@ language: Arabic
 lang: ar
 image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/qabbani.jpg
 image2: none
-imagecredit:
-imagecredit2:
-translaudio:
-origaudio:
+imagecredit: Michael Karam
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2022'
-order: '18'
+pagetype: submission
+order: '16'
 layout: notepage
 collection: notes_2022
 ---

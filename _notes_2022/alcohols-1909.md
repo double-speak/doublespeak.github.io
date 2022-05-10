@@ -74,13 +74,31 @@ language: French
 lang: fr
 image: https://github.com/qgruber8/qgruber8.github.io/blob/02d9a6732a2b902e3047151ad1fda95bb5190523/assets/images/images_22/apollinaire.jpg
 image2: none
-imagecredit:
-imagecredit2:
-translaudio:
-origaudio:
+imagecredit: Ryan Hardy
+imagecredit2: 
+origaudio: |-
+  <div>
+  <h3>Original Poem</h3>
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1bSQcXPggZHg-jAR5vzmMwgaQsyaYBup3/preview">
+  </iframe>
+  </div>
+translaudio: |-
+  <div>
+  <h3>Original Poem</h3>
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/17NVzJOMqL12P05Y3k0m_WsHQ4NyIebrr/preview">
+  </iframe>
+  </div>
 edition: '2022'
-order: '15'
+pagetype: submission
+order: '13'
 layout: notepage
 collection: notes_2022
-...
 ---

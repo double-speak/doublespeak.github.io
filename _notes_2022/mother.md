@@ -44,12 +44,13 @@ language: Turkish
 lang: tr
 image: none
 image2: none
-imagecredit:
-imagecredit2:
-translaudio:
-origaudio:
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2022'
-order: '16'
+pagetype: submission
+order: '14'
 layout: notepage
 collection: notes_2022
 ---
