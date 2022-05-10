@@ -4,7 +4,8 @@ title: <span lang="zh">开封日记</span>
 transtitle: Diary of the Lockdown Lifted
 author: 'Zhang Zhihao (<span lang= "zh" style="font-style: normal">张执浩</span>)'
 translator: translated by Zhiqiao (Kate) Jiang and Liwa Sun
-poem: "重复生活的危险性\n就在于记忆容易被消磁\n我已经不记得昨天的事了\n就像昨天不存在似的\n今天是封城的第76天\n也是最后一日\n我坐在家里就像\n坐在城外的空地上\n阳光明艳照见我有泪水\n我必须眯上眼睛使劲看\n才能依稀看见\n一个未亡人\n闪烁在地平线上的影子\n扭曲，失真，不成人形\n当他越走越近时\n我会站起身来\n奔过去\n与他相拥而泣\n2020-4-7\n\n<h1>Tagebuch
+poem: "重复生活的危险性\n就在于记忆容易被消磁\n我已经不记得昨天的事了\n就像昨天不存在似的\n今天是封城的第76天\n也是最后一日\n我坐在家里就像\n坐在城外的空地上\n阳光明艳照见我有泪水\n我必须眯上眼睛使劲看\n才能依稀看见\n一个未亡人\n闪烁在地平线上的影子\n扭曲，失真，不成人形\n当他越走越近时\n我会站起身来\n奔过去\n与他相拥而泣\n2020-4-7\n<span
+  lang=\"eng\" style=\"font-family: futura-pt, sans-serif !important\">\n<h1>Tagebuch
   vom Ende der Quarantäne</h1>\n<h2>translated by Couloir Hanson</h2>\n\nDie Gefahr,
   dass sich das Leben wiederholt ist,\ndass das Gedächtnis dazu neigt, sich zu entmagnetisieren.\nIch
   kann mich schon nicht erinnern, was gestern passiert ist,\nals ob gestern nicht
@@ -40,7 +41,7 @@ poem: "重复生活的危险性\n就在于记忆容易被消磁\n我已经不记
   al darle luz a mis lágrimas.\nTuve que entrecerrar mis ojos para ver,\npara distinguir,
   \nuna reliquia, apenas,\nuna sombra parpadeó hacia el horizonte.\nDistorcionado,
   irreal, perdiendo la forma humana,\nse acercó a mí.\nMe puse de pie,\ncorrí hacia
-  él\ny lo abracé con lágrimas compartidas.\n7/4/2020\n\n\n\n\n"
+  él\ny lo abracé con lágrimas compartidas.\n7/4/2020\n</span>"
 transpoem: "The danger of life repeating itself\nis that memory is prone to degaussing\nI
   already do not remember what happened yesterday\nas if yesterday did not exist\nToday
   is the 76th day of the lockdown\nalso the last day\nI sit at home just like\nsitting
@@ -107,16 +108,9 @@ language: Chinese; English; German; Italian; Old English; Japanese; Portoguese; 
 lang: zh
 image: none
 imagecredit: 
-origaudio: |
-  <div>
-    <h3>Original Poem</h3>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1zZbY1ri7v576AOO6ZKhCkLtBWBa1ULsA/preview">
-    </iframe>
-  </div>
+origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
+  \   src=\"https://drive.google.com/file/d/1zZbY1ri7v576AOO6ZKhCkLtBWBa1ULsA/preview\">\n
+  \ </iframe>\n</div>\n"
 translaudio: 
 edition: '2021'
 pagetype: submission

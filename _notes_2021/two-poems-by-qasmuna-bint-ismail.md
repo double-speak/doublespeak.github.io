@@ -19,7 +19,7 @@ abio:
 tbio: 
 language: Arabic
 lang: bs
-image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/headley.jpg
+image: "../assets/images/images_21/interview.jpeg"
 imagecredit: Yan Zhang
 origaudio: 
 translaudio: 

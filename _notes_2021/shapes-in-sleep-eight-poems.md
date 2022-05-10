@@ -149,18 +149,11 @@ tbio: "<p>David F. Ting works for a renowned lung cancer specialist as a medical
   a good mask, and he is probably thinking about egg tarts.</p>"
 language: German
 lang: de
-image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/celan.jpg
+image: "../assets/images/images_21/celan.jpg"
 imagecredit: Heta Patel
-origaudio: |-
-  <div>
-    <h3>Original Poem</h3>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1ano_WwbTdechI5VP5-utZV6WWF_Cq9in/preview">
-    </iframe>
-  </div>
+origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
+  \   src=\"https://drive.google.com/file/d/1ano_WwbTdechI5VP5-utZV6WWF_Cq9in/preview\">\n
+  \ </iframe>\n</div>"
 translaudio: |-
   <div>
     <h3>Original Poem</h3>

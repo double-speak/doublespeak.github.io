@@ -51,19 +51,12 @@ language: Chinese
 lang: zh
 image: none
 imagecredit: 
-origaudio: |
-  <div>
-    <h3>Original Poem</h3>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1VD0ayMr8c-4Lxql_sdQ81Zx78TAORHuY/preview">
-    </iframe>
-  </div>
+origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
+  \   src=\"https://drive.google.com/file/d/1VD0ayMr8c-4Lxql_sdQ81Zx78TAORHuY/preview\">\n
+  \ </iframe>\n</div>\n"
 translaudio: |
   <div>
-    <h3> Translated Poem </h3>
+
     <iframe
       frameborder="0"
       width="375"
