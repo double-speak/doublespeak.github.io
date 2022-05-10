@@ -145,6 +145,11 @@ input {
 	margin: 0px 0px 15px 60px;
 	background-color: #f5eee4;
 	border: solid black 1px;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	font-size: 20px;
 }
 
 ::placeholder {
@@ -171,6 +176,7 @@ button[type="submit"] {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: bold;
+	font-size: 18px;
 	font-size: 20px;
 	color: black;
 	border: solid black 1px;
