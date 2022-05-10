@@ -130,19 +130,12 @@ language: Hebrew
 lang: he
 image: none
 imagecredit: 
-origaudio: |-
-  <div>
-    <h3>Original Poem</h3>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1entKtPfghmJuAVe2WBXaU1Xuf17wh4x1/preview">
-    </iframe>
-  </div>
+origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
+  \   src=\"https://drive.google.com/file/d/1entKtPfghmJuAVe2WBXaU1Xuf17wh4x1/preview\">\n
+  \ </iframe>\n</div>"
 translaudio: |-
   <div>
-    <h3> Translated Poem </h3>
+
     <iframe
       frameborder="0"
       width="375"

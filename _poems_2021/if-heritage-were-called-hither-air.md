@@ -76,20 +76,12 @@ language: German
 lang: de
 image: none
 imagecredit: 
-origaudio: |+
-  <div>
-    <h3>Original Poem</h3>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1FzgKF7p6yfM_mGnRyOm2XN7CI2TySE6D/preview">
-    </iframe>
-  </div>
-
+origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
+  \   src=\"https://drive.google.com/file/d/1FzgKF7p6yfM_mGnRyOm2XN7CI2TySE6D/preview\">\n
+  \ </iframe>\n</div>\n\n"
 translaudio: |-
   <div>
-    <h3> Translated Poem </h3>
+
     <iframe
       frameborder="0"
       width="375"

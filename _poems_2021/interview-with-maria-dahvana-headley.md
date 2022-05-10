@@ -223,7 +223,7 @@ abio:
 tbio: 
 language: English
 lang: en
-image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/interview.jpeg
+image: "../assets/images/images_21/headley.JPG"
 imagecredit: Chardonnay Needler
 origaudio: 
 translaudio: 

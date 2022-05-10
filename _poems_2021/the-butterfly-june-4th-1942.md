@@ -49,21 +49,14 @@ tbio: "<p>My name is Karina Carreras, and I am a senior at the University of Iow
   this as well.</p>"
 language: German
 lang: de
-image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/friedmann.jpeg
+image: "../assets/images/images_21/friedmann.JPEG"
 imagecredit: Quinn Gruber
-origaudio: |
-  <div>
-    <h3>Original Poem</h3>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1lV_dzFOlHHBTZU4AMSiwrBMyuhQwJ6Mu/preview">
-    </iframe>
-  </div>
+origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
+  \   src=\"https://drive.google.com/file/d/1lV_dzFOlHHBTZU4AMSiwrBMyuhQwJ6Mu/preview\">\n
+  \ </iframe>\n</div>\n"
 translaudio: |
   <div>
-    <h3> Translated Poem </h3>
+
     <iframe
       frameborder="0"
       width="375"

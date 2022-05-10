@@ -56,21 +56,14 @@ tbio: |-
   </p>
 language: Chinese
 lang: zh
-image: https://raw.githubusercontent.com/qgruber8/qgruber8.github.io/main/assets/images/images_21/su_shi.jpg
+image: "../assets/images/images_21/su_shi.jpg"
 imagecredit: Zhiqiao (Kate) Jiang
-origaudio: |-
-  <div>
-    <h3>Original Poem</h3>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1PG4J1x58uwju_lxP2X3nDl8p8ZC-8z3e/preview">
-    </iframe>
-  </div>
+origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
+  \   src=\"https://drive.google.com/file/d/1PG4J1x58uwju_lxP2X3nDl8p8ZC-8z3e/preview\">\n
+  \ </iframe>\n</div>"
 translaudio: |-
   <div>
-    <h3> Translated Poem </h3>
+
     <iframe
       frameborder="0"
       width="375"

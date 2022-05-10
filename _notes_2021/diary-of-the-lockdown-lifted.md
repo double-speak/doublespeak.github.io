@@ -107,16 +107,9 @@ language: Chinese; English; German; Italian; Old English; Japanese; Portoguese; 
 lang: zh
 image: none
 imagecredit: 
-origaudio: |
-  <div>
-    <h3>Original Poem</h3>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1zZbY1ri7v576AOO6ZKhCkLtBWBa1ULsA/preview">
-    </iframe>
-  </div>
+origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
+  \   src=\"https://drive.google.com/file/d/1zZbY1ri7v576AOO6ZKhCkLtBWBa1ULsA/preview\">\n
+  \ </iframe>\n</div>\n"
 translaudio: 
 edition: '2021'
 pagetype: submission
