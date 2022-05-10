@@ -72,7 +72,7 @@ h1 {
 	text-align: left;
 	margin-top: 40px;
 	margin-bottom: 0px;
-	margin-left: 60px;
+	margin-left: 40px;
 	margin-right: 40px;
 }
 
@@ -84,7 +84,7 @@ h2 {
 	line-height: 20px;
 	color: black;
 	text-align: left;
-	margin-left: 60px;
+	margin-left: 40px;
 }
 
 pre {
@@ -96,7 +96,7 @@ pre {
 	color: black;
 	margin-top: 0px;
 	margin-bottom: 30px;
-	margin-left: 60px;
+	margin-left: 40px;
 	margin-right: 40px;
 }
 
@@ -110,7 +110,7 @@ p {
 	text-align: left;
 	margin-top: 0px;
 	margin-bottom: 30px;
-	margin-left: 60px;
+	margin-left: 40px;
 	margin-right: 40px;
 }
 
@@ -123,7 +123,7 @@ p em {
 	text-align: left;
 	margin-top: 0px;
 	margin-bottom: 30px;
-	margin-left: 60px;
+	margin-left: 40px;
 	margin-right: 40px;
 }
 
@@ -136,7 +136,7 @@ p strong {
 	text-align: left;
 	margin-top: 0px;
 	margin-bottom: 30px;
-	margin-left: 60px;
+	margin-left: 40px;
 	margin-right: 40px;
 }
 
@@ -201,7 +201,7 @@ p strong {
 
 .poems {
 	width: 75%;
-	margin: 50px auto 0 auto;
+	margin: 0px auto 0 auto;
 }
 
 .ogtitle {
@@ -296,8 +296,8 @@ h1:lang(ar) {
     font-family: adobe-arabic, sans-serif; 
     font-weight: 700;
     font-style:  normal;
-    font-size: 60px;
-	line-height: 63px;
+    font-size: 34px;
+	line-height: 36px;
 	text-align: right;
   }
 
@@ -335,8 +335,8 @@ pre:lang(ar), pre:lang(ar) {
 
 h1:lang(zh) { 
     font-weight: 500;
-    font-size: 60px;
-	line-height: 63px;
+    font-size: 34px;
+	line-height: 36px;
   }
 
 h2:lang(zh) { 
@@ -352,9 +352,9 @@ h3:lang(zh) {
   }
 
 p:lang(zh), pre:lang(zh){ 
-    font-weight:  400;
-    font-size: 26px;
-	line-height: 28px;
+    font-weight:  300;
+    font-size: 18px;
+	line-height: 20px;
   }
 
 :lang(ja) { 
@@ -365,7 +365,7 @@ p:lang(zh), pre:lang(zh){
 	}
 
 h1:lang(ja) { 
-    font-weight:  500;
+    font-weight:  400;
     font-size: 60px;
 	line-height: 63px;
   }
@@ -399,9 +399,8 @@ p:lang(ja), pre:lang(ja) {
 
 h1:lang(ko) { 
     font-weight: 500;
-    font-size: 60px;
-	line-height: 63px;
-
+    font-size: 34px;
+	line-height: 36px;
   }
 
 h2:lang(ko) { 
@@ -432,8 +431,8 @@ p:lang(ko), pre:lang(ko) {
 
 h1:lang(th) { 
     font-weight:  400;
-    font-size: 60px;
-	line-height: 63px;
+    font-size: 34px;
+	line-height: 36px;
   }
 
 h2:lang(th) { 
@@ -458,34 +457,29 @@ p:lang(th), pre:lang(th) {
     font-style: normal;
     direction: rtl;
     color: black;
-    text-align:right;
 	}
 
 h1:lang(he) { 
     font-weight:  400;
     font-size: 60px;
 	line-height: 63px;
-	text-align:right;
   }
 
 h2:lang(he) { 
     font-weight:  300;
     font-size: 50px;
 	line-height: 55px;
-	text-align:right;
   }  
 
 h3:lang(he) { 
     font-weight:  300;
     font-size: 60px;
 	line-height: 63px;
-	text-align:right;
 }
 
 pre:lang(he) { 
     font-weight:  300;
     font-size: 22px;
-    text-align:right;
   }
 
 p:lang(he), pre:lang(he) { 
@@ -523,7 +517,8 @@ h3:lang(hi) {
 
 p:lang(hi), pre:lang(hi) { 
     font-weight:  300;
-    font-size: 22px;
+    font-size: 18px;
+    line-height: 24px;
   }
 
 /* end language code */

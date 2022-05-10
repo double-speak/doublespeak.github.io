@@ -68,10 +68,11 @@ a {
 
 .tcontentslink a {
 	display: inline-block;
-	font-family: futura-pt, sans-serif;
-	margin: 80px 0 0 -80px;
+	margin: 40px 0 0 -80px;
 	color: black;
 	text-decoration: none;
+	font-size: 18px;
+	line-height: 20px;
 }
 
 .tcontentslink a:hover {
@@ -80,7 +81,7 @@ a {
 
 /*main content style!*/
 
-.ednote h1, .copyright h1 {
+h1{
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -105,7 +106,7 @@ h2 {
 	margin-left: 60px;
 }
 
-.ednote p, .copyright p {
+p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -130,8 +131,7 @@ h2 {
 
 
 .staff {
-	border-left: solid black 1px;
-	padding: 60px 60px 20px 0;
+	padding: 10px 60px 20px 0;
 }
 
 .staff-u ul {
@@ -159,7 +159,7 @@ h2 {
 }
 
 .acknowledgements {
-	padding: 30px 0 10px 0;
+	padding: 0px 0 10px 0;
 }
 
 /* ednote formats */
@@ -167,10 +167,6 @@ h2 {
 .ednote {
 	width: 70%;
 	margin-top: 30px;
-}
-
-.signature {
-	text-align: right;
 }
 
 
@@ -201,7 +197,7 @@ p.link {
 	padding: 10px;
 	color: black;
 	text-decoration: none;
-	font-size:18px;
+	font-size: 18px;
 }
 
 .previouslink a:hover {

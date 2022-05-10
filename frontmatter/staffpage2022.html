@@ -44,7 +44,7 @@ layout: default
   </div>
   <div class=container>
     <div class="staff">
-      <h2>our staff</h2>
+      <h1>our staff</h1>
       <ul class="staff-u">
         {% for item in site.data.staff_2022 %}
         <li class="staff-l"><a><strong>{{item.name}}</strong> — {{item.role}}</a></li>
@@ -52,7 +52,7 @@ layout: default
       </ul>
     </div>
     <div class="acknowledgements">
-        <h2> acknowledgements </h2>
+        <h1 class="acknolwedgements"> acknowledgements </h1>
         <p>Thank you to the Kelly Writers House, the Student Activities Council at the University of Pennsylvania, and the Price Lab for Digital Humanities, especially Cassandra Hradil, for their support of <em>DoubleSpeak</em>.</p>
         <p>Cover photo taken by Limin Jiang.</p>
     </div>
@@ -80,7 +80,7 @@ layout: default
 
     {% endfor %}
   <div class="previouslink">
-    <p><a href="{{site.url}}/frontmatter/ednote2022"><  &nbsp; previous</a></p>
+    <p class="previouslink"><a href="{{site.url}}/frontmatter/ednote2022"><  &nbsp; previous</a></p>
   </div>
   <div class="nextlink">
     <p><a href="{{site.url}}/poems_2022/every-day-the-sun-slits-the-throat-of-its-former-self">next &nbsp; ></a></p>
