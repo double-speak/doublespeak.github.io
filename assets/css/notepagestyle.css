@@ -331,7 +331,7 @@ h1 {
 
 /*links to other poems*/
 
-p.link {
+.link p{
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
