@@ -223,7 +223,7 @@ abio:
 tbio: 
 language: English
 lang: en
-image: "../assets/images/images_21/headley.JPG"
+image: "../assets/images/images_21/interview.jpeg"
 imagecredit: Chardonnay Needler
 origaudio: 
 translaudio: 

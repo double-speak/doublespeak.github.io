@@ -46,8 +46,24 @@ image: none
 image2: none
 imagecredit: 
 imagecredit2: 
-origaudio: 
-translaudio: 
+origaudio: |
+  <div>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1d5u0RTGF_rDFrUBxiM4gh_44NCIViAx6/preview">
+    </iframe>
+  </div>
+translaudio: |
+  <div>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1mlPwShxmifJifVB_xtJf_7wJwqbEJ6l2/preview">
+    </iframe>
+  </div>
 edition: '2022'
 pagetype: submission
 order: '14'

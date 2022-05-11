@@ -53,15 +53,15 @@ layout: default
   {% if page.pagetype == "musing" or page.pagetype == "interview" %}
     <div class="container">
       <div class="note">
-        <h1>{{page.title}}</h1> <br>
-        <h2 class="note">{{page.author}}</h2><br>
+        <h1>{{page.title}}</h1> 
+        <h2>{{page.author}}</h2>
         <p class="note"> {{page.note}}</p>
       </div> 
     </div>
   {% else %}
     <div class="poems">
       <div class="ogpoem">
-        <h1><span lang= "{{ page.lang }}">{{page.title}}</span></h1>
+        <h1 lang= "{{ page.lang }}">{{page.title}}</h1>
         <h2>{{page.author}}</h2>
         <pre lang="{{ page.lang }}">{{page.poem}}</pre>
         <div class="audio">
@@ -111,7 +111,7 @@ layout: default
   <div class="previouslink">
     <p class="link"><a href="{{site.url}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
   </div>
-  
+
   <div class="nextlink">
   {% if page.pagetype == "musing" or page.pagetype == "interview" %}
       <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>

@@ -177,7 +177,6 @@ image: none
 imagecredit: 
 origaudio: |
   <div>
-    <h3> Original and Translated Poem </h3>
     <iframe
       frameborder="0"
       width="375"

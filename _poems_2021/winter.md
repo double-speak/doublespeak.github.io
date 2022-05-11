@@ -35,7 +35,6 @@ image: none
 imagecredit: 
 origaudio: |+
   <div>
-    <h3> Original Poem 1 </h3>
     <iframe
       frameborder="0"
       width="375"
@@ -45,7 +44,6 @@ origaudio: |+
   </div>
 
   <div>
-    <h3> Original Poem 2 </h3>
     <iframe
       frameborder="0"
       width="375"
@@ -56,7 +54,6 @@ origaudio: |+
 
 
   <div>
-    <h3> Original Poem 3 </h3>
     <iframe
       frameborder="0"
       width="375"
@@ -67,7 +64,6 @@ origaudio: |+
 
 translaudio: |+
   <div>
-    <h3> Translated Poem 1 </h3>
     <iframe
       frameborder="0"
       width="375"
@@ -77,7 +73,6 @@ translaudio: |+
   </div>
 
   <div>
-    <h3> Translated Poem 2 </h3>
     <iframe
       frameborder="0"
       width="375"
@@ -88,7 +83,6 @@ translaudio: |+
 
 
   <div>
-    <h3> Translated Poem 3 </h3>
     <iframe
       frameborder="0"
       width="375"

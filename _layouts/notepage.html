@@ -69,9 +69,11 @@ layout: default
          </div>
     </div>
     {% unless page.image == "none" or page.image == "none "%}
+      <div>
         <img class="poem-image" src="{{page.image}}"></img>
         <p class="caption"> {{page.imagecredit}}
         </p>
+      </div>
       {% endunless %}
   </div>
 

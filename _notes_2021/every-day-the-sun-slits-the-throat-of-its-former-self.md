@@ -106,9 +106,15 @@ language: French
 lang: fr
 image: none
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1L-z_C2gp6x6jbbmJ_n6OpeZZFu200suH/preview\">\n
-  \ </iframe>\n</div>"
+origaudio: |-
+  <div>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1L-z_C2gp6x6jbbmJ_n6OpeZZFu200suH/preview">
+    </iframe>
+  </div>
 translaudio: |-
   <div>
 

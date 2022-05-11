@@ -55,7 +55,6 @@ imagecredit: Betsy Morgan
 imagecredit2: 
 origaudio: |-
   <div>
-
   <iframe
     frameborder="0"
     width="375"
@@ -65,7 +64,6 @@ origaudio: |-
   </div>
 translaudio: |-
   <div>
-
   <iframe
     frameborder="0"
     width="375"

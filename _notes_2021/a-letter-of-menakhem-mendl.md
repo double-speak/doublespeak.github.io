@@ -1,6 +1,6 @@
 ---
 pid: a-letter-of-menakhem-mendl
-title: "<\"span lang=\"he>\n מכתב של מנחם-מנדל  \n<span/>"
+title: " מכתב של מנחם-מנדל "
 transtitle: A Letter of Menakhem-Mendl
 author: Nathan Alterman
 translator: Dan Ben-Amos

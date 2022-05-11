@@ -75,10 +75,10 @@ origaudio: |-
   <div>
 
   <iframe
-    frameborder=""""0""""
-    width=""""375""""
-    height=""""65""""
-    src=""""https://drive.google.com/file/d/1k33TmXe1FCr_np2FV10xp9TqY9jMuxH6/preview"""">
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1k33TmXe1FCr_np2FV10xp9TqY9jMuxH6/preview">
   </iframe>
   </div>
 translaudio: |-
