@@ -113,7 +113,15 @@ transpoem: "Back then I was twenty years old\nand crazy.\nI had lost a country\n
   laisseras tomber les images de la douleur et du labyrinthe\net tu oublieras.\nMais
   à ce temps-là, grandir aurait été un crime.\nJe suis ici, ai-je dit, avec les chiens
   romantiques\net c’est ici que je vais rester.\n\n<h1>Влюблённые псы</h1>\n<h2>translated
-  by Ryan Hardy and Daniel Shevchenko</h2>"
+  by Ryan Hardy and Daniel Shevchenko</h2>\n\nМне тогда стукнуло двадцать\nИ я был
+  без ума. \nЯ потерял страну\nНо приобрёл мечту.\nИ пока у меня была эта мечта,\nНичто
+  больше меня не касалось.\nНи работа, ни молитва,\nНи занятья на заре\nБок о бок
+  со влюблёнными псами.\nИ эта мечта таилась в пустоте моего духа.\nДеревянная комната,\nВ
+  полутени,\nВ одном из тропических лёгких.\nИногда я укрывался сам в себе\nИ посещал
+  эту мечту: изваяние увековеченное\nВ жидких размышлениях\nИ белый червь, извивающийся\nОт
+  любви.\nНеобузданная любовь.\nМечта внутри мечты.\nИ подсказывал мне кошмар: ты
+  вырастешь,\nОставишь позади картины лабиринта и боли\nИ забудешь.\nНо вырасти тогда
+  было бы преступлением.\nЯ здесь, сказал я, я со влюблёнными псами\nи здесь я и останусь.\n"
 note: '<p>A problem faced by nearly all of our translators when translating the text
   was the difference between the degrees of formality of certain words (or even entire
   word forms, per the individual language’s grammar) and the relative informality
@@ -145,7 +153,7 @@ tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and languag
   language and translation.</p>"
 language: Spanish; English; Chinese; French; Japanese; Russian
 lang: es
-image: https://github.com/qgruber8/qgruber8.github.io/blob/ad9b996824c869082f98dd2d804bf90852cbca85/assets/images/images_22/group_translation.JPG
+image: "../assets/images/images_22/group_translation.JPG"
 image2: none
 imagecredit: Quinn Gruber
 imagecredit2: 

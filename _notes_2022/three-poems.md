@@ -43,13 +43,13 @@ tbio: |-
   </p>
 language: Italian
 lang: it
-image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/n’djoku.jpg
+image: "../assets/images/images_22/n'djoku.jpg"
 image2: none
 imagecredit: Ryan Hardy
 imagecredit2: 
 origaudio: |-
   <div>
-  <h3>Original Poem</h3>
+
   <iframe
     frameborder="0"
     width="375"

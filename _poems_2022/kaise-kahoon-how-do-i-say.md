@@ -14,8 +14,8 @@ abio: |-
 tbio: 
 language: English
 lang: en
-image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/musing1.jpg
-image2: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/musing2.jpg
+image: "../assets/images/images_22/musing1.jpg"
+image2: "../assets/images/images_22/musing2.jpg"
 imagecredit: Stacy Shimanuki
 imagecredit2: Stacy Shimanuki
 origaudio: 

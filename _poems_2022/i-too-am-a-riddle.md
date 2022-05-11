@@ -41,7 +41,7 @@ tbio: "<p>Anjali Gupta is a senior at the University of Pennsylvania studying li
   her grandparents.  </p>"
 language: Hindi
 lang: hi
-image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/varma.jpg
+image: "../assets/images/images_22/varma.jpg"
 image2: none
 imagecredit: Yan Zhang
 imagecredit2: 

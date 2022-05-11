@@ -73,7 +73,7 @@ imagecredit:
 imagecredit2: 
 origaudio: |-
   <div>
-  <h3>Original Poem</h3>
+
   <iframe
     frameborder=""""0""""
     width=""""375""""
@@ -83,7 +83,7 @@ origaudio: |-
   </div>
 translaudio: |-
   <div>
-  <h3>Original Poem</h3>
+
   <iframe
     frameborder="""0"""
     width="""375"""

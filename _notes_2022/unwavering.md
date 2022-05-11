@@ -74,27 +74,12 @@ tbio: "<p>howdy, i am Pablo (he/him)! i am Spanish and Cuban and Miamian! i do s
   — may or may not be forthcoming.</p>"
 language: Spanish
 lang: es
-image: https://github.com/qgruber8/qgruber8.github.io/blob/8b7744a1dc22e531bfbbfb0e4ca384d29cbc943f/assets/images/images_22/armengol.jpg
+image: "../assets/images/images_22/armengol.jpg"
 image2: none
 imagecredit: Stacy Shimanuki
 imagecredit2: 
-origaudio: |-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1bSQcXPggZHg-jAR5vzmMwgaQsyaYBup3/preview">
-  </iframe>
-translaudio: |-
-  <div>
-  <h3>Original Poem</h3>
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/17NVzJOMqL12P05Y3k0m_WsHQ4NyIebrr/preview">
-  </iframe>
-  </div>
+origaudio: 
+translaudio: 
 edition: '2022'
 pagetype: submission
 order: '02'

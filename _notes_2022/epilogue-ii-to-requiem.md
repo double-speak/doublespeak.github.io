@@ -99,7 +99,7 @@ tbio: "<p>Ryan Hardy is an undergraduate at the University of Pennsylvania, purs
   memoir, <em>Words for Oneself</em>, is pending release with Slavica Publishers.</p>"
 language: Russian
 lang: ru
-image: https://github.com/qgruber8/qgruber8.github.io/blob/02d9a6732a2b902e3047151ad1fda95bb5190523/assets/images/images_22/akhmatova.jpeg
+image: "../assets/images/images_22/akhmatova.jpeg"
 image2: none
 imagecredit: Ryan Hardy
 imagecredit2: 

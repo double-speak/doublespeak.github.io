@@ -72,13 +72,13 @@ tbio: "<p>Saagar Asnani (C’19) is a PhD student in musicology at the Universit
   he enjoys playing viola and is an active member of UC Berkeley’s Symphony Orchestra.</p>"
 language: French
 lang: fr
-image: https://github.com/qgruber8/qgruber8.github.io/blob/02d9a6732a2b902e3047151ad1fda95bb5190523/assets/images/images_22/apollinaire.jpg
+image: "../assets/images/images_22/armengol.jpg"
 image2: none
 imagecredit: Ryan Hardy
 imagecredit2: 
 origaudio: |-
   <div>
-  <h3>Original Poem</h3>
+  <h3> Original Poem </h3>
   <iframe
     frameborder="0"
     width="375"
@@ -88,7 +88,7 @@ origaudio: |-
   </div>
 translaudio: |-
   <div>
-  <h3>Original Poem</h3>
+  <h3> Translated Poem </h3>
   <iframe
     frameborder="0"
     width="375"

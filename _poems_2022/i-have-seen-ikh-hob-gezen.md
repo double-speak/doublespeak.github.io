@@ -49,13 +49,13 @@ tbio: |-
   </p>
 language: Yiddish
 lang: he
-image: https://github.com/qgruber8/qgruber8.github.io/blob/e694cea9863cc02d38b5761b966f98b9c7a61dac/assets/images/images_22/segalovitsh.jpg
+image: "../assets/images/images_22/segalovitsh.jpg"
 image2: none
 imagecredit: Betsy Morgan
 imagecredit2: 
 origaudio: |-
   <div>
-  <h3>Original Poem</h3>
+
   <iframe
     frameborder="0"
     width="375"
@@ -65,7 +65,7 @@ origaudio: |-
   </div>
 translaudio: |-
   <div>
-  <h3>Original Poem</h3>
+
   <iframe
     frameborder="0"
     width="375"

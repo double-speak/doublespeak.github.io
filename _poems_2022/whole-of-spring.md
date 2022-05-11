@@ -50,7 +50,7 @@ tbio: "<p>Maria Lourdes Riillo was born in Buenos Aires, Argentina. She is a gra
   baking, or performing in a rehearsal when her nose isn’t in a book.</p>"
 language: Spanish
 lang: es
-image: https://github.com/qgruber8/qgruber8.github.io/blob/c8d7c36070fa9dcb28962d1b8efeff9bf147637d/assets/images/images_22/vilarino.jpeg
+image: "../assets/images/images_22/vilarino.jpeg"
 image2: none
 imagecredit: Ryan Hardy
 imagecredit2: 

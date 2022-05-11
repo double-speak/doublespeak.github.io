@@ -96,8 +96,8 @@ tbio: |-
   </p>
 language: Russian
 lang: ru
-image: https://github.com/qgruber8/qgruber8.github.io/blob/02d9a6732a2b902e3047151ad1fda95bb5190523/assets/images/images_22/drunina1.jpg
-image2: https://github.com/qgruber8/qgruber8.github.io/blob/02d9a6732a2b902e3047151ad1fda95bb5190523/assets/images/images_22/drunina2.jpg
+image: "../assets/images/images_22/drunina1.jpg"
+image2: "../assets/images/images_22/drunina2.jpg"
 imagecredit: Stacy Shimanuki
 imagecredit2: Ryan Hardy
 origaudio: 

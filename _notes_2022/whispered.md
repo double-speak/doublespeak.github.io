@@ -77,8 +77,8 @@ tbio: |-
   Valašské Klobouky. She is currently translating a YA novel by Véronique Tadjo from French.</p>
 language: Czech
 lang: cs
-image: https://github.com/qgruber8/qgruber8.github.io/blob/08a963820ace6b4b30551628ed7dafb8d0a8ef0e/assets/images/images_22/halas.JPG
-image2: https://github.com/qgruber8/qgruber8.github.io/blob/08a963820ace6b4b30551628ed7dafb8d0a8ef0e/assets/images/images_22/halas2.JPG
+image: "../assets/images/images_22/halas.jpg"
+image2: "../assets/images/images_22/halas2.JPG"
 imagecredit: Kathryn Dettmer
 imagecredit2: Kathryn Dettmer
 origaudio: 
