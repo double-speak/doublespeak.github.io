@@ -61,16 +61,18 @@ layout: default
   {% else %}
     <div class="poems">
       <div class="ogpoem">
-        <h1 lang= "{{ page.lang }}">{{page.title}}</h1>
+        <h1 class="poemtitle" lang= "{{ page.lang }}">{{page.title}}</h1>
         <h2>{{page.author}}</h2>
+        <hr />
         <pre lang="{{ page.lang }}">{{page.poem}}</pre>
         <div class="audio">
           {{page.origaudio}}
         </div>
       </div>
       <div class="transpoem">
-        <h1>{{page.transtitle}}</h1>
+        <h1 class="poemtitle">{{page.transtitle}}</h1>
         <h2>{{page.translator}}</h2>
+        <hr />
         <pre>{{page.transpoem}}</pre>
         <div class="audio">
           {{page.translaudio}}
