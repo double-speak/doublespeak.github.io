@@ -55,6 +55,11 @@ layout: default
               <div class="tcleft">
                 <h2 class="tcleft"><a href="frontmatter/{{item.pid}}">{{ item.transtitle }}</a></h2>
               </div>
+          {% elsif item.pagetype == "musing" or item.pagetype == "interview" %}
+            <div class="tcleft">
+              <h2 class="tcleft"><a href="poems_2022/{{item.pid}}">{{ item.transtitle }}</a></h2>
+              <h3 class="tcleft"> by {{ item.engauthor }} </h3>
+            </div>
           {% elsif item.pagetype == "content" %}
         <div class="tcleft">
           <h2 class="tcleft"><a href="poems_2022/{{item.pid}}">{{ item.transtitle }} [<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</a></h2>
@@ -63,7 +68,7 @@ layout: default
         {% endif %}
         {% endfor %}
         <div style= "width:80vw; padding: 5vw"">
-        <img style="max-width:100%; display:inline-block" src="../assets/images/images_22/tableofcontents.JPG">
+        <img style="max-width:100%; display:inline-block" src="../assets/images/images_22/tableofcontents.JPG"/>
         <p>photo by Quinn Gruber</p>
       </div>
       </div>

@@ -55,6 +55,11 @@ layout: default
               <div class="tcleft">
                 <h2 class="tcleft"><a href="frontmatter/{{item.pid}}">{{ item.transtitle }}</a></h2>
               </div>
+          {% elsif item.pagetype == "musing" or item.pagetype == "interview" %}
+            <div class="tcleft">
+              <h2 class="tcleft"><a href="poems_2021/{{item.pid}}">{{ item.transtitle }}</a></h2>
+              <h3 class="tcleft"> by {{ item.engauthor }} </h3>
+            </div>
           {% elsif item.pagetype == "content" %}
             <div class="tcleft">
               <h2 class="tcleft"><a href="poems_2021/{{item.pid}}">{{ item.transtitle }} [<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</a></h2>

@@ -49,24 +49,35 @@ layout: default
       </ul>
     </div>
   </div>
-  <div class="poems">
-    <div class="ogpoem">
-      <h1><span lang= "{{ page.lang }}">{{page.title}}</span></h1>
-      <h2>{{page.author}}</h2>
-      <pre lang="{{ page.lang }}">{{page.poem}}</pre>
-      <div class="audio">
-        {{page.origaudio}}
+
+  {% if page.pagetype == "musing" or page.pagetype == "interview" %}
+    <div class="container">
+      <div class="note">
+        <h1>{{page.title}}</h1> <br>
+        <h2 class="note">{{page.author}}</h2><br>
+        <p class="note"> {{page.note}}</p>
+      </div> 
+    </div>
+  {% else %}
+    <div class="poems">
+      <div class="ogpoem">
+        <h1><span lang= "{{ page.lang }}">{{page.title}}</span></h1>
+        <h2>{{page.author}}</h2>
+        <pre lang="{{ page.lang }}">{{page.poem}}</pre>
+        <div class="audio">
+          {{page.origaudio}}
+        </div>
+      </div>
+      <div class="transpoem">
+        <h1>{{page.transtitle}}</h1>
+        <h2>{{page.translator}}</h2>
+        <pre>{{page.transpoem}}</pre>
+        <div class="audio">
+          {{page.translaudio}}
+        </div>
       </div>
     </div>
-    <div class="transpoem">
-      <h1>{{page.transtitle}}</h1>
-      <h2>{{page.translator}}</h2>
-      <pre>{{page.transpoem}}</pre>
-      <div class="audio">
-        {{page.translaudio}}
-      </div>
-    </div>
-  </div>
+  {% endif %}
 
 <!--   {% assign previousIndex = page.pid | minus: 1 %} -->
 
@@ -77,6 +88,8 @@ layout: default
       {% if pg.pid == page.pid %}
 
           {% assign previousIndex = forloop.index | minus: 1 %}
+
+          {% assign nextIndex = forloop.index | plus: 1 %}
         {% endif %}
 
     {% endfor %}
@@ -84,20 +97,29 @@ layout: default
     {% for pg in site.data[path] %}
 
          {% if forloop.index == previousIndex %}
-
           {% assign previousPage = pg.pid %}
 
 
         {% endif %}
       
+        {% if forloop.index == nextIndex %}
+          {% assign nextPage = pg.pid %}
+        {% endif %}
     {% endfor %}
+  
+
   <div class="previouslink">
     <p class="link"><a href="{{site.url}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
   </div>
+  
   <div class="nextlink">
+  {% if page.pagetype == "musing" or page.pagetype == "interview" %}
+      <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
+    {% else %}
+  
 
       <p class="link"><a href="{{site.url}}/notes_{{page.edition}}/{{page.pid}}">next &nbsp; ></a></p>
-
+{% endif %}
   </div>
 </body>
 <html>
