@@ -250,6 +250,7 @@ h1 {
 	display: inline-block;
 	font-family: futura-pt, sans-serif;
 	margin: 40px 0 0 -80px;
+	font-weight: 300;
 	color: black;
 	text-decoration: none;
 	font-size: 18px;
@@ -331,7 +332,7 @@ h1 {
 
 /*links to other poems*/
 
-.link p{
+.link p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -356,6 +357,9 @@ h1 {
 	padding: 10px;
 	color: black;
 	text-decoration: none;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
 	font-size: 18px;
 	line-height: 20px;
 }
@@ -375,6 +379,9 @@ h1 {
 	padding: 10px;
 	color: black;
 	text-decoration: none;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
 	font-size: 18px;
 	line-height: 20px;
 }

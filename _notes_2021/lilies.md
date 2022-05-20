@@ -86,7 +86,7 @@ tbio: "<p>Emma Arsekin is an undergraduate studying history and political scienc
 language: Bosnian
 lang: bs
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/190dnGQUqZ_bNKqOfR_cBtLiYgFi9BEiK/preview\">\n
   \ </iframe>\n</div>"

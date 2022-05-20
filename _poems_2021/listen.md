@@ -79,7 +79,7 @@ tbio: "<p>Ryan is an undergraduate at the University of Pennsylvania, pursuing a
 language: Russian
 lang: ru
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1DyW5LJAluutOBbP63VxrjR_z_QGXYmbd/preview\">\n
   \ </iframe>\n</div>\n"

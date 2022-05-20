@@ -156,9 +156,9 @@ lang: es
 image: "../assets/images/images_22/group_translation.JPG"
 image2: none
 imagecredit: Quinn Gruber
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2022'
 pagetype: submission
 order: '18'

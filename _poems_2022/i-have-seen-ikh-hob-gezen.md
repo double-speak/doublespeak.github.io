@@ -52,7 +52,7 @@ lang: he
 image: "../assets/images/images_22/segalovitsh.jpg"
 image2: none
 imagecredit: Betsy Morgan
-imagecredit2: 
+imagecredit2:
 origaudio: |-
   <div>
   <iframe

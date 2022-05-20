@@ -32,7 +32,7 @@ tbio: <p>Vanessa is a rising sophomore studying computer science and Ethnicity, 
 language: Japanese
 lang: ja
 image: none
-imagecredit: 
+imagecredit:
 origaudio: |+
   <div>
     <iframe
@@ -96,4 +96,5 @@ pagetype: submission
 order: '08'
 layout: notepage
 collection: notes_2021
+...
 ---

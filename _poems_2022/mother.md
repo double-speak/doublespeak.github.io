@@ -44,8 +44,8 @@ language: Turkish
 lang: tr
 image: none
 image2: none
-imagecredit: 
-imagecredit2: 
+imagecredit:
+imagecredit2:
 origaudio: |
   <div>
     <iframe

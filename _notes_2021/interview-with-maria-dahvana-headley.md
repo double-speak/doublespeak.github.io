@@ -3,9 +3,9 @@ pid: interview-with-maria-dahvana-headley
 title: Interview with Maria Dahvana Headley
 transtitle: Interview with Maria Dahvana Headley
 author: a conversation on translation, storytelling, and feminism
-translator: 
-poem: 
-transpoem: 
+translator:
+poem:
+transpoem:
 note: "<p><em>This interview was conducted by </em>DoubleSpeak<em> staff and Professor
   Taije Silverman.</em></p>\n \n<p><strong><em>DoubleSpeak</em>:</strong> The first
   question for today is: What got you interested in translation, and how do you see
@@ -219,14 +219,14 @@ note: "<p><em>This interview was conducted by </em>DoubleSpeak<em> staff and Pro
   poem is about. I got a new window into it. So, the things that I lost in terms of
   my ability to just write all day, I gained in my ability to see through the eyes
   of the mothers in the <em>Beowulf</em> story.</p>\n"
-abio: 
-tbio: 
+abio:
+tbio:
 language: English
 lang: en
 image: "../assets/images/images_21/interview.jpeg"
 imagecredit: Chardonnay Needler
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2021'
 pagetype: interview
 order: '15'

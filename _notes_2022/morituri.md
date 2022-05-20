@@ -52,9 +52,9 @@ image: "../assets/images/images_22/Brand_Morituri.png"
 image2: none
 imagecredit: An illustration by Richard Grimm accompanying the original poem in <i>Der
   Eigene</i>.
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2022'
 pagetype: submission
 order: '07'

@@ -57,7 +57,7 @@ tbio: |
 language: Korean
 lang: ko
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1CtI76YH2UqLpPzRvr48I8ftG1KVcFWYK/preview\">\n
   \ </iframe>\n</div>"

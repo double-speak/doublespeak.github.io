@@ -102,9 +102,9 @@ lang: ru
 image: "../assets/images/images_22/akhmatova.jpeg"
 image2: none
 imagecredit: Ryan Hardy
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2022'
 pagetype: submission
 order: '17'

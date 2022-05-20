@@ -53,7 +53,7 @@ lang: es
 image: "../assets/images/images_22/vilarino.jpeg"
 image2: none
 imagecredit: Ryan Hardy
-imagecredit2: 
+imagecredit2:
 origaudio: |
   <div>
     <iframe

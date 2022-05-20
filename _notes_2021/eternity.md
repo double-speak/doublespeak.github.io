@@ -69,7 +69,7 @@ tbio: "<p>Keshav Sharma is a freshman at Queen’s University in Kingston, Ontar
 language: French
 lang: fr
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1ucgCY-VYJw1nD2IqyRxsSLnKHbNnV-fE/preview\">\n
   \ </iframe>\n</div>\n"

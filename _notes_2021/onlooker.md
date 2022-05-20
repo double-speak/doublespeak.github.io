@@ -50,7 +50,7 @@ tbio: |-
 language: Chinese
 lang: zh
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1VD0ayMr8c-4Lxql_sdQ81Zx78TAORHuY/preview\">\n
   \ </iframe>\n</div>\n"

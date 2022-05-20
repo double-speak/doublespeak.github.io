@@ -51,7 +51,7 @@ tbio: "<p>Chardonnay Needler is just a scatterbrained person who likes languages
 language: Chinese
 lang: zh
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1ueih_DElFy7tBYd5R0OC5mY6xjx-UbOQ/preview\">\n
   \ </iframe>\n</div>\n"

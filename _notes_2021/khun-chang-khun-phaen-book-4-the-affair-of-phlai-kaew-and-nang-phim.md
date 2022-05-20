@@ -54,7 +54,7 @@ tbio: |-
 language: Thai
 lang: th
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1JXPDsNBiGAaVEltDaPcH6ISynhwbexSu/preview\">\n
   \ </iframe>\n</div>"

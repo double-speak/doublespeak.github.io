@@ -65,7 +65,7 @@ tbio: "<p>Margaret Lawlace is a graduate student in clinical psychology at the U
 language: Spanish
 lang: es
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/16cfcpPsFhBwXltFLY7yo-uBFK1_sEGNg/preview\">\n
   \ </iframe>\n</div>\n\n"

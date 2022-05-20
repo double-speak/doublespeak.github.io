@@ -81,8 +81,8 @@ image: "../assets/images/images_22/halas.jpg"
 image2: "../assets/images/images_22/halas2.JPG"
 imagecredit: Kathryn Dettmer
 imagecredit2: Kathryn Dettmer
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2022'
 pagetype: submission
 order: '03'

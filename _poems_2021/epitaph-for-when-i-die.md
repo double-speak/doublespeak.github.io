@@ -65,7 +65,7 @@ tbio: "<p>Donnisa Edmonds is a recent graduate of the University of Pennsylvania
 language: French
 lang: fr
 image: none
-imagecredit: 
+imagecredit:
 origaudio: |+
   <div>
     <iframe
@@ -109,4 +109,5 @@ pagetype: submission
 order: '20'
 layout: poempage
 collection: poems_2021
+...
 ---

@@ -85,7 +85,7 @@ tbio: "<p>My name is Wenhan Zhang. I come from Singapore and China. I studied ph
 language: Russian
 lang: ru
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1x3OqEdDtMGSqU-P16GxunsCwjudZGdlV/preview\">\n
   \ </iframe>\n</div>"

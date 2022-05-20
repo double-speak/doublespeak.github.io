@@ -14,15 +14,15 @@ transpoem: "I. \nO gazelle, tasting leaves,\nhere in the green of my garden.\nLo
   garden is filled with fruit on the vines, but the gardener\nrefuses to brush a finger
   over the skin of even one piece.\nHow sad it is! The season of splendor passes,\nand
   the fruit that ripens only in darkness\nRemains lonely. "
-note: 
-abio: 
-tbio: 
+note:
+abio:
+tbio:
 language: Arabic
 lang: bs
 image: "../assets/images/images_21/headley.JPG"
 imagecredit: Yan Zhang
-origaudio: 
-translaudio: 
+origaudio:
+translaudio:
 edition: '2021'
 pagetype: submission
 order: '14'

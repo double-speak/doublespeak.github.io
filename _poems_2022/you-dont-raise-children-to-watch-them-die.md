@@ -31,7 +31,7 @@ transpoem: "                                                             When th
   her a piece of diaper cloth\nto bandage her stumps or an ark\nto gather the salty
   remains.\n"
 note: |-
-  <p>This poem originally appeared in <em>Hijos</em> (<em>Sons</em>, 1991), a sublimely beautiful collection of Muñoz’s poems centered around pregnancy and motherhood. This image-rich, heart-aching piece — the final poem in the collection — is based on a real event from the time. In a historical context, such tragedies occur all too often in the maritime culture of Chiloé, as perhaps they do in other places, and the individual loss and grief conveyed become universal in significance. The particular language and imagery of Muñoz’s poetry, however, is specific to the culture, lore and landscape of the Chiloé archipelago, and is one of the most essential elements throughout her entire body of work.</p>
+  <p>This poem originally appeared in <em>Hijos</em> (<em>Children</em>, 1991), a sublimely beautiful collection of Muñoz’s poems centered around pregnancy and motherhood. This image-rich, heart-aching piece — the final poem in the collection — is based on a real event from the time. In a historical context, such tragedies occur all too often in the maritime culture of Chiloé, as perhaps they do in other places, and the individual loss and grief conveyed become universal in significance. The particular language and imagery of Muñoz’s poetry, however, is specific to the culture, lore and landscape of the Chiloé archipelago, and is one of the most essential elements throughout her entire body of work.</p>
   <p>We learn of the tragic loss in the first line and throughout the first stanza. In robbing her of her children, the sea not only took them — <em>se los llevó</em>, but “took them away”; the line becomes more similar in length to the original and emphasizes the loss. While their mother leaned in the doorway, awaiting their safe return and anticipating a successful catch, the pots of fish and seafood stew she was already planning would not merely be full, but <em>rebosantes</em> — “brimming” in joyous abundance. The traditional clay pots, with handles like folded “wings,” embody the magic of the hearth, the reward for such hard, often dangerous, labor at sea. She is endowed by the poet — a mother of three herself — with a powerful, unquestionable sense of maternal intuition. She somehow knows and feels the ultimate loss before her husband hears the tragic news reported on the radio. An abyss of devastation swallows her and spits her out, shrunken and aged. In a traditional culture not unfamiliar with tragedies at sea, it isn’t odd that she is already “dressed in black” and “gathering flowers” by the time he comes outside, “helpless and trembling.”</p>
   <p>The second stanza addresses not only the mother in the first stanza, but all grieving mothers, forever unmoored. In the second line, my approach to translating the image into English resulted in a more adaptive choice. From the original, “nada detiene el remolino que alienta su vuelo,” <em>remolino</em> can mean a whirlpool or a whirlwind. Instead of the more obvious reference to water, I chose the reference to air, for its connection to the rest of the phrase, <em>que alienta su vuelo</em> (“that encourages her flight”), and settled on “nothing restrains the whirlwind that keeps her aloft.”</p>
   <p>Without children of her own in sight, she is maimed forever by the loss. The other mothers know there’s no possible consolation, but can only offer gestures of compassion.</p>
@@ -65,8 +65,8 @@ language: Spanish
 lang: es
 image: none
 image2: none
-imagecredit: 
-imagecredit2: 
+imagecredit:
+imagecredit2:
 origaudio: |-
   <div>
 

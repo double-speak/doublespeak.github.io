@@ -64,7 +64,7 @@ lang: zh
 image: "../assets/images/images_22/ergun.jpg"
 image2: none
 imagecredit: Stacy Shimanuki
-imagecredit2: 
+imagecredit2:
 origaudio: |-
   <iframe
     frameborder="0"

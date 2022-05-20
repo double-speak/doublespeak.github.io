@@ -69,8 +69,8 @@ language: Thai
 lang: th
 image: none
 image2: none
-imagecredit: 
-imagecredit2: 
+imagecredit:
+imagecredit2:
 origaudio: |-
   <div>
 

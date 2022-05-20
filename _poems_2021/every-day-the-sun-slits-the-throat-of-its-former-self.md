@@ -105,7 +105,7 @@ tbio: "<p>Ashley Sniffen is a junior at the University of Pennsylvania studying 
 language: French
 lang: fr
 image: none
-imagecredit: 
+imagecredit:
 origaudio: |-
   <div>
     <iframe

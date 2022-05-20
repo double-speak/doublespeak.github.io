@@ -97,9 +97,9 @@ lang: ar
 image: "../assets/images/images_22/qabbani.jpg"
 image2: none
 imagecredit: Michael Karam
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2022'
 pagetype: submission
 order: '16'

@@ -77,7 +77,7 @@ tbio: "<p>Elizabeth Balabayev studies English literature and creative writing (C
 language: Russian
 lang: ru
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1iOiXuOMe_BNv-kwkw8_hAqwww1bY_IKt/preview\">\n
   \ </iframe>\n</div>"

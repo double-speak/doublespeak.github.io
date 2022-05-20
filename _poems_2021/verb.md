@@ -59,7 +59,7 @@ tbio: "<p>Heta Patel is a senior at the University of Pennsylvania studying Heal
 language: Spanish
 lang: es
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1H32REqqNHK2YHQ-0jo_u4KX8e1K5wRg8/preview\">\n
   \ </iframe>\n</div>"

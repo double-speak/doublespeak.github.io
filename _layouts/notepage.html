@@ -99,13 +99,13 @@ layout: default
 
     {% endfor %}
   <div class="previouslink">
-    <p class = "link"><a href="{{site.url}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
+    <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
   </div>
     <div class="nextlink">
     {% if nextIndex == endLength %}
       <p class="link"><a href="{{site.url}}/frontmatter/copyright_{{page.edition}}">next &nbsp; ></a></p>
     {% else %}
-      <p class = "link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
+      <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
     {% endif %}
 
 </body>

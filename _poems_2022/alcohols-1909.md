@@ -75,7 +75,7 @@ lang: fr
 image: "../assets/images/images_22/armengol.jpg"
 image2: none
 imagecredit: Ryan Hardy
-imagecredit2: 
+imagecredit2:
 origaudio: |-
   <div>
   <iframe

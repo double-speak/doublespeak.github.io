@@ -100,8 +100,26 @@ image: "../assets/images/images_22/drunina1.jpg"
 image2: "../assets/images/images_22/drunina2.jpg"
 imagecredit: Stacy Shimanuki
 imagecredit2: Ryan Hardy
-origaudio: 
-translaudio: 
+origaudio: |-
+  <div>
+
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1DVISR3x_aNSWz9MHHmOQhSSG5YQXtBOS/preview">
+  </iframe>
+  </div>
+translaudio: |-
+  <div>
+
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1G1iNf4XhEWYnOerdgTB8d1kWtd11yRib/preview">
+  </iframe>
+  </div>
 edition: '2022'
 pagetype: submission
 order: '10'

@@ -77,9 +77,27 @@ lang: es
 image: "../assets/images/images_22/armengol.jpg"
 image2: none
 imagecredit: Stacy Shimanuki
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit2:
+origaudio: |-
+  <div>
+
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1TGU58DCeXPxUd9Th7qwYsAqDOS1V0yOa/preview">
+  </iframe>
+  </div>
+translaudio: |-
+  <div>
+
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1kxjOJ6Nsb-jvcPovr1zpKK9u9L3QoNKk/preview">
+  </iframe>
+  </div>
 edition: '2022'
 pagetype: submission
 order: '02'

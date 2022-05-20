@@ -129,7 +129,7 @@ tbio: "<p>Dan Ben-Amos teaches folklore at the University of Pennsylvania. He ea
 language: Hebrew
 lang: he
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1entKtPfghmJuAVe2WBXaU1Xuf17wh4x1/preview\">\n
   \ </iframe>\n</div>"

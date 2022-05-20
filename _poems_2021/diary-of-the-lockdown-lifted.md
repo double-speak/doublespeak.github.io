@@ -107,11 +107,11 @@ language: Chinese; English; German; Italian; Old English; Japanese; Portoguese; 
   Spanish; Russian
 lang: zh
 image: none
-imagecredit: 
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1zZbY1ri7v576AOO6ZKhCkLtBWBa1ULsA/preview\">\n
   \ </iframe>\n</div>\n"
-translaudio: 
+translaudio:
 edition: '2021'
 pagetype: submission
 order: '36'
