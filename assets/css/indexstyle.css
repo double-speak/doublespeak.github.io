@@ -107,6 +107,17 @@ h2 {
 	text-decoration-thickness: 2px;
 }
 
+h3 {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	text-align: left;
+	white-space: nowrap;
+	line-height: 25px;
+}
+
+
 p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
@@ -170,6 +181,26 @@ button{
 
 .dropdown-content{
 	display: none;
+}
+
+.dropdown-content h2 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 28px;
+	line-height: 34.4px;
+	color: black;
+	text-align: left;
+}
+
+.dropdown-content h3 {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 22px;
+	line-height: 20px;
+	margin-left: 60px;
+	margin-right: 40px;
 }
 
 .show {

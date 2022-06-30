@@ -39,14 +39,24 @@ layout: default
     <button id="button" class="dropdown">authors</button>
       <div id="authors" class="dropdown-content">
         <a>content</a>
+        <!-- this worked to get a bunch of content listed: I figure if we have a list of tags somewhere they could link? maybe if we maintained a continued list of translators, authors, and languages? these should also probably be two-columned because there's a lot of translators and authors-->
+        {% for item in site.data.toc_2022 %}
+          {% if item.pagetype == "musing" or item.pagetype == "interview" %}
+              <h2><a href="poems_2021/{{item.pid}}">{{ item.transtitle }}</a></h2>
+              <h3> by {{ item.engauthor }}</h3>
+          {% elsif item.pagetype == "content" %}
+              <h2><a href="poems_2021/{{item.pid}}">{{ item.transtitle }} [<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</a></h2>
+              <h3>written by {{ item.engauthor }} <span lang= "{{ item.lang }}" dir="ltr">{{ item.ogauthor }}</span><br> translated from {{ item.language }} by {{ item.translator }}</h3>
+          {% endif %}
+        {% endfor %}
       </div>
     <br>
-    <button id="button" class="dropdown">translators</button>
+    <button id="button2" class="dropdown">translators</button>
       <div id="translators" class="dropdown-content">
         <a>content</a>
       </div>
     <br>
-    <button id="button" class="dropdown">languages</button>
+    <button id="button3" class="dropdown">languages</button>
       <div id="languages" class="dropdown-content">
         <a>content</a>
       </div>
