@@ -7,22 +7,20 @@ layout: default
 
   <head>
 
-    <link rel="stylesheet" type="text/css" href="../assets/css/indexstyle.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/homepagestyle.css">
 
  
     
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
   </head>
 
-   <title>index</title>
+   <title>doublespeak</title>
 
 <body>
   <header>
-    <a href="../homepage.html">
-      <div class="logo">
-        <img src="../assets/images/doublespeak_logo.png" alt="doublespeak logo">
-      </div> 
-    </a>
+    <div class="logo">
+      <img src="../assets/images/doublespeak_logo.png" alt="doublespeak logo">
+    </div> 
     <div class="nav">
       <ul>
         <li><a href="search.html">search</a></li>
@@ -32,41 +30,34 @@ layout: default
       </ul>
     </div>
   </header>
-  <div class="index">
-    <h1>index</h1>
-    <p class="index-p">Here, you can find lists of all the authors, translators, and languages featured so far in <em>DoubleSpeak</em>.</p>
-    <!-- got the first dropdown to work but not the rest! -->
-    <button id="button" class="dropdown">authors</button>
-      <div id="authors" class="dropdown-content">
-        <a>content</a>
-        <!-- this worked to get a bunch of content listed: I figure if we have a list of tags somewhere they could link? maybe if we maintained a continued list of translators, authors, and languages? these should also probably be two-columned because there's a lot of translators and authors-->
-        {% for item in site.data.toc_2022 %}
-          {% if item.pagetype == "musing" or item.pagetype == "interview" %}
-              <h2><a href="poems_2021/{{item.pid}}">{{ item.transtitle }}</a></h2>
-              <h3> by {{ item.engauthor }}</h3>
-          {% elsif item.pagetype == "content" %}
-              <h2><a href="poems_2021/{{item.pid}}">{{ item.transtitle }} [<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</a></h2>
-              <h3>written by {{ item.engauthor }} <span lang= "{{ item.lang }}" dir="ltr">{{ item.ogauthor }}</span><br> translated from {{ item.language }} by {{ item.translator }}</h3>
-          {% endif %}
-        {% endfor %}
-      </div>
-    <br>
-    <button id="button2" class="dropdown">translators</button>
-      <div id="translators" class="dropdown-content">
-        <a>content</a>
-      </div>
-    <br>
-    <button id="button3" class="dropdown">languages</button>
-      <div id="languages" class="dropdown-content">
-        <a>content</a>
-      </div>
-    <br>
+  <div class="welcome">
+    <h1> welcome to <br> doublespeak </h1>
+    <p class="welcome-p"><em>DoubleSpeak</em> is the University of Pennsylvania’s only journal for literary translation and the only literary translation journal in the country run by undergraduate students. Founded over a decade ago, our annual journal celebrates a range of languages, cultures, and countries through thoughtful curation of poets across centuries and around the world.</p>
   </div>
-  <script>
-    document.getElementById("button").onclick = function() {myFunction()};
-function myFunction() {
-  document.getElementById("authors").classList.toggle("show");
-}
-</script>
+  <div class="container">
+    <div class="currentissue">
+      <a href="tcontentspage_2022.html">
+        <div class="currentissue-overlay"></div>
+        <h2 class="currentissue-overlay-text">latest issue</h2>
+      </a>
+      <img class="currentissue" src="../assets/images/images_22/cover_2022.png" alt="Click here to go to the latest issue of DoubleSpeak.">
+    </div>
+    <div class="submit">
+      <h1>get in touch</h1>
+      <p class="submit-p">Do you love translation and languages, or want to learn more about them? Submit a translation to <em>DoubleSpeak</em>’s next issue and join our mailing list to stay updated!</p>
+      <a href="submit.html" class="sublink-a">
+      <div class="sublink-button">
+        submit
+      </div>
+      </a>
+
+      <a href="https://forms.gle/WuaspyWitbuXLstM7" class="sublink-a">
+      <div class="sublink-button">
+        join our mailing list
+        </div>
+        </a>
+      
+    </div>
+  </div>
 </body>
 <html>
