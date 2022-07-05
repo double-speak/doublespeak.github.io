@@ -37,44 +37,96 @@ layout: default
     <h1>index</h1>
     <p class="index-p">Here, you can find lists of all the authors, translators, and languages featured so far in <em>DoubleSpeak</em>.</p>
     <!-- got the first dropdown to work but not the rest! -->
-    <button id="button" class="dropdown">authors</button>
-      <div id="authors" class="dropdown-content">
+    <div class="dropdown">
+    <button class="dropdown" onclick="myFunction(1)">authors</button>
+      <div class="dropdown-content" id="dropdown1">
         <!-- this worked to get a bunch of content listed: I figure if we have a list of tags somewhere they could link?-->
         <ul class="content-u">
-        {% for item in site.data.tags %}
+        {% for item in site.data.authors %}
         <li class="content-l"><a>{{item.pid}}</a></li>
         {% endfor %}
         </ul>
       </div>
+    </div>
     <br>
-    <button id="button2" class="dropdown">translators</button>
-      <div id="translators" class="dropdown-content">
-        <a>content</a>
+    <div class="dropdown">
+    <button class="dropdown" onclick="myFunction(2)">translators</button>
+      <div class="dropdown-content" id="dropdown2">
         <ul class="content-u">
-        {% for item in site.data.tags %}
-        <li class="content-l"><a>{{item.translators}}</a></li>
+        {% for item in site.data.translators %}
+        <li class="content-l"><a>{{item.pid}}</a></li>
         {% endfor %}
         </ul>
       </div>
       </div>
+    </div>
     <br>
-    <button id="button3" class="dropdown">languages</button>
-      <div id="languages" class="dropdown-content">
-        <a>content</a>
-        <ul class="content-u">
-        {% for item in site.data.tags %}
-        <li class="content-l"><a>{{item.languages}}</a></li>
+    <div class="dropdown">
+    <button class="dropdown" onclick="myFunction(3)">languages</button>
+      <div class="dropdown-content" id="dropdown3">
+        <div class="language">
+        <ul class="language-u">
+        {% for item in site.data.languages %}
+        <li class="language-l"><a>{{item.pid}}</a></li> <!-- having trouble getting rid of the two columns in the language section, we don't need them. this might be something with the spreadsheet, like it's anticipating that there's more languages than there are; we might need separate spreadsheets for all of them -->
         {% endfor %}
         </ul>
+        </div>
       </div>
-      </div>
+    </div>
+    </div>
     <br>
   </div>
+  <!--
   <script>
-    document.getElementById("button").onclick = function() {myFunction()};
+    document.getElementById("button").onclick = function() {myFunction(1)};
 function myFunction() {
   document.getElementById("authors").classList.toggle("show");
 }
+  </script>
+  <script>
+    document.getElementById("button").onclick = function() {myFunction(2)};
+function myFunction() {
+  document.getElementById("dropdown + num").classList.toggle("show");
+}
+  </script>
+  <script>
+    document.getElementById("button").onclick = function() {myFunction(3)};
+function myFunction() {
+  document.getElementById("languages").classList.toggle("show");
+}
+  </script> -->
+  <script>
+let closeDropdown = function() {
+
+}
+function myFunction(num) {
+  closeDropdown();
+  let el = document.getElementById("dropdown" + num);  
+  if (el) {
+    el.classList.toggle("show");
+    closeDropdown = function() {
+        el.classList.remove("show");
+    }
+  } else {
+    closeDropdown = function() {
+    }
+  }
+}
+window.onclick = function(event) {
+  if (!event.target.matches('.dropdown')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+
+
+
 </script>
 </body>
 <html>

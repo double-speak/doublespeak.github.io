@@ -68,7 +68,6 @@ visibility: hidden;
 /*main content style!*/
 
 .index {
-	border-bottom: solid black 1px;
 	<!-- height: 30%; -->
 	padding: 60px 60px 20px 0;
 }
@@ -194,9 +193,10 @@ button{
 	display: inline-block;
 }
 
-/* unsure how to get the space between columns to be smaller but seems ok for now */
+/* i got the columns to work with under ul w/o any class specification, 
+but that screwed up the navbar*/
 
-ul{
+.dropdown-content ul{
 	columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
@@ -206,6 +206,12 @@ ul{
 }
 
 .content-u ul {
+	columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  column-gap: 10px;
+  margin-left: 40px;
+	margin-right: 20px;
 	list-style: circle;
 	text-decoration: none;
 	border: solid red 1px;
@@ -214,6 +220,31 @@ ul{
 }
 
 .content-l {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.language ul{
+	columns: 1 !important;
+	margin-left: 40px;
+	margin-right: 20px;
+}
+
+.language-u ul {
+	list-style: circle;
+	text-decoration: none;
+	border: solid red 1px;
+	background-color: black;
+	list-style-position: outside;
+}
+
+.language-l {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
