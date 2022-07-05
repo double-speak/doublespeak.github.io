@@ -67,7 +67,7 @@ layout: default
         <div class="language">
         <ul class="language-u">
         {% for item in site.data.languages %}
-        <li class="language-l"><a>{{item.pid}}</a></li> <!-- having trouble getting rid of the two columns in the language section, we don't need them. this might be something with the spreadsheet, like it's anticipating that there's more languages than there are; we might need separate spreadsheets for all of them -->
+        <li class="language-l"><a>{{item.pid}}</a></li>
         {% endfor %}
         </ul>
         </div>
@@ -76,25 +76,7 @@ layout: default
     </div>
     <br>
   </div>
-  <!--
-  <script>
-    document.getElementById("button").onclick = function() {myFunction(1)};
-function myFunction() {
-  document.getElementById("authors").classList.toggle("show");
-}
-  </script>
-  <script>
-    document.getElementById("button").onclick = function() {myFunction(2)};
-function myFunction() {
-  document.getElementById("dropdown + num").classList.toggle("show");
-}
-  </script>
-  <script>
-    document.getElementById("button").onclick = function() {myFunction(3)};
-function myFunction() {
-  document.getElementById("languages").classList.toggle("show");
-}
-  </script> -->
+  <!-- so the dropdowns work! the only thing is that now the buttons close if you click anywhere EXCEPT the button, but it would be nice to have the button also close when you click on it again -->
   <script>
 let closeDropdown = function() {
 
@@ -124,9 +106,6 @@ window.onclick = function(event) {
     }
   }
 }
-
-
-
 </script>
 </body>
 <html>
