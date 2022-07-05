@@ -150,19 +150,6 @@ button{
 	border-width: 0px;
 }
 
-.dropdown-content a{
-	font-family: futura-pt, sans-serif;
-	font-weight: 300;
-	font-style: normal;
-	font-size: 18px;
-	line-height: 20px;
-	color: black;
-	text-align: left;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 60px;
-	margin-right: 40px;
-}
 
 .arrow {
   border: solid black;
@@ -199,11 +186,32 @@ button{
 	font-style: normal;
 	font-size: 22px;
 	line-height: 20px;
-	margin-left: 60px;
 	margin-right: 40px;
 }
 
 .show {
 	position: relative;
 	display: inline-block;
+}
+
+.content-u ul {
+	list-style: circle;
+	text-decoration: none;
+	border: solid red 1px;
+	background-color: black;
+	list-style-position: outside;
+}
+
+.content-l {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+	margin-left: 40px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 40px;
 }
