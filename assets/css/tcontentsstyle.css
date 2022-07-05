@@ -80,8 +80,8 @@ h2 {
 	font-family: garamond-premier-pro, serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 28px;
-	line-height: 34.4px;
+	font-size: 24px;
+	line-height: 22px;
 	color: black;
 	text-align: left;
 	margin-left: 60px;
@@ -152,8 +152,8 @@ p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 28px;
-	line-height: 34.4px;
+	font-size: 24px;
+	line-height: 22px;
 	text-align: left;
 	margin-left: 0px;
 	white-space: nowrap;
@@ -183,8 +183,8 @@ p {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	font-size: 28px;
-	line-height: 34.4px;
+	font-size: 24px;
+	line-height: 22px;
 	color: black;
 	text-align: left;
 	margin-left: 0px;
@@ -234,8 +234,8 @@ h2:lang(ar) {
     font-family: adobe-arabic, sans-serif; 
     font-weight: 400;
     font-style:  normal;
-	font-size: 28px;
-	line-height: 34.4px;
+	font-size: 24px;
+	line-height: 22px;
   }
 
 h3:lang(ar) { 
@@ -269,8 +269,8 @@ h1:lang(zh) {
 
 h2:lang(zh) { 
     font-weight:  300;
-    font-size: 28px;
-	line-height: 34.4px;
+    font-size: 24px;
+	line-height: 22px;
   }
 
 h3:lang(zh) { 
@@ -300,8 +300,8 @@ h1:lang(ja) {
 
 h2:lang(ja) { 
     font-weight: 300;
-    font-size: 28px;
-	line-height: 34.4px;
+    font-size: 24px;
+	line-height: 22px;
   }
 
 h3:lang(ja) { 
@@ -334,8 +334,8 @@ h1:lang(ko) {
 
 h2:lang(ko) { 
     font-weight: 300;
-    font-size: 28px;
-	line-height: 34.4px;
+    font-size: 24px;
+	line-height: 22px;
   }
 
 h3:lang(ko) { 
@@ -366,8 +366,8 @@ h1:lang(th) {
 
 h2:lang(th) { 
     font-weight:  300;
-	font-size: 28px;
-	line-height: 34.4px;
+	font-size: 24px;
+	line-height: 22px;
   }
 
 h3:lang(th) { 
@@ -396,8 +396,8 @@ h1:lang(he) {
 
 h2:lang(he) { 
     font-weight:  300;
-   	font-size: 28px;
-	line-height: 34.4px;
+   	font-size: 24px;
+	line-height: 22px;
   }  
 
 h3:lang(he) { 
@@ -434,8 +434,8 @@ h1:lang(hi) {
 
 h2:lang(hi) {
     font-weight:  300;
-    font-size: 28px;
-	line-height: 34.4px;
+    font-size: 24px;
+	line-height: 22px;
   }  
 
 h3:lang(hi) { 
