@@ -59,12 +59,12 @@ layout: default
           {% elsif item.pagetype == "musing" or item.pagetype == "interview" %}
             <div class="tcleft">
               <h2 class="tcleft"><a href="poems_2022/{{item.pid}}">{{ item.transtitle }}</a></h2>
-              <h3 class="tcleft"> by {{ item.engauthor }} </h3>
+              <h3 class="tcleft"> by {{ item.author }} </h3>
             </div>
           {% elsif item.pagetype == "content" %}
         <div class="tcleft">
           <h2 class="tcleft"><a href="poems_2022/{{item.pid}}">{{ item.transtitle }} [<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</a></h2>
-          <h3 class="tcleft">written by {{ item.engauthor }} <span lang= "{{ item.lang }}" dir="ltr">{{ item.ogauthor }}</span><br> translated from {{ item.language }} by {{ item.translator }}</h3>
+          <h3 class="tcleft">written by {{ item.author }}<br>translated from {{ item.language }} by {{ item.translator }}</h3>
         </div>
         {% endif %}
         {% endfor %}
