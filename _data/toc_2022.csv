@@ -1,29 +1,29 @@
-pid,transtitle,title,engauthor,ogauthor,translator,language,lang,pagetype
-ednote2022,Editor’s Note,,,,,,,frontmatter
-staffpage2022,Staff Page,,,,,,,frontmatter
-i-too-am-a-riddle,"I, Too, Am a Riddle","<span lang=""hi"">प्रिय! मैं हूँ एक पहेली भी</span>",Mahadevi Varma,,Anjali Gupta,Hindi,hi,content
-you-dont-raise-children-to-watch-them-die,YOU DON’T RAISE CHILDREN TO WATCH THEM DIE,NO SE CRÍAN HIJOS PARA VERLOS MORIR,Rosabetty Muñoz,,Claudia Nuñez de Ibieta,Spanish,es,content
-unwavering,Unwavering,Manteniéndome firme,Zoraida Armengol,,Pablo Abrante,Spanish,es,content
-whispered,Whispered; Certitude,Tiše; Jistota,František Halas,,Kathryn Dettmer,Czech,cs,content
+pid,transtitle,title,author,translator,language,lang,pagetype
+ednote2022,Editor’s Note,,,,,,frontmatter
+staffpage2022,Staff Page,,,,,,frontmatter
+i-too-am-a-riddle,"I, Too, Am a Riddle","<span lang=""hi"">प्रिय! मैं हूँ एक पहेली भी</span>",Mahadevi Varma,Anjali Gupta,Hindi,hi,content
+you-dont-raise-children-to-watch-them-die,YOU DON’T RAISE CHILDREN TO WATCH THEM DIE,NO SE CRÍAN HIJOS PARA VERLOS MORIR,Rosabetty Muñoz,Claudia Nuñez de Ibieta,Spanish,es,content
+unwavering,Unwavering,Manteniéndome firme,Zoraida Armengol,Pablo Abrante,Spanish,es,content
+whispered,Whispered; Certitude,Tiše; Jistota,František Halas,Kathryn Dettmer,Czech,cs,content
 i-have-seen-ikh-hob-gezen,I Have Seen (<em>Ikh Hob Gezen</em>); Extinguish the Sun (<em>Farlesh Di Zun</em>),"<span lang=""he"">
 איך האָבּ געזען
 </span>; <span lang=""he"">
 פאַרלעש די זון
-</span>",Zusman Segalovitsh,,Betsy Morgan,Yiddish,he,content
-the-vultures,The Vultures,Les vautours,David Diop,,Samantha DeStefano,French,fr,content
-finch,Finch,"<span lang=""zh"">雀</span>",Zhang Ergun,,Kejia Wang,Mandarin,zh,content
-morituri,Morituri,Morituri,Adolf Brand,,Robert Chen,German,de,content
-kaise-kahoon-how-do-i-say,<em>Kaise Kahoon</em> / How Do I Say?,,Simran Chand,,,English,en,musing
-reaching-for-words-on-gottschee,Reaching for Words: On Gottschee,,Quinn Gruber,,,English,en,musing
-zinka,Zinka,"<span lang=""ru"">Зинка</span>",Yuliya Drunina,,Maya Shumyatcher,Russian,ru,content
-phra-aphai-mani,Phra Aphai Mani,"<span lang=""th"">พระอภัยมณี</span>",Sunthorn Phu,,John Viano and Peeriya Pongsarigun,Thai,th,content
-whole-of-spring,Whole of Spring,La primavera entera,Idea Vilariño,,Maria Lourdes Riillo,Spanish,es,content
-alcohols-1909,Alcohols: 1909,Alcools: 1909,Guillaume Apollinaire,,Saagar Asnani,French,fr,content
-mother,Mother,Anne,Sirin Parkan,,Emre Azizlerli,Turkish,tr,content
-three-poems,Three poems,Tre poesie,Stella N'Djoku,,Julia Pelosi-Thorpe,Italian,it,content
+</span>",Zusman Segalovitsh,Betsy Morgan,Yiddish,he,content
+the-vultures,The Vultures,Les vautours,David Diop,Samantha DeStefano,French,fr,content
+finch,Finch,"<span lang=""zh"">雀</span>",Zhang Ergun,Kejia Wang,Mandarin,zh,content
+morituri,Morituri,Morituri,Adolf Brand,Robert Chen,German,de,content
+kaise-kahoon-how-do-i-say,<em>Kaise Kahoon</em> / How Do I Say?,,Simran Chand,,English,en,musing
+reaching-for-words-on-gottschee,Reaching for Words: On Gottschee,,Quinn Gruber,,English,en,musing
+zinka,Zinka,"<span lang=""ru"">Зинка</span>",Yuliya Drunina,Maya Shumyatcher,Russian,ru,content
+phra-aphai-mani,Phra Aphai Mani,"<span lang=""th"">พระอภัยมณี</span>",Sunthorn Phu,John Viano and Peeriya Pongsarigun,Thai,th,content
+whole-of-spring,Whole of Spring,La primavera entera,Idea Vilariño,Maria Lourdes Riillo,Spanish,es,content
+alcohols-1909,Alcohols: 1909,Alcools: 1909,Guillaume Apollinaire,Saagar Asnani,French,fr,content
+mother,Mother,Anne,Sirin Parkan,Emre Azizlerli,Turkish,tr,content
+three-poems,Three poems,Tre poesie,Stella N’Djoku,Julia Pelosi-Thorpe,Italian,it,content
 the-universe-blames-me,The universe blames me,"<span lang=""ar"">
 تلومني الدنيا
-</span>",Nizar Qabbani,,Michael Karam,Arabic,ar,content
-epilogue-ii-to-requiem,Epilogue II to <i>Requiem</i>,"<span lang=""ru"">Реквием. Эпилог II</span>",Anna Akhmatova,,Ryan Hardy,Russian,ru,content
-the-romantic-dogs,The Romantic Dogs,Los perros románticos,Roberto Bolaño,,<em>DoubleSpeak</em> Staff,Spanish,es,content
-copyright_2022,Copyright,,,,,,,frontmatter
+</span>",Nizar Qabbani,Michael Karam,Arabic,ar,content
+epilogue-ii-to-requiem,Epilogue II to <i>Requiem</i>,"<span lang=""ru"">Реквием. Эпилог II</span>",Anna Akhmatova,Ryan Hardy,Russian,ru,content
+the-romantic-dogs,The Romantic Dogs,Los perros románticos,Roberto Bolaño,<em>DoubleSpeak</em> Staff,Spanish,es,content
+copyright_2022,Copyright,,,,,,frontmatter
