@@ -71,8 +71,8 @@ h1 {
 /*	text-align: left;*/
 	margin-top: 40px;
 	margin-bottom: 0px;
-	margin-left: 40px;
-	margin-right: 40px;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 
 h2 {
@@ -231,6 +231,10 @@ p strong {
 	float: left;
 }
 
+.poemtitle {
+	margin-left: 40px;
+	margin-right: 40px;
+}
 .ogpoem {
 	display: inline-block;
 	width: 48%;
@@ -491,6 +495,7 @@ h2:lang(he) {
     font-weight:  300;
     font-size: 20px;
 	line-height: 22px;
+	text-align: right;
   }  
 
 h3:lang(he) { 
