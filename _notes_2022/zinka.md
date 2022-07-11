@@ -92,7 +92,7 @@ abio: |-
   <p/>
 tbio: |-
   <p>
-  A native Russian and English speaker, the translator (C’14) boasts substantial experience as a medical interpreter and language tutor. In addition to her passion for languages (there are a few more on the bucket list), she dabbles in a variety of creative projects. Professionally, she is in the medical field.
+  A native Russian and English speaker, Maya Shumyatcher (C’14) boasts substantial experience as a medical interpreter and language tutor. In addition to her passion for languages (there are a few more on the bucket list), she dabbles in a variety of creative projects. Professionally, she is in the medical field.
   </p>
 language: Russian
 lang: ru
