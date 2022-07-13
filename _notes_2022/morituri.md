@@ -22,7 +22,7 @@ transpoem: "Sun, dying one! \nYou, holy sun, bleed \nAnd thy love surges in flam
   tender heart trembles! \n\nO, give him now \nIn thy last glowing kiss \nUnwavering
   strength, \nEternal youth! \nEre the night spreads a black shroud \nAnd Orion keeps
   wake! \n"
-note: "<p><em>Morituri</em>, published by Brand in his magazine <em>Der Eigene</em>
+note: "<p>“Morituri,” published by Brand in his magazine <em>Der Eigene</em>
   in 1898, is a homoerotic poem wherein the narrator begs the sun to provide love,
   strength, and youth to his lover. This is consistent with the glorification of health
   and strength, especially of the nude body, found in illustrations throughout <em>Der
