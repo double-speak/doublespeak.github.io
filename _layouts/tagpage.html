@@ -6,7 +6,7 @@ layout: default
 <html lang="en">
 
 <head>
-  <link rel="stylesheet" type="text/css" href="../assets/css/notepagestyle.css">
+  <link rel="stylesheet" type="text/css" href="../assets/css/tcontentsstyle.css">
       <link rel="stylesheet" href="https://use.typekit.net/ixt2gok.css">
     <script>
   (function(d) {
@@ -41,8 +41,10 @@ layout: default
     </div>
   </header>
 
+
   <h2>{{page.pid}}</h2>
 
+<div class="tcontents">
   <div class="poemslist">
     {% for issues_hash in site.data.issues %}
     {% assign issues = issues_hash[1] %}
@@ -53,24 +55,24 @@ layout: default
         {% if page.type == "language" %}
             {% if poem.language == page.pid %}
               <h3 class="tcleft">
-                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid | capitalize}}</a> 
-                written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}} 
+                written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</a></h3>
             {% endif %}
             {% endif %}
 <!--          look in the author spreadsheet
  -->    {% if page.type == "author" %}
             {% if poem.author == page.pid %}
               <h3 class="tcleft">
-                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid | capitalize}}</a> 
-                written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}} 
+                written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</a></h3>
             {% endif %}
             {% endif %}
 <!--          look in the translator spreadsheet
  -->    {% if page.type == "translator" %}
             {% if poem.translator == page.pid %}
               <h3 class="tcleft">
-                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid | capitalize}}</a> 
-                written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}} 
+                written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</a></h3>
             {% endif %}
         {% endif %}
       {% endfor %}
@@ -78,7 +80,7 @@ layout: default
 
 
   </div>
-
+</div>
 
 
 </body>
