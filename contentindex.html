@@ -25,11 +25,11 @@ layout: default
     </a>
     <div class="nav">
       <ul>
-        <li><a href="contentindex.html">index</a></li>
-        <li><a href="search.html">search</a></li>
-        <li><a href="about.html">about</a></li>
-        <li><a href="submit.html">submit</a></li>
-        <li><a href="issues.html">issues</a></li>
+        <li><a href="../contentindex.html">index</a></li>
+        <li><a href="../search.html">search</a></li>
+        <li><a href="../about.html">about</a></li>
+        <li><a href="../submit.html">submit</a></li>
+        <li><a href="../issues.html">issues</a></li>
       </ul>
     </div>
   </header>
@@ -43,7 +43,7 @@ layout: default
         <!-- this worked to get a bunch of content listed: I figure if we have a list of tags somewhere they could link?-->
         <ul class="content-u">
         {% for item in site.data.authors %}
-        <li class="content-l"><a>{{item.pid}}</a></li>
+          <li class="content-l"><a href="../author_tags/{{item.pid | slugify: 'latin' | replace: '-','_' }}">{{item.pid}}</a></li>
         {% endfor %}
         </ul>
       </div>
@@ -54,7 +54,7 @@ layout: default
       <div class="dropdown-content" id="dropdown2">
         <ul class="content-u">
         {% for item in site.data.translators %}
-        <li class="content-l"><a>{{item.pid}}</a></li>
+        <li class="content-l"><a href="../translator_tags/{{item.pid | slugify: 'latin' | replace: '-','_' }}">{{item.pid}}</a></li>
         {% endfor %}
         </ul>
       </div>
@@ -67,7 +67,7 @@ layout: default
         <div class="language">
         <ul class="language-u">
         {% for item in site.data.languages %}
-        <li class="language-l"><a>{{item.pid}}</a></li>
+        <li class="language-l"><a href="../language_tags/{{item.pid | slugify: 'latin' | replace: '-','_'}}">{{item.pid}}</a></li>
         {% endfor %}
         </ul>
         </div>

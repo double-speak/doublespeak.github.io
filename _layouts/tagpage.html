@@ -32,7 +32,7 @@ layout: default
     </a>
     <div class="nav">
       <ul>
-        <li><a href="contentindex.html">index</a></li>
+        <li><a href="../contentindex.html">index</a></li>
         <li><a href="../search.html">search</a></li>
         <li><a href="../about.html">about</a></li>
         <li><a href="../submit.html">submit</a></li>
@@ -41,34 +41,42 @@ layout: default
     </div>
   </header>
 
-  <h2>{{page.pid}} {{page.type}}</h2>
+  <h2>{{page.pid}}</h2>
 
   <div class="poemslist">
     {% for issues_hash in site.data.issues %}
     {% assign issues = issues_hash[1] %}
-<!--     {% for issue in site.data.issues %}
- -->  {% for poem in issues %}
+   {% for poem in issues %}
 <!--          look in the language spreadsheet
- -->        {% if page.type == "language" %}
-          {% if poem.language == page.pid %}
-            <li>hello, i am a language<a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid}}</a></li>
-          {% endif %}
-        {% endif %}
+ -->    
+
+        {% if page.type == "language" %}
+            {% if poem.language == page.pid %}
+              <h3 class="tcleft">
+                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid | capitalize}}</a> 
+                written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+            {% endif %}
+            {% endif %}
 <!--          look in the author spreadsheet
- -->        {% if page.type == "author" %}
-          {% if poem.author == page.pid %}
-            <li>hello, i am an author<a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid}}</a></li>
-          {% endif %}
-        {% endif %}
+ -->    {% if page.type == "author" %}
+            {% if poem.author == page.pid %}
+              <h3 class="tcleft">
+                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid | capitalize}}</a> 
+                written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+            {% endif %}
+            {% endif %}
 <!--          look in the translator spreadsheet
- -->        {% if page.type == "translator" %}
-          {% if poem.translator == page.pid %}
-            <li>hello, i am a translator<a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid}}</a></li>
-          {% endif %}
+ -->    {% if page.type == "translator" %}
+            {% if poem.translator == page.pid %}
+              <h3 class="tcleft">
+                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid | capitalize}}</a> 
+                written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+            {% endif %}
         {% endif %}
       {% endfor %}
     {% endfor %}
-    {% endfor %}
+
+
   </div>
 
 
