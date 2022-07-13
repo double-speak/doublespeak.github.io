@@ -1,0 +1,7 @@
+---
+pid: Erich Arendt
+type: author
+order: '035'
+layout: tagpage
+collection: author_tags
+---

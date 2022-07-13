@@ -1,0 +1,77 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" type="text/css" href="../assets/css/notepagestyle.css">
+      <link rel="stylesheet" href="https://use.typekit.net/ixt2gok.css">
+    <script>
+  (function(d) {
+    var config = {
+      kitId: 'lit0ksd',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);</script>
+  <script src="https://kit.fontawesome.com/5f40f4e0da.js" crossorigin="anonymous"></script>
+  <!-- the script is for fontawesome, which has a lot of icons that I thought would be good for the link arrows that we have in the figma design! -->
+</head>
+
+   <title>tag page</title>
+
+<body>
+  <header>
+    <a href="../index.html">
+      <div class="logo">
+        <img src="../assets/images/doublespeak_logo.png" alt="Click here to return to the homepage.">
+      </div>
+    </a>
+    <div class="nav">
+      <ul>
+        <li><a href="contentindex.html">index</a></li>
+        <li><a href="../search.html">search</a></li>
+        <li><a href="../about.html">about</a></li>
+        <li><a href="../submit.html">submit</a></li>
+        <li><a href="../issues.html">issues</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <h2>{{page.pid}} {{page.type}}</h2>
+
+  <div class="poemslist">
+    {% for issues_hash in site.data.issues %}
+    {% assign issues = issues_hash[1] %}
+<!--     {% for issue in site.data.issues %}
+ -->  {% for poem in issues %}
+<!--          look in the language spreadsheet
+ -->        {% if page.type == "language" %}
+          {% if poem.language == page.pid %}
+            <li>hello, i am a language<a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid}}</a></li>
+          {% endif %}
+        {% endif %}
+<!--          look in the author spreadsheet
+ -->        {% if page.type == "author" %}
+          {% if poem.author == page.pid %}
+            <li>hello, i am an author<a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid}}</a></li>
+          {% endif %}
+        {% endif %}
+<!--          look in the translator spreadsheet
+ -->        {% if page.type == "translator" %}
+          {% if poem.translator == page.pid %}
+            <li>hello, i am a translator<a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.pid}}</a></li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% endfor %}
+  </div>
+
+
+
+</body>
+<html>

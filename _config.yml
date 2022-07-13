@@ -53,6 +53,32 @@ plugins:
 #   - vendor/ruby/
 
 collections:
+  author_tags:
+    layout: 'tagpage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'authors.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+
+  language_tags:
+    layout: 'tagpage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'languages.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+
+  translator_tags:
+    layout: 'tagpage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'translators.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+
+
+
   poems_2022:
     layout: 'poempage'
     output: true # this must be true for your .md pages to be built to html!
