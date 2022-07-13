@@ -1,166 +1,166 @@
-pid
-Adélia Prado
-Adolf Brand
-Aimé Césaire
-Alda do Espírito Santo
-Alda Merini
-Alejandra Pizarnik
-Alejandro Zambra
-Amélie Nothomb
-Amina Saïd
-Anna Akhmatova
-Annie Ernaux
-Anonymous
-Anton Chekov
-Antonia Pozzi
-Antonio Machado
-Armando Valladares
-Arthur Rimbaud
-Bai Juyi
-C. P. Cavafy
-Carlos de Assumpção 
-Carlos Drumond de Andrade
-Catullus
-Charles Baudelaire
-Charlotte Delbo
-Chiranan Pitpreecha
-Christina Perri Rossi
-Dahlia Ravikovitch
-David Diop
-Dino Bonao (Juan Dicent)
-Dora Gabe
-e.e. cummings
-Eirini Lemos
-Elene Shvartz
-Elvira Sastre
-Émile Nelligan
-Erich Arendt
-Eugenio Montale
-Eunice Odio
-Federico García Lorca
-Fernando Pessoa
-Filippo Vignali
-Francesco Guccini
-François Villon
-Françoise Sagan
-František Halas
-Franz Kafka
-Gabriela Mistral
-Georges Bataille
-Gioconda Belli
-Giovanni Pascoli
-Giuseppe Ungaretti
-Guillaume Apollinaire
-Guy de Maupassant
-Haizi 
-Hannah Szenes
-Haruki Murakami
-Henry David Thoreau
-Hilde Domin
-Hossein Monzavi
-Hwang Ji Woo
-Idea Vilariño
-Ja’Far Shahri
-Juan Cabrera
-Judas Isgorogota (Agnelo Rodrigues de Melo)
-Julia de Burgos
-Karina García Albadiz
-Khalil Hawi
-Kim Soon Mi
-Kim Sowol
-King Rama II
-Kobayashi Issa 
-La Compiuta Donzella
-Léopold Sédar Senghor
-Li Jizong
-Li Yu
-Li Yuansheng
-Liu Xiaobo
-Liu Yu
-Lu Xun
-Mahadevi Varma
-Mahmoud Darwish
-Mak Dizdar
-Mansur Al-Hallaj
-Margherita Guidacci
-Maria Luisa Spaziani
-Mariama Ndiaye
-Marica Bodrožić
-Marina Tsavetaeva
-Marinella
-Mario Benedetti
-Martin Luther
-Masajo Suzuki 
-Matthew Dickman
-Michael Freeman
-Mikilós Radnóti
-Mohammad Ali Bahmani 
-Moon Taejoon
-Münír Nurettín Selçuk
-Naji Munawar
-Nathan Alterman
-Nâzım Hikmet
-Nelly Sachs
-Nizar Qabbani
-Noon Meem Rashid
-Nurullah Genç
-Octavio Paz
-Olaya Barr
-Osip Mandelstam
-Pablo Neruda
-Patricia Mary Hearons
-Paul Celan
-Pavel Friedmann 
-Pavel Matev
-Pier Paolo Pasolini
-Pierre de Ronsard
-Pythagoras Papastamatiou
-Qasmūna bint Ismāʿil
-Quim Monzó
-Quinn Gruber
-Rachel Bluwstein 
-Raimbaut de Vaqueiras
-Rainer Maria Rilke
-Renée Vivien
-Richard Dehmel
-Roberto Bolaño
-Rosabetty Muñoz
-Rosario Castellanos
-Ruwan Bandujeewa
-Samantha Kook
-Sappho
-Sergei Yesenin
-Shez
-Shu Ting
-Shuguang Zhang 
-Sigbjørn Obstfelder
-Silvio Rodríguez
-Simran Chand
-Som Nath Bhat “Veer”
-Stella N’Djoku
-Su Shi
-Sunthorn Phu
-Tamara Grosso
-Théophile Gautier
-Thomas Carlyle
-Tim Lorndale
-Tomas Tranströmer
-Tuvya Ruebner
-Valérie Rezeau
-Victor Hugo
-Vladimir Mayakovsky
-Vladimir Vysotskii
-Wislawa Szymborska
-Wolfgang von Goethe
-Wolfram von Eschenbach
-Xi Murong
-Yan An
-Yaroslav (Slava) Mogutin
-Yi Sang-hwa
-Yosa Buson
-Yuliya Drunina
-Yun Dong-ju
-Zhang Ergun
-Zhang Zhihao
-Zoraida Armengol
-Zusman Segalovitsh
+pid,type
+Adélia Prado,author
+Adolf Brand,author
+Aimé Césaire,author
+Alda do Espírito Santo,author
+Alda Merini,author
+Alejandra Pizarnik,author
+Alejandro Zambra,author
+Amélie Nothomb,author
+Amina Saïd,author
+Anna Akhmatova,author
+Annie Ernaux,author
+Anonymous,author
+Anton Chekov,author
+Antonia Pozzi,author
+Antonio Machado,author
+Armando Valladares,author
+Arthur Rimbaud,author
+Bai Juyi,author
+C. P. Cavafy,author
+Carlos de Assumpção ,author
+Carlos Drumond de Andrade,author
+Catullus,author
+Charles Baudelaire,author
+Charlotte Delbo,author
+Chiranan Pitpreecha,author
+Christina Perri Rossi,author
+Dahlia Ravikovitch,author
+David Diop,author
+Dino Bonao (Juan Dicent),author
+Dora Gabe,author
+e.e. cummings,author
+Eirini Lemos,author
+Elene Shvartz,author
+Elvira Sastre,author
+Émile Nelligan,author
+Erich Arendt,author
+Eugenio Montale,author
+Eunice Odio,author
+Federico García Lorca,author
+Fernando Pessoa,author
+Filippo Vignali,author
+Francesco Guccini,author
+François Villon,author
+Françoise Sagan,author
+František Halas,author
+Franz Kafka,author
+Gabriela Mistral,author
+Georges Bataille,author
+Gioconda Belli,author
+Giovanni Pascoli,author
+Giuseppe Ungaretti,author
+Guillaume Apollinaire,author
+Guy de Maupassant,author
+Haizi ,author
+Hannah Szenes,author
+Haruki Murakami,author
+Henry David Thoreau,author
+Hilde Domin,author
+Hossein Monzavi,author
+Hwang Ji Woo,author
+Idea Vilariño,author
+Ja’Far Shahri,author
+Juan Cabrera,author
+Judas Isgorogota (Agnelo Rodrigues de Melo),author
+Julia de Burgos,author
+Karina García Albadiz,author
+Khalil Hawi,author
+Kim Soon Mi,author
+Kim Sowol,author
+King Rama II,author
+Kobayashi Issa ,author
+La Compiuta Donzella,author
+Léopold Sédar Senghor,author
+Li Jizong,author
+Li Yu,author
+Li Yuansheng,author
+Liu Xiaobo,author
+Liu Yu,author
+Lu Xun,author
+Mahadevi Varma,author
+Mahmoud Darwish,author
+Mak Dizdar,author
+Mansur Al-Hallaj,author
+Margherita Guidacci,author
+Maria Luisa Spaziani,author
+Mariama Ndiaye,author
+Marica Bodrožić,author
+Marina Tsavetaeva,author
+Marinella,author
+Mario Benedetti,author
+Martin Luther,author
+Masajo Suzuki ,author
+Matthew Dickman,author
+Michael Freeman,author
+Mikilós Radnóti,author
+Mohammad Ali Bahmani ,author
+Moon Taejoon,author
+Münír Nurettín Selçuk,author
+Naji Munawar,author
+Nathan Alterman,author
+Nâzım Hikmet,author
+Nelly Sachs,author
+Nizar Qabbani,author
+Noon Meem Rashid,author
+Nurullah Genç,author
+Octavio Paz,author
+Olaya Barr,author
+Osip Mandelstam,author
+Pablo Neruda,author
+Patricia Mary Hearons,author
+Paul Celan,author
+Pavel Friedmann ,author
+Pavel Matev,author
+Pier Paolo Pasolini,author
+Pierre de Ronsard,author
+Pythagoras Papastamatiou,author
+Qasmūna bint Ismāʿil,author
+Quim Monzó,author
+Quinn Gruber,author
+Rachel Bluwstein ,author
+Raimbaut de Vaqueiras,author
+Rainer Maria Rilke,author
+Renée Vivien,author
+Richard Dehmel,author
+Roberto Bolaño,author
+Rosabetty Muñoz,author
+Rosario Castellanos,author
+Ruwan Bandujeewa,author
+Samantha Kook,author
+Sappho,author
+Sergei Yesenin,author
+Shez,author
+Shu Ting,author
+Shuguang Zhang ,author
+Sigbjørn Obstfelder,author
+Silvio Rodríguez,author
+Simran Chand,author
+Som Nath Bhat “Veer”,author
+Stella N’Djoku,author
+Su Shi,author
+Sunthorn Phu,author
+Tamara Grosso,author
+Théophile Gautier,author
+Thomas Carlyle,author
+Tim Lorndale,author
+Tomas Tranströmer,author
+Tuvya Ruebner,author
+Valérie Rezeau,author
+Victor Hugo,author
+Vladimir Mayakovsky,author
+Vladimir Vysotskii,author
+Wislawa Szymborska,author
+Wolfgang von Goethe,author
+Wolfram von Eschenbach,author
+Xi Murong,author
+Yan An,author
+Yaroslav (Slava) Mogutin,author
+Yi Sang-hwa,author
+Yosa Buson,author
+Yuliya Drunina,author
+Yun Dong-ju,author
+Zhang Ergun,author
+Zhang Zhihao,author
+Zoraida Armengol,author
+Zusman Segalovitsh,author
