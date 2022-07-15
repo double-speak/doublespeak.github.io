@@ -218,6 +218,8 @@ p strong {
 .poems {
 	width: 75%;
 	margin: 0px auto 0 auto;
+	display:flex;
+	flex-wrap: wrap;
 }
 
 .ogtitle {
@@ -236,17 +238,13 @@ p strong {
 	margin-right: 40px;
 }
 .ogpoem {
-	display: inline-block;
-	width: 48%;
-	float: left;
-	overflow-x:auto;
+	min-width: 25rem;
+	flex-basis:48%;
 }
 
 .transpoem {
-	display: inline-block;
-	width: 48%;
-	float: right;
-	overflow-x:auto;
+	min-width: 25rem;
+	flex-basis:48%;
 }
 
 .note {
