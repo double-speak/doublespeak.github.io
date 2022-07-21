@@ -48,7 +48,7 @@ layout: default
       <h1 class="staff">our staff</h1>
       <h2>spring 2021</h2>
       <ul class="staff-u">
-        {% for item in site.data.staff_2018 %}
+        {% for item in site.data.staff_2017 %}
         <li class="staff-l"><a><strong>{{item.name}}</strong> — {{item.role}}</a></li>
         {% endfor %}
       </ul>
@@ -56,13 +56,13 @@ layout: default
     <div class="acknowledgements">
         <h1 class="acknowledgements">acknowledgements</h1>
         <p>Thank you to the Kelly Writers House, the Student Activities Council at the University of Pennsylvania, and the Price Lab for Digital Humanities, especially Cassandra Hradil, for their support of <em>DoubleSpeak</em>.</p>
-        <p>Cover photo taken by Yan Zhang.</p>
+        <p>Cover photo taken by Jamie Seah.</p>
     </div>
   </div>
 
 <!--   {% assign previousIndex = page.pid | minus: 1 %} -->
 
-    {% for pg in site.data.poems_2018 %}
+    {% for pg in site.data.poems_2017 %}
 
       {% if pg.pid == page.pid %}
 
@@ -72,7 +72,7 @@ layout: default
 
     {% endfor %}
 
-    {% for pg in site.data.poems_2018 %}
+    {% for pg in site.data.poems_2017 %}
 
          {% if forloop.index == previousIndex %}
 
@@ -82,7 +82,7 @@ layout: default
 
     {% endfor %}
   <div class="nextlink">
-    <p><a href="{{site.url}}/frontmatter/ednote2018"><  &nbsp; next</a></p>
+    <p><a href="{{site.url}}/frontmatter/ednote2017"><  &nbsp; next</a></p>
   </div>
 </body>
 <html>
