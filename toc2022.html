@@ -54,7 +54,7 @@ layout: default
         {% for item in site.data.toc_2022 %}
           {% if item.pagetype == "frontmatter" %}
               <div class="tcleft">
-                <h2 class="tcleft"><a href="frontmatter_{{item.pid}}">{{ item.transtitle }}</a></h2>
+                <h2 class="tcleft"><a href="frontmatter/{{item.pid}}">{{ item.transtitle }}</a></h2>
               </div>
           {% elsif item.pagetype == "musing" or item.pagetype == "interview" %}
             <div class="tcleft">
