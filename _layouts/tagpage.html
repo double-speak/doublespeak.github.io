@@ -41,9 +41,10 @@ layout: default
     </div>
   </header>
 
-<div class="tcontents">
+
 <p><a href="../contentindex.html"><  &nbsp; back to index</a></p>
 <h1>{{page.pid}}</h1>
+<div class="tcontents">
   <div class="poemslist">
     {% for issues_hash in site.data.issues %}
     {% assign issues = issues_hash[1] %}
@@ -53,25 +54,22 @@ layout: default
 
         {% if page.type == "language" %}
             {% if poem.language == page.pid %}
-              <h2 class="tcleft">
-                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2>
-                <h3>written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+              <h2 class="tcleft"><a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
+              <h3>written by {{ poem.author }}<br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
             {% endif %}
             {% endif %}
 <!--          look in the author spreadsheet
  -->    {% if page.type == "author" %}
             {% if poem.author == page.pid %}
-              <h2 class="tcleft">
-                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2>
-                <h3>written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+              <h2 class="tcleft"><a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
+              <h3>written by {{ poem.author }}<br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
             {% endif %}
             {% endif %}
 <!--          look in the translator spreadsheet
  -->    {% if page.type == "translator" %}
             {% if poem.translator == page.pid %}
-              <h2 class="tcleft">
-                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2>
-                <h3>written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+              <h2 class="tcleft"><a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
+              <h3>written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
             {% endif %}
         {% endif %}
       {% endfor %}
