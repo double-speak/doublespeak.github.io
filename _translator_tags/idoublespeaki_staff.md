@@ -1,5 +1,5 @@
 ---
-pid: "<i>DoubleSpeak</i> Staff"
+pid: "<em>DoubleSpeak</em> Staff"
 type: translator
 order: '000'
 layout: tagpage

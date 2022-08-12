@@ -55,7 +55,7 @@ layout: default
         {% if page.type == "language" %}
             {% if poem.language == page.pid %}
               <h2 class="tcleft">
-                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2> 
+                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
                 <h3>written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
             {% endif %}
             {% endif %}
@@ -63,7 +63,7 @@ layout: default
  -->    {% if page.type == "author" %}
             {% if poem.author == page.pid %}
               <h2 class="tcleft">
-                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2>
+                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
                 <h3>written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
             {% endif %}
             {% endif %}
@@ -71,7 +71,7 @@ layout: default
  -->    {% if page.type == "translator" %}
             {% if poem.translator == page.pid %}
               <h2 class="tcleft">
-                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2> 
+                <a href="../poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
                 <h3>written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
             {% endif %}
         {% endif %}
