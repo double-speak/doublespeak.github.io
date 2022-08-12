@@ -45,7 +45,6 @@ layout: default
 <p><a href="../contentindex.html"><  &nbsp; back to index</a></p>
 <h1>{{page.pid}}</h1>
 <div class="tcontents">
-  <div class="poemslist">
     {% for issues_hash in site.data.issues %}
     {% assign issues = issues_hash[1] %}
    {% for poem in issues %}
@@ -74,9 +73,6 @@ layout: default
         {% endif %}
       {% endfor %}
     {% endfor %}
-
-
-  </div>
 </div>
 
 
