@@ -8,7 +8,7 @@ layout: default
   <head>
 
     <link rel="stylesheet" type="text/css" href="../assets/css/indexstyle.css">
-
+    <script src="https://kit.fontawesome.com/fb455f48b1.js" crossorigin="anonymous"></script>
  
     
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
@@ -36,11 +36,9 @@ layout: default
   <div class="index">
     <h1>index</h1>
     <p class="index-p">Here, you can find lists of all the authors, translators, and languages featured so far in <em>DoubleSpeak</em>.</p>
-    <!-- got the first dropdown to work but not the rest! -->
     <div class="dropdown">
-    <button class="dropdown" onclick="myFunction(1)">authors</button>
+    <button class="dropdown" onclick="myFunction(1)">authors <i class="fa-solid fa-angle-down"></i></button>
       <div class="dropdown-content" id="dropdown1">
-        <!-- this worked to get a bunch of content listed: I figure if we have a list of tags somewhere they could link?-->
         <ul class="content-u">
         {% for item in site.data.authors %}
           <li class="content-l"><a href="../author_tags/{{item.pid | slugify: 'latin' | replace: '-','_' }}">{{item.pid}}</a></li>
@@ -50,7 +48,7 @@ layout: default
     </div>
     <br>
     <div class="dropdown">
-    <button class="dropdown" onclick="myFunction(2)">translators</button>
+    <button class="dropdown" onclick="myFunction(2)">translators <i class="fa-solid fa-angle-down"></i></button>
       <div class="dropdown-content" id="dropdown2">
         <ul class="content-u">
         {% for item in site.data.translators %}
@@ -62,7 +60,7 @@ layout: default
     </div>
     <br>
     <div class="dropdown">
-    <button class="dropdown" onclick="myFunction(3)">languages</button>
+    <button class="dropdown" onclick="myFunction(3)">languages <i class="fa-solid fa-angle-down"></i></button>
       <div class="dropdown-content" id="dropdown3">
         <div class="language">
         <ul class="language-u">

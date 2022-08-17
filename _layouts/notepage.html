@@ -17,8 +17,7 @@ layout: default
     },
     h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
   })(document);</script>
-  <script src="https://kit.fontawesome.com/5f40f4e0da.js" crossorigin="anonymous"></script>
-  <!-- the script is for fontawesome, which has a lot of icons that I thought would be good for the link arrows that we have in the figma design! -->
+  <script src="https://kit.fontawesome.com/fb455f48b1.js" crossorigin="anonymous"></script>
 </head>
 
    <title>{{page.translator}} on translating {{page.author}}</title>
@@ -100,13 +99,13 @@ layout: default
 
     {% endfor %}
   <div class="previouslink">
-    <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
+    <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{page.pid}}"><i class="fa-solid fa-angle-left"></i>  &nbsp; previous</a></p>
   </div>
     <div class="nextlink">
     {% if nextIndex == endLength %}
-      <p class="link"><a href="{{site.url}}/frontmatter/copyright_{{page.edition}}">next &nbsp; ></a></p>
+      <p class="link"><a href="{{site.url}}/frontmatter/copyright_{{page.edition}}">next &nbsp; <i class="fa-solid fa-angle-right"></i></a></p>
     {% else %}
-      <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
+      <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; <i class="fa-solid fa-angle-right"></i></a></p>
     {% endif %}
 
 </body>

@@ -1,6 +1,6 @@
 pid,transtitle,title,author,translator,language,lang,pagetype
 ednote2021,Editor’s Note,,,,,,frontmatter
-staffpage2021,Staff,,,,,,frontmatter
+staff2021,Staff,,,,,,frontmatter
 every-day-the-sun-slits-the-throat-of-its-former-self,every day the sun slits the throat of its former self,chaque jour le soleil égorge son spectre,Amina Saïd,Ashley Sniffen,French,fr,content
 a-chain-verse,A Chain Verse,"<span lang=""zh"">连环诗: 赏花归去</span>",Su Shi,"Gil Lehmann, Jacey Chang, and Yehudith Dashevsky",Chinese,zh,content
 shapes-in-sleep-eight-poems,Shapes in Sleep: Eight Poems,Schlafgestalten: acht Gedichte,Paul Celan,David Ting,German,de,content
@@ -46,4 +46,4 @@ eternity,Eternity,L’Éternité,Arthur Rimbaud,Keshav Sharma,French,fr,content
 romance-of-the-moon-and-the-child,Romance of the moon and the child,"Romance de la luna, luna.",Federico García Lorca,Darío Goldgel Carballo,Spanish,es,content
 diary-of-the-lockdown-lifted,Diary of the Lockdown Lifted,"<span lang=""zh"">开封日记</span>",Zhang Zhihao,"<em>DoubleSpeak</em> Staff
 ",Chinese,zh,content
-copyright_2021,Copyright,,,,,,frontmatter
+copyright2021,Copyright,,,,,,frontmatter
