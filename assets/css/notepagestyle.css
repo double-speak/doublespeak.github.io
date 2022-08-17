@@ -121,7 +121,7 @@ h1 {
 	text-align: left;
 }
 
-.note p strong {
+.note p strong, b{
 	display: inline;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
@@ -204,7 +204,7 @@ h1 {
 	text-align: left;
 }
 
-.abio p strong {
+.abio p strong, b{
 	display: inline;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
@@ -261,7 +261,7 @@ h1 {
 	text-align: left;
 }
 
-.tbio p strong{
+.tbio p strong, b{
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;

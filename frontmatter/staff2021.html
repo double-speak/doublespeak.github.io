@@ -17,8 +17,6 @@ layout: default
     },
     h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
   })(document);</script>
-  <script src="https://kit.fontawesome.com/5f40f4e0da.js" crossorigin="anonymous"></script>
-  <!-- the script is for fontawesome, which has a lot of icons that I thought would be good for the link arrows that we have in the figma design! -->
 </head>
 
    <title>staff page</title>
@@ -41,7 +39,7 @@ layout: default
     </div>
   </header>
   <div class="tcontentslink">
-    <p><a href="../tcontentspage_2021.html"><i class="fa-solid fa-angle-left"></i>  &nbsp; table of contents</a></p>
+    <p><a href="../tcontentspage_2021.html"><  &nbsp; table of contents</a></p>
   </div>
   <div class=container>
     <div class="staff">
@@ -82,7 +80,7 @@ layout: default
 
     {% endfor %}
   <div class="nextlink">
-    <p><a href="{{site.url}}/frontmatter/ednote2021">next  &nbsp; <i class="fa-solid fa-angle-right"></i></a></p>
+    <p><a href="{{site.url}}/frontmatter/ednote2021">next  &nbsp; ></a></p>
   </div>
 </body>
 <html>
