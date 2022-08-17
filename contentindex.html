@@ -8,8 +8,6 @@ layout: default
   <head>
 
     <link rel="stylesheet" type="text/css" href="../assets/css/indexstyle.css">
-    <script src="https://kit.fontawesome.com/fb455f48b1.js" crossorigin="anonymous"></script>
- 
     
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
   </head>
@@ -37,7 +35,7 @@ layout: default
     <h1>index</h1>
     <p class="index-p">Here, you can find lists of all the authors, translators, and languages featured so far in <em>DoubleSpeak</em>.</p>
     <div class="dropdown">
-    <button class="dropdown" onclick="myFunction(1)">authors &#8964;</i></button>
+    <button class="dropdown" onclick="myFunction(1)">authors &#8964;</button>
       <div class="dropdown-content" id="dropdown1">
         <ul class="content-u">
         {% for item in site.data.authors %}
@@ -48,7 +46,7 @@ layout: default
     </div>
     <br>
     <div class="dropdown">
-    <button class="dropdown" onclick="myFunction(2)">translators &#8964;</i></button>
+    <button class="dropdown" onclick="myFunction(2)">translators &#8964;</button>
       <div class="dropdown-content" id="dropdown2">
         <ul class="content-u">
         {% for item in site.data.translators %}
