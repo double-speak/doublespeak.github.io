@@ -102,6 +102,16 @@ h1 {
 	margin-right: 10px;
 }
 
+.note pre {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+}
+
 .note p em {
 	display: inline;
 	font-family: futura-pt, sans-serif;
@@ -173,6 +183,16 @@ h1 {
 	margin-right: 10px;
 }
 
+.abio pre {
+	display: inline-block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+}
+
 .abio p em {
 	display: inline;
 	font-family: futura-pt, sans-serif;
@@ -217,6 +237,16 @@ h1 {
 	margin-bottom: 20px;
 	margin-left: 10px;
 	margin-right: 10px;
+}
+
+.tbio pre {
+	display: inline-block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
 }
 
 
