@@ -687,7 +687,7 @@ p:lang(hi), pre:lang(hi) {
   }
 
 :lang(el){
-	font-family: omnes-greek, sans-serif;
+	font-family: novel-sans-greek, sans-serif;
 	font-style: normal;
     color: black;
 	text-align: left;
