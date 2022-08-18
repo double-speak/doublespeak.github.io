@@ -1,7 +1,7 @@
 ---
-pid: Xisheng Chen
+pid: Gil Lehmann, Jacey Chang, and Yehudith Dashevsky
 type: translator
-order: '156'
+order: '054'
 layout: tagpage
 collection: translator_tags
 ---

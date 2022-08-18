@@ -1,7 +1,7 @@
 ---
 pid: Samantha Kook
 type: translator
-order: '131'
+order: '130'
 layout: tagpage
 collection: translator_tags
 ---

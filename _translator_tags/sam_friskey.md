@@ -1,7 +1,7 @@
 ---
-pid: Giulia Rupi
+pid: Sam Friskey
 type: translator
-order: '056'
+order: '128'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,7 +1,7 @@
 ---
 pid: Quinn Gruber
 type: translator
-order: '118'
+order: '116'
 layout: tagpage
 collection: translator_tags
 ---

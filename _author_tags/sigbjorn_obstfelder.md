@@ -1,7 +1,7 @@
 ---
 pid: Sigbjørn Obstfelder
 type: author
-order: '134'
+order: '135'
 layout: tagpage
 collection: author_tags
 ---

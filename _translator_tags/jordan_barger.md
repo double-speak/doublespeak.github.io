@@ -1,7 +1,7 @@
 ---
 pid: Jordan Barger
 type: translator
-order: '070'
+order: '067'
 layout: tagpage
 collection: translator_tags
 ---

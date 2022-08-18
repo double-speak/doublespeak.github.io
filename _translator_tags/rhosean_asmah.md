@@ -1,7 +1,7 @@
 ---
 pid: Rhosean Asmah
 type: translator
-order: '122'
+order: '120'
 layout: tagpage
 collection: translator_tags
 ---

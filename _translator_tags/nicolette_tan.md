@@ -1,7 +1,7 @@
 ---
 pid: Nicolette Tan
 type: translator
-order: '108'
+order: '106'
 layout: tagpage
 collection: translator_tags
 ---

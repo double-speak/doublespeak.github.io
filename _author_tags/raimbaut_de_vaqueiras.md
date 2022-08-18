@@ -1,7 +1,7 @@
 ---
 pid: Raimbaut de Vaqueiras
 type: author
-order: '120'
+order: '121'
 layout: tagpage
 collection: author_tags
 ---

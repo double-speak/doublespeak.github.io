@@ -1,7 +1,7 @@
 ---
 pid: Jackson Gu
 type: translator
-order: '061'
+order: '060'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,7 +1,7 @@
 ---
 pid: Samantha Pious
 type: translator
-order: '133'
+order: '132'
 layout: tagpage
 collection: translator_tags
 ---

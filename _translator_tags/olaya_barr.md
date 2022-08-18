@@ -1,7 +1,7 @@
 ---
 pid: Olaya Barr
 type: translator
-order: '109'
+order: '107'
 layout: tagpage
 collection: translator_tags
 ---

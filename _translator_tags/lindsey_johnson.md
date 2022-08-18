@@ -1,7 +1,7 @@
 ---
 pid: Lindsey Johnson
 type: translator
-order: '086'
+order: '083'
 layout: tagpage
 collection: translator_tags
 ---

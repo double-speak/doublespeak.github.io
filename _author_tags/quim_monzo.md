@@ -1,7 +1,7 @@
 ---
 pid: Quim Monzó
 type: author
-order: '117'
+order: '118'
 layout: tagpage
 collection: author_tags
 ---

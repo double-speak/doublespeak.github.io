@@ -1,7 +1,7 @@
 ---
-pid: Marina Tsavetaeva
+pid: Pavel Friedmann
 type: author
-order: '087'
+order: '112'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,7 +1,7 @@
 ---
 pid: Suvir Kaul
 type: translator
-order: '147'
+order: '146'
 layout: tagpage
 collection: translator_tags
 ---

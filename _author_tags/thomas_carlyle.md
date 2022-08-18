@@ -1,7 +1,7 @@
 ---
 pid: Thomas Carlyle
 type: author
-order: '143'
+order: '145'
 layout: tagpage
 collection: author_tags
 ---

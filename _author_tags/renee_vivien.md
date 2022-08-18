@@ -1,7 +1,7 @@
 ---
 pid: Renée Vivien
 type: author
-order: '122'
+order: '123'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,7 +1,7 @@
 ---
 pid: Wislawa Szymborska
 type: author
-order: '151'
+order: '153'
 layout: tagpage
 collection: author_tags
 ---

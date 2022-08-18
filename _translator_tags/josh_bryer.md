@@ -1,7 +1,7 @@
 ---
 pid: Josh Bryer
 type: translator
-order: '071'
+order: '068'
 layout: tagpage
 collection: translator_tags
 ---

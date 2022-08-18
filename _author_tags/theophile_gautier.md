@@ -1,7 +1,7 @@
 ---
 pid: Théophile Gautier
 type: author
-order: '142'
+order: '144'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,7 +1,7 @@
 ---
 pid: Samantha Osaki
 type: translator
-order: '132'
+order: '131'
 layout: tagpage
 collection: translator_tags
 ---

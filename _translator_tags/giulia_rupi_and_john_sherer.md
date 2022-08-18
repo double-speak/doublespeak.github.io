@@ -1,7 +1,7 @@
 ---
-pid: John Viano
+pid: Giulia Rupi and John Sherer
 type: translator
-order: '067'
+order: '056'
 layout: tagpage
 collection: translator_tags
 ---

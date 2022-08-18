@@ -1,7 +1,7 @@
 ---
 pid: Josh Glahn
 type: translator
-order: '072'
+order: '069'
 layout: tagpage
 collection: translator_tags
 ---

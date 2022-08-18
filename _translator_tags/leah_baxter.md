@@ -1,7 +1,7 @@
 ---
 pid: Leah Baxter
 type: translator
-order: '085'
+order: '082'
 layout: tagpage
 collection: translator_tags
 ---

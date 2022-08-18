@@ -1,7 +1,7 @@
 ---
 pid: Patricia Mary Hearons
 type: translator
-order: '112'
+order: '110'
 layout: tagpage
 collection: translator_tags
 ---

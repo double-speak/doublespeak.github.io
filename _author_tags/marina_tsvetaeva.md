@@ -1,7 +1,7 @@
 ---
-pid: 'Kobayashi Issa '
+pid: Marina Tsvetaeva
 type: author
-order: '070'
+order: '087'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,7 +1,7 @@
 ---
 pid: Mirela Zaneva
 type: translator
-order: '102'
+order: '100'
 layout: tagpage
 collection: translator_tags
 ---

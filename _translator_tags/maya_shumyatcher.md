@@ -1,7 +1,7 @@
 ---
 pid: Maya Shumyatcher
 type: translator
-order: '096'
+order: '093'
 layout: tagpage
 collection: translator_tags
 ---

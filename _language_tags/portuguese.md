@@ -1,5 +1,5 @@
 ---
-pid: 'Portuguese '
+pid: Portuguese
 type: language
 order: '27'
 layout: tagpage

@@ -1,7 +1,7 @@
 ---
-pid: Jacey Chang
+pid: Peeriya Pongsarigun and John Viano
 type: translator
-order: '060'
+order: '112'
 layout: tagpage
 collection: translator_tags
 ---

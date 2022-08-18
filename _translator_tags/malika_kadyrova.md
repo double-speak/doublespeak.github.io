@@ -1,7 +1,7 @@
 ---
 pid: Malika Kadyrova
 type: translator
-order: '089'
+order: '086'
 layout: tagpage
 collection: translator_tags
 ---

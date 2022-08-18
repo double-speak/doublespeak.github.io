@@ -1,7 +1,7 @@
 ---
-pid: Shosana Akabas
+pid: Irena Natcheva
 type: translator
-order: '139'
+order: '059'
 layout: tagpage
 collection: translator_tags
 ---
