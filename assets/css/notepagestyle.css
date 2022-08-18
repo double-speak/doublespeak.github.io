@@ -694,27 +694,27 @@ p:lang(hi), pre:lang(hi) {
 }
 
 h1:lang(el) { 
-    font-weight:  500;
-    font-size: 60px;
-	line-height: 63px;
+    font-weight:  300;
+    font-size: 34px;
+	line-height: 36px;
 	
   }
 
 h2:lang(el) {
-    font-weight:  300;
-    font-size: 50px;
-	line-height: 55px;
+    font-weight:  200;
+    font-size: 20px;
+	line-height: 22px;
   }  
 
 h3:lang(el) { 
-    font-weight:  300;
-    font-size: 36px;
-	line-height: 40px;
+    font-weight:  200;
+    font-size: 20px;
+	line-height: 22px;
   }
 
 p:lang(el), pre:lang(el) { 
-    font-weight:  300;
-    font-size: 22px;
+    font-weight:  200;
+    font-size: 18px;
+	line-height: 20px;
   }
-
 /* end language code */

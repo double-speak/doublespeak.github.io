@@ -59,7 +59,7 @@ tbio: "<p>\nKejia Wang graduated from Penn in 2016 with a BSE in bioengineering 
   English localization specialist for a Chinese video game studio. Her poem \"Disorientation\"
   was published in the <em>Penn Review</em> in 2015, and she has contributed translations
   of Chinese poems to <em>Doublespeak</em> since 2014. \n</p>"
-language: Mandarin
+language: Chinese
 lang: zh
 image: "../assets/images/images_22/ergun.jpg"
 image2: none
