@@ -1,26 +1,26 @@
-pid,title,transtitle,author,translator,language,pagetype
-staff2018,Staff,,,,,frontmatter
-ednote2018,Editor’s Note,,,,,frontmatter
-black-woman,Femme Noire,Black Woman,Léopold Sédar Senghor,Donnisa Edmonds,French,content
-here-i-love-you,Aquí te amo,Here I Love You,Pablo Neruda,Sam Friskey,Spanish,content
-where-does-such-tenderness-come-from,Откуда такая нежность?,Where Does Such Tenderness Come From?,Marina Tsvetaeva,Jianing Zhao,Russian,content
-repose,Giacere,Repose,Antonia Pozzi,Stephanie Diaz,Italian,content
-three-sonnets-extracted-from-les-amours,Trois Sonnets extraits de Les Amours,Three Sonnets extracted from Les Amours,Pierre de Ronsard,Saagar Asnani,Middle French,content
-meadow-in-the-forest,Die Wiese im Wald,Meadow in the Forest,Paul Celan,Michaela Kotziers,German,content
-as-much-as-you-can,Όσο Mπορείς Αναγνωρισμένα,As Much As You Can,C. P. Cavafy,Josh Bryer,Greek,content
-riddle-47,Riddle 47,Riddle 47,Anonymous,Samantha Pious,"Old English, Middle French, English",content
-if-you-dont-come-home-im-too-afraid-to-age,你不来，我不敢老去,"If You Don't Come Home, I'm Too Afraid to Age",Li Jizong,Kejia Wang,Chinese,content
-wait,Warte,Wait,Nelly Sachs,Alex Stern,German,content
-poesia,Poesia,Poesia,Giovanni Pascoli,Stefano Pietrosanti,Italian,content
-the-birth-of-the-poem,O Nascimento do poema,The Birth of the Poem,Adélia Prado,Ellen Doré Watson,Portuguese,content
-fair-lady-yu,虞美人,Fair Lady Yü,Li Yu,Yuchao Wang,Chinese,content
-life-song,Lebenslied,Life Song,Paul Celan,Michaela Kotziers,German,content
-moon,ירח,Moon,Nathan Alterman,Josh Glahn,Hebrew,content
-memories-watch-me,Minnena Ser Mig,Memories Watch Me,Tomas Tranströmer,Rhosean Asmah,Swedish,content
-you-are-not-poetry,Poesía no eres tú,You Are Not Poetry,Rosario Castellanos,Stephanie Diaz,Spanish,content
-o-motherland-my-dear-motherland,祖国啊，我亲爱的祖国,"O Motherland, My Dear Motherland",Shu Ting,Vivian Yuxin Wen,Chinese,content
-from-requiem,Из “Реквием”,From <em>Requiem</em>,Anna Akhmatova,Yehudith Dashevsky,Russian,content
-the-meditated-death,La morte meditata,The Meditated Death,Giuseppe Ungaretti,Carla Rossi,Italian,content
-the-verb,El verbo,The Verb,Mario Benedetti,Ella Konefal,Spanish,content
-in-the-pyre-of-war,בִּמְדוּרוֹת מִלְחָמָה,In the Pyre of War,Hannah Szenes,Jacob Hershman,Hebrew,content
-copyright2018,Copyright,,,,,frontmatter
+pid,transtitle,title,author,translator,language,lang,pagetype
+staff2018,Staff,,,,,,frontmatter
+ednote2018,Editor’s Note,,,,,,frontmatter
+black-woman,Black Woman,Femme Noire,Léopold Sédar Senghor,Donnisa Edmonds,French,fr,content
+here-i-love-you,Here I Love You,Aquí te amo,Pablo Neruda,Sam Friskey,Spanish,es,content
+where-does-such-tenderness-come-from,Where Does Such Tenderness Come From?,Откуда такая нежность?,Marina Tsvetaeva,Jianing Zhao,Russian,ru,content
+repose,Repose,Giacere,Antonia Pozzi,Stephanie Diaz,Italian,it,content
+three-sonnets-extracted-from-les-amours,Three Sonnets extracted from Les Amours,Trois Sonnets extraits de Les Amours,Pierre de Ronsard,Saagar Asnani,Middle French,fr,content
+meadow-in-the-forest,Meadow in the Forest,Die Wiese im Wald,Paul Celan,Michaela Kotziers,German,de,content
+as-much-as-you-can,As Much As You Can,"<span lang=""el"">Όσο Mπορείς Αναγνωρισμένα</span>",C. P. Cavafy,Josh Bryer,Greek,el,content
+riddle-47,Riddle 47,Riddle 47,Anonymous,Samantha Pious,"Old English, Middle French, English",en,content
+if-you-dont-come-home-im-too-afraid-to-age,"If You Don't Come Home, I'm Too Afraid to Age","<span lang=""zh"">你不来，我不敢老去</span>",Li Jizong,Kejia Wang,Chinese,zh,content
+wait,Wait,Warte,Nelly Sachs,Alex Stern,German,de,content
+poesia,Poesia,Poesia,Giovanni Pascoli,Stefano Pietrosanti,Italian,it,content
+the-birth-of-the-poem,The Birth of the Poem,O Nascimento do poema,Adélia Prado,Ellen Doré Watson,Portuguese,pt,content
+fair-lady-yu,Fair Lady Yü,"<span lang=""zh"">虞美人</span>",Li Yu,Yuchao Wang,Chinese,zh,content
+life-song,Life Song,Lebenslied,Paul Celan,Michaela Kotziers,German,de,content
+moon,Moon,"<span lang=""he"">ירח</span>",Nathan Alterman,Josh Glahn,Hebrew,he,content
+memories-watch-me,Memories Watch Me,Minnena Ser Mig,Tomas Tranströmer,Rhosean Asmah,Swedish,sv,content
+you-are-not-poetry,You Are Not Poetry,Poesía no eres tú,Rosario Castellanos,Stephanie Diaz,Spanish,es,content
+o-motherland-my-dear-motherland,"O Motherland, My Dear Motherland","<span lang=""zh"">祖国啊，我亲爱的祖国</span>",Shu Ting,Vivian Yuxin Wen,Chinese,zh,content
+from-requiem,From <em>Requiem</em>,Из “Реквием”,Anna Akhmatova,Yehudith Dashevsky,Russian,ru,content
+the-meditated-death,The Meditated Death,La morte meditata,Giuseppe Ungaretti,Carla Rossi,Italian,it,content
+the-verb,The Verb,El verbo,Mario Benedetti,Ella Konefal,Spanish,es,content
+in-the-pyre-of-war,In the Pyre of War,"<span lang=""he"">בִּמְדוּרוֹת מִלְחָמָה</span>",Hannah Szenes,Jacob Hershman,Hebrew,he,content
+copyright2018,Copyright,,,,,,frontmatter

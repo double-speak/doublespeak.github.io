@@ -1,19 +1,19 @@
 pid,transtitle,title,author,translator,language,lang,pagetype
 staff2019,Staff,,,,,,frontmatter
 ednote2019,Editor’s Note,,,,,,frontmatter
-i,אני,I,Rachel Bluwstein ,Shoshana Akabas,Hebrew,he,content
-the-man-who-walks-too-fast,走得太快的人,The Man Who Walks Too Fast,Li Yuansheng,Yi Feng,Chinese,zh,content
-ghazal,[غزال],Ghazal,Hossein Monzavi,Ali Noori,Persian,fa,content
-the-abandoned,La abandonada,The Abandoned,Gabriela Mistral,Perren Carrillo,Spanish,es,content
-blind-scrap-dealer,اندھا کباڑی,Blind Scrap-Dealer,Noon Meem Rashid,Armghan Ahmad,Urdu,ur,content
-i-was-ten-years-old-head-in-the-sky,j’eus dix ans le ciel en tête,I was Ten Years Old Head in the Sky,Amina Saïd,<em>DoubleSpeak</em> Staff,French,fr,content
-a-ballad-about-departing-for-heaven,Баллада об уходе в рай,A Ballad about Departing for Heaven,Vladimir Vysotskii,Dan Guralnik,Russian,ru,content
-in-the-south-simple-speech,في الجنوب; اللفظة البسيطة,In the South; Simple Speech,Khalil Hawi,Rawad Wehbe,Arabic,ar,content
-crucifixion,Распятие,Crucifixion,Anna Akhmatova,Yehudith Dashevsky,Russian,ru,content
-autumn-eyes,Herbstaugen,Autumn Eyes,Hilde Domin,Dillon Bergin,German,de,content
-easily-written-poem,쉽게 씌어진 시,Easily Written Poem,Yun Dong-ju,Nadia Park,Korean,ko,content
-song-for-helen,Chanson pour Hélène,Song for Helen,Pierre de Ronsard,Saagar Asnani,French,fr,content
-paper-crane,纸鸽,Paper Crane,Li Yuansheng,Yi Feng,Chinese,zh,content
-here-i-love-you,Aquí te amo,Here I Love You,Pablo Neruda,Stephanie Diaz,Spanish,es,content
-a-flowers-pride,อหังการของดอกไม้,A Flower’s Pride,Chiranan Pitpreecha,Peeriya Pongsarigun and John Viano,Thai,th,content
+i,I,"<span lang=""he"">אני</span>",Rachel Bluwstein ,Shoshana Akabas,Hebrew,he,content
+the-man-who-walks-too-fast,The Man Who Walks Too Fast,"<span lang=""zh"">走得太快的人</span>",Li Yuansheng,Yi Feng,Chinese,zh,content
+ghazal,Ghazal,"<span lang=""ar"">[غزال]</span>",Hossein Monzavi,Ali Noori,Persian,fa,content
+the-abandoned,The Abandoned,La abandonada,Gabriela Mistral,Perren Carrillo,Spanish,es,content
+blind-scrap-dealer,Blind Scrap-Dealer,"<span lang=""ar"">اندھا کباڑی</span>",Noon Meem Rashid,Armghan Ahmad,Urdu,ur,content
+i-was-ten-years-old-head-in-the-sky,I was Ten Years Old Head in the Sky,j’eus dix ans le ciel en tête,Amina Saïd,<em>DoubleSpeak</em> Staff,French,fr,content
+a-ballad-about-departing-for-heaven,A Ballad about Departing for Heaven,Баллада об уходе в рай,Vladimir Vysotskii,Dan Guralnik,Russian,ru,content
+in-the-south-simple-speech,In the South; Simple Speech,"<span lang=""ar"">في الجنوب; اللفظة البسيطة</span>",Khalil Hawi,Rawad Wehbe,Arabic,ar,content
+crucifixion,Crucifixion,Распятие,Anna Akhmatova,Yehudith Dashevsky,Russian,ru,content
+autumn-eyes,Autumn Eyes,Herbstaugen,Hilde Domin,Dillon Bergin,German,de,content
+easily-written-poem,Easily Written Poem,"<span lang=""ko"">쉽게 씌어진 시</span>",Yun Dong-ju,Nadia Park,Korean,ko,content
+song-for-helen,Song for Helen,Chanson pour Hélène,Pierre de Ronsard,Saagar Asnani,French,fr,content
+paper-crane,Paper Crane,"<span lang=""zh"">纸鸽</span>",Li Yuansheng,Yi Feng,Chinese,zh,content
+here-i-love-you,Here I Love You,Aquí te amo,Pablo Neruda,Stephanie Diaz,Spanish,es,content
+a-flowers-pride,A Flower’s Pride,"<span lang=""th"">อหังการของดอกไม้</span>",Chiranan Pitpreecha,Peeriya Pongsarigun and John Viano,Thai,th,content
 copyright2019,Copyright,,,,,,frontmatter
