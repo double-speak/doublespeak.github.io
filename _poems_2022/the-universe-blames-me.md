@@ -96,12 +96,31 @@ language: Arabic
 lang: ar
 image: "../assets/images/images_22/qabbani.jpg"
 image2: none
-imagecredit: Michael Karam
+imagecredit: photo by Michael Karam
 imagecredit2:
-origaudio:
-translaudio:
+origaudio: |-
+  <div>
+
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1E7LLnQLe_X_tMggIOlQvEKP5ZBSFBysE/preview">
+  </iframe>
+  </div>
+translaudio: |-
+  <div>
+
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1Qi1pKy_UbfgI7yHcGobHwbHHAgHOZ5dt/preview">
+  </iframe>
+  </div>
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '16'
 layout: poempage
 collection: poems_2022

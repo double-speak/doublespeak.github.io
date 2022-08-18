@@ -2,7 +2,7 @@
 pid: wild-grass
 title: <span lang="zh">《野草》题辞 </span>
 transtitle: Wild Grass
-author: 'Lu Xun (<span lang= "zh" style="font-style: normal">鲁迅</span>)'
+author: Lu Xun
 translator: Chardonnay Needler
 poem: "当我沉默着的时候，我觉得充实；我将开口，同时感到空虚 。 \n\r\n过去的生命已经死亡。我对于这死亡有大欢喜，因为我借此知道它曾经存活。死亡的生命已经朽腐。我对于这朽腐有大欢喜，因为我借此知道它还非空虚。
   \r\n生命的泥委弃在地面上，不生乔木，只生野草，这是我的罪过。 \n\r\n野草，根本不深，花叶不美，然而吸取露，吸取水，吸取陈死人的血和肉，各各夺取它的生存。当生存时，还是将遭践踏，将遭删刈，直至于死亡而朽腐。
@@ -50,7 +50,7 @@ tbio: "<p>Chardonnay Needler is just a scatterbrained person who likes languages
   original language.</p>"
 language: Chinese
 lang: zh
-image: none
+image:
 imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1ueih_DElFy7tBYd5R0OC5mY6xjx-UbOQ/preview\">\n

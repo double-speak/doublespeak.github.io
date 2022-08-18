@@ -2,8 +2,8 @@
 pid: diary-of-the-lockdown-lifted
 title: <span lang="zh">开封日记</span>
 transtitle: Diary of the Lockdown Lifted
-author: 'Zhang Zhihao (<span lang= "zh" style="font-style: normal">张执浩</span>)'
-translator: translated by Zhiqiao (Kate) Jiang and Liwa Sun
+author: Zhang Zhihao
+translator: "<em>DoubleSpeak</em> Staff"
 poem: "重复生活的危险性\n就在于记忆容易被消磁\n我已经不记得昨天的事了\n就像昨天不存在似的\n今天是封城的第76天\n也是最后一日\n我坐在家里就像\n坐在城外的空地上\n阳光明艳照见我有泪水\n我必须眯上眼睛使劲看\n才能依稀看见\n一个未亡人\n闪烁在地平线上的影子\n扭曲，失真，不成人形\n当他越走越近时\n我会站起身来\n奔过去\n与他相拥而泣\n2020-4-7\n<span
   lang=\"eng\" style=\"font-family: futura-pt, sans-serif !important\">\n<h1>Tagebuch
   vom Ende der Quarantäne</h1>\n<h2>translated by Couloir Hanson</h2>\n\nDie Gefahr,
@@ -56,7 +56,7 @@ transpoem: "The danger of life repeating itself\nis that memory is prone to dega
   sul campo aperto, fuori dalla città:\nla luce del sole illumina le mie lacrime.
   \nDevo strizzare gli occhi per guardare,\nper distinguere\nun sopravvissuto, appena\nun’ombra
   tremolante all’orizzonte,\nDistorta, illusoria, non di forma umana;\nquando mi avvicina
-  lui,\nmi alzerò in piedi, \ncorrerò da lui,\nlo abbraccerò e piangerò.\n7/4/2020\n\n<h1><span
+  lui,\nmi alzerò in piedi, \ncorrerò verso lui,\nlo abbraccerò e piangerò.\n7/4/2020\n\n<h1><span
   lang=\"ja\">監禁の日記</span></h1>\n<h2>translated by Chardonnay Needler</h2>\n\n生活を繰り返す危険性\n記憶は消磁されやすいからです\n昨日のことはもう覚えていない\n昨日の存在じゃないいみたいに\n今日で76日目だ\nその日も最後の日\n家に座って、\n町の外の空き地に座す
   に似ています\n目を細めて強く見なければならなかった\nぼんやりと見える\n一人の未亡人\n地平線に光る影\n歪んで、歪んで、人の形にならない\n近づくにつれ\n私は立ち上がる\n駆け寄る\n\n彼と抱き合ってし、泣いた\n\n2020-4-7\n\n<h1>Diário
   do final da quarentena</h1>\n<h2>translated by Couloir Hanson</h2>\n\nO perigo de
@@ -83,14 +83,14 @@ note: |-
   <p>Not all of our staff team speak Chinese, and we have based our translations in other languages on the English version produced by our Mandarin-speaking staff members. Nevertheless, we all agree that the global nature of the pandemic allows the piece to resonate across many languages. This year, we also include a translation into Old English, a seemingly dead language yet one that still fits well in the contemporary context. <em>Beowulf</em> and many other Old English poems often focus on loss and grief and our powerlessness in the face of death, no matter our strength or heroic ability. What we have collectively lived through in the past year and a half indeed revolves around such themes. However, in such times of grief and darkness, we still see lights of hope and hold on to them. Whether it is the imagination of sitting on open fields outside of the city, or running over to embrace the survived man, we find strength through this collectively shared experience. As in the last line of our German translation, “Und umarme ihn mit gemeinsamen Tränen,” the addition of <em>gemeinsamen</em> (“common” in English) captures such collective experience with a Romantic sense of humanity. We continue to support each other with caring and hope while fighting through the path of danger and turmoil.</p>
 
   <p>—Zhiqiao (Kate) Jiang</p>
-abio: <p>Zhang Zhihao (1965–) is a contemporary Chinese poet from Jingmen, Hubei,
-  and currently lives in Wuhan, Hubei. He has received various prominent poetry awards,
-  including the Lu Xun Literature Award in 2018 for his poetry collection <span lang=
-  "zh">《高原上的野花》</span> (<em>Wild Flowers on the Plateau</em>). His most recent poetry
-  collection <span lang= "zh">《完整的彩虹》</span> (<em>The Complete Rainbow</em>) has received
-  the <em>October</em> Literature Award for poetry in April 2021. He currently serves
-  as the vice president of the Hubei Provincial Writers Association and the dean of
-  the Wuhan Academy of Literature.</p>
+abio: '<p>Zhang Zhihao (<span lang= "zh" style="font-style: normal">张执浩</span>, 1965–)
+  is a contemporary Chinese poet from Jingmen, Hubei, and currently lives in Wuhan,
+  Hubei. He has received various prominent poetry awards, including the Lu Xun Literature
+  Award in 2018 for his poetry collection <span lang= "zh">《高原上的野花》</span> (<em>Wild
+  Flowers on the Plateau</em>). His most recent poetry collection <span lang= "zh">《完整的彩虹》</span>
+  (<em>The Complete Rainbow</em>) has received the <em>October</em> Literature Award
+  for poetry in April 2021. He currently serves as the vice president of the Hubei
+  Provincial Writers Association and the dean of the Wuhan Academy of Literature.</p>'
 tbio: "<p><em>DoubleSpeak</em> Staff is a group of poetry lovers and language aficionados.
   We hail from Palm Beach Gardens, Florida; Westchester, New York; and Hangzhou, China;
   Tampa, Florida; Middleton, Wisconsin; and Sacramento, California. Though scattered
@@ -106,7 +106,7 @@ tbio: "<p><em>DoubleSpeak</em> Staff is a group of poetry lovers and language af
 language: Chinese; English; German; Italian; Old English; Japanese; Portoguese; French;
   Spanish; Russian
 lang: zh
-image: none
+image:
 imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1zZbY1ri7v576AOO6ZKhCkLtBWBa1ULsA/preview\">\n

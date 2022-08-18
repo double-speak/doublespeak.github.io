@@ -64,7 +64,7 @@ tbio: "<p>Donnisa Edmonds is a recent graduate of the University of Pennsylvania
   opinions with anyone who will listen.</p>"
 language: French
 lang: fr
-image: none
+image:
 imagecredit:
 origaudio: |+
   <div>

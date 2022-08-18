@@ -64,7 +64,7 @@ tbio: "<p>Margaret Lawlace is a graduate student in clinical psychology at the U
   of Cincinnati. She enjoys watching birds, cats, and cats watching birds.</p>"
 language: Spanish
 lang: es
-image: none
+image:
 imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/16cfcpPsFhBwXltFLY7yo-uBFK1_sEGNg/preview\">\n

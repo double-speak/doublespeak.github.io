@@ -2,7 +2,7 @@
 pid: like-an-illusion-a-poet-and-a-translator
 title:
 transtitle: 'Like an illusion, a poet and translator: musing'
-author: musing by Nadia Park
+author: Nadia Park
 translator:
 poem:
 transpoem:
@@ -31,7 +31,7 @@ abio:
 tbio:
 language: Korean
 lang: ko
-image: none
+image:
 imagecredit:
 origaudio:
 translaudio:

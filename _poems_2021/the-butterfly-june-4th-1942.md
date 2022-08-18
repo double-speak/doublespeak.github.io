@@ -1,8 +1,8 @@
 ---
 pid: the-butterfly-june-4th-1942
-title: 'Der Schmetterling — 4. Juni 1942 '
+title: Der Schmetterling — 4. Juni 1942
 transtitle: The Butterfly — June 4th, 1942
-author: 'Pavel Friedmann '
+author: Pavel Friedmann
 translator: Karina Carreras
 poem: "Der letzte war’s der aller allerletzte\nder satt und bitter blendend grelle\nvielleicht
   wenn eine Sonnenträne irgendwo auf \n                                                                           weißem
@@ -50,7 +50,7 @@ tbio: "<p>My name is Karina Carreras, and I am a senior at the University of Iow
 language: German
 lang: de
 image: "../assets/images/images_21/friedmann.JPEG"
-imagecredit: Quinn Gruber
+imagecredit: photo by Quinn Gruber
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1lV_dzFOlHHBTZU4AMSiwrBMyuhQwJ6Mu/preview\">\n
   \ </iframe>\n</div>\n"

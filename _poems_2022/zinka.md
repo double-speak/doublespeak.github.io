@@ -92,14 +92,14 @@ abio: |-
   <p/>
 tbio: |-
   <p>
-  A native Russian and English speaker, the translator (C’14) boasts substantial experience as a medical interpreter and language tutor. In addition to her passion for languages (there are a few more on the bucket list), she dabbles in a variety of creative projects. Professionally, she is in the medical field.
+  A native Russian and English speaker, Maya Shumyatcher (C’14) boasts substantial experience as a medical interpreter and language tutor. In addition to her passion for languages (there are a few more on the bucket list), she dabbles in a variety of creative projects. Professionally, she is in the medical field.
   </p>
 language: Russian
 lang: ru
 image: "../assets/images/images_22/drunina1.jpg"
 image2: "../assets/images/images_22/drunina2.jpg"
-imagecredit: Stacy Shimanuki
-imagecredit2: Ryan Hardy
+imagecredit: photo by Stacy Shimanuki
+imagecredit2: photo by Ryan Hardy
 origaudio: |-
   <div>
 
@@ -122,6 +122,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '10'
 layout: poempage
 collection: poems_2022

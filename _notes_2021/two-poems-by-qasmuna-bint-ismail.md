@@ -3,7 +3,7 @@ pid: two-poems-by-qasmuna-bint-ismail
 title: Two Poems by Qasmūna bint Ismāʿil
 transtitle: Two Poems by Qasmūna bint Ismā‘il
 author: Qasmūna bint Ismā‘il
-translator: 'Maria Dahvana Headley '
+translator: Maria Dahvana Headley
 poem: "I.\nYā zabyatan tarʿa bi-rawdin dāʾiman\ninnī hakaitu-ki fi-ttawaḥḥushi wa-l-hawari.\nAmsâ
   kilā-nā mufradan ʿan sāhibin\nfa-ʿitābu-nā abadan ʿalâ ḥukmi-l-qadari\n\nII. \nAyā
   rawdatan qad hāna min-ha qatāfu-ha\nwa-laisa yurâ hānin yamudda la-ha yadā;\nfa-wā
@@ -20,7 +20,7 @@ tbio:
 language: Arabic
 lang: bs
 image: "../assets/images/images_21/headley.JPG"
-imagecredit: Yan Zhang
+imagecredit: photo by Yan Zhang
 origaudio:
 translaudio:
 edition: '2021'

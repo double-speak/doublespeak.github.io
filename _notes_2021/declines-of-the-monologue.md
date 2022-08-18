@@ -3,7 +3,7 @@ pid: declines-of-the-monologue
 title: Declinaciones del monólogo
 transtitle: Declines of the monologue
 author: Eunice Odio
-translator: 'Couloir Hanson '
+translator: Couloir Hanson
 poem: |+
   I
   Estoy sola,
@@ -173,7 +173,7 @@ tbio: "<p>Couloir X. Hanson is a daughter of three worlds: Costa Rica, Germany, 
   be.</p>"
 language: Spanish
 lang: es
-image: none
+image:
 imagecredit:
 origaudio: |
   <div>

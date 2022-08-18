@@ -1,6 +1,6 @@
 ---
 pid: conversation-between-a-drunk-poetess-and-her-lover
-title: |
+title: |-
   <span lang="ru">Разговор
   пьяной поэтессы и ее нового любовника</span>
 transtitle: Conversation between a drunk poetess and her lover
@@ -103,7 +103,7 @@ tbio: "<p>Ryan is an undergraduate at the University of Pennsylvania, pursuing a
   Oneself</em>, is due for release by the end of 2021.</p>"
 language: Russian
 lang: ru
-image: none
+image:
 imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/10fjasOsGkVp21mx0OwAb4roQ3OnB8o4A/preview\">\n

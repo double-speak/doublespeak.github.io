@@ -1,6 +1,6 @@
 ---
 pid: i-have-seen-ikh-hob-gezen
-title: " איך האָבּ געזען"
+title: איך האָבּ געזען
 transtitle: I Have Seen (<i>Ikh Hob Gezen</i>)
 author: Zusman Segalovitsh
 translator: Betsy Morgan
@@ -51,7 +51,7 @@ language: Yiddish
 lang: he
 image: "../assets/images/images_22/segalovitsh.jpg"
 image2: none
-imagecredit: Betsy Morgan
+imagecredit: photo by Betsy Morgan
 imagecredit2:
 origaudio: |-
   <div>
@@ -73,6 +73,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '04'
 layout: notepage
 collection: notes_2022

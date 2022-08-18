@@ -1,8 +1,8 @@
 ---
 pid: eclipse
-title: 'Eclipse '
+title: Eclipse
 transtitle: Eclipse
-author: 'Carlos de Assumpção '
+author: Carlos de Assumpção
 translator: Pedro Lino
 poem: "Olho no espelho \nE não me vejo\nNão sou eu \nQuem está la\n\nSenhores\nOnde
   estão meu tambores\nOnde estão meu orixás\nOnde Olórum\nOnde o meu modo de viver\nOnde
@@ -40,7 +40,7 @@ tbio: |
   <p>You can find some of Pedro’s poems at <em>eMerge</em>, the magazine of the Writers Colony House at Dairy Hollow.</p>
 language: Portuguese
 lang: pt
-image: none
+image:
 imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1TiL2Nfnnxb1x0_ZZx9c8rVNi9f-kjoPN/preview\">\n

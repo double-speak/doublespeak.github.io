@@ -62,7 +62,7 @@ abio: |-
   </p>
 tbio: |-
   <p>
-  Samantha DeStefano graduated <em>summa cum laude</em> from the University of Pennsylvania with a BA in English, a concentration in medieval and Renaissance literature, and minors in both Classical Studies and Gender, Sexuality, and Women’s Studies. At Penn, she studied Latin, Old English, and Middle English. She has published academic research in <em>Transcription Collection</em> and <em>Journal of the Penn Manuscript Collective</em> on a manuscript of <em>Poems, 1805-1818</em> by John Syng Dorsey, the author of the first American textbook of surgery, for which she translated quotations from Latin poetry. She published translations of David Diop’s poems “To My Mother” and “He Who Lost Everything” in the Spring 2020 issue of <em>DoubleSpeak</em> and of “To a Black Dancer” in the Spring 2021 issue. She has near-native knowledge of Spanish and is fluent in French.
+  Samantha DeStefano graduated <em>summa cum laude</em> from the University of Pennsylvania with a BA in English, a concentration in medieval and Renaissance literature, and minors in both classical studies and gender, sexuality, and women’s studies. At Penn, she studied Latin, Old English, and Middle English. She has published academic research in <em>Transcription Collection</em> and <em>Journal of the Penn Manuscript Collective</em> on a manuscript of <em>Poems, 1805–1818</em> by John Syng Dorsey, the author of the first American textbook of surgery, for which she translated quotations from Latin poetry. She published translations of David Diop’s poems “To My Mother” and “He Who Lost Everything” in the Spring 2020 issue of <em>DoubleSpeak</em> and of “To a Black Dancer” in the Spring 2021 issue. She has near-native knowledge of Spanish and is fluent in French.
   </p>
 language: French
 lang: fr
@@ -91,6 +91,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '05'
 layout: notepage
 collection: notes_2022

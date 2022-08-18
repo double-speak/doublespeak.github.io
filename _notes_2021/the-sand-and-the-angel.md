@@ -100,7 +100,7 @@ tbio: "<p>Quinn Gruber is a junior at the University of Pennsylvania studying En
   and Italian literature. They love writing, editing, and having far too many hobbies.</p>"
 language: Italian
 lang: it
-image: none
+image:
 imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1LT4e5Cvi4jiW0L1agPqV8eYBckxlxT4n/preview\">\n

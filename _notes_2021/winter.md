@@ -2,7 +2,7 @@
 pid: winter
 title: <span lang="ja">冬</span>
 transtitle: Winter
-author: 'Kobayashi Issa '
+author: Kobayashi Issa
 translator: Vanessa Hu
 poem: "初雪や                 \nそれは世にある         \n人の事\n\n猫の子の                 \nくるくる舞や
   \         \n散る木の葉\n\n玉霰                         \n夜鷹は月に                 \n帰るめり\n<p>From
@@ -31,7 +31,7 @@ tbio: <p>Vanessa is a rising sophomore studying computer science and Ethnicity, 
   much. You can find more haiku translations at her site <a href="https://vanessahu.squarespace.com/about">here.</a></p>
 language: Japanese
 lang: ja
-image: none
+image:
 imagecredit:
 origaudio: |+
   <div>

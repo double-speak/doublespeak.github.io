@@ -98,8 +98,8 @@ language: Russian
 lang: ru
 image: "../assets/images/images_22/drunina1.jpg"
 image2: "../assets/images/images_22/drunina2.jpg"
-imagecredit: Stacy Shimanuki
-imagecredit2: Ryan Hardy
+imagecredit: photo by Stacy Shimanuki
+imagecredit2: photo by Ryan Hardy
 origaudio: |-
   <div>
 
@@ -122,6 +122,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '10'
 layout: notepage
 collection: notes_2022

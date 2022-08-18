@@ -3,7 +3,7 @@ pid: phra-aphai-mani
 title: พระอภัยมณี
 transtitle: Phra Aphai Mani
 author: Sunthorn Phu
-translator: John Viano and Peeriya Pongsarigun
+translator: Peeriya Pongsarigun and John Viano
 poem: |-
   วันนั้นพระอภัยมณีศรีสุวรรณ             จรจรัลเข้ามาถึงหน้าบ้าน
   เห็นลิขิตปิดไว้กับใบทวาร                พระทรงอ่านแจ้งจิตในกิจจา
@@ -61,7 +61,7 @@ tbio: "<p>\nJohn Viano and Peeriya Pongsarigun are authors and translators who v
   company InterThaiMedia LLC to create media that brings people together across languages
   and cultures. InterThaiMedia’s first project was <em>Can You Carry Me?</em>, a children’s
   book by Viano and Pongasrigun about sibling rivalry. Their second project was <em>Calm</em>
-  by Cheewan Wisasa, an IBBY honor list book that tells the story of children using
+  by Cheewan Wisasa, an IBBY Honor List book that tells the story of children using
   their superpower of mindfulness to manage their feelings.\n</p>\n<p>\r\nViano and
   Pongsarigun have translated more than 150 children’s books. They last published
   with DoubleSpeak in Spring 2021.\n</p>"
@@ -93,6 +93,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '11'
 layout: poempage
 collection: poems_2022

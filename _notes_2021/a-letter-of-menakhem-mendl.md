@@ -1,6 +1,6 @@
 ---
 pid: a-letter-of-menakhem-mendl
-title: " מכתב של מנחם-מנדל "
+title: מכתב של מנחם-מנדל
 transtitle: A Letter of Menakhem-Mendl
 author: Nathan Alterman
 translator: Dan Ben-Amos
@@ -128,7 +128,7 @@ tbio: "<p>Dan Ben-Amos teaches folklore at the University of Pennsylvania. He ea
   appeared in <em>Jewish Review of Books</em> and <em>Moment</em>.</p>"
 language: Hebrew
 lang: he
-image: none
+image:
 imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1entKtPfghmJuAVe2WBXaU1Xuf17wh4x1/preview\">\n

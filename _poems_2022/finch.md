@@ -63,7 +63,7 @@ language: Mandarin
 lang: zh
 image: "../assets/images/images_22/ergun.jpg"
 image2: none
-imagecredit: Stacy Shimanuki
+imagecredit: photo by Stacy Shimanuki
 imagecredit2:
 origaudio: |-
   <iframe
@@ -81,6 +81,7 @@ translaudio: |-
   </iframe>
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '06'
 layout: poempage
 collection: poems_2022

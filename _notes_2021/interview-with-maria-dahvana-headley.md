@@ -224,7 +224,7 @@ tbio:
 language: English
 lang: en
 image: "../assets/images/images_21/interview.jpeg"
-imagecredit: Chardonnay Needler
+imagecredit: photo by Chardonnay Needler
 origaudio:
 translaudio:
 edition: '2021'

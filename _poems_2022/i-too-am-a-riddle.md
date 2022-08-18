@@ -43,12 +43,13 @@ language: Hindi
 lang: hi
 image: "../assets/images/images_22/varma.jpg"
 image2: none
-imagecredit: Yan Zhang
+imagecredit: photo by Yan Zhang
 imagecredit2:
 origaudio:
 translaudio:
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '00'
 layout: poempage
 collection: poems_2022

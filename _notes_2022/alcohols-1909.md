@@ -74,7 +74,7 @@ language: French
 lang: fr
 image: "../assets/images/images_22/armengol.jpg"
 image2: none
-imagecredit: Ryan Hardy
+imagecredit: photo by Ryan Hardy
 imagecredit2:
 origaudio: |-
   <div>
@@ -96,6 +96,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '13'
 layout: notepage
 collection: notes_2022

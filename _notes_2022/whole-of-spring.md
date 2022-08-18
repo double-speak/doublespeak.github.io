@@ -52,7 +52,7 @@ language: Spanish
 lang: es
 image: "../assets/images/images_22/vilarino.jpeg"
 image2: none
-imagecredit: Ryan Hardy
+imagecredit: photo by Ryan Hardy
 imagecredit2:
 origaudio: |
   <div>
@@ -74,6 +74,7 @@ translaudio: |
   </div>
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '12'
 layout: notepage
 collection: notes_2022

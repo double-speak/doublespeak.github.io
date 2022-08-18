@@ -1,6 +1,6 @@
 ---
 pid: shapes-in-sleep-eight-poems
-title: 'Schlafgestalten: acht Gedichte '
+title: 'Schlafgestalten: acht Gedichte'
 transtitle: 'Shapes in Sleep: Eight Poems'
 author: Paul Celan
 translator: David Ting
@@ -134,10 +134,10 @@ note: |-
 abio: |-
   <p>The multilingual prodigy Paul Celan (1920–1970) was a poet, translator, and teacher. His poems, intimately personal yet also intimidatingly specific,  memorialize the Shoah. Until the end of his life, he lived in Paris, working at the École Normale Supérieure as a lecturer in German — a position he nearly refused because he felt it beneath him. However, assigning students translation exercises was a source of pleasure for him. His own vast translation résumé included Giuseppe Ungaretti, Henri Michaux, Marianne Moore, Fernando Pessoa, and others. He considered his translations of Osip Mandelstam as important as his own poetry. Paul Celan often strayed from literalism, enhancing lines with insertions, omissions, and autobiographical touches. Reworking Emily Dickinson, Celan approaches the last line of her stanza,</p>
   <pre>
-      Let down the bars, O Death!
-      The tired flocks come in
-      Whose bleating ceases to repeat,
-      Whose wandering is done.
+           Let down the bars, O Death!
+           The tired flocks come in
+           Whose bleating ceases to repeat,
+           Whose wandering is done.
   </pre>
   <p>and alters it to, “Wer nicht mehr wandert, kommt.” (“Who wanders no more, comes.”)</p>
   <p>The sly addition of <em>kommt</em> (“comes”) is quite the creative betrayal. Here we behold the deadly playfulness of Celan’s imagination, and also, how he expects to be translated. I will not speak of his death. But let the reader imagine what this one word, <em>kommt</em>, could have meant in his life.</p>
@@ -150,7 +150,7 @@ tbio: "<p>David F. Ting works for a renowned lung cancer specialist as a medical
 language: German
 lang: de
 image: "../assets/images/images_21/celan.jpg"
-imagecredit: Heta Patel
+imagecredit: photo by Heta Patel
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1ano_WwbTdechI5VP5-utZV6WWF_Cq9in/preview\">\n
   \ </iframe>\n</div>"

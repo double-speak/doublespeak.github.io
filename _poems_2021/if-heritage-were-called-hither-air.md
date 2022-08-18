@@ -2,7 +2,7 @@
 pid: if-heritage-were-called-hither-air
 title: Wenn Die Herkunft Herluft Hiesse
 transtitle: If Heritage Were Called Hither-Air
-author: 'Marica Bodroži<span lang= "bs" style="font-style: normal">ć</span>'
+author: Marica Bodrožić
 translator: Qingyang Zhou
 poem: "Wenn die Herkunft Herluft hiesse,\nkönnte ich sagen,\nich sei ein Mensch aus
   Wolken, könnte ich sagen,\nich sei ein Gebiet des Wetters und niemand störte\nsich
@@ -74,7 +74,7 @@ tbio: "<p>Qingyang Zhou (Freya) is a PhD candidate in German at UC Berkeley. She
   II, and East German portrayals of China in literary and filmic travelogues.</p>"
 language: German
 lang: de
-image: none
+image:
 imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1FzgKF7p6yfM_mGnRyOm2XN7CI2TySE6D/preview\">\n

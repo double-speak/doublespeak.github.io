@@ -66,6 +66,7 @@ translaudio: |
   </div>
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '14'
 layout: notepage
 collection: notes_2022

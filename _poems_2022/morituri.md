@@ -22,10 +22,10 @@ transpoem: "Sun, dying one! \nYou, holy sun, bleed \nAnd thy love surges in flam
   tender heart trembles! \n\nO, give him now \nIn thy last glowing kiss \nUnwavering
   strength, \nEternal youth! \nEre the night spreads a black shroud \nAnd Orion keeps
   wake! \n"
-note: "<p><em>Morituri</em>, published by Brand in his magazine <em>Der Eigene</em>
-  in 1898, is a homoerotic poem wherein the narrator begs the sun to provide love,
-  strength, and youth to his lover. This is consistent with the glorification of health
-  and strength, especially of the nude body, found in illustrations throughout <em>Der
+note: "<p>“Morituri,” published by Brand in his magazine <em>Der Eigene</em> in 1898,
+  is a homoerotic poem wherein the narrator begs the sun to provide love, strength,
+  and youth to his lover. This is consistent with the glorification of health and
+  strength, especially of the nude body, found in illustrations throughout <em>Der
   Eigene</em>, including the one accompanying the original poem. Of note here is that
   Brand and his colleagues often described homosexuality as <em>Liebe zwischen Freunden</em>,
   or “love between friends,” so the romance is implicit even without the mention of
@@ -53,10 +53,29 @@ image2: none
 imagecredit: An illustration by Richard Grimm accompanying the original poem in <i>Der
   Eigene</i>.
 imagecredit2:
-origaudio:
-translaudio:
+origaudio: |-
+  <div>
+
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1MG2iMYAg7qzKDwIviTvKBtvxy0EF_W4O/preview">
+  </iframe>
+  </div>
+translaudio: |-
+  <div>
+
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1Z98zVjs-iQryfIlwrGiI0fm8racz07sB/preview">
+  </iframe>
+  </div>
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '07'
 layout: poempage
 collection: poems_2022

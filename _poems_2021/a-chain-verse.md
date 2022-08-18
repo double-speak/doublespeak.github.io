@@ -2,8 +2,8 @@
 pid: a-chain-verse
 title: '<span lang="zh">连环诗: 赏花归去</span>'
 transtitle: A Chain Verse
-author: 'Su Shi (<span lang= "zh" style="font-style: normal">苏轼</span>)'
-translator: 'Gil Lehmann, Jacey Chang, and Yehudith Dashevsky '
+author: Su Shi
+translator: Gil Lehmann, Jacey Chang, and Yehudith Dashevsky
 poem: |2-
                         赏
               暮                   花
@@ -46,8 +46,7 @@ note: |-
       Chinese wine goblet (<span lang= "zh">觚</span>, <em>gu</em>), hoping to convey some of the meaning of the poem through the form.
   </p>
 abio: |-
-  <p>
-      The author is alleged to be <span lang= "zh">苏轼</span>, Su Shi, but this remains unconfirmed.
+  <p>The author is alleged to be <span lang= "zh">苏轼</span>, Su Shi, but this remains unconfirmed.
   </p>
 tbio: |-
   <p>
@@ -57,7 +56,7 @@ tbio: |-
 language: Chinese
 lang: zh
 image: "../assets/images/images_21/su_shi.jpg"
-imagecredit: Zhiqiao (Kate) Jiang
+imagecredit: photo by Zhiqiao (Kate) Jiang
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1PG4J1x58uwju_lxP2X3nDl8p8ZC-8z3e/preview\">\n
   \ </iframe>\n</div>"

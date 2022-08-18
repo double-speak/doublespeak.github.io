@@ -1,7 +1,7 @@
 ---
 pid: kaise-kahoon-how-do-i-say
-title: "<em>Kaise Kahoon</em> / How Do I Say?"
-transtitle: 
+title:
+transtitle: "<em>Kaise Kahoon</em> / How Do I Say?"
 author: Simran Chand
 translator:
 poem:
@@ -80,12 +80,13 @@ language: English
 lang: en
 image: "../assets/images/images_22/musing1.jpg"
 image2: "../assets/images/images_22/musing2.jpg"
-imagecredit: Stacy Shimanuki
-imagecredit2: Stacy Shimanuki
+imagecredit: photo by Stacy Shimanuki
+imagecredit2: photo by Stacy Shimanuki
 origaudio:
 translaudio:
 edition: '2022'
 pagetype: musing
+wrapformat:
 order: '08'
 layout: notepage
 collection: notes_2022

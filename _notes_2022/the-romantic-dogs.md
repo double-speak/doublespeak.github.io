@@ -3,7 +3,7 @@ pid: the-romantic-dogs
 title: Los perros románticos
 transtitle: The Romantic Dogs
 author: Roberto Bolaño
-translator: Andrea Conde, Ryan Hardy, and Zhiqiao (Kate) Jiang
+translator: "<em>DoubleSpeak</em> Staff"
 poem: |-
   En aquel tiempo yo tenía veinte años
   y estaba loco.
@@ -155,12 +155,13 @@ language: Spanish; English; Chinese; French; Japanese; Russian
 lang: es
 image: "../assets/images/images_22/group_translation.JPG"
 image2: none
-imagecredit: Quinn Gruber
+imagecredit: photo by Quinn Gruber
 imagecredit2:
 origaudio:
 translaudio:
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '18'
 layout: notepage
 collection: notes_2022

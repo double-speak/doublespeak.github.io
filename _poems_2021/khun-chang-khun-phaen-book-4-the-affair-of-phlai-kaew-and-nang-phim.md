@@ -5,7 +5,7 @@ transtitle: |-
   Khun Chang Khun Phaen
   Book 4: The Affair of Phlai Kaew and Nang Phim
 author: King Rama II
-translator: 'Peeriya Pongsarigun and John Viano '
+translator: Peeriya Pongsarigun and John Viano
 poem: |
   ครานั้นจึงโฉมเจ้าพลายแก้ว                ไปวัดคํ่าแล้วหาบวชไม่
   คอยดูฤกษ์เวลาจะคลาไคล                        ประมาณได้สักสองยามปลาย
@@ -53,7 +53,7 @@ tbio: |-
   <p>In all, Peeriya and John have translated more than 140 children’s books, song lyrics, and poetry. They last published with <em>DoubleSpeak</em> in Spring 2020.</p>
 language: Thai
 lang: th
-image: none
+image:
 imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1JXPDsNBiGAaVEltDaPcH6ISynhwbexSu/preview\">\n

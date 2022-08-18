@@ -30,12 +30,13 @@ language: English
 lang: en
 image: "../assets/images/images_22/gruber.jpg"
 image2: none
-imagecredit: Quinn Gruber
+imagecredit: photo by Quinn Gruber
 imagecredit2:
 origaudio:
 translaudio:
 edition: '2022'
 pagetype: musing
+wrapformat:
 order: '09'
 layout: notepage
 collection: notes_2022

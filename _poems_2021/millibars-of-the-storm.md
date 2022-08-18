@@ -39,7 +39,7 @@ tbio: "<p>Sue was raised in Canada, studied abroad in France, and currently work
   in different languages.</p>"
 language: French
 lang: fr
-image: none
+image:
 imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/184u8BlRdW95dfjfYIgZL2cZr6G3F26Fq/preview\">\n

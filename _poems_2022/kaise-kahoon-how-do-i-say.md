@@ -80,12 +80,13 @@ language: English
 lang: en
 image: "../assets/images/images_22/musing1.jpg"
 image2: "../assets/images/images_22/musing2.jpg"
-imagecredit: Stacy Shimanuki
-imagecredit2: Stacy Shimanuki
+imagecredit: photo by Stacy Shimanuki
+imagecredit2: photo by Stacy Shimanuki
 origaudio:
 translaudio:
 edition: '2022'
 pagetype: musing
+wrapformat:
 order: '08'
 layout: poempage
 collection: poems_2022

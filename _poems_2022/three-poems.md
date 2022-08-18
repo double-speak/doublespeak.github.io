@@ -36,16 +36,16 @@ abio: <p>Stella N’Djoku is a Swiss poet, journalist, and educator of Italian a
   RSI and the Italian WebRadioGiardino. After speaking at the Swiss Literary Festival
   of Babel, Switzerland in 2021, N’Djoku taught creative writing in the <em>L’altraLingua</em>
   initiative this February. She is currently at work on her second collection and
-  can be found <a href="stellandjoku.wordpress.com">here</a>.</p>
+  can be found <a href="https://stellandjoku.wordpress.com/">here</a>.</p>
 tbio: |-
   <p>
-  Julia Pelosi-Thorpe’s translations of Latin, Italian, and Parmesan dialect poetry appear in the <em>Journal of Italian Translation</em>, <em>Asymptote</em>, <em>Modern Poetry in Translation</em>, the <em>Poetry Review</em>, and more. She can be found <a href="jpelosithorpe.com">here</a>.
+  Julia Pelosi-Thorpe’s translations of Latin, Italian, and Parmesan dialect poetry appear in the <em>Journal of Italian Translation</em>, <em>Asymptote</em>, <em>Modern Poetry in Translation</em>, the <em>Poetry Review</em>, and more. She can be found <a href="https://jpelosithorpe.com/">here</a>.
   </p>
 language: Italian
 lang: it
 image: "../assets/images/images_22/n'djoku.jpg"
 image2: none
-imagecredit: Ryan Hardy
+imagecredit: photo by Ryan Hardy
 imagecredit2:
 origaudio: |-
   <div>
@@ -60,6 +60,7 @@ origaudio: |-
 translaudio:
 edition: '2022'
 pagetype: submission
+wrapformat:
 order: '15'
 layout: poempage
 collection: poems_2022
