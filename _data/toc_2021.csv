@@ -1,6 +1,6 @@
 pid,transtitle,title,author,translator,language,lang,pagetype
-ednote2021,Editor’s Note,,,,,,frontmatter
 staff2021,Staff,,,,,,frontmatter
+ednote2021,Editor’s Note,,,,,,frontmatter
 every-day-the-sun-slits-the-throat-of-its-former-self,every day the sun slits the throat of its former self,chaque jour le soleil égorge son spectre,Amina Saïd,Ashley Sniffen,French,fr,content
 a-chain-verse,A Chain Verse,"<span lang=""zh"">连环诗: 赏花归去</span>",Su Shi,"Gil Lehmann, Jacey Chang, and Yehudith Dashevsky",Chinese,zh,content
 shapes-in-sleep-eight-poems,Shapes in Sleep: Eight Poems,Schlafgestalten: acht Gedichte,Paul Celan,David Ting,German,de,content
@@ -44,6 +44,5 @@ Book 4: The Affair of Phlai Kaew and Nang Phim","<span lang=""th"">ขุนช�
 lilies,Lilies,Krinovi,Mak Dizdar,Emma Arsekin,Bosnian,bs,content
 eternity,Eternity,L’Éternité,Arthur Rimbaud,Keshav Sharma,French,fr,content
 romance-of-the-moon-and-the-child,Romance of the moon and the child,"Romance de la luna, luna.",Federico García Lorca,Darío Goldgel Carballo,Spanish,es,content
-diary-of-the-lockdown-lifted,Diary of the Lockdown Lifted,"<span lang=""zh"">开封日记</span>",Zhang Zhihao,"<em>DoubleSpeak</em> Staff
-",Chinese,zh,content
+diary-of-the-lockdown-lifted,Diary of the Lockdown Lifted,"<span lang=""zh"">开封日记</span>",Zhang Zhihao,<em>DoubleSpeak</em> Staff,Chinese,zh,content
 copyright2021,Copyright,,,,,,frontmatter
