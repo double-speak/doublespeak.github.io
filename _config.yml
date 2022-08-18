@@ -188,16 +188,6 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      poems_2021:
-        content: true # whether or not to index page content
-        fields: # the metadata fields to index
-          - transtitle
-          - title
-          - author
-          - translator
-          - poem
-          - transpoem
-          - language
       poems_2022:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
@@ -208,5 +198,63 @@ search:
           - poem
           - transpoem
           - language
-
-
+      poems_2021:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - transtitle
+          - title
+          - author
+          - translator
+          - poem
+          - transpoem
+          - language
+      poems_2020:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - transtitle
+          - title
+          - author
+          - translator
+          - poem
+          - transpoem
+          - language
+      poems_2019:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - transtitle
+          - title
+          - author
+          - translator
+          - poem
+          - transpoem
+          - language
+      poems_2018:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - transtitle
+          - title
+          - author
+          - translator
+          - poem
+          - transpoem
+          - language
+      poems_2017:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - transtitle
+          - title
+          - author
+          - translator
+          - poem
+          - transpoem
+          - language
+      poems_2016:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - transtitle
+          - title
+          - author
+          - translator
+          - poem
+          - transpoem
+          - language
