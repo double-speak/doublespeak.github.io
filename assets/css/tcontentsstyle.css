@@ -206,6 +206,11 @@ p {
 	line-height: 25px;
 }
 
+.lineart {
+	align-items:flex-start;
+	width:100%;
+}
+
 /* language code */
 
 :lang(es), :lang(fr), :lang(it), :lang(de), :lang(no), :lang(po), :lang(ru), :lang(bs), :lang(cs), :lang(tr) {
