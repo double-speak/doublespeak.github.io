@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   DoubleSpeak is the University of Pennsylvania’s only journal for literary translation and the only literary translation journal in the country run by undergraduate students. Founded over a decade ago, our annual journal celebrates a range of languages, cultures, and countries through thoughtful curation of poets across centuries and around the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.doublespeakmagazine.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  double-speak
 
 # Build settings
 theme: minima
@@ -101,12 +101,86 @@ collections:
       source: 'poems_2021.csv' # path to the metadata file, must be within '_data'
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
-
   notes_2021:
     layout: 'notepage'
     output: true # this must be true for your .md pages to be built to html!
     metadata:
       source: 'poems_2021.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+
+  poems_2020:
+    layout: 'poempage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2020.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  notes_2020:
+    layout: 'notepage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2020.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  
+  poems_2019:
+    layout: 'poempage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2019.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  notes_2019:
+    layout: 'notepage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2019.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+
+  poems_2018:
+    layout: 'poempage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2018.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  notes_2018:
+    layout: 'notepage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2018.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  
+  poems_2017:
+    layout: 'poempage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2017.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  notes_2017:
+    layout: 'notepage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2017.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+
+  poems_2016:
+    layout: 'poempage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2016.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  notes_2016:
+    layout: 'notepage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2016.csv' # path to the metadata file, must be within '_data'
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
 
