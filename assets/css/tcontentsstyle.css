@@ -456,7 +456,7 @@ p:lang(hi), pre:lang(hi) {
   }
 
 :lang(el){
-	font-family: novel-sans-greek, sans-serif;
+	font-family: omnes-greek, sans-serif !important;
 	font-style: normal;
     color: black;
 	text-align: left;
@@ -466,7 +466,6 @@ h1:lang(el) {
     font-weight:  300;
     font-size: 42px;
 	line-height: 44px;
-	
   }
 
 h2:lang(el) {

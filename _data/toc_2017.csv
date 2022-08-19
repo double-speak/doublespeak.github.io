@@ -1,15 +1,15 @@
 pid,transtitle,title,author,translator,language,lang,pagetype
 staffpage2017,Staff,,,,,,frontmatter
 ednote2017,Editor’s Note,,,,,,frontmatter
-with-a-newspaper,With a Newspaper,"<span lang="ar">
+with-a-newspaper,With a Newspaper,"<span lang=""ar"">
 مع جريدة
 </span>",Nizar Qabbani,Michael Karam,Arabic,ar,content
-story-of-a-separation,STORY OF A SEPARATION,"<span lang="tr">BİR AYRILIŞ HİKAYESİ</span>",Nâzım Hikmet,Keyla Cavdar,Turkish,tr,content
+story-of-a-separation,STORY OF A SEPARATION,"<span lang=""tr"">BİR AYRILIŞ HİKAYESİ</span>",Nâzım Hikmet,Keyla Cavdar,Turkish,tr,content
 hibernating,Hibernating,Hiberno,Elvira Sastre,Mira Revesz,Spanish,es,content
 take-me-into-your-black-eyes,Take Me Into Your Black Eyes,Siyah Gözlerine Beni De G.tür,Nurullah Genç,Nicolette Tan,Turkish,tr,content
 silence,Silence,МЪЛЧАНИЕ,Dora Gabe,Irena Natcheva,Bulgarian,bg,content
 oh-reader,"Oh, Reader!",Au lecteur,Charles Baudelaire,Trask Roberts,French,fr,content
-identity-card,Identity Card,"<span lang="ar">
+identity-card,Identity Card,"<span lang=""ar"">
 سجِّل°†أنا†عربي
 </span>",Mahmoud Darwish,Omar Khoury,Arabic,ar,content
 amerigo,Amerigo,Amerigo,Francesco Guccini,Stefano Pietrosanti,Italian,it,content
@@ -18,12 +18,12 @@ so-that-you-might-hear-me,So that you might hear me,Para que tú me oigas,Pablo 
 you-shattered,You Shattered,Tu ti spezzasti,Giuseppe Ungaretti,Carla Rossi,Italian,it,content
 horizon,Horizon,Horizonte,Federico García Lorca,Mira Revesz,Spanish,es,content
 vigil,Vigil,Veglia,Giuseppe Ungaretti,Margaret Lawlace,Italian,it,content
-sinking-rising,Sinking rising,"<span lang="he">
+sinking-rising,Sinking rising,"<span lang=""he"">
 גורע וזורח
 </span>",Dahlia Ravikovitch,Yehudith Dashevsky,Hebrew,he,content
-the-night-i-count-the-stars,The Night I Count the Stars,"<span lang="ko">별 헤는 밤</span>",Yun Dong-ju,Nadia Park,Korean,ko,content
-ruin,Ruin,The Ruin,Anonymous,Michaela Kotziers,Old English,,content
-historical-museum,Historical Museum,"<span lang="zh">历史博物馆</span>",Xi Murong,Kejia Wang,Chinese,zh,content
+the-night-i-count-the-stars,The Night I Count the Stars,"<span lang=""ko"">별 헤는 밤</span>",Yun Dong-ju,Nadia Park,Korean,ko,content
+ruin,Ruin,The Ruin,Anonymous,Michaela Kotziers,Old English,en,content
+historical-museum,Historical Museum,"<span lang=""zh"">历史博物馆</span>",Xi Murong,Kejia Wang,Chinese,zh,content
 someones-already-had-a-sip-of-you,Someone’s already had a sip of you,Пускай ты выпита другим,Sergei Yesenin,Malika Kadyrova,Russian,ru,content
 hour-of-stars,Hour of Stars,Hora de estrellas,Federico García Lorca,Mira Revesz,Spanish,es,content
 copyright2017,Copyright,,,,,,frontmatter
