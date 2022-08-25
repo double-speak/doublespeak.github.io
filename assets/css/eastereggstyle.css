@@ -124,7 +124,6 @@ p {
 	display: flex;
 	flex-direction: row;
 	height: 57%;
-	border-bottom: solid black 1px;
 }
 
 .imagefun {
