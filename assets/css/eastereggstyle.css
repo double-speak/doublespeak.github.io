@@ -126,7 +126,7 @@ p {
 	height: 57%;
 }
 
-.swan {
+.image {
 	padding: 0px;
 	position: static;
 	float: left;
@@ -135,20 +135,28 @@ p {
 	overflow: hidden;
 }
 
-.swan img{
+.image img{
 	display: inline-block;
-	height: 175%;
-	width: 100%;
+	max-width: 100%;
 	margin-top: -100px;
 	object-fit: cover;
 }
 
-.mascot {
+.text {
 	padding: 0px;
 	width: 50%;
+	border: solid-black 1px;
 }
 
-.mascot-p {
+.text-p {
 	width: 45%;
 	padding-top: 10px;
+}
+
+.caption {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 16px;
 }
