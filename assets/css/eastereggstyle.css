@@ -145,7 +145,10 @@ p {
 .text {
 	padding: 0px;
 	width: 50%;
-	border: solid black 2px;
+	border-right: solid black 1px;
+	border-left: solid black 1px;
+	border-top: solid black 1px;
+	border-bottom: solid black 1px;
 }
 
 .text-p {
