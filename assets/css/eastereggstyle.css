@@ -153,9 +153,9 @@ p {
 .caption {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
-	font-style: normal;
-	font-size: 14px;
-	line-height: 16px;
+	font-style: italic;
+	font-size: 18px;
+	line-height: 20px;
 }
 
 /* language code */
