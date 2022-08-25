@@ -325,7 +325,7 @@ p strong {
 }
 
 /* language code */
-
+/*russian */
 p:lang(ru), pre:lang(ru){
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
@@ -335,7 +335,7 @@ p:lang(ru), pre:lang(ru){
 	color: black;
 	text-align: left;
 }
-
+/* arabic */
 :lang(ar){
 	font-family: adobe-arabic, sans-serif !important;
 	color: black;
@@ -347,18 +347,16 @@ h1:lang(ar) {
     font-family: adobe-arabic, sans-serif; 
     font-weight: 700;
     font-style:  normal;
-    font-size: 34px;
-	line-height: 36px;
-	text-align: right;
+    font-size: 42px;
+	line-height: 44px;
   }
 
 h2:lang(ar) { 
     font-family: adobe-arabic, sans-serif; 
     font-weight: 400;
     font-style:  normal;
-	font-size: 20px;
-	line-height: 22px;
-	text-align: right;
+	font-size: 50px;
+	line-height: 55px;
   }
 
 h3:lang(ar) { 
@@ -373,10 +371,10 @@ pre:lang(ar), pre:lang(ar) {
     font-family: adobe-arabic, sans-serif; 
     font-weight: 400;
     font-style:  normal;
-    font-size: 22px;
-	line-height: 24px;
+    font-size: 24px;
+	line-height: 26px;
   } 
-
+/* chinese */
 :lang(zh) {
 	font-family: source-han-sans-traditional, sans-serif !important;
 	font-style: normal;
@@ -386,14 +384,14 @@ pre:lang(ar), pre:lang(ar) {
 
 h1:lang(zh) { 
     font-weight: 500;
-    font-size: 34px;
-	line-height: 36px;
+    font-size: 60px;
+	line-height: 63px;
   }
 
 h2:lang(zh) { 
     font-weight:  400;
-    font-size: 20px;
-	line-height: 22px;
+    font-size: 50px;
+	line-height: 55px;
   }
 
 h3:lang(zh) { 
@@ -403,11 +401,11 @@ h3:lang(zh) {
   }
 
 p:lang(zh), pre:lang(zh){ 
-    font-weight:  300;
-    font-size: 18px;
-	line-height: 20px;
+    font-weight:  400;
+    font-size: 26px;
+	line-height: 28px;
   }
-
+/* japanese */
 :lang(ja) { 
     font-family: source-han-sans-japanese, sans-serif !important;
     font-style:  normal;
@@ -416,15 +414,15 @@ p:lang(zh), pre:lang(zh){
 	}
 
 h1:lang(ja) { 
-    font-weight:  400;
-    font-size: 34px;
-	line-height: 36px;
+    font-weight:  500;
+    font-size: 60px;
+	line-height: 63px;
   }
 
 h2:lang(ja) { 
     font-weight: 300;
-    font-size: 20px;
-	line-height: 22px;
+    font-size: 50px;
+	line-height: 55px;
   }
 
 h3:lang(ja) { 
@@ -436,11 +434,11 @@ h3:lang(ja) {
 p:lang(ja), pre:lang(ja) { 
     font-weight: 300;
     font-style:  normal;
-    font-size: 18px;
-	line-height: 20px;
+    font-size: 26px;
+	line-height: 28px;
   }     
  
-
+/* korean */
 :lang(ko){ 
     font-family: source-han-sans-korean, sans-serif !important;
     font-style: normal; 
@@ -450,14 +448,15 @@ p:lang(ja), pre:lang(ja) {
 
 h1:lang(ko) { 
     font-weight: 500;
-    font-size: 34px;
-	line-height: 36px;
+    font-size: 60px;
+	line-height: 63px;
+
   }
 
 h2:lang(ko) { 
     font-weight: 300;
-    font-size: 20px;
-	line-height: 22px;
+    font-size: 50px;
+	line-height: 55px;
   }
 
 h3:lang(ko) { 
@@ -469,10 +468,10 @@ h3:lang(ko) {
 p:lang(ko), pre:lang(ko) { 
     font-weight: 200;
     font-style: normal;
-    font-size: 18px;
-	line-height: 20px;
+    font-size: 26px;
+	line-height: 28px;
   }
-
+/* thai */
 :lang(th) { 
     font-family: ibm-plex-thai-looped, sans-serif !important;
     font-style: normal;
@@ -482,14 +481,14 @@ p:lang(ko), pre:lang(ko) {
 
 h1:lang(th) { 
     font-weight:  400;
-    font-size: 34px;
-	line-height: 36px;
+    font-size: 60px;
+	line-height: 63px;
   }
 
 h2:lang(th) { 
     font-weight:  300;
-	font-size: 20px;
-	line-height: 22px;
+	font-size: 50px;
+	line-height: 55px;
   }
 
 h3:lang(th) { 
@@ -500,10 +499,9 @@ h3:lang(th) {
 
 p:lang(th), pre:lang(th) { 
     font-weight:  300;
-    font-size: 18px;
-	line-height: 20px;
+    font-size: 22px;
   }
-
+/* hebrew */
 :lang(he) { 
     font-family: myriad-hebrew, sans-serif; 
     font-style: normal;
@@ -511,18 +509,16 @@ p:lang(th), pre:lang(th) {
     color: black;
 	}
 
-h1 span:lang(he) { 
+h1:lang(he) { 
     font-weight:  400;
-    font-size: 34px;
-	line-height: 36px;
-	text-align:right;
+    font-size: 60px;
+	line-height: 63px;
   }
 
 h2:lang(he) { 
     font-weight:  300;
-    font-size: 20px;
-	line-height: 22px;
-	text-align: right;
+    font-size: 50px;
+	line-height: 55px;
   }  
 
 h3:lang(he) { 
@@ -533,7 +529,7 @@ h3:lang(he) {
 
 pre:lang(he) { 
     font-weight:  300;
-    font-size: 18px;
+    font-size: 22px;
   }
 
 p:lang(he), pre:lang(he) { 
@@ -542,7 +538,7 @@ p:lang(he), pre:lang(he) {
 	text-align: right;
 	direction: rtl;
   }
-
+/* hindi */
 :lang(hi){ 
     font-family: hind-siliguri, sans-serif !important;
     font-style: normal;
@@ -552,15 +548,15 @@ p:lang(he), pre:lang(he) {
 
 h1:lang(hi) { 
     font-weight:  400;
-    font-size: 34px;
-	line-height: 38px;
+    font-size: 60px;
+	line-height: 63px;
 	
   }
 
 h2:lang(hi) {
     font-weight:  300;
-    font-size: 20px;
-	line-height: 22px;
+    font-size: 50px;
+	line-height: 55px;
   }  
 
 h3:lang(hi) { 
@@ -571,10 +567,9 @@ h3:lang(hi) {
 
 p:lang(hi), pre:lang(hi) { 
     font-weight:  300;
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 22px;
   }
-
+/* greek */
 :lang(el){
 	font-family: omnes-greek, sans-serif !important;
 	font-style: normal;
@@ -603,6 +598,38 @@ h3:lang(el) {
 
 p:lang(el), pre:lang(el) { 
     font-weight:  200;
+    font-size: 18px;
+	line-height: 20px;
+  }
+/* georgian */
+:lang(ka){
+	font-family: omnes-georgian, sans-serif !important;
+	font-style: normal;
+    color: black;
+	text-align: left;
+}
+
+h1:lang(ka) { 
+    font-weight:  500;
+    font-size: 34px;
+	line-height: 36px;
+	
+  }
+
+h2:lang(ka) {
+    font-weight:  500;
+    font-size: 20px;
+	line-height: 22px;
+  }  
+
+h3:lang(ka) { 
+    font-weight:  500;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+p:lang(ka), pre:lang(ka) { 
+    font-weight:  500;
     font-size: 18px;
 	line-height: 20px;
   }
