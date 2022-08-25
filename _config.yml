@@ -53,6 +53,8 @@ plugins:
 #   - vendor/ruby/
 
 collections:
+
+  #used to generate the tags for the site
   author_tags:
     layout: 'tagpage'
     output: true # this must be true for your .md pages to be built to html!
@@ -77,8 +79,7 @@ collections:
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
 
-
-
+  #used to generate the poem + note pages for each issue/year
   poems_2022:
     layout: 'poempage'
     output: true # this must be true for your .md pages to be built to html!
@@ -184,6 +185,7 @@ collections:
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
 
+#used to generate the search function across all years of content
 search:
   main:
     index: '/search/index.json' # file the index will get written to
