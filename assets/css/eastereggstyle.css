@@ -137,10 +137,9 @@ p {
 
 .image img{
 	display: inline-block;
-	
 	width: 100%;
 	margin-top: -100px;
-	object-fit: cover;
+	object-fit: contain;
 }
 
 .text {
