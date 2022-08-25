@@ -127,7 +127,7 @@ p {
 }
 
 .image {
-	padding: 0px;
+	padding-bottom: 5px;
 	position: static;
 	float: left;
 	width: 50%;
@@ -137,7 +137,7 @@ p {
 
 .image img{
 	display: inline-block;
-	width: 100%;
+	max-width: 100%;
 	margin-top: -100px;
 	object-fit: contain;
 }
