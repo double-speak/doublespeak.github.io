@@ -137,7 +137,8 @@ p {
 
 .image img{
 	display: inline-block;
-	max-width: 100%;
+	height: 175%;
+	width: 100%;
 	margin-top: -100px;
 	object-fit: cover;
 }
