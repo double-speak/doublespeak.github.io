@@ -42,7 +42,7 @@ layout: default
     <p class="link"><a href="../toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
     <div class="poemtags">
       <ul>
-        <li><a href="../language_tags/{{page.language}}">{{page.language}}</a></li>
+        <li><a href="../language_tags/{{page.language | slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
         <li><a href="../translator_tags/{{page.translator | slugify: 'latin' | replace: '-','_'}}">{{page.translator}}</a></li>
         <li><a href="../author_tags/{{page.author | slugify: 'latin' | replace: '-','_'}}">{{page.author}}</a></li>
       </ul>
