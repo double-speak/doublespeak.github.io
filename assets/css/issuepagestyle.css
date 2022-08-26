@@ -198,6 +198,7 @@ p {
 	height: 95.8%;
 	opacity: 0;
 	transition: 0.3s;
+	text-align: center;
 }
 
 .left-overlay-text {
@@ -226,6 +227,7 @@ p {
 	height: 95.8%;
 	opacity: 0;
 	transition: 0.3s;
+	text-align: center;
 }
 
 .middle-overlay-text {
@@ -252,6 +254,7 @@ p {
 	height: 95.8%;
 	opacity: 0;
 	transition: 0.3s;
+	text-align: center;
 }
 
 .right-overlay-text {

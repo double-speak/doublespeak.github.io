@@ -528,12 +528,6 @@ h3:lang(he) {
 	line-height: 22px;
 }
 
-pre:lang(he) { 
-    font-weight:  300;
-    font-size: 18px;
-	line-height: 20px;
-  }
-
 p:lang(he), pre:lang(he) { 
     font-weight:  300;
     font-size: 18px;
