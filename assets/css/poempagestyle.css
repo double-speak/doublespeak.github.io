@@ -83,7 +83,7 @@ h2 {
 	line-height: 22px;
 	color: black;
 	text-align: left;
-	margin-left: 40px;
+/*	margin-left: 40px;*/
 }
 
 h3 {
@@ -109,8 +109,8 @@ pre {
 	color: black;
 	margin-top: 0px;
 	margin-bottom: 30px;
-	margin-left: 40px;
-	margin-right: 40px;
+/*	margin-left: 40px;
+	margin-right: 40px;*/
 }
 
 p {
@@ -249,6 +249,8 @@ p strong {
 	margin: 0px auto 0 auto;
 	display:flex;
 	flex-wrap: wrap;
+	justify-content:center;
+	gap:20px;
 }
 
 .ogtitle {
@@ -263,17 +265,19 @@ p strong {
 }
 
 .poemtitle {
-	margin-left: 40px;
-	margin-right: 40px;
+/*	margin-left: 40px;
+	margin-right: 40px;*/
 }
 .ogpoem {
-	min-width: 25rem;
-	flex-basis:48%;
+/*	min-width: 25rem;*/
+	width:max-content;
+	flex-basis:25%;
 }
 
 .transpoem {
-	min-width: 25rem;
-	flex-basis:48%;
+/*	min-width: 25rem;*/
+	width:max-content;
+	flex-basis:25%;
 }
 
 .note {
