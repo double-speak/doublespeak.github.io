@@ -126,27 +126,23 @@ p {
 	height: 57%;
 }
 
-.image {
-	padding: 0px;
+.imagefun {
+	padding-bottom: 5px;
 	position: static;
 	float: left;
 	width: 50%;
-	border-right: solid black 1px;
 	overflow: hidden;
 }
 
-.image img{
+.imagefun img{
 	display: inline-block;
-	height: 175%;
 	width: 100%;
-	margin-top: -100px;
-	object-fit: cover;
+	object-fit: contain;
 }
 
 .text {
 	padding: 0px;
 	width: 50%;
-	border: solid-black 1px;
 }
 
 .text-p {
@@ -157,9 +153,9 @@ p {
 .caption {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
-	font-style: normal;
-	font-size: 14px;
-	line-height: 16px;
+	font-style: italic;
+	font-size: 18px;
+	line-height: 20px;
 }
 
 /* language code */
