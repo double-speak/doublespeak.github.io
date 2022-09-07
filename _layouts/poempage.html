@@ -97,10 +97,21 @@ layout: default
 
     {% for pg in site.data[path] %}
 
-         {% if forloop.index == previousIndex %}
+
+        {% if forloop.index == 1 %}
+          {% assign previousPage = "ednote" | append: page.edition %}
+
+        {% endif %}
+
+        {% if forloop.index == previousIndex and pg.pagetype != "musing" and pg.pagetype != "interview" %}
           {% assign previousPage = pg.pid %}
 
+        {% endif %}
 
+        {% if forloop.index == previousIndex and pg.pagetype == "musing" or pg.pagetype == "interview" %}
+
+          {% assign skipIndex = previousIndex | minus: 1 %}
+          {% assign fixpath = "poems" %}
         {% endif %}
       
         {% if forloop.index == nextIndex %}
@@ -108,10 +119,23 @@ layout: default
         {% endif %}
     {% endfor %}
   
+     {% for pg in site.data[path] %}
+      {% if forloop.index == skipIndex %}
+        {% assign previousPage = pg.pid %}
+      {% endif %}
+    {% endfor %}
+
+  {% if previousPage contains "ednote" %}
+    <div class="previouslink">
+      <p class="link"><a href="{{site.url}}/frontmatter/{{previousPage}}"> < &nbsp;previous</a></p>
+    </div>
+    {% else %}
 
   <div class="previouslink">
     <p class="link"><a href="{{site.url}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
   </div>
+{% endif %}
+
 
   <div class="nextlink">
   {% if page.pagetype == "musing" or page.pagetype == "interview" %}
