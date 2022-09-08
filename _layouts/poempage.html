@@ -110,15 +110,11 @@ layout: default
 
         {% if forloop.index == previousIndex and forloop.index != 1 and pg.pagetype == "musing" or pg.pagetype == "interview" %}
           {% assign previousPage = pg.pid %}
-          {% assign fixpath = "poems_2022_/" %}
+          {% assign fixpath = "poems_" %}
         {% endif %}
       
         {% if forloop.index == nextIndex %}
           {% assign nextPage = pg.pid %}
-        {% endif %}
-
-        {% if forloop.last %}
-          {% assign nextPage = "copyright" | append: page.edition %}
         {% endif %}
 
     {% endfor %}
@@ -146,9 +142,6 @@ layout: default
   <div class="nextlink">
   {% if page.pagetype == "musing" or page.pagetype == "interview" %}
       <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
-
-  {% elsif nextPage contains "copyright" %}
-      <p class="link"><a href="{{site.url}}/frontmatter/{{nextPage}}"> next &nbsp; ></a></p>
 
   {% else %}
   
