@@ -69,7 +69,7 @@ translaudio: |
       frameborder="0"
       width="375"
       height="65"
-      src="https://drive.google.com/file/d/14pqSmxK1U7dpQw0m8KqhFKlNVyu-Zmqq/preview”>
+      src="https://drive.google.com/file/d/14pqSmxK1U7dpQw0m8KqhFKlNVyu-Zmqq/preview">
     </iframe>
   </div>
 edition: '2022'
