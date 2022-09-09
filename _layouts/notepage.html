@@ -82,7 +82,8 @@ layout: default
 
       {% if pg.pid == page.pid %}
 
-          {% assign nextIndex = forloop.index %}
+          {% assign nextIndex = forloop.index | plus: 1 %}
+          {% assign thisIndex = forloop.index %}
         {% endif %}
       {% assign endLength = forloop.length %}
 
@@ -104,7 +105,7 @@ layout: default
     <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
   </div>
     <div class="nextlink">
-    {% if nextIndex == endLength %}
+    {% if thisIndex == endLength %}
       <p class="link"><a href="{{site.url}}/frontmatter/copyright{{page.edition}}">next &nbsp; ></a></p>
     {% else %}
       <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
