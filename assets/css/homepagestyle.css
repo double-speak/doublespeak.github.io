@@ -148,7 +148,7 @@ p {
 .currentissue-overlay {
 	position: absolute;
 	background-color: black;
-	width: 40vw;
+	width: 500px;
 	height: 57%;
 	opacity: 0;
 	transition: 0.3s;
