@@ -29,7 +29,7 @@ note: |-
   <p>The translation process was quite difficult, especially because I had to decide between translating literally or changing the phrasing of the original. With the former, I risked losing coherence and creating confusion, while with the latter, I risked losing Gautier’s intended meaning. I tried my best to find the most accurate translations of the diction and idioms employed in the original work. Thus, the actual translation of the work is not the source of difficulty, especially if one is familiar with French, but the real problem arises from efforts to capture the ideas and meanings originally conveyed by Gautier. In order to do so, one must be precise in one’s use of language and make sure that changes of phrasing do not result in an alternative interpretation of the text. I feel great about this translation as I believe I communicated the original meanings and themes expressed in Gautier’s “Sonnet 1.”</p>
 abio: |-
   <p>Théophile Gautier (1811–1872) was a journalist, art critic, and novelist, but most importantly, he was a poet. Living in Paris for most of his life, he spent much of his time pondering the nuanced and free-flowing nature of the arts, especially paintings and architecture. However, after attending Collège Charlemagne, he became an early proponent of Romanticism and, accordingly, turned to poetry, publishing his first poetry collection, <em>Poésies</em>, in 1830.
-  <em>Poésies</em> is one of his most notable works, despite its being primarily an attempt to imitate other, more established Romantic poets, such as Victor Hugo. In the forty-two-poem collection, which includes “Sonnet 1,” Gautier displays his artistic prowess through variation of verse forms, vivid imagery, and sound internal reflection. “Sonnet 1,” in particular, was written by Gautier at the height of Romanticism, and therefore presents a synthesis of several themes present during the movement, such as supernaturalism, the sublime, and Hellenism. Interestingly, after the publication of <em>Poésies</em>, Gautier once more shifted his artistic stance. Rather than the utilitarian artistic philosophy of Romanticism, he came to prefer the more aesthetic artistic philosophy of <em>art pour l’art</em> or “art for art’s sake.” Nevertheless, Gautier is one of the best poets of his time and his voice deserves to be heard by all, irrespective of language </p>
+  <em>Poésies</em> is one of his most notable works, despite its being primarily an attempt to imitate other, more established Romantic poets, such as Victor Hugo. In the forty-two-poem collection, which includes “Sonnet 1,” Gautier displays his artistic prowess through variation of verse forms, vivid imagery, and sound internal reflection. “Sonnet 1,” in particular, was written by Gautier at the height of Romanticism, and therefore presents a synthesis of several themes present during the movement, such as supernaturalism, the sublime, and Hellenism. Interestingly, after the publication of <em>Poésies</em>, Gautier once more shifted his artistic stance. Rather than the utilitarian artistic philosophy of Romanticism, he came to prefer the more aesthetic artistic philosophy of <em>art pour l’art</em> or “art for art’s sake.” Nevertheless, Gautier is one of the best poets of his time and his voice deserves to be heard by all, irrespective of language. </p>
 tbio: "<p>Shiven Sharma is a senior in the School of Arts and Sciences at the University
   of Pennsylvania who is majoring in biology and minoring in French studies. He enjoys
   reading twentieth-century French literature from postmodern novelists, such as Albert
@@ -40,12 +40,12 @@ tbio: "<p>Shiven Sharma is a senior in the School of Arts and Sciences at the Un
   Roman Catholic Church on the Quebecois sociocultural climate.</p>"
 language: French
 lang: fr
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '11'

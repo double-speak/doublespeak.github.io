@@ -56,12 +56,12 @@ tbio: "<p>David F. Ting recently completed his pre-medical post-bacc program at 
   cinema musings on Letterboxd, where you can find him under the name <em>Lichtzwang</em>.</p>"
 language: German
 lang: de
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '24'

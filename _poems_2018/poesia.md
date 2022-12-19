@@ -174,7 +174,7 @@ tbio: "<p>I am an Italian PhD student in economics. I have studied t at Rome, Tu
   political thought. In these fields I am just an happy amateur and an avid reader.</p>\n"
 language: Italian
 lang: it
-image: "../assets/images/images_18/pascoli.JPG"
+image: "/assets/images/images_18/pascoli.JPG"
 image2:
 imagecredit: photo by Taije Silverman
 imagecredit2:

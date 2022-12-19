@@ -44,12 +44,12 @@ tbio: "<p>Carla Rossi graduated with a degree in conference interpreting from th
   her to teach English worldwide.</p>"
 language: Italian
 lang: it
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '20'

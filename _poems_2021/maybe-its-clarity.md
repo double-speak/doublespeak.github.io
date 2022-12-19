@@ -110,7 +110,7 @@ tbio: |-
   <p>John Sherer is a writer based in Brooklyn. His poems, essays, and reviews have appeared in <em>The Point</em>, <em>Hot Metal Bridge</em>, <em>Botticelli Magazine</em>, <em>Hyperallergic</em>, and <em>Gulf Coast</em>. He is the poetry editor of the <em>Festival Review</em>.</p>
 language: Italian
 lang: it
-image: "../assets/images/images_21/vignali.jpeg"
+image: "/assets/images/images_21/vignali.jpeg"
 imagecredit: photo by a <em>DoubleSpeak</em> staffer
 origaudio: |+
   <div>
@@ -175,5 +175,4 @@ pagetype: submission
 order: '28'
 layout: poempage
 collection: poems_2021
-...
 ---

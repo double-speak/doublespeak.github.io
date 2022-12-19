@@ -51,12 +51,12 @@ tbio: |-
   <p>He currently works in marketing and fundraising for a non-profit news organization, The GroundTruth Project, which supports emerging journalists to tell under-covered stories around the world.</p>
 language: Arabic
 lang: ar
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '23'

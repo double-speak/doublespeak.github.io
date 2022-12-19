@@ -4,34 +4,22 @@ title: Extraits de <em>Va où</em>
 transtitle: Excerpts from <em>Va où</em>
 author: Valérie Rezeau
 translator: Malika Kadyrova
-poem: |-
-  Quand je passerai je voudrais bien avoir de ma vie fait mon tour
-  Aimé aimé gratuitement passionnément et pas du tout aimé sans fin jusques au bout
-  Et encore maintenant toujours
-  Pour quand je m’en irai dormir comme il faut je rêve tous les rêves
-  J’envisage toutes les figures qu’elles rient rondes ou carrées ou pleuvent
-
-  ~
-
-  Je me défends parce que je ne suis pas dure
-  Je me défends pour toi moi nous vous ils
-  Tout ce qui tire sur ma corde sensible pour me secouer
-  J’ai fait la liste des choses à oublier nous ne manquerons de rien
-  Les cloches pourront sonner au cou de la vie vache nous aurons le vin fou nous aurons le temps gai
-transpoem: |-
-  When I go I’d like to have had my turn at my life
-  Loved to have loved freely passionately and not at all to have loved endlessly to the end
-  And still holding forever
-  Since when I leave to go to bed as I should I dream all the dreams
-  I picture all the faces they’re laughing round square or raining
-
-  ~
-
-  I fight back because I am not tough
-  I fight back for you me us you they
-  Everything that pushes pulls on my heartstrings to undo me
-  I’ve made a list of things to forget we’ll want for nothing
-  The bells can ring on this dog’s life we’ll have our fool’s wine we’ll have a good time
+poem: "Quand je passerai je voudrais \nbien avoir de ma vie fait mon tour\nAimé aimé
+  gratuitement passionnément \net pas du tout aimé sans fin jusques au bout\nEt encore
+  maintenant toujours\nPour quand je m’en irai dormir \ncomme il faut je rêve tous
+  les rêves\nJ’envisage toutes les figures qu’elles \nrient rondes ou carrées ou pleuvent\n\n~\n\nJe
+  me défends parce \nque je ne suis pas dure\nJe me défends pour toi \nmoi nous vous
+  ils\nTout ce qui tire sur ma \ncorde sensible pour me secouer\nJ’ai fait la liste
+  des choses \nà oublier nous ne manquerons de rien\nLes cloches pourront sonner \nau
+  cou de la vie vache nous \naurons le vin fou nous aurons le temps gai"
+transpoem: "When I go I’d like to have \nhad my turn at my life\nLoved to have loved
+  freely passionately and not at all \nto have loved endlessly to the end\nAnd still
+  holding forever\nSince when I leave to go to bed as \nI should I dream all the dreams\nI
+  picture all the faces they’re laughing \nround square or raining\n\n~\n\nI fight
+  back because I am not tough\nI fight back for you me us you they\nEverything that
+  pushes pulls on my heartstrings \nto undo me\nI’ve made a list of things \nto forget
+  we’ll want for nothing\nThe bells can ring on this dog’s life \nwe’ll have our fool’s
+  wine we’ll have a good time"
 note: |-
   <p>I have chosen particularly short excerpts here; these five-line extracts are tiny roller-coasters, especially considering Rouzeau’s tendency to forgo punctuation in order to create overlapping phrases within phrases. An interesting moment for me was in grappling with Rouzeau’s bells that could “sonner au cou de la vie vache.”  I had initially seen the bells as ringing “until the cows come home,” although that didn’t fully encompass the misery of <em>la vie vache</em>, which then became “a dog’s life.”</p>
   <p><em>Va où</em> is a sprawling collection, and I am slowly translating and retranslating my way through it. I find that the poems hit me at a different angle every time and I find myself grasping them at different ends, which accounts for my sense of the <em>maintenant</em> in “encore maintenant toujours” as being closer – for me – to “holding” than “now.”</p>

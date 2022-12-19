@@ -80,7 +80,7 @@ tbio: "<p>Yehudith Dashevsky is a junior studying English, Russian, and Hebrew l
   distinctive and unique use of language.”</p>"
 language: Russian
 lang: ru
-image: "../assets/images/images_18/ahkmatova.JPG"
+image: "/assets/images/images_18/ahkmatova.JPG"
 image2:
 imagecredit: photo by Daila Wolfson
 imagecredit2:

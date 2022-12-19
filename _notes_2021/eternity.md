@@ -68,8 +68,8 @@ tbio: "<p>Keshav Sharma is a freshman at Queen’s University in Kingston, Ontar
   all languages have universal similarities and it is simply up to us to uncover them.</p>"
 language: French
 lang: fr
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1ucgCY-VYJw1nD2IqyRxsSLnKHbNnV-fE/preview\">\n
   \ </iframe>\n</div>\n"

@@ -46,12 +46,12 @@ tbio: "<p>Quinn Gruber (C’22) studies English and Italian Literature at the Un
   go on long walks. If you have a spare copy of an Italian dictionary, let them know.</p>"
 language: Italian
 lang: it
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '10'

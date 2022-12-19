@@ -51,12 +51,12 @@ tbio: "<p>Kejia Wang graduated from Penn in 2016 with a BSE in bioengineering an
   since 2014.</p>"
 language: Chinese
 lang: zh
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '13'

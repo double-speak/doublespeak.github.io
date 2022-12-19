@@ -88,7 +88,7 @@ tbio: "<p>Carla Rossi is an exchange student from Italy studying at Penn this sp
   Italian poets being studied abroad.</p>"
 language: Italian
 lang: it
-image: "../assets/images/images_17/ungaretti_rossi.JPG"
+image: "/assets/images/images_17/ungaretti_rossi.JPG"
 image2:
 imagecredit: photo by a <i>DoubleSpeak</i> staffer
 imagecredit2:

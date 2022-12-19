@@ -38,8 +38,8 @@ note: '<p>I love this short poem by Li Yuansheng because it reminds me of my own
   poet in China, but his poetry collections have not yet been translated into English.
   I hope that my translation will make more people interested in reading Li’s poems.</p>'
 abio: |-
-  <p>Li Yuansheng was born in Wusheng County, Sichuan Province, where poetry is deeply rooted in the local culture and life. Li graduated from Chongqing University in 1983. After graduation, he worked as the general editor for the <i>Chongqing Daily</i>. In 2015, Li worked for the Chongqing Writers Association and became a professional poet and writer at the Chongqing Academy of Literature.</p>
-  <p>Li began writing poems when he was still in university. He is now the vice chairman of the Chongqing Writers Association and a member of the poetry committee of the China Writers Association. He has published four poetry collections, all of them in Chinese. He has been awarded the People Literature Prize. In 2014, Li was awarded China’s most prestigious Lu Xun Literature Prize for his poetry collection <i>Endless Things</i>.</p>
+  <p>Li Yuansheng was born in Wusheng County, Sichuan Province, where poetry is deeply rooted in the local culture and life. Li graduated from Chongqing University in 1983. After graduation, he worked as the general editor for the <em>Chongqing Daily</em>. In 2015, Li worked for the Chongqing Writers Association and became a professional poet and writer at the Chongqing Academy of Literature.</p>
+  <p>Li began writing poems when he was still in university. He is now the vice chairman of the Chongqing Writers Association and a member of the poetry committee of the China Writers Association. He has published four poetry collections, all of them in Chinese. He has been awarded the People Literature Prize. In 2014, Li was awarded China’s most prestigious Lu Xun Literature Prize for his poetry collection <em>Endless Things</em>.</p>
 tbio: "<p>Yi Feng is a scholar, translator and associate professor at Northeastern
   University, China. She was a visiting scholar at the University of Pennsylvania
   in 2016. Since then, she has published poems. Her English poems were published in
@@ -51,12 +51,12 @@ tbio: "<p>Yi Feng is a scholar, translator and associate professor at Northeaste
   by Poetry” in an International Chinese Poetry Competition in 2017.</p>"
 language: Chinese
 lang: zh
-image: "../assets/images/images_19/yuansheng.jpg"
-image2:
+image: "/assets/images/images_19/yuansheng.jpg"
+image2: 
 imagecredit: photo by Yi Feng
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '12'

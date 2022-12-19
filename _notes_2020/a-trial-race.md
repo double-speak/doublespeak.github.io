@@ -74,12 +74,12 @@ tbio: "<p>Dan Ben-Amos teaches folklore at the University of Pennsylvania. He ea
   appeared in <em>Jewish Review of Books</em> and <em>Moment</em>.</p>"
 language: Hebrew
 lang: he
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '12'

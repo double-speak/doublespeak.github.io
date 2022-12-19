@@ -4,32 +4,33 @@ title: <span lang="zh">《野草》题辞 </span>
 transtitle: Wild Grass
 author: Lu Xun
 translator: Chardonnay Needler
-poem: "当我沉默着的时候，我觉得充实；我将开口，同时感到空虚 。 \n\r\n过去的生命已经死亡。我对于这死亡有大欢喜，因为我借此知道它曾经存活。死亡的生命已经朽腐。我对于这朽腐有大欢喜，因为我借此知道它还非空虚。
-  \r\n生命的泥委弃在地面上，不生乔木，只生野草，这是我的罪过。 \n\r\n野草，根本不深，花叶不美，然而吸取露，吸取水，吸取陈死人的血和肉，各各夺取它的生存。当生存时，还是将遭践踏，将遭删刈，直至于死亡而朽腐。
-  \r\n但我坦然，欣然。我将大笑，我将歌唱。 \n\r\n我自爱我的野草，但我憎恶这以野草作装饰的地面。 \n\r\n地火在地下运行，奔突；熔岩一旦喷出，将烧尽一切野草，以及乔木，于是并且无可朽腐。但我坦然，欣然。我将大笑，我将歌唱。
-  \n\r\n天地有如此静穆，我不能大笑而且歌唱。天地即不如此静穆，我或者也将不能。我以这一丛野草，在明与暗，生与死，过去与未来之际，献于友与仇，人与兽，爱者与不爱者之前作证。
-  \n\r\n为我自己，为友与仇，人与兽，爱者与不爱者，我希望这野草的死亡与朽腐，火速到来。要 不然，我先就未曾生存，这实在比死亡与朽腐更其不幸。 \r\n去罢，野草，连着我的题辞！"
-transpoem: "When I’m quiet, I feel complete; I then open my mouth, simultaneously
-  feeling empty. \n\nThe past life has already died. With respect to its death, I
-  am overjoyed, for from its death I know that it once was alive. \n\nThis dead life
-  has already rotted. With respect to its decomposition, I am overjoyed, as from its
-  rotting I know that it has not been empty. \nThe sludge of life drips on the earth,
-  but it doesn’t nourish forests, only bears wild grass, this is my fault. \n\nWild
-  grass — doesn’t run deep, doesn’t have pretty flowers or leaves, but rather sucks
-  up dew, sucks up water, sucks up old remains of the blood and flesh of the dead,
-  each form trying to take life from it. \n\nWhen it was living, it’d be tread upon
-  and cut down until it’d die and rot. \n\nBut I’m at ease, happy. I’ll laugh, I’ll
-  sing. \n\nI love my wild grass, but I scorn this ground that’s adorned in wild grass.\n
-  \nThe fires under the earth are moving, running wild; once the fire erupts, it will
-  consume all the wild grass and the tall trees, such that nothing will be left to
-  rot. \n\nBut I’m at ease, happy. I’ll laugh, I’ll sing.\n \nHeaven and earth are
-  so silent, and so I can’t laugh or sing. \n\nIf heaven and earth weren’t so silent,
-  I probably still couldn’t do these things. \n\nI — caught between light and darkness,
-  life and death, past and present — dedicate as a testimony this bunch of wild grass
-  to friends and enemies, man and beast, those I love and those I don’t love. \n\nFor
-  myself, for friends and enemies, man and beast, those I love and those I do not:
-  I hope this wild grass’ destruction and decay come quickly. If not, I will not have
-  lived at all; this, in actuality, is even more pitiful than dying and decaying.
+poem: "当我沉默着的时候，我觉得充实；\n我将开口，同时感到空虚 。 \n\n过去的生命已经死亡。我对于这死亡有大欢喜，\n因为我借此知道它曾经存活。\n死亡的生命已经朽腐。我对于这朽腐有大欢喜，\n因为我借此知道它还非空虚。
+  \n生命的泥委弃在地面上，不生乔木，\n只生野草，这是我的罪过。 \n\n野草，根本不深，花叶不美，\n然而吸取露，吸取水，\n吸取陈死人的血和肉，\n各各夺取它的生存。\n当生存时，还是将遭践踏，\n将遭删刈，直至于死亡而朽腐。
+  \n但我坦然，欣然。\n我将大笑，我将歌唱。 \n\n我自爱我的野草，\n但我憎恶这以野草作装饰的地面。 \n\n地火在地下运行，奔突；\n熔岩一旦喷出，将烧尽一切野草，\n以及乔木，于是并且无可朽腐。\n但我坦然，欣然。我将大笑，我将歌唱。
+  \n\n天地有如此静穆，我不能大笑而且歌唱。\n天地即不如此静穆，我或者也将不能。\n我以这一丛野草，在明与暗，生与死，\n过去与未来之际，献于友与仇，人与兽，\n爱者与不爱者之前作证。
+  \n\n为我自己，为友与仇，\n人与兽，爱者与不爱者，\n我希望这野草的死亡与朽腐，火速到来。\n要不然，我先就未曾生存，\n这实在比死亡与朽腐更其不幸。 \n去罢，野草，连着我的题辞！"
+transpoem: "When I’m quiet, I feel complete; \nI then open my mouth, \nsimultaneously
+  feeling empty. \n\nThe past life has already died. \nWith respect to its death,
+  \nI am overjoyed, \nfor from its death I know \nthat it once was alive. \n\nThis
+  dead life has already rotted. \nWith respect to its decomposition, \nI am overjoyed,
+  as from its rotting \nI know that it has not been empty. \nThe sludge of life drips
+  on the earth, \nbut it doesn’t nourish forests, \nonly bears wild grass, this is
+  my fault. \n\nWild grass — doesn’t run deep, \ndoesn’t have pretty flowers or leaves,
+  \nbut rather sucks up dew, sucks up water, \nsucks up old remains of the blood and
+  flesh of the dead, \neach form trying to take life from it. \n\nWhen it was living,
+  \nit’d be tread upon and \ncut down until it’d die and rot. \n\nBut I’m at ease,
+  happy. \nI’ll laugh, I’ll sing. \n\nI love my wild grass, \nbut I scorn this ground
+  \nthat’s adorned in wild grass.\n \nThe fires under the earth are moving, running
+  wild; \nonce the fire erupts, \nit will consume all the wild grass and the tall
+  trees, \nsuch that nothing will be left to rot. \n\nBut I’m at ease, happy. \nI’ll
+  laugh, I’ll sing.\n \nHeaven and earth are so silent, \nand so I can’t laugh or
+  sing. \n\nIf heaven and earth weren’t so silent, \nI probably still couldn’t do
+  these things. \n\nI — caught between light and darkness, life and death, \npast
+  and present — dedicate as a testimony \nthis bunch of wild grass \nto friends and
+  enemies, \nman and beast, \nthose I love and those I don’t love. \n\nFor myself,
+  for friends and enemies, \nman and beast, \nthose I love and those I do not: \nI
+  hope this wild grass’ destruction and decay come quickly.\nIf not, I will not have
+  lived at all; this, in actuality, \nis even more pitiful than dying and decaying.
   \n\nGo now, wild grass, along with my epigraph!"
 note: |-
   <p>I debated a lot about whether or not to change the punctuation to something more widely accepted (no run ons, fragments, etc.), but to honor Lu Xun and his legacy of spearheading the vernacular movement in the early twentieth century, I figured I should make it as conversational as possible. This meant preserving — for the most part — fragments and unorthodox comma rules, as well as keeping vocabulary and sentence structures at a very colloquial level. His poem is very conversational, and thus I opted for the use of contractions, such as “I’ll” instead of “I shall” or even “I will” for <span lang= "zh">我将</span>, among others.</p>
@@ -50,19 +51,25 @@ tbio: "<p>Chardonnay Needler is just a scatterbrained person who likes languages
   original language.</p>"
 language: Chinese
 lang: zh
-image:
-imagecredit:
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1ueih_DElFy7tBYd5R0OC5mY6xjx-UbOQ/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: |
+image: 
+imagecredit: 
+origaudio: |-
   <div>
 
     <iframe
       frameborder="0"
       width="375"
       height="65"
-      src="https://drive.google.com/file/d/1kM4gbCDQbaTjVUQ7P7Xmtfn_098r6MxP/preview">
+      src="https://drive.google.com/file/d/1gBCPCGzgkaXCVEh--cLSlePrEa1SQd2h/preview">
+    </iframe>
+  </div>
+translaudio: |
+  <div>
+    <iframe
+      frameborder="0"
+      width="375"
+      height="65"
+      src="https://drive.google.com/file/d/1V-M4i0Hc_C9gBcSkhzLL0Hj5APuyB8mZ/preview">
     </iframe>
   </div>
 edition: '2021'

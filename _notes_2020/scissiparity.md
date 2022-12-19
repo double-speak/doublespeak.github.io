@@ -287,12 +287,12 @@ tbio: "<p>I am a graduate student in the Comparative Literature and Literary The
   of the Useful</em>.</p>"
 language: French
 lang: fr
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '09'

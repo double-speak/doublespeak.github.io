@@ -1,0 +1,36 @@
+{% assign path = "poems_" | append: page.edition %}
+
+  {% for pg in site.data[path] %}
+
+      {% if pg.pid == page.pid %}
+
+          {% assign previousIndex = forloop.index | minus: 1 %}
+
+          {% assign nextIndex = forloop.index | plus: 1 %}
+        {% endif %}
+
+    {% endfor %}
+
+    {% for pg in site.data[path] %}
+
+
+        {% if forloop.index == 1 %}
+          {% assign previousPage = "ednote" | append: page.edition %}
+
+        {% endif %}
+
+        {% if forloop.index == previousIndex and pg.pagetype != "musing" and pg.pagetype != "interview" %}
+          {% assign previousPage = pg.pid %}
+
+        {% endif %}
+
+        {% if forloop.index == previousIndex and forloop.index != 1 and pg.pagetype == "musing" or pg.pagetype == "interview" %}
+          {% assign previousPage = pg.pid %}
+          {% assign fixpath = "poems_" %}
+        {% endif %}
+      
+        {% if forloop.index == nextIndex %}
+          {% assign nextPage = pg.pid %}
+        {% endif %}
+
+    {% endfor %}

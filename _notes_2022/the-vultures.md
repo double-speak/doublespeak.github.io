@@ -68,8 +68,8 @@ language: French
 lang: fr
 image: none
 image2: none
-imagecredit:
-imagecredit2:
+imagecredit: 
+imagecredit2: 
 origaudio: |-
   <div>
 
@@ -91,7 +91,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '05'
 layout: notepage
 collection: notes_2022

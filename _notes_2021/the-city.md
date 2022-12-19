@@ -4,55 +4,57 @@ title: Byen
 transtitle: The City
 author: Sigbjørn Obstfelder
 translator: Jordan Barger
-poem: "Jeg bor i fjeldet. I uger har jeg ikke set et menneske, ikke hørt min egen
-  røst. Jeg hører mig selv tænke, mens tjernet skvulper. \nRøde skyer drager forbi.
-  Det mørknes, fjeldvandet blir sort, lommen skriger. \nDer farer en angst igjennem
-  mig. Hvor er de nu alle? Hvad gjør de? Lever de end nu? Lever mine brødre, menneskene?\nOg
-  fjeldet blir pludselig så isnende koldt. Det har intet hjerte. \nJeg må ned, bag
-  den borteste blåne, søndenfor de brede sletter, der hvor hjerter slår, der hvor
-  tusender hjerter slår i kor. \nJeg iler til dalen, jeg gjemmer mig i kupeen. Hele
-  natten pruster jernvognen, lyner afsted i mulm og mørke, gjennem lange, dybe dale,
-  over brede sletter. \nNæste aften står jeg på den stenlagte gade. Der er ingen
-  skog lenger, men huse og huse og vinduer, ingen sus gjennem blade, men surren af
-  vogne, larm af utallige fødder. \nLangt borte hører jeg et forfærdeligt skrig. Hvem
-  lider? \nJeg løber efter skriget. Og jeg hører ud fra åbne vinduer en brølende
-  røst: \n«Forfærdes, I mænd og kvinder, I rådne kar, Eders skiddenhed er værre end
-  øglers, Eders synder er utallige som havets sand. – – \nAngst løber jeg videre.
-  Jeg kømmer forbi et hus, hvor der er mange mennesker. Jeg ser dem sidde langs væggene,
-  de snakker ikke til hinanden, de smiler ikke til hinanden. \nOg jeg blir mer og
-  mer angst. Jeg kømmer forbi dansebuler med mænd og kvinder, der sparker hinanden
-  tilblods. \nEr dette mine brødre, menneskene? \nJeg løber videre og videre. Jeg
-  blir mere og mere angst. Ingen taler til hinanden, ingen smiler til hinanden. De
-  farer afsted, som var de piskede, og ud fra de små huse hører jeg gråt og hulken,
-  bag mig gråter det, gråter, gråter… \nOg omsider går det op før mig, omsider
-  ser jeg det: De er vanvittige, de piskes af sin egen skygge. Og jeg ser mig om,
-  jeg ser på deres øine, deres miner, deres ilen og løben: \nJa, de er vanvittige,
-  de er vanvittige. "
-transpoem: "I live in the mountain. I have not seen another person in weeks, nor heard
-  my own voice. While the pond ripples I can hear myself think.\nRed clouds pass by.
-  The sky darkens, the mountain water blackens, the loon cries.\nFear spreads through
-  me. Where are they now? What are they doing? Are they still alive? Are my brothers
-  still living, anybody?\nAnd the mountain suddenly becomes icy cold. Its heart is
-  gone.\nI must go down, back to the blue horizon, southward where the plains stretch
-  out, where beating hearts reside, where a thousand hearts beat in chorus.\nI spring
-  down the valley, I hide myself away in a compartment. The wagon creaks the whole
-  night, lightning strikes off in the gloom and darkness, the plains stretch across
-  the deep, long valley.\nThe next evening, I stand in the cobblestone street. There
-  is no longer a forest, but windows and house after house, no whistling through the
-  leaves, just the buzz of carts, the noise of countless feet.\nFar off, I hear a
-  terrible scream. Who is that suffering?\nI run after the scream. And from the open
-  windows, I hear a roaring voice:\n‘Terrible! You men and women, you rotten people,
-  you are filthier than lizards. Your sins are as countless as sand on the beach.’
-  – –\nI run on in fear. I go past a house filled with people. I see them sitting
-  along the walls, they do not speak to each other, they do not smile at each other.\nAnd
-  I am filled with more and more fear. I go past a dance-joint teeming with men and
-  women, kicking each other bloody.\nAre these my brothers, these people?\nI ran farther
-  and farther. I am filled with more and more fear. They do not speak to each other;
-  they do not smile at each other. They flit about as if whipped, and from a small
-  house I hear crying and sobbing, behind me they are crying, crying, crying…\nAnd
-  at last this all wells up inside me, at last I say: ‘They are mad! They are whipped
-  by their own shadow!’ I look them in the eye, see their expressions, see them rushing
-  and running about, and I say to myself: \n‘Yes, they are mad, they are mad!’"
+poem: "Jeg bor i fjeldet. \nI uger har jeg ikke set et menneske, \nikke hørt min egen
+  røst. \nJeg hører mig selv tænke, \nmens tjernet skvulper. \nRøde skyer drager forbi.
+  \nDet mørknes, \nfjeldvandet blir sort, lommen skriger. \nDer farer en angst igjennem
+  mig. \nHvor er de nu alle? Hvad gjør de? \nLever de end nu? Lever mine brødre, \nmenneskene?\nOg
+  fjeldet blir pludselig så isnende koldt. \nDet har intet hjerte. \nJeg må ned,
+  bag den borteste blåne, \nsøndenfor de brede sletter, \nder hvor hjerter slår,
+  \nder hvor tusender hjerter slår i kor. \nJeg iler til dalen, \njeg gjemmer mig
+  i kupeen. \nHele natten pruster jernvognen, \nlyner afsted i mulm og mørke, \ngjennem
+  lange, dybe dale, \nover brede sletter. \nNæste aften står jeg på den stenlagte
+  gade. \nDer er ingen skog lenger, \nmen huse og huse og vinduer, \ningen sus gjennem
+  blade, \nmen surren af vogne, \nlarm af utallige fødder. \nLangt borte hører jeg
+  et forfærdeligt skrig. \nHvem lider? \nJeg løber efter skriget. \nOg jeg hører ud
+  fra åbne \nvinduer en brølende røst: \n«Forfærdes, I mænd og kvinder, \nI rådne
+  kar, Eders skiddenhed \ner værre end øglers, \nEders synder er utallige \nsom havets
+  sand. – – \nAngst løber jeg videre. \nJeg kømmer forbi et hus, \nhvor der er mange
+  mennesker. \nJeg ser dem sidde langs væggene, \nde snakker ikke til hinanden, \nde
+  smiler ikke til hinanden. \nOg jeg blir mer og mer angst.\nJeg kømmer forbi dansebuler
+  \nmed mænd og kvinder, \nder sparker hinanden tilblods. \nEr dette mine brødre,
+  menneskene? \nJeg løber videre og videre. \nJeg blir mere og mere angst. \nIngen
+  taler til hinanden, \ningen smiler til hinanden. \nDe farer afsted, som var de piskede,
+  \nog ud fra de små huse hører \njeg gråt og hulken,\nbag mig gråter det, gråter,
+  gråter… \nOg omsider går det op før mig, \nomsider ser jeg det: \nDe er vanvittige,
+  \nde piskes af sin egen skygge. \nOg jeg ser mig om, \njeg ser på deres øine, \nderes
+  miner, deres ilen og løben: \nJa, de er vanvittige, de er vanvittige. "
+transpoem: "I live in the mountain. \nI have not seen another person in weeks, \nnor
+  heard my own voice. \nWhile the pond ripples I can hear myself think.\nRed clouds
+  pass by. \nThe sky darkens, \nthe mountain water blackens, the loon cries.\nFear
+  spreads through me. \nWhere are they now? What are they doing? \nAre they still
+  alive? Are my brothers still living, \nanybody?\nAnd the mountain suddenly \nbecomes
+  icy cold. Its heart is gone.\nI must go down, \nback to the blue horizon, \nsouthward
+  where the plains stretch out, \nwhere beating hearts reside, \nwhere a thousand
+  hearts beat in chorus.\nI spring down the valley, \nI hide myself away in a compartment.
+  \nThe wagon creaks the whole night, \nlightning strikes off in the gloom and darkness,
+  \nthe plains stretch across the deep, long valley.\nThe next evening, \nI stand
+  in the cobblestone street. \nThere is no longer a forest, \nbut windows and house
+  after house, \nno whistling through the leaves, \njust the buzz of carts, \nthe
+  noise of countless feet.\nFar off, I hear a terrible scream. \nWho is that suffering?\nI
+  run after the scream. \nAnd from the open windows, \nI hear a roaring voice:\n‘Terrible!
+  You men and women, \nyou rotten people, you are filthier than lizards. \nYour sins
+  are as countless as sand on the beach.’ – –\nI run on in fear. \nI go past a house
+  filled with people. \nI see them sitting along the walls, \nthey do not speak to
+  each other, \nthey do not smile at each other.\nAnd I am filled with more and more
+  fear. \nI go past a dance-joint teeming \nwith men and women, \nkicking each other
+  bloody.\nAre these my brothers, these people?\nI ran farther and farther. \nI am
+  filled with more and more fear. \nThey do not speak to each other; \nthey do not
+  smile at each other.\nThey flit about as if whipped, \nand from a small house \nI
+  hear crying and sobbing, \nbehind me they are crying, crying, crying…\nAnd at last
+  this all wells up inside me, \nat last I say: \n‘They are mad! \nThey are whipped
+  by their own shadow!’ \nI look them in the eye, \nsee their expressions,\nsee them
+  rushing and running about, \nand I say to myself: \n‘Yes, they are mad, they are
+  mad!’"
 note: |-
   <p>“The City” is a prose poem by Sigbjørn Obstfelder, the father of Norwegian modernist poetry. This poem is an exceptionally good example of his work because it depicts the anxiety of Norway’s transition from a rural, pastoral society to an industrialized, modern nation. We see a country-dwelling Norwegian decide to make his way into town for a wholesome reason, only to experience an anxiety attack similar to that portrayed in Munch’s <em>Scream</em>.</p>
   <p>The work of Obstfelder is challenging to translate today because of the interlingual nature of late nineteenth-century Norway. Still a young nation at the time, Norway was heavily Danish but was emerging as modern Bokmål. Beyond that, stylistically, Obstfelder has a jerky, hyphenated style that says much with few words. The former reveals his nervous nature and the latter puts him firmly in the Norwegian tradition.</p>
@@ -65,7 +67,7 @@ tbio: "<p>Jordan Barger is a Philadelphia-based translator specializing in trans
   can be found in the <em>Brooklyn Rail.</em></p>"
 language: Norwegian
 lang: 'no'
-image: "../assets/images/images_21/obstfelder.JPG"
+image: "/assets/images/images_21/obstfelder.JPG"
 imagecredit: photo by Jordan Barger
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1WeVl42HCzZ8lXreqeCRO-ZLkejwhAM6y/preview\">\n

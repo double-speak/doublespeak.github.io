@@ -30,12 +30,12 @@ tbio: "<p>Shoshana Akabas teaches writing at Columbia University. She earned a b
   Believer</i>, and <i>Electric Literature</i>.</p>"
 language: Hebrew
 lang: he
-image: "../assets/images/images_19/bluwstein.JPG"
-image2:
+image: "/assets/images/images_19/bluwstein.JPG"
+image2: 
 imagecredit: photo by a <i>DoubleSpeak</i> staffer
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '00'

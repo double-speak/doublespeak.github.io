@@ -21,7 +21,7 @@ poem: 'Sépanlo bien: no se aprende ni se enseña a escribir. No se enseña nada
   precario y tumultuoso. ¿Es culpa o no es culpa mía? Sé que nos muelen a palos. Solo
   hice que algunas cosas pasaran.
 
-  '
+'
 transpoem: 'Know this: you do not learn nor do you teach writing. You don''t teach
   anything. You learn and you teach living, and as such, writing is just one detail
   within a living anecdotal to the written. We only did what had to be done. We climbed
@@ -75,12 +75,12 @@ tbio: "<p>Ella Konefal is an artist who takes translation as conceptual groundin
   that movement leads is as of yet unknown.</p>"
 language: Spanish
 lang: es
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '29'

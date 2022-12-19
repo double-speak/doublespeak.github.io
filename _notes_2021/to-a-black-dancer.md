@@ -58,8 +58,8 @@ tbio: "<p>Samantha DeStefano graduated <em>summa cum laude</em> from the Univers
   years of intensive study of French.</p>"
 language: French
 lang: fr
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1Z2i1quF_lJHUCN5qSCBOzcLTkoc-ScGk/preview\">\n
   \ </iframe>\n</div>"

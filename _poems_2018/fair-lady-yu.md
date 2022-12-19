@@ -165,7 +165,7 @@ tbio: "<p>Yuchao Wang is a sophomore at Haverford College intending to major in 
   all contain some form of “classic” is a completely irrelevant coincidence.</p>"
 language: Chinese
 lang: zh
-image: "../assets/images/images_18/li_yu.JPG"
+image: "/assets/images/images_18/li_yu.JPG"
 image2:
 imagecredit: photo by Jasmine Phun
 imagecredit2:

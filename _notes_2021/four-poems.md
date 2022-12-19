@@ -67,8 +67,8 @@ tbio: "<p>Claudia Nuñez de Ibieta grew up in Los Angeles, California, and Santi
   Phoenix Cartonera Collective.</p>"
 language: Spanish
 lang: es
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1eRhFII4BFTmHkLQa2TnoFpfTJLR9Lit0/preview\">\n
   \ </iframe>\n</div>"

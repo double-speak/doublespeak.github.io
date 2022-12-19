@@ -116,12 +116,12 @@ tbio: "<p><em>DoubleSpeak</em>’s editorial staff is a combination of strong in
   by the wonders of language, exploration, and discovery.</p>"
 language: French
 lang: fr
-image: "../assets/images/images_19/said.JPG"
-image2:
+image: "/assets/images/images_19/said.JPG"
+image2: 
 imagecredit: photo by a <i>DoubleSpeak</i> staffer
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '05'

@@ -57,8 +57,8 @@ tbio: |
   <p>Saagar Asnani (C’19) is a PhD student in musicology at the University of California, Berkeley. A medievalist, linguist, and poetry enthusiast, Saagar is fascinated by how music and language overlap, interact, and work together in myriad ways within our world. A scholar of medieval French musical genres, he believes that by studying the soundscapes of the past we can learn more about the structures and dynamics of human communication and perception today. He has been learning Korean for the past five years, and this is his first foray into translating Korean poetry to English. His research on medieval music has also immersed him in Latin and Middle French. As a graduating senior at Penn in 2019, he was awarded the Clifton C. Cherpack Prize in French Studies. In his free time, Saagar enjoys playing viola and is an active member of UC Berkeley’s Symphony Orchestra.</p>
 language: Korean
 lang: ko
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1CtI76YH2UqLpPzRvr48I8ftG1KVcFWYK/preview\">\n
   \ </iframe>\n</div>"

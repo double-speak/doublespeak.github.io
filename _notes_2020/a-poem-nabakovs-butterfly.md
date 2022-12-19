@@ -121,16 +121,15 @@ tbio: "<p>Yi Feng is a scholar, translator and associate professor at Northeaste
   in 2017.</p>"
 language: Chinese
 lang: zh
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '00'
 layout: notepage
 collection: notes_2020
-...
 ---

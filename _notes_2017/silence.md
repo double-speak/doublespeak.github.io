@@ -70,7 +70,7 @@ tbio: "<p>Irena Natcheva is a first year PhD student in anthropology at the St. 
   and history.</p>"
 language: Bulgarian
 lang: bg
-image: "../assets/images/images_17/natcheva.JPG"
+image: "/assets/images/images_17/natcheva.JPG"
 image2:
 imagecredit: photo by a <i>DoubleSpeak</i> staffer
 imagecredit2:

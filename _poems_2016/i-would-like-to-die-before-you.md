@@ -29,14 +29,14 @@ transpoem: "I\nwould like to die before you.\nDo you suppose the one who comes\n
   into dust\nI’m living beside you.\nThen, when you die\nyou can come to my pot.\nAnd
   we’ll live there together \nin my ashes your ashes,\nuntil a careless bride\nor
   an ungrateful grandchild \nthrows us out…\nBut we\nuntil then\nwill have so completely\nmixed\ninto
-  each other, \nthat even in the dump we’re tossed in, our bits\nwill fall side by
-  side. \nWe’ll scatter into the soil together.\nAnd if one day a wild flower \nmoistens
+  each other, \nthat even in the dump we’re tossed in, \nour bits\nwill fall side
+  by side. \nWe’ll scatter into the soil together.\nAnd if one day a wild flower \nmoistens
   and buds through this soil\nsurely in its stem\ntwo flowers will bloom:\nYou one,\nI
   the other.\nI don’t think of death yet.\nI will give birth to a child. \nLife is
   overflowing from me.\nI am full of life. \nI will live, but for a long time, very
   long,\nbut you will also live with me. \nBut death doesn’t scare me either. \nThough
   I find the manner of our funeral\nquite unpleasant.\nAnd until I die,\nthis will
-  change I suppose. \nIs there a chance you’ll get out of prison one of these days?\nSomething
+  change I suppose. \nIs there a chance you’ll get out of prison \none of these days?\nSomething
   inside me\nsays maybe.\n\nFebruary 18, 1945"
 note: "<p>Nâzım Hikmet has a special place in my heart that I hadn’t realized before.
   I was reintroduced to his poetry last spring through a translation class. I had

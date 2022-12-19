@@ -1,0 +1,92 @@
+/*navigation bar*/
+
+.logo img {
+	position: static;
+	display: inline-block;
+	float: left;
+	padding: 0px 0px 0px 10px;
+	margin-left: 40px;
+	height: 80px;
+	width: 80px;
+}
+
+@media screen and (max-width: 600px) {
+  .nav-links li {display: none;}
+  .nav a.icon {
+    float: right;
+    display: block;
+    margin: 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .nav-links.responsive {
+  	position: relative;
+  	display: grid;
+  }
+  .nav.responsive a.icon {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+  .nav-links.responsive li {
+    float: none;
+    display: inline-block;
+    text-align: left;
+    background-color: white;
+    justify-self: right;
+  }
+}
+
+.nav .icon {
+  display: none;
+}
+
+.nav {
+	position: static;
+	height: 40px;
+	padding: 5px;
+	padding-bottom: 30px;
+	border-bottom: solid black 1px;
+}
+
+.nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 10px;
+	overflow: hidden;
+}
+.nav li {
+	float: right;
+}
+.nav li a {
+	display: block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: right;
+	padding: 10px 16px;
+	border: transparent solid 1px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: 0.3s;
+}
+.nav li link {
+	display: block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: right;
+	padding: 10px 16px;
+	border: transparent solid 1px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: 0.3s;
+}
+.nav a:hover{
+  	border: solid black 1px;
+}

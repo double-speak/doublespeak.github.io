@@ -1,7 +1,7 @@
 ---
-pid: Old Occitan
+pid: Farsi
 type: language
-order: '25'
+order: '07'
 layout: tagpage
 collection: language_tags
 ---

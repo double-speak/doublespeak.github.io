@@ -1,5 +1,5 @@
 ---
-pid: a-flower's-pride
+pid: a-flowers-pride
 title: อหังการของดอกไม้
 transtitle: A Flower’s Pride
 author: Chiranan Pitpreecha
@@ -73,12 +73,12 @@ tbio: "<p>Peeriya is a native speaker of Thai and a current Fulbright Teaching A
   of the Thai sources while faithfully communicating the author’s message.</p>"
 language: Thai
 lang: th
-image: "../assets/images/images_19/pitpreecha.jpg"
-image2:
+image: "/assets/images/images_19/pitpreecha.jpg"
+image2: 
 imagecredit: photo by Quinn Gruber
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '14'

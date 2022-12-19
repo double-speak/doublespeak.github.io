@@ -6,40 +6,21 @@ layout: default
 <html>
 
 <head>
-  <link rel="stylesheet" type="text/css" href="../assets/css/miscpagestyle.css">
-      <link rel="stylesheet" href="https://use.typekit.net/ixt2gok.css">
-    <script>
-  (function(d) {
-    var config = {
-      kitId: 'lit0ksd',
-      scriptTimeout: 3000,
-      async: true
-    },
-    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-  })(document);</script>
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/miscpagestyle.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+      
+    
 </head>
 
    <title>staff 2020</title>
 
 <body>
-  <header>
-    <a href="../index.html">
-      <div class="logo">
-        <img src="../assets/images/doublespeak_logo.png" alt="Click here to return to the homepage.">
-      </div>
-    </a>
-    <div class="nav">
-      <ul>
-        <li><a href="../contentindex.html">index</a></li>
-        <li><a href="../search.html">search</a></li>
-        <li><a href="../about.html">about</a></li>
-        <li><a href="../submit.html">submit</a></li>
-        <li><a href="../issues.html">issues</a></li>
-      </ul>
-    </div>
-  </header>
+{% include navbar.html %}
+
   <div class="tcontentslink">
-    <p><a href="../toc2020.html"><  &nbsp; table of contents</a></p>
+    <p><a href="{{site.baseurl}}/toc2020.html"><  &nbsp; table of contents</a></p>
   </div>
   <div class=container>
     <div class="staff">
@@ -80,7 +61,10 @@ layout: default
 
     {% endfor %}
   <div class="nextlink">
-    <p><a href="{{site.url}}/frontmatter/ednote2020">next  &nbsp; ></a></p>
+    <p><a href="{{site.url}}{{site.baseurl}}/frontmatter/ednote2020">next  &nbsp; ></a></p>
   </div>
+  <div class="nextmobile">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/ednote2020"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+    </div>
 </body>
 <html>

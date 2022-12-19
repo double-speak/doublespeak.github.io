@@ -54,12 +54,12 @@ tbio: |-
   editor-in-chief of <em>Red Queen Literary Magazine</em>. She was a participant in the 2016 Adroit Journal Mentorship Program, the 2017 Iowa Young Writers’ Studio, and the 2018 Kelly Writers House Summer Workshop. Her poetry has been recognized by the <em>Adroit Journal</em>, Scholastic Art & Writing, and the Writers’ Theatre of New Jersey, and her work has appeared or is forthcoming in a <em>Platypus Press</em> anthology, <em>Red Paint Hill</em>, <em>Noble Gas Qtrly</em>, <em>Hobart</em>, the <em>Ellis Review</em>, and <em>Glass</em>, among others.</p>
 language: Spanish
 lang: es
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '08'

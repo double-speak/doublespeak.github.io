@@ -13,6 +13,83 @@ a {
 	text-decoration: none;
 }
 
+p {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+@media screen and (max-width: 600px) {
+	.previousmobile {
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		display: inline-block !important;
+	}
+
+	.previousmobile a {
+		display: inline-block;
+		padding: 0px;
+		color: black;
+		text-decoration: none;
+		font-family: futura-pt, sans-serif;
+		font-weight: 300;
+		font-style: normal;
+		font-size: 18px;
+		line-height: 20px;
+		margin-top: 0px;
+		margin-bottom: 30px;
+		margin-left: -20px;
+		margin-right: 40px;
+	}
+
+	.nextmobile {
+		position: fixed;
+		bottom: 0;
+		right: 0;
+		display: inline-block !important;
+	}
+
+	.nextmobile a {
+		display: inline-block;
+		padding: 0px;
+		color: black;
+		text-decoration: none;
+		font-family: futura-pt, sans-serif;
+		font-weight: 300;
+		font-style: normal;
+		font-size: 18px;
+		line-height: 20px;
+		margin-top: 0px;
+		margin-bottom: 30px;
+		margin-left: 40px;
+		margin-right: -20px;
+	}
+
+	.previouslink{
+		display: none;
+	}
+	.nextlink{
+		display: none;
+	}
+
+}
+
+.previousmobile{
+	display: none;
+}
+.nextmobile{
+	display: none;
+}
+
 /*navigation bar*/
 
 .logo img {
@@ -273,14 +350,15 @@ h1 {
 /*top links*/
 
 .tcontentslink {
-	height: 70px;
-	margin: 40px 0 0 120px;
+/*	height: 70px;
+	margin: 40px 0 0 120px;*/
+	margin-right:auto;
+	display:inline-block;
 }
 
 .tcontentslink a {
-	display: inline-block;
 	font-family: futura-pt, sans-serif;
-	margin: 40px 0 0 -80px;
+/*	margin: 40px 0 0 -80px;*/
 	font-weight: 300;
 	color: black;
 	text-decoration: none;
@@ -293,20 +371,24 @@ h1 {
 }
 
 .poemtags {
-	margin: -63px 30px 0 0;
-	column-width: 50%;
+/*	margin: -63px 30px 0 0;
+	column-width: 50%;*/
 }
 
 .poemtags ul {
 	list-style: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
+	margin: 10px;
+	padding: 10px;
+/*	overflow: hidden;
+*/	display: flex;
+	flex-wrap:wrap;
+	justify-content: flex-end;
+
 }
 
 .poemtags li {
-	float: right;
-}
+/*	float: right;
+*/}
 
 .poemtags li a {
 	display: block;
@@ -332,7 +414,13 @@ h1 {
 /*main content*/ 
 
 .container {
-	margin: 0% 15% 0 15%;
+	margin: 0% 15% 5% 15%;
+	width: 75%;
+	margin: 0px auto 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap:20px;
 } 
 
 .transnote {
@@ -341,7 +429,14 @@ h1 {
 }
 
 .note {
+	margin: 0px auto 0 auto;
+	/*
 	margin: -40px 0 30px 0px;
+	display:flex;
+	margin: 0px auto 0 auto;
+	flex-wrap: wrap;
+	justify-content:center;
+	gap:20px;*/
 }
 
 .abio {
@@ -349,7 +444,23 @@ h1 {
 }
 
 .tbio {
-	float: right;
+	float: left;
+}
+
+.note-text {
+	padding: 0px;
+	position: static;
+	overflow: hidden;
+	flex: 1;
+	width: 50%;
+}
+
+.poem-image {
+	opacity: 0.8;
+	display: flex;
+	justify-content:center;
+	width: 50%;
+	
 }
 
 .tbio {
@@ -379,9 +490,8 @@ h1 {
 
 .previouslink {
 	position: fixed;
-	padding: 0px 5px 0px 5px;
 	bottom: 0;
-	left: -10px;
+	left: 0;
 }
 
 .previouslink a {
@@ -396,8 +506,9 @@ h1 {
 	line-height: 20px;
 	margin-top: 0px;
 	margin-bottom: 30px;
-	margin-left: 30px;
+	margin-left: 20px;
 	margin-right: 40px;
+	background-color: white;
 }
 
 .previouslink a:hover {
@@ -423,24 +534,20 @@ h1 {
 	margin-top: 0px;
 	margin-bottom: 30px;
 	margin-left: 40px;
-	margin-right: 30px;
+	margin-right: 20px;
+	background-color: white;
 }
 
 .nextlink a:hover {
 	text-decoration: underline;
 }
-
-.note-text{
-	flex:1;
-}
-.poem-image {
-	max-width:100%;
 	
 }
 .caption {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
+	float: right;
 	font-size: 18px;
 	line-height:0px;
 }
@@ -448,6 +555,27 @@ h1 {
 .flex-container{
 	display:flex;
 	align-items:center;
+}
+
+.previous-next-buttons {
+    align-items: flex-end;
+		flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.line{
+	z-index: -1;
+	position: absolute;
+}
+
+}
+.lineart{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 60%;
 }
 
 /* language code */
@@ -758,3 +886,4 @@ p:lang(ka), pre:lang(ka) {
 	line-height: 20px;
   }
 /* end language code */
+

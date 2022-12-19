@@ -4,14 +4,14 @@ title: <span lang="he">הֱיוּ שָׁלוֹם, תּוֹדָה…</span>
 transtitle: Be well, thanks…
 author: Tuvya Ruebner
 translator: Yehudith Dashevsky
-poem: "\nהֱיוּ שָׁלוֹם, תּוֹדָה \nכִּי בָּאתֶם. מַה \nחַיֵּי אָדָם לְבַדָּם \nעִם
-  לִבּוֹ הָרַע \nעִם לִבּוֹ הַמַּךְ, עִם עֵינָיו הַסְּתוּרוֹת \nנְשׂוֹחֵחַ קִמְעָה,
-  נִחְיֶה \nכְּמוֹ בָּאַגָּדָה, נַחֲלִיף \nמִלִּים סְפוּרוֹת, נֹאמַר \nשָׁלוֹם, שָׁלוֹם
-  \n.הַמַּיִם הַפּוֹרְחִים. הַלֶּחֶם הַשָּׁלֵם \nכֵּן. הָיִיתִי. כָּאן. כֻּלָּנוּ.
-  כֵּן \n.תּוֹדָה\n\n<h2>...לְפָנֶיךָ הַגֶּשֶׁם הָעַתִּיק</h2>\n \nלְפָנֶיךָ הַגֶּשֶׁם
-  הָעַתִּיק\nהַחֹם בְּגַבְּךָ, אַתָּה עוֹמֵד וְחוֹשֵׁב\nמַה מְעַטוֹת הַמִּלִּים\nשֶׁאָדָם
-  צָרִיךְ בְּחַיָּיו\nוְחוֹשֵׁב עַל מִי שֶׁרוֹאֶה כָּל אֵלֶּה וְעַל מִי\nשֶׁפָּנָיו
-  רוּחַ, וּבַשַּׁלֶּכֶת, וְגֶשֶׁם\n.זֶה הַמַּכֶּה בַּחַלּוֹן\n"
+poem: "הֱיוּ שָׁלוֹם, תּוֹדָה \nכִּי בָּאתֶם. מַה \nחַיֵּי אָדָם לְבַדָּם \nעִם לִבּוֹ
+  הָרַע \nעִם לִבּוֹ הַמַּךְ, עִם עֵינָיו הַסְּתוּרוֹת \nנְשׂוֹחֵחַ קִמְעָה, נִחְיֶה
+  \nכְּמוֹ בָּאַגָּדָה, נַחֲלִיף \nמִלִּים סְפוּרוֹת, נֹאמַר \nשָׁלוֹם, שָׁלוֹם \n.הַמַּיִם
+  הַפּוֹרְחִים. הַלֶּחֶם הַשָּׁלֵם \nכֵּן. הָיִיתִי. כָּאן. כֻּלָּנוּ. כֵּן \n.תּוֹדָה\n\n<h2>...לְפָנֶיךָ
+  הַגֶּשֶׁם הָעַתִּיק</h2>\n \nלְפָנֶיךָ הַגֶּשֶׁם הָעַתִּיק\nהַחֹם בְּגַבְּךָ, אַתָּה
+  עוֹמֵד וְחוֹשֵׁב\nמַה מְעַטוֹת הַמִּלִּים\nשֶׁאָדָם צָרִיךְ בְּחַיָּיו\nוְחוֹשֵׁב
+  עַל מִי שֶׁרוֹאֶה כָּל אֵלֶּה וְעַל מִי\nשֶׁפָּנָיו רוּחַ, וּבַשַּׁלֶּכֶת, וְגֶשֶׁם\n.זֶה
+  הַמַּכֶּה בַּחַלּוֹן\n"
 transpoem: "Be well, thanks\nfor coming. What\nare people on their own\nwith their
   evil hearts,\nwith their spent hearts, with their sidelong glances.\nLet’s talk
   a bit and live\nlike in a story, exchange\na few words; we’ll say, \nhey, hello\nblooming
@@ -48,12 +48,12 @@ tbio: "<p>Yehudith Dashevsky graduated from the University of Pennsylvania in 20
   by the act of translation.</p>"
 language: Hebrew
 lang: he
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '28'

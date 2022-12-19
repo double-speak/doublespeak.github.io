@@ -85,7 +85,7 @@ tbio: "<p>Emma Arsekin is an undergraduate studying history and political scienc
   traveler, and language-learner.</p>"
 language: Bosnian
 lang: bs
-image: "../assets/images/images_21/bodrozic.JPG"
+image: "/assets/images/images_21/bodrozic.JPG"
 imagecredit: photo by a <em>DoubleSpeak</em> staffer
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/190dnGQUqZ_bNKqOfR_cBtLiYgFi9BEiK/preview\">\n

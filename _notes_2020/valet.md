@@ -63,12 +63,12 @@ tbio: "<p>Robert Chen studies chemistry at the University of Pennsylvania. He pu
   of life.</p>"
 language: German
 lang: de
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '06'

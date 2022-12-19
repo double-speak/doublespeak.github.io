@@ -90,7 +90,7 @@ tbio: "<p>Nadia Park is a student at the University of Pennsylvania majoring in 
   her free time doing pour overs, practicing yoga, and baking sweets.</p>"
 language: Korean
 lang: ko
-image: "../assets/images/images_17/dong-ju.jpg"
+image: "/assets/images/images_17/dong-ju.jpg"
 image2:
 imagecredit: photo by a <i>DoubleSpeak</i> staffer
 imagecredit2:

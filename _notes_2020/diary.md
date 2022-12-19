@@ -37,12 +37,12 @@ tbio: "<p>Chemistry, FC Barcelona, classic rock, in that order. Zhiqiao (Kate) J
   in the new language.</p>"
 language: Chinese
 lang: zh
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '03'

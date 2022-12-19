@@ -47,7 +47,7 @@ tbio: "<p>Kejia Wang spent half of her life speaking Chinese and half of her lif
   at the University of British Columbia.</p>"
 language: Chinese
 lang: zh
-image: "../assets/images/images_18/jizong.JPG"
+image: "/assets/images/images_18/jizong.JPG"
 image2:
 imagecredit: photo by Vivian Yuxin Wen
 imagecredit2:

@@ -107,12 +107,12 @@ tbio: "<p>Rhosean Asmah is a senior at the University of Pennsylvania. She studi
   translating it.</p>"
 language: French
 lang: fr
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '18'

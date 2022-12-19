@@ -40,11 +40,11 @@ tbio: |
   <p>You can find some of Pedro’s poems at <em>eMerge</em>, the magazine of the Writers Colony House at Dairy Hollow.</p>
 language: Portuguese
 lang: pt
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1TiL2Nfnnxb1x0_ZZx9c8rVNi9f-kjoPN/preview\">\n
-  \ </iframe>\n</div>\n"
+  \  src=\"https://drive.google.com/file/d/1TiL2Nfnnxb1x0_ZZx9c8rVNi9f-kjoPN/preview\">\n
+  \ </iframe>\n</div>"
 translaudio: |-
   <div>
 

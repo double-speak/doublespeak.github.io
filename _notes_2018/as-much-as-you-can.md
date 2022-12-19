@@ -52,7 +52,7 @@ tbio: "<p>At Penn, Josh Bryer studied classical languages and literature, learne
   too often lost in word-for-word translation.</p>"
 language: Greek
 lang: el
-image: "../assets/images/images_18/cavafy.jpg"
+image: "/assets/images/images_18/cavafy.jpg"
 image2:
 imagecredit: photo by Leila Pearlman
 imagecredit2:

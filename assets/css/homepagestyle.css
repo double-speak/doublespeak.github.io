@@ -124,16 +124,18 @@ p {
 	display: flex;
 	flex-direction: row;
 	height: 57%;
+	flex-wrap: wrap;
 }
 
 .currentissue {
 	padding: 0px;
 	position: static;
 	float: left;
-	width: 50%;
+	width: 500px;
 	border-right: solid black 1px;
 	overflow: hidden;
-}
+/*	flex-basis: 40%;
+*/}
 
 .currentissue img{
 	display: inline-block;
@@ -146,10 +148,11 @@ p {
 .currentissue-overlay {
 	position: absolute;
 	background-color: black;
-	width: 50%;
+	width: 40vw;
 	height: 57%;
 	opacity: 0;
 	transition: 0.3s;
+	flex-basis: 40%;
 }
 
 .currentissue-overlay-text {
@@ -170,7 +173,8 @@ p {
 
 .submit {
 	padding: 0px;
-	width: 50%;
+	width: 500px;
+	flex-basis: 40%;
 }
 
 .submit-p {

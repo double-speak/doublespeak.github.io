@@ -1,9 +1,9 @@
 ---
-pid: conversation-between-a-drunk-poetess-and-her-lover
+pid: conversation-of-a-drunk-poetess-and-her-lover
 title: |-
   <span lang="ru">Разговор
   пьяной поэтессы и ее нового любовника</span>
-transtitle: Conversation between a drunk poetess and her lover
+transtitle: Conversation of a drunk poetess and her lover
 author: Yaroslav (Slava) Mogutin
 translator: Ryan Hardy
 poem: |-
@@ -103,8 +103,8 @@ tbio: "<p>Ryan is an undergraduate at the University of Pennsylvania, pursuing a
   Oneself</em>, is due for release by the end of 2021.</p>"
 language: Russian
 lang: ru
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/10fjasOsGkVp21mx0OwAb4roQ3OnB8o4A/preview\">\n
   \ </iframe>\n</div>"

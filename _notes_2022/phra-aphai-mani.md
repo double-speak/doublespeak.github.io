@@ -69,8 +69,8 @@ language: Thai
 lang: th
 image: none
 image2: none
-imagecredit:
-imagecredit2:
+imagecredit: 
+imagecredit2: 
 origaudio: |-
   <div>
 
@@ -85,15 +85,15 @@ translaudio: |-
   <div>
 
   <iframe
-    frameborder="""0"""
-    width="""375"""
-    height="""65"""
-    src="""https://drive.google.com/file/d/1-y1Ug28wOQajvZDtBnVOp-gms0vWTRJk/preview""">
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/1-y1Ug28wOQajvZDtBnVOp-gms0vWTRJk/preview">
   </iframe>
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '11'
 layout: notepage
 collection: notes_2022

@@ -138,7 +138,7 @@ tbio: "<p>Monica Wojciechowski grew up in Denville, NJ, but considers Poland to 
   now that she has, she doesn’t plan on leaving it anytime soon.</p>"
 language: Polish
 lang: pl
-image: "../assets/images/images_16/sxymborska2.JPG"
+image: "/assets/images/images_16/sxymborska2.JPG"
 image2:
 imagecredit: photo by Natalia Pleśniak
 imagecredit2:

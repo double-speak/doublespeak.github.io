@@ -82,8 +82,8 @@ tbio: "<p>Jonathan Iwry graduated <em>summa cum laude</em> from the University o
   English.</p>"
 language: German
 lang: de
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1OFFFGrfIXD2F7qrK7rFPuYmA1zWpMtIJ/preview\">\n
   \ </iframe>\n</div>"

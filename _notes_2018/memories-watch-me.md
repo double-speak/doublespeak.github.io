@@ -44,7 +44,7 @@ tbio: "<p>Rhosean Asmah is a sophomore studying linguistics at the University of
   studies.</p>"
 language: Swedish
 lang: sv
-image: "../assets/images/images_18/transtromer.jpg"
+image: "/assets/images/images_18/transtromer.jpg"
 image2:
 imagecredit: photo by Simon Bazilian
 imagecredit2:

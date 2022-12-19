@@ -48,7 +48,7 @@ tbio: "<p>Tina Zhu is a senior at Swarthmore College studying cognitive and comp
   cookies and <em>The Office</em>.</p>"
 language: Chinese
 lang: zh
-image: "../assets/images/images_16/murong.JPG"
+image: "/assets/images/images_16/murong.JPG"
 image2:
 imagecredit: photo by Natalia Pleśniak
 imagecredit2:

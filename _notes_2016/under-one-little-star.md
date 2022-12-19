@@ -53,7 +53,7 @@ tbio: "<p>VanJessica Gladney has lived in Georgia, Oklahoma, Arkansas, Massachus
   where she is an English major. She has a gorgeous and very beloved cat named Prism.</p>"
 language: Polish
 lang: pl
-image: "../assets/images/images_16/szymborska.JPG"
+image: "/assets/images/images_16/szymborska.JPG"
 image2:
 imagecredit: photo by Natalia Pleśniak
 imagecredit2:

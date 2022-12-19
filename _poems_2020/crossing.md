@@ -1,6 +1,6 @@
 ---
 pid: crossing
-title: '[<span lang="ar">بعد ‬</span>]'
+title: <span lang="ar">بعد ‬</span>
 transtitle: Crossing
 author: Mohammad Ali Bahmani
 translator: Ali Noori
@@ -34,15 +34,17 @@ abio: "<p>Mohammad Ali Bahmani (b. 1942) is an Iranian poet and songwriter. Beyo
   that, his biography is irrelevant to this particular translation. It might be worth
   mentioning that Bahmani is known, among other things, as a proponent of the postmodern
   <em>ghazal</em> movement in Persian poetry.</p>"
-tbio: "<p>Ali Noori is a doctoral student in religious studies at Penn. He likes <em>ghazals</em>.</p>"
-language: Farsi/Persian
+tbio: '<p>Ali Noori is a doctoral student in religious studies at Penn. He likes <em>ghazals</em>.His
+  dissertation is titled "Pious Praise Poetry: Emotions, Piety, and the Making of
+  Medieval Islamic Subject."</p>'
+language: Farsi
 lang: fa
-image: "../assets/images/images_20/noori.png"
-image2:
+image: "/assets/images/images_20/noori.png"
+image2: 
 imagecredit: photo by Ali Noori
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '27'

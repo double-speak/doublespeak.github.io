@@ -3,7 +3,7 @@ pid: the-romantic-dogs
 title: Los perros románticos
 transtitle: The Romantic Dogs
 author: Roberto Bolaño
-translator: "<em>DoubleSpeak</em> Staff"
+translator: em_DoubleSpeak_em_Staff
 poem: |-
   En aquel tiempo yo tenía veinte años
   y estaba loco.
@@ -141,9 +141,13 @@ note: '<p>A problem faced by nearly all of our translators when translating the 
   respectively (in both cases “unbridled”); in Chinese, the word <span lang= "zh">逃亡</span>
   was used to preserve the meaning of self-liberation while also remaining consonant
   with <span lang= "zh">脱缰的爱<span>. Most metaphors were translated literally.</p>'
-abio: |-
-  <p>Roberto Bolaño (1953–2003) was a Chilean writer and poet. He moved with his family to Mexico City when he was fifteen and actively participated in journalism and leftist movements after dropping out of school. He returned to Chile in 1973 to support the democratic socialist movement. After the government was overthrown by the right-wing Augusto Pinochet’s forces in a military coup, Bolaño was arrested but fortunately rescued by prison guards who were his former classmates. However, his presence in Chile during this period is contested.
-  </p>
+abio: "<p>Roberto Bolaño (1953–2003) was a Chilean writer and poet. He moved with
+  his family to Mexico City when he was fifteen and actively participated in journalism
+  and leftist movements after dropping out of school. He returned to Chile in 1973
+  to support the democratic socialist movement. After the government was overthrown
+  by the right-wing Augusto Pinochet’s forces in a military coup, Bolaño was arrested
+  but fortunately rescued by prison guards who were his former classmates. However,
+  his presence in Chile during this period is contested.</p>"
 tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and language aficionados.
   We hail from Baltimore, MD, Plesanton, CA, Georgetown, TX, and Cortlandt Manor,
   NY; Nanticoke, PA, Brooklyn, NY, Sacramento, CA, as well as Hangzhou and Nanjing,
@@ -151,17 +155,17 @@ tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and languag
   beautiful poetry submissions. Whether we’re playing multilingual Scramble or commenting
   on submissions in rhymed couplets, we’re drawn together by our shared passion for
   language and translation.</p>"
-language: Spanish; English; Chinese; French; Japanese; Russian
-lang: es
-image: "../assets/images/images_22/group_translation.JPG"
+language: 
+lang: 
+image: "/assets/images/images_22/group_translation.JPG"
 image2: none
 imagecredit: photo by Quinn Gruber
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '18'
 layout: poempage
 collection: poems_2022

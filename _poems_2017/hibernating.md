@@ -61,7 +61,7 @@ tbio: "<p>Mira Revesz is a senior at Swarthmore College, pursuing a special hono
   and Sastre with her students in both Spanish and English.</p>"
 language: Spanish
 lang: es
-image: "../assets/images/images_17/sastre.JPG"
+image: "/assets/images/images_17/sastre.JPG"
 image2:
 imagecredit: photo by a <i>DoubleSpeak</i> staffer
 imagecredit2:

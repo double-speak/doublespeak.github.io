@@ -51,7 +51,7 @@ tbio: "<p>Naomi Bernstein graduated from Penn with a degree in English and creat
   poetry for a living.</p>"
 language: Spanish
 lang: es
-image: "../assets/images/images_17/neruda2017.JPG"
+image: "/assets/images/images_17/neruda2017.JPG"
 image2:
 imagecredit: photo by Yehudith Dashevsky
 imagecredit2:

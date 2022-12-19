@@ -96,12 +96,12 @@ tbio: "<p>Armghan Ahmad is a senior in Wharton studying finance and marketing. A
   on about the cinematic masterpiece that is <em>Manchester by the Sea</em>.</p>"
 language: Urdu
 lang: ur
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '04'

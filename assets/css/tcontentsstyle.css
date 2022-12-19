@@ -1,5 +1,7 @@
 body{
 	background-color:#fffdfa;
+	background-image: url("{{site.baseurl}}/assets/images/background_logo_ds.png");
+	
 	text-align:left;
 	margin: 0px;
 	font-size: 20px;
@@ -111,7 +113,6 @@ p {
 }
 
 .tcontents {
-	height: 600px;
 	padding: 20px 60px 20px 60px;
 }
 
@@ -128,13 +129,16 @@ p {
 .toc-container {
 	display: flex;
 	flex-direction: row;
+	min-height: 100vh;
+	position: relative;
+	padding-bottom: 50px;
 }
 
 .left {
 	display: flex;
 	flex-direction: column;
 	flex-wrap: wrap;
-	width: 30%;
+	width: 100%;
 }
 
 .right {
@@ -144,7 +148,7 @@ p {
 
 .tcleft {
 	display: inline-block;
-	width: 50%;
+	width: 100%;
 	clear: left;
 	float: left;
 }
@@ -157,26 +161,38 @@ p {
 	line-height: 25px;
 	text-align: left;
 	margin-left: 0px;
-	white-space: nowrap;
+	white-space: normal;
 	text-decoration: underline;
 	text-decoration-thickness: 5%;
 }
 
 .tcleft h3{
-	width: 50%;
+	width: 100%;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 	font-size: 22px;
 	text-align: left;
 	margin: -15px 0 0 30px;
-	white-space: nowrap;
+	white-space: normal;
 	line-height: 25px;
+}
+
+.line{
+	z-index: -1;
+	position: absolute;
+	bottom: 0;
+}
+.lineart{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 60%;
 }
 
 .tcright{
 	display: inline-block;
-	width: 50%;
+	width: 100%;
 	float: left;
 }
 
@@ -189,12 +205,12 @@ p {
 	color: black;
 	text-align: left;
 	margin-left: 0px;
-	white-space: nowrap;
+	white-space: normal;
 	text-decoration: underline;
 }
 
 .tcright h3{
-	width: 50%;
+	width: 100%;
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -202,13 +218,8 @@ p {
 	color: black;
 	text-align: left;
 	margin: -15px 0 0 30px;
-	white-space: nowrap;
+	white-space: normal;
 	line-height: 25px;
-}
-
-.lineart {
-	align-items:flex-start;
-	width:100%;
 }
 
 /* language code */

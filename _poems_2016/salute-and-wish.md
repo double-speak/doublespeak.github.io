@@ -93,42 +93,42 @@ transpoem: "Almost for sure this\nis my last piece in <em>Furlàn</em>\nand it�
   twenty-two perhaps:\nborn in the countryside,\nschooled in the city.\n\nHe is tall,
   bespectacled, dressed\nin gray, short-haired:\nwhen he addresses me I think\nhe
   knows nothing on politics \n\nand only tries to defend Latin\nand Greek against
-  me; for he doesn’t know\nhow much I do love Latin, I do love Greek — and hair cut
-  short.\nI look at him, he is tall and grey as an <em>alpìn</em>.\n\n“Here, come
-  here, Fedro.\nHear me. My speech to you here\nis like a testament.\nBut beware,
+  me; \nfor he doesn’t know\nhow much I do love Latin, \nI do love Greek — and hair
+  cut short.\nI look at him, \nhe is tall and grey as an <em>alpìn</em>.\n\n“Here,
+  come here, Fedro.\nHear me. My speech to you here\nis like a testament.\nBut beware,
   I bear no illusions\n\non you: I know, I know too well,\nthat you don’t have, nor
   wish for,\na free heart, that you can’t be sincere:\nbut though you’re dead, I’ll
-  speak.\n\nDefend the mulberry pickets, the alder,\nin the name of the Gods, Greek
-  or Chinese.\nDie for your love of vineyards.\nFor the orchards’ fig trees. For the
-  stakes, the poles.\n\nFor your comrades’ shaved heads.\nDefend the fields between
-  town\nand countryside, with their abandoned\ncobs. Defend the meadow\n\nbetween
+  speak.\n\nDefend the mulberry pickets, the alder,\nin the name of the Gods, \nGreek
+  or Chinese.\nDie for your love of vineyards.\nFor the orchards’ fig trees. \nFor
+  the stakes, the poles.\n\nFor your comrades’ shaved heads.\nDefend the fields between
+  town\nand countryside, \nwith their abandoned\ncobs. Defend the meadow\n\nbetween
   the town house and the canal.\nFarmsteads are Church-like:\nrelish this idea, keep
   it to heart.\nConfidence with sun and shower,\n\nyou know, is holy knowledge.\nDefend,
-  conserve, prey! The Republic\nlives within, in the mother’s womb.\nFathers have
+  conserve, prey! \nThe Republic\nlives within, in the mother’s womb.\nFathers have
   searched and have come back searching,\n\nhere and there, between birth and death,\nchanging:
   but all this has passed.\nToday: defend, protect, pray. Quiet!\nMay your shirt be\n\nneither
   black, nor brown. Quiet! Shall it be\ngrey. A nightshirt.\nHate him who wants to
   wake up,\nand to forget the Easters…\n\nNow, dead-dressed young man,\nI spoke to
   you for the Gods\nof the fields. There, where you were born.\nThere, where you have
   learned\n\ntheir Commandments. But in the City?\nThere Christ is not enough.\nYou
-  need the Church: but it shall be\nmodern. And you need the poor.\n\nYou must defend,
+  need the Church: \nbut it shall be\nmodern. And you need the poor.\n\nYou must defend,
   conserve, prey:\nlove the poor, though, love their diversity.\nLove their loneliness\nin
   this world, between fields and buildings\n\nwhere no word arrives\nof our world;
   love the border\nthey set between us and them;\nlove the dialect they invent every
   morning,\n\nnot to be understood; not to share\ntheir happiness with anyone.\nLove
-  the city’s sun and the misery\nof thieves; love the mother’s flesh in the child.\n\nIn
+  the city’s sun and the misery\nof thieves; \nlove the mother’s flesh in the child.\n\nIn
   this world of ours, speak out\nnot as a bourgeois, but as saint\nor soldier: a saint
   without ignorance,\na soldier without violence.\n\nCarry with saint’s or soldier’s
   hand\nthe intimacy with the King, a Right divine\nwhich dwells within us, in sleep.\nBelieve
   in the blind-honest bourgeois,\n\neven though he is an illusion: for\nmasters do
-  have\ntheir masters too, and they are sons whose fathers\nare somewhere, out there.\n\nIt’s
+  have\ntheir masters too, and they are sons \nwhose fathers\nare somewhere, out there.\n\nIt’s
   enough that this life’s\nfeeling is for all of us the same:\nnothing else matters,
   young man holding\nthe Book of no Word in your hand.\n\n<em>Hic desinit cantus</em>.
   Here,\ntake this weight on your shoulders.\nI can’t: nobody would understand\nthe
   scandal. An old man reveres\n\nthis world’s judgement, though\nhe doesn’t care.
   An old man reveres\nwhat he is in this world. He must\ndefend his nerves, worn-out,\n\nplay
-  along the game he never played.\nTake this burden, young man who hates me:\ncarry
-  it with you. It will shine through your heart. I’ll lightly\nwalk, going forward,
+  along the game he never played.\nTake this burden, \nyoung man who hates me:\ncarry
+  it with you. \nIt will shine through your heart. I’ll lightly\nwalk, going forward,
   always choosing\n\nlife and youth."
 note: |-
   <p>This piece by Pier Paolo Pasolini is meant as a dialogical testament, written in Friuli’s dialect and Italian both. It addresses a young fascist of the seventies, who may have appeared as the “natural enemy” of a gay and — at least nominally — communist poet. The poem asks this young fascist to undertake a deeper reactionary/conservative mission than fascism. To “defend, conserve, pray.” For — as far as my interpretation can go — the young fascist shares the distaste of modernity of Pasolini, and so may better understand the poet’s message than the leftist (and modernity enthusiast) youth.</p>

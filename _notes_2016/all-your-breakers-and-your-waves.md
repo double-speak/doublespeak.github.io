@@ -1,7 +1,7 @@
 ---
 pid: all-your-breakers-and-your-waves
 title: כל משבריך וגליך
-transtitle: all Your breakers and Your waves
+transtitle: All Your breakers and Your waves
 author: Dahlia Ravikovitch
 translator: Mira Revesz
 poem: " וְרָאִיתִי אֲנִי אֶת דִּמְעַת הָעֲשׁוּקִים \n.הוֹלֶכֶת וּנְמוֹגָה עַל לֶחְיָם\nוְרֵיחַ
@@ -46,7 +46,7 @@ tbio: "<p>Mira Revesz is a senior majoring in Adolescent Identity Development at
   best gateway she could have hoped for.</p>"
 language: Hebrew
 lang: he
-image: "../assets/images/images_16/ravikovitch.jpg"
+image: "/assets/images/images_16/ravikovitch.jpg"
 image2:
 imagecredit: photo by Shailly Pandey
 imagecredit2:

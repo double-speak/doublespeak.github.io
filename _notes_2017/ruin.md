@@ -51,7 +51,7 @@ tbio: "<p>Michaela Kotziers is a senior at Penn studying English with concentrat
   in creative writing and medieval studies.</p>"
 language: Old English
 lang: en
-image: "../assets/images/images_17/ruin.JPG"
+image: "/assets/images/images_17/ruin.JPG"
 image2:
 imagecredit: photo by Yehudith Dashevsky
 imagecredit2:

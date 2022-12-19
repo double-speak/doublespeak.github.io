@@ -6,37 +6,15 @@ layout: default
 <html lang="en">
 
   <head>
-    <link rel="stylesheet" type="text/css" href="../assets/css/submitstyle.css">
-    <script>
-  (function(d) {
-    var config = {
-      kitId: 'rfk6fro',
-      scriptTimeout: 3000,
-      async: true
-    },
-    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-  })(document);</script>
+    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/submitstyle.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
   </head>
 
    <title>submit</title>
 
 <body>
-  <header>
-    <a href="../index.html">
-      <div class="logo">
-        <img src="../assets/images/doublespeak_logo.png" alt="Click here to return to the homepage.">
-      </div> 
-    </a>
-    <div class="nav">
-      <ul>
-        <li><a href="contentindex.html">index</a></li>
-        <li><a href="search.html">search</a></li>
-        <li><a href="about.html">about</a></li>
-        <li><a href="submit.html">submit</a></li>
-        <li><a href="issues.html">issues</a></li>
-      </ul>
-    </div>
-  </header>
+  {% include navbar.html %}
   <div class="submit">
     <h1>call for submissions</h1>
     <p class="submit-p"><em>DoubleSpeak</em>, Penn’s only literary translation magazine, is now accepting submissions for its 2022–2023 issue!</p>

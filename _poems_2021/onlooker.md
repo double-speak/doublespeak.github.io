@@ -49,8 +49,8 @@ tbio: |-
   <p>Xisheng Chen, a Chinese American, is an ESL grammarian, lexicologist, linguist, translator and educator. His educational background includes: a BA and an MA from Fudan University, Shanghai, China, and a Mandarin Healthcare Interpreter Certificate from the City College of San Francisco. His working history includes: translator for Shanghai TV Station, Evening English News; Lecturer at Jiangnan University, Wuxi, China; Adjunct Professor at the Departments of English and Social Sciences of Trine University (formerly Tri-State University), Angola, Indiana; notary public; and contract high-tech translator for Futurewei Technologies, Inc. in Santa Clara, California. As a translator for over three decades, he has published a lot of translations in various fields in newspapers and journals in China and abroad. Three poems co-translated by him and Chen Du were finalists in the Gabo Prize for Literature in Translation and Multilingual Texts in 2020.</p>
 language: Chinese
 lang: zh
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1VD0ayMr8c-4Lxql_sdQ81Zx78TAORHuY/preview\">\n
   \ </iframe>\n</div>\n"

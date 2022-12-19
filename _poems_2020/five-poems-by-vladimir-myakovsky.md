@@ -24,14 +24,14 @@ poem: "<h2>I</h2>\nЛюбит? не любит? Я руки ломаю\nи па�
   лепестком под каблуками танца\nНо человек душой губами костяком\n\n \n \n\n\n"
 transpoem: "<h2>I</h2>\nShe loves me? She loves me not? I break my hands\nand fingers,
   \nscatter \n     and shatter, \nas the others seize \nand release \ntête-à-tête
-  petals of daisy\ninto May. \n\nlet a haircut and shave reveal                                                 the
-  gray \nlet silver ages \nresound \nall \nthe way\nbut without ever bringing me,
-  \nI hope, I believe—\nthe shameful prudence. \n\n<h2>II</h2>\nIt’s almost two o’clock
-  \ \n                you must have gone to sleep\nBut maybe\nlike me, you also—\nAlas,
-  I won’t rush it\nAnd with the lightning of a telegram— \nno, I have no reason \nto
-  awake and disturb \nyou\n\n<h2>III</h2>\nThe sea goes to sleep\nThe sea goes—freeze\nLike
-  they say, the incident is settled—spoiled and soured \nLove’s gondola crashed against
-  the mundane \nWith you all accounts have been sealed \nNo point in tallying up mutual
+  petals of daisy\ninto May. \n\nlet a haircut and shave reveal\nthe gray \nlet silver
+  ages \nresound \nall \nthe way\nbut without ever bringing me, \nI hope, I believe—\nthe
+  shameful prudence. \n\n<h2>II</h2>\nIt’s almost two o’clock  \n                you
+  must have gone to sleep\nBut maybe\nlike me, you also—\nAlas, I won’t rush it\nAnd
+  with the lightning of a telegram— \nno, I have no reason \nto awake and disturb
+  \nyou\n\n<h2>III</h2>\nThe sea goes to sleep\nThe sea goes—freeze\nLike they say,
+  the incident is settled—spoiled and soured \nLove’s gondola crashed against the
+  mundane \nWith you all accounts have been sealed \nNo point in tallying up mutual
   pain and hurt and grief\n\n<h2>IV</h2>\nit’s almost two o’clock you must’ve gone
   to sleep \nat night the Milkyway looks like a silver river\ni won’t rush it and
   with the lightning of a telegram\ni have no reason to awake and disturb you\nas
@@ -69,12 +69,12 @@ tbio: "<p>Jianing Zhao is a senior at Princeton University majoring in Slavic La
   listening to Soviet rock, and touching electric wires.</p>"
 language: Russian
 lang: ru
-image: "../assets/images/images_20/jianing_zhao.jpeg"
-image2:
+image: "/assets/images/images_20/jianing_zhao.jpeg"
+image2: 
 imagecredit: photo by Jianing Zhao
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '04'

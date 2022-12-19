@@ -158,12 +158,12 @@ tbio: |-
   <p>I moved to the US at the age of thirty, my first six years spent in the “Bible Belt” (specifically Vanderbilt and the University of Oklahoma), where I learned many new things about English. This weekend is yet another anniversary of my dad’s passing (11/17/1939–10/20/2001) of lung cancer. Like every cool dude in his days (Vladimir Vysotskii included), Dad used to smoke a lot. The song I’ve attempted to translate here is the song I played for the small gathering at his funeral – a song celebrating life in what seems a singularly Russian way, painting heaven as the best of all worlds, save one: ours.</p>
 language: Russian
 lang: ru
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '06'

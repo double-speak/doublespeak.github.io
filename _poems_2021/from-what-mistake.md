@@ -43,7 +43,7 @@ tbio: "<p>Nadia Park graduated from the University of Pennsylvania in 2019 as a 
   — a poet.</p>"
 language: Korean
 lang: ko
-image: "../assets/images/images_21/kim_soon_mi.jpeg"
+image: "/assets/images/images_21/kim_soon_mi.jpeg"
 imagecredit: photo by Nadia Park
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1xAIJOXgGKGMel-HVxue8KT9WF8ZQofSP/preview\">\n

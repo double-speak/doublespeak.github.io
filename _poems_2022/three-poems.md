@@ -1,6 +1,6 @@
 ---
 pid: three-poems
-title:
+title: 
 transtitle: Three poems
 author: Stella N’Djoku
 translator: Julia Pelosi-Thorpe
@@ -43,10 +43,10 @@ tbio: |-
   </p>
 language: Italian
 lang: it
-image: "../assets/images/images_22/n'djoku.jpg"
+image: "/assets/images/images_22/n'djoku.jpg"
 image2: none
 imagecredit: photo by Ryan Hardy
-imagecredit2:
+imagecredit2: 
 origaudio: |-
   <div>
 
@@ -57,10 +57,10 @@ origaudio: |-
     src="https://drive.google.com/file/d/1Qi1pKy_UbfgI7yHcGobHwbHHAgHOZ5dt/preview">
   </iframe>
   </div>
-translaudio:
+translaudio: 
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '15'
 layout: poempage
 collection: poems_2022

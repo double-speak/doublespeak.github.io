@@ -98,7 +98,7 @@ tbio: "<p>Shilpa Saravanan is a sophomore at the University of Pennsylvania stud
   <em>Buddenbrooks</em> bad.</p>"
 language: French
 lang: fr
-image: "../assets/images/images_16/baudelaire.jpg"
+image: "/assets/images/images_16/baudelaire.jpg"
 image2:
 imagecredit: photo by Shailly Pandey
 imagecredit2:

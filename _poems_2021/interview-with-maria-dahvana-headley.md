@@ -1,48 +1,49 @@
 ---
 pid: interview-with-maria-dahvana-headley
-title: Interview with Maria Dahvana Headley
+title: 'Interview with Maria Dahvana Headley: a conversation on translation, storytelling,
+  and feminism'
 transtitle: Interview with Maria Dahvana Headley
-author: a conversation on translation, storytelling, and feminism
-translator:
-poem:
-transpoem:
-note: "<p><em>This interview was conducted by </em>DoubleSpeak<em> staff and Professor
-  Taije Silverman.</em></p>\n \n<p><strong><em>DoubleSpeak</em>:</strong> The first
-  question for today is: What got you interested in translation, and how do you see
-  this influencing your work as a writer?</p>\n\n<p><strong>Maria Dahvana Headley:</strong>
-  Well, I came about this through a sort of backward path. I wrote a novel based on
-  <em>Beowulf</em>, which is called <em>The Mere Wife</em>, set in contemporary America
-  from the POV of the female characters. When <em>The Mere Wife</em> was about to
-  come out, I gave a reading from it at a conference. In the Q&A, I was talking about
-  all the translations I read, specifically Tolkien’s translation, and said, “Oh,
-  you know, some of them were really sexist. They make Grendel’s mother into an emphatic,
-  unmistakable monster.” And, someone in the audience raised their hand and said,
-  “When is your translation coming out? You’re obviously doing one.” And, I said,
-  “I’m not doing that.” And, then I thought about it for a few days and thought, “Well,
-  maybe.”</p>\n\n<p>Tolkien’s translation uses a lot of language that is archaic,
-  but I thought while reading it, this is a “bro” story, a story in which there’s
-  tons of masculine bragging. I saw a path to use a lot of contemporary language alongside
-  the archaic. When I sold this translation, I said to my editor, “I want to translate
-  <em>Beowulf</em>. I know that’s crazy, but I want to do it. I’ll translate the first
-  word, the legendary <em>hwæt</em>, which is often translated as ‘hark’ or ‘lo’ or
-  Seamus Heaney’s legendary ‘so,’ as ‘bro’ and use that to lead us to a POV for opening
-  the story.” In terms of getting the floor and establishing a character perspective
-  within the material through translation, I thought that “bro” was a way to do that.</p>\n\n<p><strong>DS:</strong>
-  That’s very cool. I think I’m really fascinated by the opening with the word “bro”
-  and also the idea that you mentioned in your introduction, which is the mixing of
-  archaic words and new words as if dropping fossils next to newborns. I really loved
-  this metaphor and the idea of putting words together that seem to come from different
-  historical periods but make sense to us with a sense of universality and timelessness.
-  Can you tell us more about that?</p>\n\n<p><strong>MDH:</strong> Yeah, I did that
-  consciously. I wanted to give us a tour through 1300 years of the English language.
-  Old English evolved into contemporary English, but not always in the ways that we
-  would think. It’s a really interesting trove, and it has words that have transformed
-  almost perfectly into their contemporary equivalents and words that are really different.
-  So, I wanted to use this translation to think about storytelling through history
-  and the ways in which we communicate idioms and communicate references to historical
-  events in order to create understanding across cultures.</p>\n\n<p>There’s a way
-  to do this translation entirely in contemporary slang, like a translation of the
-  twenty-first century, but the twenty-first century is  a compendium of everything
+author: 
+translator: 
+poem: 
+transpoem: 
+note: "<p><em>This interview was conducted by <strong><em>DoubleSpeak</em></strong>
+  \ staff and Professor Taije Silverman.</em></p>\n \n<p><strong><em>DoubleSpeak</em></strong>
+  The first question for today is: What got you interested in translation, and how
+  do you see this influencing your work as a writer?</p>\n\n<p><strong>Maria Dahvana
+  Headley:</strong> Well, I came about this through a sort of backward path. I wrote
+  a novel based on <em>Beowulf</em>, which is called <em>The Mere Wife</em>, set in
+  contemporary America from the POV of the female characters. When <em>The Mere Wife</em>
+  was about to come out, I gave a reading from it at a conference. In the Q&A, I was
+  talking about all the translations I read, specifically Tolkien’s translation, and
+  said, “Oh, you know, some of them were really sexist. They make Grendel’s mother
+  into an emphatic, unmistakable monster.” And, someone in the audience raised their
+  hand and said, “When is your translation coming out? You’re obviously doing one.”
+  And, I said, “I’m not doing that.” And, then I thought about it for a few days and
+  thought, “Well, maybe.”</p>\n\n<p>Tolkien’s translation uses a lot of language that
+  is archaic, but I thought while reading it, this is a “bro” story, a story in which
+  there’s tons of masculine bragging. I saw a path to use a lot of contemporary language
+  alongside the archaic. When I sold this translation, I said to my editor, “I want
+  to translate <em>Beowulf</em>. I know that’s crazy, but I want to do it. I’ll translate
+  the first word, the legendary <em>hwæt</em>, which is often translated as ‘hark’
+  or ‘lo’ or Seamus Heaney’s legendary ‘so,’ as ‘bro’ and use that to lead us to a
+  POV for opening the story.” In terms of getting the floor and establishing a character
+  perspective within the material through translation, I thought that “bro” was a
+  way to do that.</p>\n\n<p><strong>DS:</strong> That’s very cool. I think I’m really
+  fascinated by the opening with the word “bro” and also the idea that you mentioned
+  in your introduction, which is the mixing of archaic words and new words as if dropping
+  fossils next to newborns. I really loved this metaphor and the idea of putting words
+  together that seem to come from different historical periods but make sense to us
+  with a sense of universality and timelessness. Can you tell us more about that?</p>\n\n<p><strong>MDH:</strong>
+  Yeah, I did that consciously. I wanted to give us a tour through 1300 years of the
+  English language. Old English evolved into contemporary English, but not always
+  in the ways that we would think. It’s a really interesting trove, and it has words
+  that have transformed almost perfectly into their contemporary equivalents and words
+  that are really different. So, I wanted to use this translation to think about storytelling
+  through history and the ways in which we communicate idioms and communicate references
+  to historical events in order to create understanding across cultures.</p>\n\n<p>There’s
+  a way to do this translation entirely in contemporary slang, like a translation
+  of the twenty-first century, but the twenty-first century is  a compendium of everything
   that came before it. That’s something that’s always been really meaningful to me
   when thinking about history, especially the history of power structures and unfair
   status grabs. I think we tend to be like, “No, we’re just free-standing here in
@@ -218,15 +219,15 @@ note: "<p><em>This interview was conducted by </em>DoubleSpeak<em> staff and Pro
   mother, grieving the potential loss of a child, and that’s a big part of what this
   poem is about. I got a new window into it. So, the things that I lost in terms of
   my ability to just write all day, I gained in my ability to see through the eyes
-  of the mothers in the <em>Beowulf</em> story.</p>\n"
-abio:
-tbio:
+  of the mothers in the <em>Beowulf</em> story.</p>"
+abio: 
+tbio: 
 language: English
 lang: en
-image: "../assets/images/images_21/interview.jpeg"
+image: "/assets/images/images_21/interview.jpeg"
 imagecredit: photo by Chardonnay Needler
-origaudio:
-translaudio:
+origaudio: 
+translaudio: 
 edition: '2021'
 pagetype: interview
 order: '15'

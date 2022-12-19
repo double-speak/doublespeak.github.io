@@ -24,6 +24,91 @@ a {
 	width: 80px;
 }
 
+@media screen and (max-width: 750px) {
+	.previousmobile {
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		display: inline-block !important;
+	}
+
+	.previousmobile a {
+		display: inline-block;
+		padding: 0px;
+		color: black;
+		text-decoration: none;
+		font-family: futura-pt, sans-serif;
+		font-weight: 300;
+		font-style: normal;
+		font-size: 18px;
+		line-height: 20px;
+		margin-top: 0px;
+		margin-bottom: 30px;
+		margin-left: -20px;
+		margin-right: 40px;
+	}
+
+	.nextmobile {
+		position: fixed;
+		bottom: 0;
+		right: 0;
+		display: inline-block !important;
+	}
+
+	.nextmobile a {
+		display: inline-block;
+		padding: 0px;
+		color: black;
+		text-decoration: none;
+		font-family: futura-pt, sans-serif;
+		font-weight: 300;
+		font-style: normal;
+		font-size: 18px;
+		line-height: 20px;
+		margin-top: 0px;
+		margin-bottom: 30px;
+		margin-left: 40px;
+		margin-right: -20px;
+	}
+
+	.previouslink{
+		display: none;
+	}
+	.nextlink{
+		display: none;
+	}
+
+	.poems {
+/*		justify-content:flex-start !important;
+*/			
+	}
+	.ogpoem {
+	/*	min-width: 25rem;*/
+		/*width:max-content;*/
+		width: 60vw !important;
+		flex-basis:25%;
+	}
+
+	.transpoem {
+	/*	min-width: 25rem;*/
+		width: 60vw !important;
+		/*width:max-content;*/
+		flex-basis:25%;
+	}
+
+}
+
+.previousmobile{
+	display: none;
+}
+.nextmobile{
+	display: none;
+}
+
+.nav .icon {
+  display: none;
+}
+
 .nav {
 	position: static;
 	height: 40px;
@@ -55,6 +140,20 @@ a {
 	margin-right: 10px;
 	transition: 0.3s;
 }
+.nav li link {
+	display: block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: right;
+	padding: 10px 16px;
+	border: transparent solid 1px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: 0.3s;
+}
 .nav a:hover{
   	border: solid black 1px;
 }
@@ -66,7 +165,7 @@ h1 {
 	font-weight: 400;
 	font-style: normal;
 	font-size: 34px;
-	line-height: 36px;
+	line-height: 26px;
 	color: black;
 /*	text-align: left;*/
 	margin-top: 40px;
@@ -109,6 +208,7 @@ pre {
 	color: black;
 	margin-top: 0px;
 	margin-bottom: 30px;
+	white-space: pre-wrap;
 /*	margin-left: 40px;
 	margin-right: 40px;*/
 }
@@ -189,12 +289,16 @@ p strong {
 /*top links*/
 
 .tcontentslink {
-	height: 70px;
+/*	height: 70px;
+	margin: 40px 0 0 120px;*/
+	margin-right:auto;
+	display:inline-block;
 }
 
 .tcontentslink a {
-	display: inline-block;
-	margin: 40px 0 0 -80px;
+	font-family: futura-pt, sans-serif;
+/*	margin: 40px 0 0 -80px;*/
+	font-weight: 300;
 	color: black;
 	text-decoration: none;
 	font-size: 18px;
@@ -203,22 +307,32 @@ p strong {
 
 .tcontentslink a:hover {
 	text-decoration: underline;
+
+}
+
+.headerart {
+	width: 70%;
+	display: flex;
+	margin: -60px 0 20px -25px;
 }
 
 .poemtags {
-	margin: -63px 30px 0 0;
-	column-width: 50%;
+/*	margin: -63px 30px 0 0;
+*/	/*column-width: 50%;*/
 }
 
 .poemtags ul {
 	list-style: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
+	margin: 10px;
+	padding: 10px;
+/*	overflow: hidden;
+*/	display: flex;
+	flex-wrap:wrap;
+	justify-content: flex-end;
+
 }
 
 .poemtags li {
-	float: right;
 }
 
 .poemtags li a {
@@ -250,7 +364,7 @@ p strong {
 	display:flex;
 	flex-wrap: wrap;
 	justify-content:center;
-	gap:20px;
+	gap:50px;
 }
 
 .ogtitle {
@@ -280,6 +394,11 @@ p strong {
 	flex-basis:25%;
 }
 
+.audio {
+	margin-top: 50px;
+	width: 50%;
+}
+
 .note {
 	margin: 0px 0 30px 0px;
 }
@@ -293,7 +412,7 @@ p strong {
 .previouslink {
 	position: fixed;
 	bottom: 0;
-	left: -10px;
+	left: 0;
 }
 
 .previouslink a {
@@ -301,8 +420,16 @@ p strong {
 	padding: 10px;
 	color: black;
 	text-decoration: none;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
 	font-size: 18px;
 	line-height: 20px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	margin-right: 40px;
+	background-color: white;
 }
 
 .previouslink a:hover {
@@ -320,8 +447,16 @@ p strong {
 	padding: 10px;
 	color: black;
 	text-decoration: none;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
 	font-size: 18px;
 	line-height: 20px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 40px;
+	margin-right: 20px;
+	background-color: white;
 }
 
 .nextlink a:hover {

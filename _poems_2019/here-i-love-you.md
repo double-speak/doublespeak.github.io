@@ -16,8 +16,8 @@ poem: "Aquí te amo. \nEn los oscuros pinos se desenreda el viento. \nFosforece 
   fatiga mi vida inútilmente hambrienta. \nAmo lo que no tengo. Estás tú tan distante.
   \nMi hastío forcejea con los lentos crepúsculos. \nPero la noche llega y comienza
   a cantarme. \nLa luna hace girar su rodaje de sueño. \n\nMe miran con tus ojos las
-  estrellas más grandes. \nY como yo te amo, los pinos en el viento,                                                                                            quieren
-  cantar tu nombre con sus hojas de alambre."
+  estrellas más grandes. \nY como yo te amo, los pinos en el viento,\nquieren cantar
+  tu nombre con sus hojas de alambre."
 transpoem: "Here I love you.\nIn the dark pines the wind untangles itself.\nThe moon
   radiates over the roaming waters.\nIdentical days chase after each other.\n\nFog
   loosens into dancing figures.\nA silver seagull unhooks from the sunset.\nSometimes
@@ -62,12 +62,12 @@ tbio: "<p>Stephanie Diaz is a junior at the University of Pennsylvania studying 
   future life in a cottage by a lake with dogs and a garden.</p>"
 language: Spanish
 lang: es
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '13'

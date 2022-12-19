@@ -61,8 +61,8 @@ tbio: "<p>Darío Goldgel Carballo is a PhD candidate in the romance languages de
   taking his translation more seriously.</p>"
 language: Spanish
 lang: es
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1H2SLjgNfAjNHDhwDXMunm2grSD0-XPtG/preview\">\n
   \ </iframe>\n</div>\n"

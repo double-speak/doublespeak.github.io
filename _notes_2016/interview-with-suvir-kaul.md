@@ -288,7 +288,7 @@ abio:
 tbio:
 language:
 lang:
-image: "../assets/images/images_16/kaul_interview.jpg"
+image: "/assets/images/images_16/kaul_interview.jpg"
 image2:
 imagecredit: photo by Shailly Pandey
 imagecredit2:

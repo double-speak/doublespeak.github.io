@@ -11,15 +11,15 @@ poem: "Quand je mourrai,\nNe pleurez pas\nIl faudra blanchir vos dents\nIl faudr
   cacher.\n \nQuand je mourrai,\nPermettez à cette terre de Foundiougne\nDe couver
   mon sommeil éternel\nPriez pour que je demeure la nourrice\nDe ses entrailles.\n
   \nQuand je mourrai\nLisez mes écrits\nNe m’oubliez jamais.\n \nQuand je mourrai,\nVenez
-  visiter ma tombe les vendredi, samedi et dimanche\nJe vous demanderai de fêter cet
-  anniversaire,\nCe jour où la poétesse a embrassé\nLa fraîcheur de ces ombres éternelles.\n
-  \nQuand je mourrai\nNe m’oubliez jamais,\nJe vous dédierai d’autres poèmes dans
-  ma tombe\nCar au royaume des cieux je continuerai\nA écrire pour vous.\n\n<h1>Femmes</h1>\n\n<i>A
-  toute mes soeurs qui souffrent loin de moi</i>\n\nFemmes africaines !\nFemmes de
-  savanes et de la steppe ! \nFemmes des régions libérées ! \nFemmes de la Guinée
+  visiter ma tombe les vendredi, \nsamedi et dimanche\nJe vous demanderai de fêter
+  cet anniversaire,\nCe jour où la poétesse a embrassé\nLa fraîcheur de ces ombres
+  éternelles.\n \nQuand je mourrai\nNe m’oubliez jamais,\nJe vous dédierai d’autres
+  poèmes \ndans ma tombe\nCar au royaume des cieux je continuerai\nA écrire pour vous.\n\n<h1>Femmes</h1>\n\n<i>A
+  toute mes soeurs \nqui souffrent loin de moi</i>\n\nFemmes africaines !\nFemmes
+  de savanes et de la steppe ! \nFemmes des régions libérées ! \nFemmes de la Guinée
   Bissau, femmes d’Afrique ! \n\nVous avez aimé devant la rougeur de feux, \nSous
-  le silence de l’ennemi, \nVous avez donné vie sous les crépitements des mitrailleuses\nVous
-  les sœurs opprimées, vous qui gardez dans vos entailles \nLe visage de l’Afrique
+  le silence de l’ennemi, \nVous avez donné vie sous les crépitements \ndes mitrailleuses\nVous
+  les sœurs opprimées, vous qui gardez \ndans vos entailles \nLe visage de l’Afrique
   immortelle ! \nVous ne pourrez être oubliées, ni décolorées. \n\nVous avez nourri
   l’Afrique de votre sève\nVotre peau d’ébène a refusé la caresse du colonisateur.
   \n\nFemmes africaines ! \nBelles femmes à la peau sombre\nAcceptez la demande de
@@ -28,19 +28,19 @@ poem: "Quand je mourrai,\nNe pleurez pas\nIl faudra blanchir vos dents\nIl faudr
   combat, et je crierai : \n\nVIVE L’AFRIQUE LIBRE ! "
 transpoem: "When I die,\nYou must whiten your teeth,\nYou must pray so that I leave!\n
   \nWhen I die,\nI will entrust to you my children,\nTeach them to read and write,\nShow
-  them the songs of the enlightened, \nSo that they nourish themselves with dream
+  them the songs of the enlightened, \nSo that they nourish themselves with \ndream
   and goals,\nSo that they take my quill that I prize\nThe care not to hide.\n \nWhen
   I die,\nAllow this earth of Foundiougne\nTo swathe my eternal slumber\nPray so that
   I remain the caretaker\nOf its depths.\n \nWhen I die\nRead my writings\nNever forget
-  me.\n \nWhen I die,\nCome to visit my tomb on Fridays, Saturdays and Sundays\nI
+  me.\n \nWhen I die,\nCome to visit my tomb on Fridays, \nSaturdays and Sundays\nI
   will ask you to celebrate this anniversary,\nThis day where the poetess embraced\nThe
   coolness of these eternal shadows.\n \nWhen I die\nNever forget me,\nI will dedicate
   to you the other poems in my tomb\nBecause in the kingdom of heaven I will continue\nTo
   write for you.\n\n<h1>women</h1>\n<i>To all my sisters who suffer far from me</i>\n\nWomen
   of Africa! \nWomen of the Savanah and the Plain! \nWomen of the liberated regions!
   \nWomen of the Guinea-Bissau, women of Africa! \n\nYou have loved before the blush
-  of fire, \nUnder the silence of the enemy, \nYou have given life under the sputter
-  of machine guns, \nYou the sisters oppressed, you who guard in your womb, \nThe
+  of fire, \nUnder the silence of the enemy, \nYou have given life under \nthe sputter
+  of machine guns, \nYou the sisters oppressed, \nyou who guard in your womb, \nThe
   face of the immortal Africa! \nYou will not be neither forgotten, nor left to fade.
   \n\nYou have fed Africa from your lifeblood\nYour skin of ebony refuses the caress
   of the colonizer. \n\nWomen of Africa! \nBeautiful women with dark skin \nAccept
@@ -64,9 +64,9 @@ tbio: "<p>Donnisa Edmonds is a recent graduate of the University of Pennsylvania
   opinions with anyone who will listen.</p>"
 language: French
 lang: fr
-image:
-imagecredit:
-origaudio: |+
+image: 
+imagecredit: 
+origaudio: |-
   <div>
     <iframe
       frameborder="0"
@@ -76,6 +76,7 @@ origaudio: |+
     </iframe>
   </div>
 
+
   <div>
     <iframe
       frameborder="0"
@@ -84,7 +85,6 @@ origaudio: |+
       src="https://drive.google.com/file/d/1-nEb5luuxxDUP1rllnFfs6I655FshoDq/preview">
     </iframe>
   </div>
-
 translaudio: |+
   <div>
     <iframe
@@ -109,5 +109,4 @@ pagetype: submission
 order: '20'
 layout: notepage
 collection: notes_2021
-...
 ---

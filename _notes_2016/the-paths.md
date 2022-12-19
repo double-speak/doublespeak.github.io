@@ -45,7 +45,7 @@ tbio: "<p>As a psychology major, poetry has not been central to my academic purs
   hobby.</p>"
 language: Bulgarian
 lang: bg
-image: "../assets/images/images_16/matev.jpg"
+image: "/assets/images/images_16/matev.jpg"
 image2:
 imagecredit: photo by Mirela Zaneva
 imagecredit2:

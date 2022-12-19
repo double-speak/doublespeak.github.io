@@ -71,7 +71,7 @@ note: <p>I took a more experimental approach while working with this poem, and I
   the poet’s use of <span lang="zh">闻味</span> signified the blindly primal nature
   of the fish’s movements, and I considered “nibbling” to be a good alternative to
   signifying such primal nature.</p>
-abio: <p>Shu Ting (span lang="zh">舒婷</span>) is from Fujian, China. She is usually
+abio: <p>Shu Ting (<span lang="zh">舒婷</span>) is from Fujian, China. She is usually
   associated with the Misty Poets. She was born in 1952, and during the Cultural Revolution,
   was sent to the Chinese countryside because of her family’s political ideology.
   She returned to Fujian in 1972 and spent time working in factories for her livelihood.
@@ -89,12 +89,12 @@ tbio: "<p>Shuke Zeng is an undergraduate student at Penn. She majors in English 
   of Shu Ting’s poems and the Chinese language that she has always been drawn to.</p>"
 language: Chinese
 lang: zh
-image: "../assets/images/images_20/shengyi_lu.png"
-image2:
+image: "/assets/images/images_20/shengyi_lu.png"
+image2: 
 imagecredit: photo by Shengyi Liu
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '26'

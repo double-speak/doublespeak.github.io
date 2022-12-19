@@ -22,10 +22,10 @@ poem: |-
   schattenfussig,
   dein Traum
   hat Herbstaugen.
-transpoem: "Press yourself close\nto the ground.\nThe earth\nstill smells like summer\nand
-  your body\nstill smells like love.\nBut the grass \naround you is already yellow.\nThe
-  wind is cold\nand full of thistledown.\nAnd the dream that chases you\non the shadows
-  of your feet — \nyour dream\nhas autumn eyes."
+transpoem: "Press yourself close\nto the ground.\n\nThe earth\nstill smells like summer\nand
+  your body\nstill smells like love.\n\nBut the grass \naround you is already yellow.\nThe
+  wind is cold\nand full of thistledown.\n\nAnd the dream that chases you\non the
+  shadows of your feet — \nyour dream\nhas autumn eyes."
 note: "<p>I didn’t have to compromise too much while translating this poem. Its simple
   words are, for the most part, easily felt in their English counterparts. This is
   why I kept a very direct translation in all but a few cases.</p> <p>However, there
@@ -77,12 +77,12 @@ tbio: "<p>Dillon is a junior majoring in comparative literature. He loves mornin
   university city next to Black Forest.</p>"
 language: German
 lang: de
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '09'

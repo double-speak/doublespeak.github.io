@@ -4,9 +4,9 @@ title: <span lang="zh">开封日记</span>
 transtitle: Diary of the Lockdown Lifted
 author: Zhang Zhihao
 translator: "<em>DoubleSpeak</em> Staff"
-poem: "重复生活的危险性\n就在于记忆容易被消磁\n我已经不记得昨天的事了\n就像昨天不存在似的\n今天是封城的第76天\n也是最后一日\n我坐在家里就像\n坐在城外的空地上\n阳光明艳照见我有泪水\n我必须眯上眼睛使劲看\n才能依稀看见\n一个未亡人\n闪烁在地平线上的影子\n扭曲，失真，不成人形\n当他越走越近时\n我会站起身来\n奔过去\n与他相拥而泣\n2020-4-7\n<span
-  lang=\"eng\" style=\"font-family: futura-pt, sans-serif !important\">\n<h1>Tagebuch
-  vom Ende der Quarantäne</h1>\n<h2>translated by Couloir Hanson</h2>\n\nDie Gefahr,
+poem: "<p>重复生活的危险性\n就在于记忆容易被消磁\n我已经不记得昨天的事了\n就像昨天不存在似的\n今天是封城的第76天\n也是最后一日\n我坐在家里就像\n坐在城外的空地上\n阳光明艳照见我有泪水\n我必须眯上眼睛使劲看\n才能依稀看见\n一个未亡人\n闪烁在地平线上的影子\n扭曲，失真，不成人形\n当他越走越近时\n我会站起身来\n奔过去\n与他相拥而泣\n2020-4-7</p>\n<span
+  lang=\"eng\" style=\"font-family: futura-pt, sans-serif !important\">\n<h3>Tagebuch
+  vom Ende der Quarantäne</h3>\n<h4>translated by Couloir Hanson</h4>\n\n<p>Die Gefahr,
   dass sich das Leben wiederholt ist,\ndass das Gedächtnis dazu neigt, sich zu entmagnetisieren.\nIch
   kann mich schon nicht erinnern, was gestern passiert ist,\nals ob gestern nicht
   existiert hätte.\nHeute ist der 76. Tag der Quarantäne\nauch der letzte Tag.\nIch
@@ -14,8 +14,8 @@ poem: "重复生活的危险性\n就在于记忆容易被消磁\n我已经不记
   auf meine Tränen.\nIch muss wirklich hart schielen\nKaum zu sehen\nDer Schatten
   eines Überlebenden\nAm Horizont blinkend\nVerzerrt, unwahr, nicht mehr in menschlicher
   Form.\nEr kommt näher\nUnd ich stehe,\nLauf zu ihm rüber\nUnd umarme ihn mit gemeinsamen
-  Tränen.\n\n<h1>Stær coðuloca</h1>\n<h2>translated by Quinn Gruber</h2>\n\nFolc gode
-  hwile\nEalfela windæge,\nMæg tobrecan        \nSwiðrode fram geþohte \nGirstandæg
+  Tränen.</p>\n\n<h1>Stær coðuloca</h1>\n<h2>translated by Quinn Gruber</h2>\n\n<p>Folc
+  gode hwile\nEalfela windæge,\nMæg tobrecan        \nSwiðrode fram geþohte \nGirstandæg
   no wæs,\nTo dæge rimeð siesta\nDagas hilda wiþ adl\nIc semie in seld\nswylc swa
   ic sitte\nSe sunnan wlite\nIc swince geseon\nHe hwa gedige\nBlicð he on brerd\nUngewunlic
   und unheore,\nFeorgbold fremde,\nÞa he nealæcð me,        \nIc me aræme\nIc geærne
@@ -23,25 +23,25 @@ poem: "重复生活的危险性\n就在于记忆容易被消磁\n我已经不记
   \neall me gesælde\ngirstandæg nalles limpen.\nund hundseofontigoþa \ngedrehte eall
   folc. \nhamsittende\non sidlande feor.\nwlat on min teares \nþone sceadugenga\ndeaðscua
   und stric\nbetwyn land und sunne\nwana hreðerloca\nwer forscieppen.\nmin nidgestella\nic
-  ætforan hine on feðe\nund hine ic ætfeole \nic tearighleor.\n\n<h1>Le journal d’un
-  confinement cessé</h1>\n<h2>translated by Chardonnay Needler</h2>\n\nLes dangers
-  de la répétition de la vie\nSe trouve dans les souvenirs détachés.\nJe ne me souviens
-  plus déjà d’affaires d’hier \nC’est presque comme hier n’a jamais existé \nAujourd’hui,
-  c’est le soixante-seizième jour du confinement\nC’est aussi la dernière journée
-  \ \nM’asseoir chez moi c’est comme\nS’asseoir dans les régions désoles au dehors
-  de la ville\nLe soleil brillant éclat ; il apparait que j’ai les larmes aux yeux\nIl
-  me faut plisser les yeux pour voir \nEt c’est là où je vois l’image floue \nD’une
-  veuve \nSon ombre qui étincelle à l’horizon \nDéformé, innocent, qui ne pouvait
-  pas appartenir à un être-humain\nQuand il est avancé \nJ’ai pu me lever\nFuir là-bas\nLui
-  embrasser et pleurer\n7/4/2020\n\n<h1>Diario del encierro levantado</h1>\n<h2>translated
-  by Heta Patel and Couloir Hanson</h2>\n\nQue la vida se repita tiene un peligro:\nes
+  ætforan hine on feðe\nund hine ic ætfeole \nic tearighleor.</p>\n\n<h1>Le journal
+  d’un confinement cessé</h1>\n<h2>translated by Chardonnay Needler</h2>\n\n<p>Les
+  dangers de la répétition de la vie\nSe trouve dans les souvenirs détachés.\nJe ne
+  me souviens plus déjà d’affaires d’hier \nC’est presque comme hier n’a jamais existé
+  \nAujourd’hui, c’est le soixante-seizième jour du confinement\nC’est aussi la dernière
+  journée  \nM’asseoir chez moi c’est comme\nS’asseoir dans les régions désoles au
+  dehors de la ville\nLe soleil brillant éclat ; il apparait que j’ai les larmes aux
+  yeux\nIl me faut plisser les yeux pour voir \nEt c’est là où je vois l’image floue
+  \nD’une veuve \nSon ombre qui étincelle à l’horizon \nDéformé, innocent, qui ne
+  pouvait pas appartenir à un être-humain\nQuand il est avancé \nJ’ai pu me lever\nFuir
+  là-bas\nLui embrasser et pleurer\n7/4/2020</p>\n\n<h1>Diario del encierro levantado</h1>\n<h2>translated
+  by Heta Patel and Couloir Hanson</h2>\n\n<p>Que la vida se repita tiene un peligro:\nes
   fácil que se desmagnetice la memoria. \nNo logro acordarme de ayer —\ncomo si no
   existiera.\nHoy es el 76to día de cuarentena \ny el último día.\nMe senté en casa\ncomo
   si estuviese sentándome en un prado vacío fuera de la ciudad,\nel sol irradiando
   al darle luz a mis lágrimas.\nTuve que entrecerrar mis ojos para ver,\npara distinguir,
   \nuna reliquia, apenas,\nuna sombra parpadeó hacia el horizonte.\nDistorcionado,
   irreal, perdiendo la forma humana,\nse acercó a mí.\nMe puse de pie,\ncorrí hacia
-  él\ny lo abracé con lágrimas compartidas.\n7/4/2020\n</span>"
+  él\ny lo abracé con lágrimas compartidas.\n7/4/2020</p></span>"
 transpoem: "The danger of life repeating itself\nis that memory is prone to degaussing\nI
   already do not remember what happened yesterday\nas if yesterday did not exist\nToday
   is the 76th day of the lockdown\nalso the last day\nI sit at home just like\nsitting
@@ -73,8 +73,7 @@ transpoem: "The danger of life repeating itself\nis that memory is prone to dega
   в пустом поле за города,\nсолнечный свет излучал, проливая на мои слезы.\nМне нужно
   было глаза, чтобы поглядеть,\nчтобы различать\nпережитка, едва,\nтень мерцал на
   горизонте.\nИскаженая, нереальная, не могущий поддерживать\nчеловеческую форму,\nон
-  подошёл ко мне ближе.\nЯ бы вставал,\nподбежал к нему\nпод руку, чтобы плакать вместе.\n07.04.2020\n\n\n\n
-  \n\n"
+  подошёл ко мне ближе.\nЯ бы вставал,\nподбежал к нему\nпод руку, чтобы плакать вместе.\n07.04.2020"
 note: |-
   <p>Zhang Zhihao’s depiction of the mundane, repetitive quarantine life has resonated with all of us. The poem <span lang= "zh">《开封日记》</span> speaks of a collectively shared experience in the times of isolation and imparts hope in the age of turmoil. When translating the poem, we have noted the matter-of-factness and repetitions in Zhang’s original poem and have tried to preserve these qualities when translating the poem into different languages. For instance, our Italian translation uses repeated <em>erò</em> ending of the future tense verbs as well as the echoed <em>i</em> in <em>piedi</em>, <em>lui</em> in the last few lines to evoke the sense of time blending together when the surroundings don’t change much. Similarly, our Portuguese translation describes the slow passing of time in quarantine by adding extra syllables such as <em>eu</em> and unnecessary prepositions to slow down the pace of the translation.</p>
 
@@ -103,15 +102,14 @@ tbio: "<p><em>DoubleSpeak</em> Staff is a group of poetry lovers and language af
   hosting a radio show at Penn. We are forever fascinated by the depth and breadth
   of language and translation, and we hope to share our love for such wonders with
   all the readers of <em>DoubleSpeak</em>.</p>\n"
-language: Chinese; English; German; Italian; Old English; Japanese; Portoguese; French;
-  Spanish; Russian
+language: 
 lang: zh
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1zZbY1ri7v576AOO6ZKhCkLtBWBa1ULsA/preview\">\n
   \ </iframe>\n</div>\n"
-translaudio:
+translaudio: 
 edition: '2021'
 pagetype: submission
 order: '36'

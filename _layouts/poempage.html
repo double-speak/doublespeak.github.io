@@ -6,45 +6,30 @@ layout: default
 <html>
 
 <head>
-  <link rel="stylesheet" type="text/css" href="../assets/css/poempagestyle.css">
-      <link rel="stylesheet" href="https://use.typekit.net/ixt2gok.css">
-    <script>
-  (function(d) {
-    var config = {
-      kitId: 'lit0ksd',
-      scriptTimeout: 3000,
-      async: true
-    },
-    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-  })(document);</script>
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/poempagestyle.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
 </head>
 
-   <title>{{page.title}}</title>
+   <title>{{page.transtitle}}</title>
 
 <body>
-  <header>
-    <a href="../index.html">
-      <div class="logo">
-        <img src="../assets/images/doublespeak_logo.png" alt="Click here to return to the homepage.">
-      </div>
-    </a>
-    <div class="nav">
-      <ul>
-        <li><a href="../contentindex.html">index</a></li>
-        <li><a href="../search.html">search</a></li>
-        <li><a href="../about.html">about</a></li>
-        <li><a href="../submit.html">submit</a></li>
-        <li><a href="../issues.html">issues</a></li>
-      </ul>
-    </div>
-  </header>
-  <div class="tcontentslink">
-    <p><a href="../toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
+{% include navbar.html %}
     <div class="poemtags">
       <ul>
-        <li><a href="../language_tags/{{page.language| slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
-        <li><a href="../translator_tags/{{page.translator | slugify: 'latin' | replace: '-','_'}}">{{page.translator}}</a></li>
-        <li><a href="../author_tags/{{page.author | slugify: 'latin' | replace: '-','_'}}">{{page.author}}</a></li>
+        <p class="tcontentslink link"><a href="{{site.baseurl}}/toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
+        {% if page.language and page.language != "English" %}
+        <li><a href="{{site.baseurl}}/language_tags/{{page.language| slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
+        {% endif %}
+        {% if page.translator %}
+        <li><a href="{{site.baseurl}}/translator_tags/{{page.translator | slugify: 'latin' | replace: '-','_'}}">{{page.translator}}</a></li>
+        {% endif %}
+        {% if page.author %}
+        <li><a href="{{site.baseurl}}/author_tags/{{page.author | slugify: 'latin' | replace: '-','_'}}">{{page.author}}</a></li>
+        {% endif %}
       </ul>
     </div>
   </div>
@@ -61,6 +46,9 @@ layout: default
     <div class="poems">
       <div class="ogpoem">
         <h1 class="poemtitle" lang= "{{ page.lang }}">{{page.title}}</h1>
+        <div class="headerart">
+          <img src="{{site.baseurl}}/assets/images/header_light.png" alt="line">
+        </div>
         <h2>{{page.author}}</h2>
         <hr />
         <pre lang="{{ page.lang }}">{{page.poem}}</pre>
@@ -70,6 +58,9 @@ layout: default
       </div>
       <div class="transpoem">
         <h1 class="poemtitle">{{page.transtitle}}</h1>
+        <div class="headerart">
+          <img src="{{site.baseurl}}/assets/images/header_dark.png" alt="line">
+        </div>
         <h2>{{page.translator}}</h2>
         <hr />
         <pre>{{page.transpoem}}</pre>
@@ -79,6 +70,7 @@ layout: default
       </div>
     </div>
   {% endif %}
+ 
 
 <!--   {% assign previousIndex = page.pid | minus: 1 %} -->
 
@@ -123,30 +115,52 @@ layout: default
   {% if fixpath == "poems_" %}
 
     <div class="previouslink">
-      <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{previousPage}}"> < &nbsp;previous</a></p>
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"> < &nbsp;previous</a></p>
+    </div>
+    <div class="previousmobile">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
     </div>
 
   {% elsif previousPage contains "ednote" %}
     <div class="previouslink">
-      <p class="link"><a href="{{site.url}}/frontmatter/{{previousPage}}"> < &nbsp;previous</a></p>
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"> < &nbsp;previous</a></p>
     </div>
-  
+  <div class="previousmobile">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
+    </div>
   {% else %}
 
   <div class="previouslink">
-    <p class="link"><a href="{{site.url}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
+    <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
   </div>
+  <div class="previousmobile">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
+    </div>
   {% endif %}
 
 
-  <div class="nextlink">
+  
   {% if page.pagetype == "musing" or page.pagetype == "interview" %}
-      <p class="link"><a href="{{site.url}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
+  <div class="nextlink">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
+    </div>
+
+<div class="nextmobile">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+    </div>
 
   {% else %}
-  
-      <p class="link"><a href="{{site.url}}/notes_{{page.edition}}/{{page.pid}}">next &nbsp; ></a></p>
+    <div class="nextlink">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}">next &nbsp; ></a></p>
+    </div>
+
+      <div class="nextmobile">
+
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+
+    </div>
 {% endif %}
   </div>
 </body>
-<html>
+</html>
+

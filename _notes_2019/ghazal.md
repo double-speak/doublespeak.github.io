@@ -34,15 +34,17 @@ abio: "<p>Hossein Monzavi (d. 2003) was an Iranian poet, essayist, and translato
   is recognizable by its effortless flow and its spiritedness. Monzavi wrote in Azeri
   Turkish, in addition to Persian. The <em>ghazal</em> here was selected from a collection
   of his poems titled <em>But You Human-in-Love, No One Understood You</em>.</p>"
-tbio: "<p>Ali Noori is a doctoral student at the University of Pennsylvania.</p>"
-language: Farsi/Persian
+tbio: "<p>Ali Noori is a doctoral student in religious studies at Penn. He likes <em>ghazals</em>.His
+  dissertation is titled Pious Praise Poetry: Emotions, Piety, and the Making of Medieval
+  Islamic Subject.</p>"
+language: Farsi
 lang: fa
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '02'

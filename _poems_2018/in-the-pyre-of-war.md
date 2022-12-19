@@ -27,7 +27,7 @@ tbio: "<p>Jacob Hershman is a sophomore in the College of Arts and Sciences, stu
   English.</p>"
 language: Hebrew
 lang: he
-image: "../assets/images/images_18/szenes.jpg"
+image: "/assets/images/images_18/szenes.jpg"
 image2:
 imagecredit: photo by Josh Glahn
 imagecredit2:

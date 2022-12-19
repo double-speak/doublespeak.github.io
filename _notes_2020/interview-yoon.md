@@ -2,8 +2,8 @@
 pid: interview-yoon
 title: An Interview with Emily Yoon
 transtitle: a conversation on translation, history, and feminism
-author:
-translator:
+author: 
+translator: 
 poem: "<p><em>Interview conducted by Yuxin (Vivian) Wen and Rhosean Asmah</p></em>\n\n<p><b>DS:</b>
   We’re really excited to have your translations of Yi Sang-hwa’s poems in this issue!
   Can you share with us when you first began translating from Korean into English,
@@ -171,20 +171,20 @@ poem: "<p><em>Interview conducted by Yuxin (Vivian) Wen and Rhosean Asmah</p></e
   kind of an isolating practice. But I never feel that way because I’ve always seen
   both practices as being a very rigorous communication with and analysis of other
   people who came before you, who wrote this before you could even imagine it.</p>"
-transpoem:
-note:
-abio:
-tbio:
-language:
-lang:
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+transpoem: 
+note: 
+abio: 
+tbio: 
+language: 
+lang: 
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
-pagetype: musing
+pagetype: interview
 order: '16'
 layout: notepage
 collection: notes_2020

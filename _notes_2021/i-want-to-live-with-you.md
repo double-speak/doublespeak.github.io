@@ -84,7 +84,7 @@ tbio: "<p>My name is Wenhan Zhang. I come from Singapore and China. I studied ph
   out of life that makes it worth living, for myself and all others.</p>"
 language: Russian
 lang: ru
-image: "../assets/images/images_21/tsvetaeva.jpeg"
+image: "/assets/images/images_21/tsvetaeva.jpeg"
 imagecredit: photo by Limin Gao
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1x3OqEdDtMGSqU-P16GxunsCwjudZGdlV/preview\">\n

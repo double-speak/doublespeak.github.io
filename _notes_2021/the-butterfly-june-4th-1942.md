@@ -49,7 +49,7 @@ tbio: "<p>My name is Karina Carreras, and I am a senior at the University of Iow
   this as well.</p>"
 language: German
 lang: de
-image: "../assets/images/images_21/friedmann.JPEG"
+image: "/assets/images/images_21/friedmann.JPEG"
 imagecredit: photo by Quinn Gruber
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1lV_dzFOlHHBTZU4AMSiwrBMyuhQwJ6Mu/preview\">\n

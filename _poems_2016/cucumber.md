@@ -4,37 +4,16 @@ title: Salatalık
 transtitle: Cucumber
 author: Nâzım Hikmet
 translator: Monica Wojciechowski
-poem: |-
-  Avluda diz boyu kar
-  lapa lapa da yağıyor
-  hızını alamadı sabahtan beri bir türlü.
-  Mutfaktayız.
-  Masada, muşambanın üstünde bahar
-  Masada, muşambanın üstünde körpecik bir salatalık
-  çiçeği burnunda, pütürlü.
-  Çepçevre oturmuş bakıyoruz ona
-  şavkı vuruyor yüzümüze yumuşacık
-  bir tazeliktir kokuyor bir tazelik.
-  Çepçevre oturmuş bakıyoruz ona
-  şaşkın,
-  düşünceli,
-  iyimser.
-  Rüyada gibi bir halimiz var.
-
-  Masada, muşambanın üstünde umut
-  Masada, muşambanın üstünde güzel günler
-  yeşil bir güneşle yüklü bir bulut
-  yaklaşan sabırsız zümrüt bir kalabalık
-  açılıp saçılacak sevdalar
-  masada, muşambanın üstünde körpecik bir salatalık
-  çiçeği burnunda, pütürlü.
-
-  Avluda diz boyu kar
-  lapa lapa da yağıyor
-  hızını alamadı sabahtan beri bir türlü.
-
-  Nâzım Hikmet
-  Mart 1960, Moskova
+poem: "Avluda diz boyu kar\nlapa lapa da yağıyor\nhızını alamadı sabahtan beri bir
+  türlü.\nMutfaktayız.\nMasada, muşambanın üstünde bahar\nMasada, muşambanın üstünde
+  körpecik \nbir salatalık\nçiçeği burnunda, pütürlü.\nÇepçevre oturmuş bakıyoruz
+  ona\nşavkı vuruyor yüzümüze yumuşacık\nbir tazeliktir kokuyor bir tazelik.\nÇepçevre
+  oturmuş bakıyoruz ona\nşaşkın,\ndüşünceli,\niyimser.\nRüyada gibi bir halimiz var.\n\nMasada,
+  muşambanın üstünde umut\nMasada, muşambanın üstünde güzel günler\nyeşil bir güneşle
+  yüklü bir bulut\nyaklaşan sabırsız zümrüt bir kalabalık\naçılıp saçılacak sevdalar\nmasada,
+  muşambanın üstünde körpecik \nbir salatalık\nçiçeği burnunda, pütürlü.\n\nAvluda
+  diz boyu kar\nlapa lapa da yağıyor\nhızını alamadı sabahtan beri bir türlü.\n\nNâzım
+  Hikmet\nMart 1960, Moskova"
 transpoem: "In the yard, snow sits tall\nand still, flake after flake falls\nsince
   morning, unfulfilled.\nWe’re in the kitchen.\nOn the table, atop the cloth, spring
   —\non the table, atop the cloth, a tender little cuke,\nwith bumpy husk and blossomed

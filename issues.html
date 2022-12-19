@@ -6,37 +6,15 @@ layout: default
 <html lang="en">
 
   <head>
-    <link rel="stylesheet" type="text/css" href="../assets/css/issuepagestyle.css">
-    <script>
-  (function(d) {
-    var config = {
-      kitId: 'rfk6fro',
-      scriptTimeout: 3000,
-      async: true
-    },
-    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-  })(document);</script>
+    <link rel="stylesheet" type="text/css" href="assets/css/issuepagestyle.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
   </head>
 
    <title>issues</title>
 
 <body>
-  <header>
-    <a href="../index.html">
-      <div class="logo">
-        <img src="../assets/images/doublespeak_logo.png" alt="Click here to return to the homepage.">
-      </div> 
-    </a>
-    <div class="nav">
-      <ul>
-        <li><a href="contentindex.html">index</a></li>
-        <li><a href="search.html">search</a></li>
-        <li><a href="about.html">about</a></li>
-        <li><a href="submit.html">submit</a></li>
-        <li><a href="issues.html">issues</a></li>
-      </ul>
-    </div>
-  </header>
+  {% include navbar.html %}
   <div class="latest">
     <h1 class="latest-h"> latest issue </h1>
     <p class="latest-p">You can find past and present issues of <i>DoubleSpeak</i> here! Click below to read our newest issue, or scroll to find our older issues.</p>
@@ -52,35 +30,35 @@ layout: default
         <div class="left-overlay"></div>
         <h2 class="left-overlay-text">
           <a href="toc2021.html" class="issue-link">spring 2021</a></h2>
-        <img src="../assets/images/spring_2021_cover.jpg" alt="spring 2021 cover: a view of a mountain over a body of water, seen through a round window." class="previssue-row">
+        <img src="assets/images/spring_2021_cover.jpg" alt="spring 2021 cover: a view of a mountain over a body of water, seen through a round window." class="previssue-row">
       </div>
       <div class="middle">
         <div class="middle-overlay"></div>
         <h2 class="middle-overlay-text"><a href="toc2020.html" class="issue-link">spring 2020</a></h2>
-        <img src="../assets/images/images_20/cover_2020.png" alt="spring 2020 cover: a child with black hair in a pink outfit, wearing a cute pig-shaped backpack. They stand in front of a body of water." class="previssue-row">
+        <img src="assets/images/images_20/cover_2020.png" alt="spring 2020 cover: a child with black hair in a pink outfit, wearing a cute pig-shaped backpack. They stand in front of a body of water." class="previssue-row">
       </div>
       <div class="right">
         <div class="right-overlay"></div>
         <h2 class="right-overlay-text"><a href="toc2019.html" class="issue-link">spring 2019</a></h2>
-        <img src="../assets/images/images_19/cover_2019_text.jpg" alt="spring 2019 cover: A canal in Venice lined with colorful buildings. The background is a vibrant sunset." class="previssue-row">
+        <img src="assets/images/images_19/cover_2019_text.jpg" alt="spring 2019 cover: A canal in Venice lined with colorful buildings. The background is a vibrant sunset." class="previssue-row">
       </div>
     </div>
-    <div class="previssue-row">
+    <!-- <div class="previssue-row">
       <div class="left">
         <div class="left-overlay"></div>
         <h2 class="left-overlay-text"><a href="toc2018.html" class="issue-link">spring 2018</a></h2>
-        <img src="../assets/images/images_18/cover_2018_text.jpg" alt="spring 2018 cover: Green mountains overlooking a body of water. The mountains and fog are reflected in the water." class="previssue-row">
+        <img src="assets/images/images_18/cover_2018_text.jpg" alt="spring 2018 cover: Green mountains overlooking a body of water. The mountains and fog are reflected in the water." class="previssue-row">
       </div>
       <div class="middle">
         <div class="middle-overlay"></div>
         <h2 class="middle-overlay-text"><a href="toc2017.html" class="issue-link">spring 2017</a></h2>
-        <img src="../assets/images/images_17/cover_text_2017.jpg" alt="spring 2017 cover: dried hydrangeas, roses, and other flowers hanging in front of a cream-colored brick wall." class="previssue-row">
+        <img src="assets/images/images_17/cover_text_2017.jpg" alt="spring 2017 cover: dried hydrangeas, roses, and other flowers hanging in front of a cream-colored brick wall." class="previssue-row">
       </div>
       <div class="right">
         <div class="right-overlay"></div>
         <h2 class="right-overlay-text"><a href="toc2016.html" class="issue-link">fall 2016</a></h2>
-        <img src="../assets/images/images_16/fall_2016_cover_text.jpg" alt="fall 2016 cover: a domed building in Italy with many symmetrical and detailed windows." class="previssue-row">
-      </div>
+        <img src="assets/images/images_16/fall_2016_cover_text.jpg" alt="fall 2016 cover: a domed building in Italy with many symmetrical and detailed windows." class="previssue-row">
+      </div> -->
     </div>
   </div>
 </body>

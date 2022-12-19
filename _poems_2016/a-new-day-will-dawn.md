@@ -52,57 +52,25 @@ poem: |-
 
   Bāmbrith beyi obru’ longi chali chali gatshan
   Nal nakh phuṭith phambu’ tombi zabarvan bālu’ pẙṭhi
-transpoem: |-
-  Since last evening, what a devious, threatening night
-  The last, darkest hour of the night
-
-  We had kept consecrated and orderly the universe
-  Trembling the blessed land, its consciousness lost
-
-  Disappeared the starry sky, nowhere the Milky Way
-  Dark clouds have enveloped and busied all the six directions
-
-  The pythons’ mouths are open
-  In hailstorms, though sheets of rain, in the thunderstorm
-
-  Where will the poor and unhoused wayfarers go, where will they go
-  From the thresholds of the shops, they leave for faraway places all night
-  ​
-  Or inside ragged tents
-  In tree-holds, shrinking, birds doze
-
-  I toss-and-turn, a lone bird
-  Once under the blanket, torn and holey
-
-  In a corner of the tent, my pillow a brick
-  When will the light dawn, when the bulbul sing
-
-  The hailstorm seems to rain stones
-  Beware, let no one leave the house​
-
-  I am waiting
-  When will the temple bell sound
-
-  From the mosque, the muezzin will call
-  God is Great, Allah-o-Akbar, ears will hear
-
-  At dawn, the sun prepares
-  Pulls on the chariot’s reins
-
-  Just about now, a soft light will spread
-  The dark clouds will be scattered, will flee
-
-  The waves of the Wular have slept badly long enough
-  Now they will settle quietly, calmly, peacefully
-
-  Now they will bloom, the hill tops will wear bright garlands
-  Lightning’s edge will disappear in the Apharwat hills*
-
-  Scurrying again, banks of clouds will dissipate
-  Limbs broken, they will turn cotton puffs over the Zabarwan hills**
-
-  *The Gulmarg hills
-  **The Srinagar hills
+transpoem: "Since last evening, \nwhat a devious, threatening night\nThe last, darkest
+  hour of the night\n\nWe had kept consecrated and orderly \nthe universe\nTrembling
+  the blessed land, \nits consciousness lost\n\nDisappeared the starry sky, \nnowhere
+  the Milky Way\nDark clouds have enveloped and busied \nall the six directions\n\nThe
+  pythons’ mouths are open\nIn hailstorms, though sheets of rain, \nin the thunderstorm\n\nWhere
+  will the poor and unhoused wayfarers go, \nwhere will they go\nFrom the thresholds
+  of the shops, \nthey leave for faraway places all night\n​\nOr inside ragged tents\nIn
+  tree-holds, shrinking, birds doze\n\nI toss-and-turn, a lone bird\nOnce under the
+  blanket, torn and holey\n\nIn a corner of the tent, my pillow a brick\nWhen will
+  the light dawn, when the bulbul sing\n\nThe hailstorm seems to rain stones\nBeware,
+  let no one leave the house​\n\nI am waiting\nWhen will the temple bell sound\n\nFrom
+  the mosque, the muezzin will call\nGod is Great, Allah-o-Akbar, ears will hear\n\nAt
+  dawn, the sun prepares\nPulls on the chariot’s reins\n\nJust about now, a soft light
+  will spread\nThe dark clouds will be scattered, will flee\n\nThe waves of the Wular
+  have slept badly \nlong enough\nNow they will settle quietly, calmly, peacefully\n\nNow
+  they will bloom, \nthe hill tops will wear bright garlands\nLightning’s edge will
+  disappear in \nthe Apharwat hills*\n\nScurrying again, \nbanks of clouds will dissipate\nLimbs
+  broken, \nthey will turn cotton puffs over \nthe Zabarwan hills**\n\n*The Gulmarg
+  hills\n**The Srinagar hills"
 note:
 abio: "<p>Som Nath Bhat “Veer” was born in 1940 in Lok Bhawan, Dooru, Anantnag. After
   an MA in Hindi he worked as a teacher and retired as Headmaster of the Government

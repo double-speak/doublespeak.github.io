@@ -1,36 +1,20 @@
 ---
 layout: default
 ---
-
 <!DOCTYPE html>
 <html lang="en">
 
   <head>
 
-    <link rel="stylesheet" type="text/css" href="../assets/css/indexstyle.css">
+    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/indexstyle.css">
     
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
 
    <title>index</title>
 
 <body>
-  <header>
-    <a href="../index.html">
-      <div class="logo">
-        <img src="../assets/images/doublespeak_logo.png" alt="Click here to return to the homepage.">
-      </div> 
-    </a>
-    <div class="nav">
-      <ul>
-        <li><a href="../contentindex.html">index</a></li>
-        <li><a href="../search.html">search</a></li>
-        <li><a href="../about.html">about</a></li>
-        <li><a href="../submit.html">submit</a></li>
-        <li><a href="../issues.html">issues</a></li>
-      </ul>
-    </div>
-  </header>
+  {% include navbar.html %}
   <div class="index">
     <h1>index</h1>
     <p class="index-p">Here, you can find lists of all the authors, translators, and languages featured so far in <em>DoubleSpeak</em>.</p>
@@ -38,8 +22,19 @@ layout: default
     <button class="dropdown" onclick="myFunction(1)">authors &#8964;</button>
       <div class="dropdown-content" id="dropdown1">
         <ul class="content-u">
-        {% for item in site.data.authors %}
-          <li class="content-l"><a href="../author_tags/{{item.pid | slugify: 'latin' | replace: '-','_' }}">{{item.pid}}</a></li>
+          {% assign authors = '' | split: ", " %}
+          {% for issues_hash in site.data.issues %}
+            {% assign issues = issues_hash[1] %}
+            {% for poem in issues %}
+              {% if poem.pagetype == "submission" %}
+                {% assign new_author = poem.author %}
+                {% assign authors = authors | push: new_author %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          {% assign sortedAuthors = authors | sort | uniq %}
+        {% for aut in sortedAuthors %}
+          <li class="content-l"><a href="{{site.baseurl}}/author_tags/{{aut | slugify: 'latin' | replace: '-','_' }}">{{ aut }}</a></li>
         {% endfor %}
         </ul>
       </div>
@@ -49,8 +44,19 @@ layout: default
     <button class="dropdown" onclick="myFunction(2)">translators &#8964;</button>
       <div class="dropdown-content" id="dropdown2">
         <ul class="content-u">
-        {% for item in site.data.translators %}
-        <li class="content-l"><a href="../translator_tags/{{item.pid | slugify: 'latin' | replace: '-','_' }}">{{item.pid}}</a></li>
+          {% assign translators = '' | split: ", " %}
+          {% for issues_hash in site.data.issues %}
+            {% assign issues = issues_hash[1] %}
+            {% for poem in issues %}
+              {% if poem.pagetype == "submission" %}
+                {% assign new_translator = poem.translator %}
+                {% assign translators = translators | push: new_translator %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          {% assign sortedtranslators = translators | sort | uniq %}
+        {% for trans in sortedtranslators %}
+        <li class="content-l"><a href="{{site.baseurl}}/translator_tags/{{trans | slugify: 'latin' | replace: '-','_' }}">{{trans}}</a></li>
         {% endfor %}
         </ul>
       </div>
@@ -62,8 +68,21 @@ layout: default
       <div class="dropdown-content" id="dropdown3">
         <div class="language">
         <ul class="language-u">
-        {% for item in site.data.languages %}
-        <li class="language-l"><a href="../language_tags/{{item.pid | slugify: 'latin' | replace: '-','_'}}">{{item.pid}}</a></li>
+          {% assign languages = '' | split: "; " %}
+          {% for issues_hash in site.data.issues %}
+            {% assign issues = issues_hash[1] %}
+            {% for poem in issues %}
+              {% if poem.pagetype == 'submission' %}
+              {% assign new_language = poem.language | split: "; " %}
+              {% for lang in new_language %}
+                {% assign languages = languages | push: lang %}
+              {% endfor %}
+              {% endif %}
+            {% endfor %}
+            {% endfor %}
+          {% assign sortedlanguages = languages | sort | uniq %}
+        {% for lang in sortedlanguages %}
+        <li class="language-l"><a href="{{site.baseurl}}/language_tags/{{lang | slugify: 'latin' | replace: '-','_'}}">{{lang}}</a></li>
         {% endfor %}
         </ul>
         </div>
@@ -105,3 +124,4 @@ window.onclick = function(event) {
 </script>
 </body>
 <html>
+

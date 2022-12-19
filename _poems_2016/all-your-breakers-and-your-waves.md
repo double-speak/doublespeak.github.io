@@ -14,15 +14,15 @@ poem: " וְרָאִיתִי אֲנִי אֶת דִּמְעַת הָעֲשׁוּ
   לָעֵינַיִם לִרְאוֹת אֶת הָאוֹר \nוּמֵי הַנָּהָר כֹּה חָמִים וּמְתוּקִים וְ\nדִמְעַת
   הָעֲשׁוּקִים \n.מָרָה \n"
 transpoem: "and I have seen the tears of the oppressed \ndissolving drop by drop on
-  their cheeks —\nand the scent of chrysanthemums rose fresh from the valleys\nwith
-  the fragrance of acacia, opening, awake\nand seas of streams shattered themselves
+  their cheeks —\nand the scent of chrysanthemums \nrose fresh from the valleys\nwith
+  the fragrance of acacia, opening, awake\nand seas of streams shattered\n themselves
   upon rocks\nin a wave born from unrooted joy —  \nand on the shore of the Galilee
-  there were bathers \nand no spirit blew across the sea\nand nobody walked upon the
-  waves,\nonly a tumult of boats, scouting and playing.\n\nand I will have seen the
-  tears of the oppressor – \nif you wish for a piece of Light, the light\nis your
+  \nthere were bathers \nand no spirit blew across the sea\nand nobody walked upon
+  the waves,\nonly a tumult of boats, scouting and playing.\n\nand I will have seen
+  the tears of the oppressor – \nif you wish for a piece of Light, the light\nis your
   own.\nand each shall be free as a crane\nto go and to come,\napart from the one\nwho’s
   my own.\nand it is good for eyes to behold the light\nand the stream of the sea
-  is so warm and sweet and\nthe tears of oppression\nso bitter."
+  is so warm and sweet \nand the tears of oppression so bitter."
 note: |-
   <p>“all Your breakers and Your waves” was originally written in Hebrew by Dahlia Ravikovitch, an Israeli poet and peace activist born in 1936. At the time that Ravikovitch wrote, much of Israeli poetry was written in a mix of Biblical and Modern Hebrew, which meant that although I know no Modern Hebrew, the amount of Biblical Hebrew I’ve learned in the past two years gave me strong basis for understanding the poem.</p>
   <p>In my translation, I chose to lift up ambiguities created by considering this text from the viewpoint of Biblical, rather than Modern Hebrew. The first is an ambiguity behind the word <span lang="he">העשוקים</span>, which in Modern Hebrew translates more directly to “the oppressed,” but in Biblical Hebrew can also simply mean “oppression.” At around the time I first read this poem, I began working with an activist organization in which we talked about how oppression works as a cycle in which oppressors dehumanize the oppressed and, in doing so, become dehumanized themselves, while those who have experienced oppression may more easily become oppressors. With this cycle in mind, I chose to translate this word differently each of the three times it appears in this poem — first as oppressed, then as oppressor, and lastly as oppression. As long as oppression exists, no one on any point of the spectrum can be fully human.  The other ambiguity centered around the tense of the verb in the first line of each stanza. In Biblical Hebrew, but not Modern Hebrew, verbs that begin with the prefix “and” oddly switch tense from past to future or vice-versa. This poem is written in the past tense, but because the two lines in question begin with “and,” to a reader of Biblical Hebrew, the tense would seem to be future. I chose to use both tenses, pairing the future, which to me communicates a prophetic yearning, with the translation of <span lang="he">העשוקים</span> as “oppressor” because although we may recognize and mourn oppression thousands of times across history, what will bring us true redemption will be reckoning with the oppressor and rehumanizing both sides.</p>

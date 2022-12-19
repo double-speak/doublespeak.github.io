@@ -61,10 +61,10 @@ tbio: "<p>\nKejia Wang graduated from Penn in 2016 with a BSE in bioengineering 
   of Chinese poems to <em>Doublespeak</em> since 2014. \n</p>"
 language: Chinese
 lang: zh
-image: "../assets/images/images_22/ergun.jpg"
+image: "/assets/images/images_22/ergun.jpg"
 image2: none
 imagecredit: photo by Stacy Shimanuki
-imagecredit2:
+imagecredit2: 
 origaudio: |-
   <iframe
     frameborder="0"
@@ -81,7 +81,7 @@ translaudio: |-
   </iframe>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '06'
 layout: poempage
 collection: poems_2022

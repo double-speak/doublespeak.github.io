@@ -1,7 +1,7 @@
 pid,transtitle,title,author,translator,language,lang,pagetype
 staff2016,Staff,,,,,,frontmatter
 ednote2016,Editor’s Note,,,,,,frontmatter
-all-your-breakers-and-your-waves,all Your breakers and Your waves,"<span lang=""he""> כל משבריך וגליך</span>",Dahlia Ravikovitch,Mira Revesz,Hebrew,he,content
+all-your-breakers-and-your-waves,All Your Breakers and Your Waves,"<span lang=""he""> כל משבריך וגליך</span>",Dahlia Ravikovitch,Sarah Mira Revesz,Hebrew,he,content
 excerpts-from-va-ou,Excerpts from <em>Va où</em>,Extraits de <em>Va où</em>,Valérie Rezeau,Malika Kadyrova,French,fr,content
 a-tree-in-blossom,A Tree in Blossom,"<span lang=""zh"">《一棵开花的树》</span>",Xi Murong,Tina Zhu,Chinese,zh,content
 as-i-wait-for-you,As I Wait for You,"<span lang=""ko"">너를 기다리는 동안</span>",Hwang Ji-woo,Jin Ah Lee,Korean,ko,content
@@ -17,7 +17,7 @@ from-requiem-2016,From <em>Requiem</em>,Реквием,Anna Akhmatova,Yehudith D
 interview-with-suvir-kaul,An Exercise in Compromise: A Conversation about Literary Translation with Professor Suvir Kaul,,interview conducted by Shailly Pandey,,,,musing
 then-and-today,Then and Today,Teli tu’ az,Naji Munawar,Suvir Kaul,Kashmiri,ks,content
 a-new-day-will-dawn,A New Day Will Dawn,nov subah pholi,Som Nath Bhat “Veer”,Suvir Kaul,Kashmiri,ks,content
-notes-on-the-afterlives,Notes on the Afterlives,,Keyla Çavdar,,,,musing
+notes-on-the-afterlives,Notes on the Afterlives,Piraye İçin Yazılmış Saat 21 Şiirleri,Nâzım Hikmet,Keyla Çavdar,Turkish,tr,musing
 cucumber,Cucumber,Salatalık,Nâzım Hikmet,Monica Wojciechowski,Turkish,tr,content
 the-ninth-letter-on-the-platform,The Ninth Letter: On the Platform,"<span lang=""ar""> على رصيف المحطة</span>",Nizar Qabbani,Michael Karam,Arabic,ar,content
 you-dont-love-me-you-dont-pity-me,"You Don’t Love Me, You Don’t Pity Me","Ты меня не любишь, не жалеешь",Sergei Yesenin,Malika Kadyrova,Russian,ru,content

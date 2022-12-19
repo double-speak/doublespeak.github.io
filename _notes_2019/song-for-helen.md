@@ -26,29 +26,30 @@ poem: "Quand je devise assis aupres de vous,\n        \tOut le cœur me tressaut
   ma tombe escrivez mon soucy\n        \tEn lettres grossement :\nLe Vendomois, lequel
   respose icy,\n        \tMourut en bien aimant.\nComme Pâris, là bas faut que je
   voise,\nNon pour l’amour d’une Helene Gregeoise,\n        \tMais d’une Saintongeoise."
-transpoem: "When I imagine myself seated beside you,\n        \tMy heart leaps from
-  its place:\nI tremble from my every limb,\n        \tAnd my pulse fails me.\nI have
-  neither blood, nor soul, nor breath,\nThat remains untroubled when I see my Helen,\nMy
-  dear and sweet pain.\n \nI become mad, I lose all reason:\n        \tI cannot know\nIf
-  I am free, or captive in prison:\n        \tI am no longer myself.\nWhen I see you,
-  mine eye sees naught else:\nWhilst yours alters and changes my soul,\n        \tSo
-  powerful is your gaze.\n \nYour beauty makes me at once\n        \tSuffer a hundred
-  passions\nAll the while all my senses are content\nDevoid of any ardor.\nMine eye
-  sees you, whereas mine ear\nHears your voice, which has no peer\n        \tIn this
-  world, and marvels.\n \nIt is thus that you have enchanted me,\n        \tJoyful
-  in my sorrow:\nI am contented with my work,\n        \tSuch is my love for my own
-  sadness:\nI wish always for torment to grasp me,\nAnd for me to forever remember
-  you,\n        \tGiving unto you my own soul.\n \nTherefore, look no longer to the
-  words of the Prophet,\n        \tWho knows how best to charm:\nYou alone would have
-  a wholly divine spirit,\n        \tIf you could have loved.\nIf God so pleased,
-  my cherished better half,\nIf only Love had inflamed your heart\n        \tWith
-  the arrow that charmed mine.\n \nIn his game, Love has most completely\n        \tPierced
-  my heart:\nTo you, his friend, he has not shown the dart\n        \tWith which he
-  has injured me.\nI confess myself to be such a victim,\nYet do not wish to diminish
-  my love\n        \tFor you, graceful Madame.\n \nAbove my tomb write of my love\n
-  \       \tIn letters bold and large:\nThe Vendômois, who rests here,\n        \tDied
-  whilst truly loving.\nAs did Paris, there I must see it was,\nNot for the love of
-  a Grecian Helen,\nBut for that of a Saintongeoise."
+transpoem: "When I imagine myself seated beside you,\n                My heart leaps
+  from its place:\nI tremble from my every limb,\n                And my pulse fails
+  me.\nI have neither blood, nor soul, nor breath,\nThat remains untroubled when I
+  see my Helen,\nMy dear and sweet pain.\n \nI become mad, I lose all reason:\n                I
+  cannot know\nIf I am free, or captive in prison:\n                I am no longer
+  myself.\nWhen I see you, mine eye sees naught else:\nWhilst yours alters and changes
+  my soul,\n                So powerful is your gaze.\n \nYour beauty makes me at
+  once\n                Suffer a hundred passions\nAll the while all my senses are
+  content\nDevoid of any ardor.\nMine eye sees you, whereas mine ear\nHears your voice,
+  which has no peer\n                In this world, and marvels.\n \nIt is thus that
+  you have enchanted me,\n                Joyful in my sorrow:\nI am contented with
+  my work,\n                Such is my love for my own sadness:\nI wish always for
+  torment to grasp me,\nAnd for me to forever remember you,\n                Giving
+  unto you my own soul.\n \nTherefore, look no longer to the words of the Prophet,\n
+  \               Who knows how best to charm:\nYou alone would have a wholly divine
+  spirit,\n                If you could have loved.\nIf God so pleased, my cherished
+  better half,\nIf only Love had inflamed your heart\n                With the arrow
+  that charmed mine.\n \nIn his game, Love has most completely\n                Pierced
+  my heart:\nTo you, his friend, he has not shown the dart\n                With which
+  he has injured me.\nI confess myself to be such a victim,\nYet do not wish to diminish
+  my love\n                For you, graceful Madame.\n \nAbove my tomb write of my
+  love\n                In letters bold and large:\nThe Vendômois, who rests here,\n
+  \               Died whilst truly loving.\nAs did Paris, there I must see it was,\nNot
+  for the love of a Grecian Helen,\nBut for that of a Saintongeoise."
 note: "<p>Helen of Sparta, daughter of Zeus and a woman whose beauty was of mythic
   proportions, is often portrayed as the reason behind the fall of Troy, her irresistible
   allure causing conflict between the Greeks and Trojans over possession of her person.
@@ -97,12 +98,12 @@ tbio: "<p>Saagar Asnani is a senior in the College of Arts and Sciences at Penn 
   medical school.</p>"
 language: French
 lang: fr
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '11'

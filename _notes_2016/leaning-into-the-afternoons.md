@@ -38,7 +38,7 @@ tbio: "<p>Naomi Bernstein is a student at the University of Pennsylvania studyin
   for the Judy Lee Award for Dramatic Writing for her short play, <em>Virtual Snow</em>.</p>"
 language: Spanish
 lang: es
-image: "../assets/images/images_16/neruda.jpg"
+image: "/assets/images/images_16/neruda.jpg"
 image2:
 imagecredit: photo by Naomi Bernstein
 imagecredit2:

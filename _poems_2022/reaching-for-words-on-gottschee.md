@@ -1,11 +1,11 @@
 ---
 pid: reaching-for-words-on-gottschee
-title:
+title: 
 transtitle: 'Reaching for Words: On Gottschee'
 author: Quinn Gruber
-translator:
-poem:
-transpoem:
+translator: 
+poem: 
+transpoem: 
 note: |-
   <p>In December 2017, my Onkel Helmut passed away at the age of eighty-four. He was stern, yet jovial, with a round and kind face. He, my Tante Resi, my sister, and I would often go on walks in the park in Queens and have simple lunches of hard-boiled eggs, ham, and bread. Occasionally, he taught me bits of German, like the slogan written on the thin yellow tag of a Steiff teddy bear: <em>Knopf im Ohr, “button in ear.” After the funeral, we all went somberly to eat together at a place called Gottscheer Hall. My mother told my sister and I that Onkel Helmut, like the rest of my father’s side of the family, was from a place called Gottschee. Sitting in the car, trying to wrap my head around the pronunciation of the name, I reevaluated my family’s history. My father always told us that our family was from Germany. Stray German words flit through our conversations, like <em>schlafen</em> (“to sleep”) and <em>Schatz</em> (an endearment, literally “treasure”). Yet, my Oma and Auntie’s immigration papers list Yugoslavia and Austria-Hungary as their countries of origin. I always felt that I lacked some crucial piece of information that would bring all these scattered bits of history and culture together — Gottschee was that keystone.</p>
   <p>Pieces of my family’s story slowly came forward as I read about Gottschee’s history. Gottschee was a small region in present-day Kočevje, Slovenia, that Germanic farmers settled in the thirteenth century. Their language, Gottscheerisch, is a dialect of medieval German; Gottscheers, like my Onkel Helmut and my grandmother, could speak German, but a German speaker couldn’t understand Gottscheerisch. Gottscheers used German in business contexts and spoke Gottscheerisch at home, a linguistic island surrounded by Slovenian-speaking neighbors. This linguistic fluidity mirrors the confusion surrounding the Gottscheers’ identity, as clashing empires passed the county back and forth over the course of its history. Outside observers and Gottscheers themselves have identified Gottscheers as German, Austrian, Slavic, yet also as an entirely distinct people. I understand why my father never mentioned Gottschee — I don’t know how to talk about it without giving a history lesson. The most important part of this history begins in 1918, when Gottschee became a part of Yugoslavia after the fall of Austria-Hungary. Gottschee’s few colleges were closed, and Slovenian became the county’s only official language, although due to many children’s complete lack of understanding of Slovenian, public school instruction was eventually conducted half in German and half in Slovenian. Gottschee soon changed hands again, however, with much more severe consequences for its people.</p>
@@ -25,18 +25,18 @@ abio: "<p>Quinn Gruber is a senior at the University of Pennsylvania studying En
   to polka. Their favorite possession is a wooden darning mushroom that belonged to
   their Oma, which reads in German: “When boys won’t leave you alone, stay at home
   and darn socks.”</p>"
-tbio:
+tbio: 
 language: English
 lang: en
-image: "../assets/images/images_22/gruber.jpg"
+image: "/assets/images/images_22/gruber.jpg"
 image2: none
 imagecredit: photo by Quinn Gruber
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2022'
 pagetype: musing
-wrapformat:
+wrapformat: 
 order: '09'
 layout: poempage
 collection: poems_2022

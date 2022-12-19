@@ -96,7 +96,7 @@ tbio: |-
   </p>
 language: Russian
 lang: ru
-image: "../assets/images/images_22/drunina1.jpg"
+image: "/assets/images/images_22/drunina1.jpg"
 image2: "../assets/images/images_22/drunina2.jpg"
 imagecredit: photo by Stacy Shimanuki
 imagecredit2: photo by Ryan Hardy
@@ -122,7 +122,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '10'
 layout: poempage
 collection: poems_2022

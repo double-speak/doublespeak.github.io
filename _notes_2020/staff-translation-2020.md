@@ -1,6 +1,6 @@
 ---
 pid: staff-translation-2020
-title: '[<span> lang="ja">死なうかと</span>]'
+title: <span lang="ja">死なうかと</span>
 transtitle: Haiku
 author: Masajo Suzuki
 translator: "<em>DoubleSpeak</em> Staff"
@@ -74,12 +74,12 @@ tbio: "<p><em>DoubleSpeak</em> is composed of a group of passionate language lov
   staff members are familiar, or without equivalent in other languages that we know.</p>"
 language: Japanese
 lang: ja
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '14'

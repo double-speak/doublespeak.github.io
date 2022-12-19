@@ -200,7 +200,7 @@ but that screwed up the navbar*/
 	columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
-  column-gap: 10px;
+  column-gap: 20px;
   margin-left: 40px;
 	margin-right: 20px;
 }
@@ -209,7 +209,7 @@ but that screwed up the navbar*/
 	columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
-  column-gap: 10px;
+  column-gap: 20px;
   margin-left: 40px;
 	margin-right: 20px;
 	list-style: circle;
@@ -229,7 +229,18 @@ but that screwed up the navbar*/
 	text-align: left;
 	margin-top: 5px;
 	margin-bottom: 5px;
+	list-style
 }
+
+.content-l a{
+	color: black;
+}
+
+.content-l a:hover{
+	color: black;
+	text-decoration: underline;
+}
+
 .language ul{
 	columns: 1 !important;
 	margin-left: 40px;
@@ -254,4 +265,13 @@ but that screwed up the navbar*/
 	text-align: left;
 	margin-top: 5px;
 	margin-bottom: 5px;
+}
+
+.language-l a{
+	color: black;
+}
+
+.language-l a:hover{
+	color: black;
+	text-decoration: underline;
 }

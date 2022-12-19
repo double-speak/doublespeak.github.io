@@ -62,7 +62,7 @@ note: "<p>The despair, loneliness, and simplicity of this poem were the most dif
   to maintain the simplicity and absolute emptiness throughout the poem. Again, the
   moments of nostalgia and of loneliness are so seamlessly connected and embedded
   in the original, which made producing the same feelings incredibly difficult.</p>"
-abio: <p>Yun Dong-ju (<span lang="ko">윤동주</span>) was a Korean poet who was born in
+abio: <p>Yun Dong-ju (<span lang="ko">윤동주</span>) is a Korean poet who was born in
   1917 In Myeongdong Village of Jilin in China and died in 1945 at the age of twenty-seven
   in Fukuoka, Japan. From 1910 to 1945, Korea was colonized by Japan and underwent
   “cultural cleansing,” which was enacted through a series of unfair and often violent
@@ -89,12 +89,12 @@ tbio: "<p>Nadia Park is a senior at the University of Pennsylvania studying comm
   travel the world.</p>"
 language: Korean
 lang: ko
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '10'

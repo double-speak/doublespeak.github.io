@@ -4,41 +4,75 @@ title: "<em>Métaphysique des tubes</em>"
 transtitle: Métaphysique des tubes
 author: Amélie Nothomb
 translator: Kathleen Zhou
-poem: |
-  <p>Un jour, ma mère arriva dans le salon avec un animal à long cou dont la queue mince et longue terminait dans une prise de courant. Elle poussa un bouton et la bête amorça une plainte régulière et ininterrompue. La tête se mit à bouger sur le sol en un mouvement de va-et-vient qui entraînait le bras de Maman derrière elle. Parfois le corps avançait sur ses pattes qui étaient des roulettes.</p>
-  <p>Ce n’était pas la première fois que je voyais un aspirateur mais je n’avais pas encore réfléchi à sa condition. Je m’approchai de lui à quatre pattes pour être à sa hauteur ; je savais qu’il fallait toujours être à la hauteur de ce que l’on examinait. Je suivis sa tête et posai ma joue sur le tapis pour observer ce qui se passait. Il y avait un miracle : l’appareil avalait les réalités matérielles qu’il rencontrait et les transformait en inexistence.</p>
-  <p>Il remplaçait le quelque chose par le rien : cette substitution ne pouvait être qu’œuvre divine.</p>
-  <p>[…]</p>
-  <p>Sans plus attendre, j’ouvris la bouche et je scandai les quatre syllabes : « Aspirateur! »</p>
-  <p>Un instant interdite, ma mère lâcha le cou du tuyau et courut téléphoner à mon père :
-  <p class="indent">— Elle a dit son troisième mot !<br>
-  — C’est quoi ?<br>
-  — Aspirateur !<br>
-  — Bien. Nous en ferons une ménagère accomplie.</p>
-  <p>Il devait être un peu déçu.</p>
-  <p>J’avais fait très fort pour le troisième mot ; je pouvais dès lors me permettre d’être moins existentielle pour le quatrième. Estimant que ma sœur, de deux ans et demi mon aînée, était une bonne personne, j’élus son prénom.</p>
-  <p class="indent">— Juliette ! clamai-je en la regardant dans les yeux.</p>
-  <p>Le langage a des pouvoirs immenses : à peine avais-je prononcé à haute voix ce nom que nous nous prîmes l’une pour l’autre d’une folle passion. Ma sœur me saisit entre ses bras et me serra. Tel le philtre d’amour de Tristan et Iseult, le mot nous avait unies pour toujours.</p>
-  <p>Il était hors de question que je choisisse pour cinquième vocable le prénom de mon frère, de quatre ans mon aîné : ce mauvais sujet avait passé un après-midi assis sur ma tête à lire un <em>Tintin</em>. Il adorait me persécuter. Pour le punir, je ne le nommerai pas. Ainsi il n’existerait pas tellement.</p>
-  <p>Vivait avec nous Nishio-san, ma gouvernante japonaise. Elle était la bonté même et me dorlotait pendant des heures. Elle ne parlait aucune autre langue que la sienne. Je comprenais tout ce qu’elle disait. Mon cinquième mot fut donc nippon puisque je la nommai.</p>
-  <p>J’avais déjà donné leur nom à quatre personnes : à chaque fois cela les rendait si heureuses que je ne doutais pas de l’importance de la parole : elle prouvait aux individus qu’ils étaient là. J’en conclus qu’ils n’en n’étaient pas sûrs. Ils avaient besoin de moi pour le savoir.</p>
-transpoem: |
-  <p>One day, my mother appeared in the living room alongside a long-necked animal with a slim and long tail ending in a power outlet. She pressed a button and the creature emitted a long and uninterrupted whine. Its head moved close to the ground, in a back-and-forth manner that dragged Mama’s arms behind her. Sometimes, its body advanced on its paws, which were small wheels.</p>
-  <p>It was not the first time that I had seen a vacuum cleaner, but I had not yet reflected on its condition. I approached it on all fours to be at its level; I knew you should always be at the same level as the subject being examined. I followed its head and rested my cheek on the carpet to observe what was happening. Then there was a miracle: the creature swallowed the material entities it encountered and made them nonexistent.</p>
-  <p>It was replacing something by nothing: this substitution could only be divine work.</p> <p>[…]</p>
-  <p>Without further ado, I opened my mouth and I chanted the four syllables: “Vacuum cleaner!”</p>
-  <p>Speechless, my mother dropped the hose’s neck and ran to telephone my father:</p>
-  <p class="indent">“She just said her third word!”<br>
-  “What is it?”<br>
-  “Vacuum cleaner!”<br>
-  “Good. We’ll make an accomplished housewife out of her.”</p>
-  <p>My father must’ve been a little disappointed.</p>
-  <p>I had surpassed myself for the third word; I therefore allowed myself to be less existential for the fourth. Deciding that my sister, two and-a-half-years my elder, was a good person, I elected to say her name.</p>
-  <p>“Juliette!” I clamored on seeing her in front of my eyes.</p>
-  <p>Language has immense powers: I had barely said her name aloud when we felt a crazy passion for one another. My sister seized me in her arms and hugged me tight. Like the love potion of Tristan and Iseult, the word had united us forever.</p>
-  <p>It was out of the question that I’d choose the name of my brother, four years my elder, as my fifth word: that nasty piece of work had passed one afternoon sitting on my head while reading a <em>Tintin</em>. He adored persecuting me. As punishment, I would not name him. And so he did not really exist.</p>
-  <p>Nishio-san, my Japanese nanny, lived with us. She was kindness itself and coddled me for hours. She did not speak any other language but her own. I understood everything she said. My fifth word was Japanese because I chose Nishio-san’s name.</p>
-  <p>I had already named four people. Every time it rendered them so happy that I never doubted the importance of speech: it proved to people that they existed. I concluded that they weren’t entirely sure of it. They needed me to tell them.</p>
+poem: "<p>Un jour, ma mère arriva dans le salon \navec un animal à long cou dont la
+  queue mince \net longue terminait dans une prise de courant. \nElle poussa un bouton
+  et la \nbête amorça une plainte régulière et ininterrompue. \nLa tête se mit à bouger
+  sur \nle sol en un mouvement de va-et-vient qui entraînait \nle bras de Maman derrière
+  \nelle. Parfois le corps avançait sur \nses pattes qui étaient des roulettes.</p>\n<p>Ce
+  n’était pas la première fois que \nje voyais un aspirateur mais je n’avais pas \nencore
+  réfléchi à sa condition. \nJe m’approchai de lui \nà quatre pattes pour être à sa
+  hauteur; \nje savais qu’il fallait toujours être \nà la hauteur de ce \nque l’on
+  examinait. \nJe suivis sa tête et posai \nma joue sur le tapis \npour observer ce
+  qui se passait. \nIl y avait un miracle: \nl’appareil avalait les réalités \nmatérielles
+  qu’il rencontrait \net les transformait \nen inexistence.</p>\n<p>Il remplaçait
+  \nle quelque chose par le rien: \ncette substitution \nne pouvait être qu’œuvre
+  divine.</p>\n<p>[…]</p>\n<p>Sans plus attendre, \nj’ouvris la bouche et je scandai
+  \nles quatre syllabes : « Aspirateur! »</p>\n<p>Un instant interdite, \nma mère
+  lâcha le cou \ndu tuyau et courut téléphoner à mon père :\n<p class=\"indent\">—
+  Elle a dit son troisième mot !<br>\n— C’est quoi ?<br>\n— Aspirateur !<br>\n— Bien.
+  Nous en ferons \nune ménagère accomplie.</p>\n<p>Il devait être un peu déçu.</p>\n<p>J’avais
+  fait très fort pour le troisième mot; \nje pouvais dès lors me permettre d’être
+  \nmoins existentielle pour le quatrième. \nEstimant que ma sœur, \nde deux ans et
+  demi \nmon aînée, était une bonne personne, \nj’élus son prénom.</p>\n<p class=\"indent\">—
+  Juliette ! clamai-je en \nla regardant dans les yeux.</p>\n<p>Le langage a des pouvoirs
+  immenses: \nà peine avais-je prononcé à haute voix ce \nnom que nous nous prîmes
+  \nl’une pour l’autre d’une folle passion. \nMa sœur me saisit \nentre ses bras et
+  me serra. \nTel le philtre d’amour de Tristan et Iseult, le mot \nnous avait unies
+  pour toujours.</p>\n<p>Il était hors de question que \nje choisisse pour cinquième
+  vocable le prénom de \nmon frère, de quatre ans mon aîné: \nce mauvais sujet avait
+  passé un après-midi \nassis sur ma tête à lire un <em>Tintin</em>. \nIl adorait
+  me persécuter. \nPour le punir, je ne le nommerai pas. \nAinsi il n’existerait pas
+  tellement.</p>\n<p>Vivait avec nous Nishio-san, \nma gouvernante japonaise. \nElle
+  était la bonté même et me \ndorlotait pendant des heures. \nElle ne parlait aucune
+  autre langue \nque la sienne. \nJe comprenais tout ce qu’elle disait. \nMon cinquième
+  mot fut \ndonc nippon puisque je la nommai.</p>\n<p>J’avais déjà donné leur nom
+  \nà quatre personnes : à chaque fois cela \nles rendait si heureuses \nque je ne
+  doutais pas de l’importance de \nla parole : elle prouvait aux individus \nqu’ils
+  étaient là. \nJ’en conclus qu’ils n’en \nn’étaient pas sûrs. \nIls avaient besoin
+  de moi pour le savoir.</p>"
+transpoem: "<p>One day, my mother appeared in the living room \nalongside a long-necked
+  animal \nwith a slim and long tail \nending in a power outlet. \nShe pressed a button
+  and the creature emitted \na long and uninterrupted whine. \nIts head moved close
+  to the ground, \nin a back-and-forth manner that \ndragged Mama’s arms behind her.
+  \nSometimes, its body advanced on its paws, \nwhich were small wheels.</p>\n<p>It
+  was not the first time that \nI had seen a vacuum cleaner, \nbut I had not yet reflected
+  on its condition. \nI approached it on all fours to \nbe at its level; \nI knew
+  you should always be at the same level \nas the subject being examined. \nI followed
+  its head and rested my cheek on \nthe carpet to observe what was happening. \nThen
+  there was a miracle: \nthe creature swallowed \nthe material entities \nit encountered
+  and made \nthem nonexistent.</p>\n<p>It was replacing something by nothing: \nthis
+  substitution could only \nbe divine work.</p> <p>[…]</p>\n<p>Without further ado,
+  \nI opened my mouth and I chanted the four \nsyllables: “Vacuum cleaner!”</p>\n<p>Speechless,
+  my mother dropped \nthe hose’s neck and ran \nto telephone my father:</p>\n<p class=\"indent\">“She
+  just said her third word!”<br>\n“What is it?”<br>\n“Vacuum cleaner!”<br>\n“Good.
+  We’ll make an accomplished \nhousewife out of her.”</p>\n<p>My father must’ve been
+  a little disappointed.</p>\n<p>I had surpassed myself for the third word; \nI therefore
+  allowed myself to be \nless existential for the fourth. \nDeciding that my sister,
+  \ntwo and-a-half-years my elder, \nwas a good person, I elected to say her name.</p>\n<p>“Juliette!”
+  I clamored on seeing her in front of my eyes.</p>\n<p>Language has immense powers:
+  \nI had barely said her name aloud \nwhen we felt a crazy passion for one another.
+  \nMy sister seized me in her arms and hugged me tight. \nLike the love potion of
+  Tristan and Iseult, \nthe word had united us forever.</p>\n<p>It was out of the
+  question \nthat I’d choose the name of my brother, \nfour years my elder, \nas my
+  fifth word: \nthat nasty piece of work had passed one afternoon \nsitting on my
+  head while reading a <em>Tintin</em>. \nHe adored persecuting me. \nAs punishment,
+  I would not name him. \nAnd so he did not really exist.</p>\n<p>Nishio-san, my Japanese
+  nanny, lived with us. \nShe was kindness itself and coddled me for hours. \nShe
+  did not speak any other language but her own. \nI understood everything she said.
+  \nMy fifth word was Japanese because I chose Nishio-san’s name.</p>\n<p>I had already
+  named four people. \nEvery time it rendered them so happy that \nI never doubted
+  the importance of speech: \nit proved to people that they existed. \nI concluded
+  that they weren’t entirely sure of it. \nThey needed me to tell them.</p>\n"
 note: "<p>I translated this snipped of Amélie Nothomb’s autobiographical novel <em>Métaphysique
   des tubes</em> for a French-to-English translation course I audited while abroad
   in Lyon, France. I remember this particular excerpt fondly for two reasons: a) as

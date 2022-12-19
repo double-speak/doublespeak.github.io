@@ -26,14 +26,14 @@ poem: |-
   ma lei mi consola e ridendo mi giura
   che quanto è da salvare si salverà.
 transpoem: "Leave me with my death.  \nShe will confess those words in D minor,\nthose
-  words that do not demand your dictionaries.\nThose words of love uncharted even
+  words that do not demand your dictionaries.\nThose words of love uncharted \neven
   by Petrarch,\nuttered where love is ethereal gold,\nunfit to hug the curve of a
   mortal wrist.\n \nDeath and I speak as old friends.\nShe has been here from my first
-  breath,\nmy ally in work and play.\nHer arms have held the same hearts as mine.\nA
-  reckless eagle, intoxicated by azure,\nshe has shown me the true size of humanity.\n
+  breath,\nmy ally in work and play.\nHer arms have held \nthe same hearts as mine.\nA
+  reckless eagle, \nintoxicated by azure,\nshe has shown me \nthe true size of humanity.\n
   \nToday she will show me other scales,\nscales I vainly questioned;\nCaught in the
   cage of my six senses,\nmy head thuds against the bars.\nSorrow finds me as I part
-  from my daughter, my art not yet done.\nBut tossing her head back, Death soothes
+  from my daughter, \nmy art not yet done.\nBut tossing her head back, \nDeath soothes
   my fears. Promises:\n<em>I will save whatever is left to be saved.</em>\n"
 note: "<p>Translating “Testament” was a monumental task because of Spaziani’s musicality.
   Though I do not speak Italian, simply hearing the Italian and seeing it on the page

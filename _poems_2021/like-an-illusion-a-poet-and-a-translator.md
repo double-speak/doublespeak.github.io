@@ -1,11 +1,11 @@
 ---
 pid: like-an-illusion-a-poet-and-a-translator
-title:
+title: 'Like an illusion, a poet and translator: musing'
 transtitle: 'Like an illusion, a poet and translator: musing'
 author: Nadia Park
-translator:
-poem:
-transpoem:
+translator: 
+poem: 
+transpoem: 
 note: |-
   <p>Coffee became my safe space. My excitement. My calmness.
   <br>Languages were gifts and opportunities to discover dreams and meaning.
@@ -27,14 +27,14 @@ note: |-
   <p>Every Saturday since we met months back, we’ve been meeting at Buono Buono. She, as my teacher in poetry, the literary world, and in life. And me, as her coffee barista teacher, teaching her how to make hand drip so that she too, may be able to bring the presence of coffee wherever she goes and to whoever she meets.</p>
   <p>Kim has now released her second poetry book, <em>The Woman of Terrace</em>, in April, containing the English translations of her poetry both written by her daughter, Soo Yeon Kim, and by me. From sharing the book to people such as local jewelry shop owners, customers of our coffee shop, professors of various universities, and other fellow poets, Kim hopes to be able to extend her thoughts and feelings to more people.</p>
   <p>I believe both Kim and I share the same hope that our readers too, can find time in their lives to think about their dreams and not be afraid to be a bit clumsy, a bit humble, a bit confused, and a bit daring. It’s not normal you see a 5-foot-8-inch twenty-four-year-old American and a five-foot, sixty-three-year-old Korean, but it was through certain aspirations that we were able to develop a connection. So thank you to poetry, to languages, and to <em>DoubleSpeak</em> for once again allowing me to discover warmth and hope.</p>
-abio:
-tbio:
+abio: 
+tbio: 
 language: Korean
 lang: ko
-image:
-imagecredit:
-origaudio:
-translaudio:
+image: 
+imagecredit: 
+origaudio: 
+translaudio: 
 edition: '2021'
 pagetype: musing
 order: '17'

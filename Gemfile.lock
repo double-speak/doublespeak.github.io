@@ -275,6 +275,7 @@ GEM
     zeitwerk (2.5.4)
 
 PLATFORMS
+  arm64-darwin-21
   universal-darwin-20
 
 DEPENDENCIES

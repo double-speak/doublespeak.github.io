@@ -22,10 +22,10 @@ title: DoubleSpeak Magazine
 email: staff@doublespeakmagazine.org
 description: >- # this means to ignore newlines until "baseurl:"
   DoubleSpeak is the University of Pennsylvania’s only journal for literary translation and the only literary translation journal in the country run by undergraduate students. Founded over a decade ago, our annual journal celebrates a range of languages, cultures, and countries through thoughtful curation of poets across centuries and around the world.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.doublespeakmagazine.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/doublespeak" # the subpath of your site, e.g. /blog
+url: "https://chradil.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  double-speak
+
 
 # Build settings
 theme: minima
@@ -231,7 +231,7 @@ search:
           - transpoem
           - language
       poems_2018:
-        content: true # whether or not to index page content
+        content: false # whether or not to index page content
         fields: # the metadata fields to index
           - transtitle
           - title
@@ -241,7 +241,7 @@ search:
           - transpoem
           - language
       poems_2017:
-        content: true # whether or not to index page content
+        content: false # whether or not to index page content
         fields: # the metadata fields to index
           - transtitle
           - title
@@ -251,7 +251,7 @@ search:
           - transpoem
           - language
       poems_2016:
-        content: true # whether or not to index page content
+        content: false # whether or not to index page content
         fields: # the metadata fields to index
           - transtitle
           - title

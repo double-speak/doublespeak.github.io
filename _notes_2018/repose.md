@@ -31,7 +31,7 @@ abio: "<p>Antonia Pozzi was an Italian poet born in 1912 and died at the age of 
 tbio:
 language: Italian
 lang: it
-image: "../assets/images/images_18/pozzi.jpeg"
+image: "/assets/images/images_18/pozzi.jpeg"
 image2:
 imagecredit: photo by Sara Casella
 imagecredit2:

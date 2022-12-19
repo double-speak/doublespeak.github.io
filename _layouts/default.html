@@ -2,7 +2,26 @@
 <html>
   <head>
 
-  	<link rel="stylesheet" href="https://use.typekit.net/ixt2gok.css">
+<!--  this is stewart's typekit: 
+
+STATIC LOADING ----
+
+<link rel="stylesheet" href="https://use.typekit.net/clc7iys.css">
+
+
+DYNAMIC LOADING ----
+
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'dua5pgb',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f%7C%7Ca&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script> -->    
+ <link rel="stylesheet" href="{{site.baseurl}}/assets/css/static-typekit.css">
 
   </head>
   <body>
@@ -11,3 +30,13 @@
 
   </body>
 </html>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'dua5pgb',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='{{site.baseurl}}/assets/css/dynamic-typekit.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>

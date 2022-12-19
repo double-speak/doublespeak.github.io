@@ -56,30 +56,28 @@ poem: |-
   بالورد قد طوقته..
   وليتني حين أتاني باكياً
   فتحت أبوابي له.. وبسته
-transpoem: "the universe blames me if I love him \nas if   I created love and invented
+transpoem: "the universe blames me if I love him \nas if I created love and invented
   it \nas if I had drawn it on the cheeks of roses \nas if I were the one who \nhad
   taught it to the birds in the sky \nand planted it in wheat fields \nand stirred
-  it in seawater \nas if        I am the one who\nhad hung it \nlike the moon in the
-  sky \nthe universe blames me if \nI name who I love        or mention him \nas if
-  I were passion \nand its mother                and its sister \nthis passion that
-  arrived \nfrom where I hadn’t been expecting \ndifferent than all I had known \ndifferent
-  than all I had read \nand all I had heard \nhad I known that it was a \ntype of
-  addiction        I wouldn’t have taken it \nhad I known that it was \na windy door
-  \        I wouldn’t have opened it \nhad I known that it was \na matchstick         I
-  wouldn’t have lit it \nthis passion         is the most violent love I’ve lived
-  \nI wish when he came to me\narms wide open         I had turned him away \nI wish
-  that before he killed me                 I had killed him \nthis passion I see in
-  the dark \non my curtains\nI see it                 in my dress \nand in my perfume
-  \        and in my bracelets \nI see it                 drawn on the faces of my
-  palms\nI see it carved on my feelings \nhad they told me that he was\na loud and
-  playful child I wouldn’t have let him in \nhad they told me he would break my glass
-  heart I wouldn’t have let him \nhad they told me \nhe’d set a fire in minutes \nand
-  he’d make a mess in minutes \nand he’d dye the walls red and blue in minutes\nI
-  would have expelled him \ndearest precious who \ngot god to pardon me         if
-  I loved him \nthis passion is the most beautiful love I’ve lived\nthe greatest love
-  I’ve lived \nI wish when he came to me visiting\nI had surrounded him with roses
-  \nAnd I wish when he came to me crying\nI had opened my doors                and
-  kissed him \n"
+  it in seawater \nas if I am the one who\nhad hung it \nlike the moon in the sky
+  \nthe universe blames me if \nI name who I love or mention him \nas if I were passion
+  \nand its mother and its sister \nthis passion that arrived \nfrom where I hadn’t
+  been expecting \ndifferent than all I had known \ndifferent than all I had read
+  \nand all I had heard \nhad I known that it was a \ntype of addiction I wouldn’t
+  have taken it \nhad I known that it was \na windy door I wouldn’t have opened it
+  \nhad I known that it was \na matchstick I wouldn’t have lit it \nthis passion is
+  the most violent love I’ve lived \nI wish when he came to me\narms wide open I had
+  turned him away \nI wish that before he killed me I had killed him \nthis passion
+  I see in the dark \non my curtains\nI see it in my dress \nand in my perfume and
+  in my bracelets \nI see it drawn on the faces of my palms\nI see it carved on my
+  feelings \nhad they told me that he was\na loud and playful child I wouldn’t have
+  let him in \nhad they told me he would break my glass heart I wouldn’t have let
+  him \nhad they told me \nhe’d set a fire in minutes \nand he’d make a mess in minutes
+  \nand he’d dye the walls red and blue in minutes\nI would have expelled him \ndearest
+  precious who \ngot god to pardon me if I loved him \nthis passion is the most beautiful
+  love I’ve lived\nthe greatest love I’ve lived \nI wish when he came to me visiting\nI
+  had surrounded him with roses \nAnd I wish when he came to me crying\nI had opened
+  my doors and kissed him "
 note: |-
   <p>I chose to translate a Qabbani poem because of how much his name and works remind me of my early schooling in Lebanon. While he is not as famous in America, I hope this is a step toward a growing fascinated audience. Because Arabic is a gendered language, it is clear that the speaker is a woman, a fact which gets lost in English. Because the word “passion” (<span lang="ar">الهوى</span>) and the speaker’s lover both use the same set of masculine pronouns, a reader of the original cannot properly identify to whom or to what the speaker is referring. In English, these two nouns use different pronouns (“it” and “he,” respectively), requiring the translator to decide when “passion” was the antecedent and when it was the lover. The original, like most modern poems in Arabic, uses ellipses heavily, which I don’t enjoy as much in an English poem; I opted for longer spaces instead.
   </p>
@@ -94,10 +92,10 @@ tbio: "<p>Michael Karam (Penn C’17) is a translator, writer, and poet living a
   journalists reporting on under-covered stories around the world.</p>"
 language: Arabic
 lang: ar
-image: "../assets/images/images_22/qabbani.jpg"
+image: "/assets/images/images_22/qabbani.jpg"
 image2: none
 imagecredit: photo by Michael Karam
-imagecredit2:
+imagecredit2: 
 origaudio: |-
   <div>
 
@@ -120,7 +118,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '16'
 layout: poempage
 collection: poems_2022

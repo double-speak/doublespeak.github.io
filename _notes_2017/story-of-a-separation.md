@@ -87,7 +87,7 @@ tbio: "<p>Keyla Cavdar is a student at the University of Pennsylvania studying E
   mother tongue, Turkish, and her second language, English.</p>"
 language: Turkish
 lang: tr
-image: "../assets/images/images_17/hikmet.JPG"
+image: "/assets/images/images_17/hikmet.JPG"
 image2:
 imagecredit: photo by a <i>DoubleSpeak</i> staffer
 imagecredit2:

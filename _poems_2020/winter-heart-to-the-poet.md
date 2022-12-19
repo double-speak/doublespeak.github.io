@@ -14,16 +14,15 @@ poem: "물장수가 귓속으로 들어와 내 눈을 열었다.\n보아라!\n�
 transpoem: "The water-seller came through my ears and opened my eyes.\nLook!\nThe
   magpie cries on the branch down to its bone.\nWhy?\nThe frost follows suit and drops
   tears through the eaves’ corners.\nOf course I welcome this. It shall be warm today.\n\n<h2>To
-  the Poet</h2>\r\n\r\nOnly in that moment when you realize you must give birth \r\nto
-  a new world with that one poem,\r\nPoet, your existence will be known \r\nas one
-  the universe cannot be without,\r\nlike how rice paddies in drought need the cry
-  of the green frog.\r\n\r\nEven in the new world \r\nOnly see the elegance of art,
-  the line dividing mind and body.\r\nPoet, your life means\r\nyou still live as one
-  with that sickening limp. \r\nWhat is there to do when the eclipsed sun rises, and
-  when it sinks?\r\nPoet, your glory exists in\r\nthe small heart of the child who
-  dares step on the tail of a mad dog,\r\nin that moment when stains from the hand\r\ntrying
-  night or day to give birth to a new world\r\nbecome a poem. \r\nLook at the butterfly,
-  \r\nbeautiful even when it dies flying into the candlelight.\n\n(1926)\n"
+  the Poet</h2>\n\nOnly in that moment when you realize you must give birth \nto a
+  new world with that one poem,\nPoet, your existence will be known \nas one the universe
+  cannot be without,\nlike how rice paddies in drought need the cry of the green frog.\n\nEven
+  in the new world \nOnly see the elegance of art, the line dividing mind and body.\nPoet,
+  your life means\nyou still live as one with that sickening limp. \nWhat is there
+  to do when the eclipsed sun rises, and when it sinks?\nPoet, your glory exists in\nthe
+  small heart of the child who dares step on the tail of a mad dog,\nin that moment
+  when stains from the hand\ntrying night or day to give birth to a new world\nbecome
+  a poem. \nLook at the butterfly, \nbeautiful even when it dies flying into the candlelight.\n\n(1926)\n"
 note: "<p>I translated these poems a few years ago, in an attempt to “get to know”
   Yi, and thereby the literary atmosphere of the colonial period, better. I was initially
   attracted to the lyricism of his most famous poem, “Ppaeatkin Tŭredo Pomŭn Onŭn’ga”
@@ -55,12 +54,12 @@ tbio: "<p>Emily Jungmin Yoon graduated from University of Pennsylvania with a do
   <em>DoubleSpeak</em>, and elsewhere.</p>"
 language: Korean
 lang: ko
-image: "../assets/images/images_20/yoon.jpeg"
-image2:
+image: "/assets/images/images_20/yoon.jpeg"
+image2: 
 imagecredit: photo by Limin Jiang
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '15'

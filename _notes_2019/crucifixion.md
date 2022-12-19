@@ -42,12 +42,12 @@ tbio: "<p>Yehudith Dashevsky is an undergraduate at the University of Pennsylvan
   and a chapter of a children’s book.</p>"
 language: Russian
 lang: ru
-image:
-image2:
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+image: 
+image2: 
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2019'
 pagetype: submission
 order: '08'

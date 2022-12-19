@@ -80,7 +80,7 @@ tbio: "<p>Michaela Kotziers is a senior in the College majoring in English liter
   with concentrations in creative writing and medieval studies.</p>"
 language: German
 lang: de
-image: "../assets/images/images_16/eschenbach.JPG"
+image: "/assets/images/images_16/eschenbach.JPG"
 image2:
 imagecredit: photo by a <em>DoubleSpeak</em> staffer
 imagecredit2:

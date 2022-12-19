@@ -59,12 +59,12 @@ tbio: "<p>Maria Lourdes Riillo is a senior at the University of Pennsylvania stu
   most of all, and the unique challenge that translating poses in that regard.</p>"
 language: Spanish
 lang: es
-image: "../assets/images/images_20/riilo_1.png"
+image: "/assets/images/images_20/riilo_1.png"
 image2: "../assets/images/images_20/riilo_2.png"
 imagecredit: photo by Maria Lourdes Riillo
 imagecredit2: photo by Maria Lourdes Riillo
-origaudio:
-translaudio:
+origaudio: 
+translaudio: 
 edition: '2020'
 pagetype: submission
 order: '17'

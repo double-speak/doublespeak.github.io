@@ -1,11 +1,11 @@
 ---
 pid: kaise-kahoon-how-do-i-say
-title:
+title: 
 transtitle: "<em>Kaise Kahoon</em> / How Do I Say?"
 author: Simran Chand
-translator:
-poem:
-transpoem:
+translator: 
+poem: 
+transpoem: 
 note: "<p>As a heritage speaker, I can easily navigate nonchalant conversations about
   the usual suspects:  the frigid nature of gray Philadelphia winters, the heinous
   pile of chemistry homework that awaits me, the satisfying taste of my morning Metropolitan
@@ -75,18 +75,18 @@ abio: |-
   <p>
   Simran Chand recently graduated from the University of Pennsylvania in December 2021, double-majoring in biology and Gender, Sexuality, and Women’s Studies. She grew up speaking Hindi and English simultaneously, simply through exposure to her parents’ native tongue. She took Hindi grammar lessons through her early years of high school with Kishori Barman, a passionate resident of Newtown, Connecticut, committed to teaching the surrounding area’s  South Asian youth the beauty of the Hindi language. With a vested interest in ethnic identity,  gender/sexuality, and healthcare, Simran is the author of an honors research thesis documenting trends of familial sexual education amongst South Asian Americans at Penn. Simran plans to attend medical school while continuing to investigate the intersections of identity and medicine.
   </p>
-tbio:
+tbio: 
 language: English
 lang: en
-image: "../assets/images/images_22/musing1.jpg"
+image: "/assets/images/images_22/musing1.jpg"
 image2: "../assets/images/images_22/musing2.jpg"
 imagecredit: photo by Stacy Shimanuki
 imagecredit2: photo by Stacy Shimanuki
-origaudio:
-translaudio:
+origaudio: 
+translaudio: 
 edition: '2022'
 pagetype: musing
-wrapformat:
+wrapformat: 
 order: '08'
 layout: poempage
 collection: poems_2022
