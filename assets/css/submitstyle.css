@@ -113,6 +113,10 @@ p {
 	margin-right: 40px;
 }
 
+.submits {
+	padding: 20px 60px 20px 60px;
+}
+
 .submit-p {
 	width: 70%;
 	margin-top: 30px;
