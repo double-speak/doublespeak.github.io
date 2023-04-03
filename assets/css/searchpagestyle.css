@@ -1,5 +1,6 @@
 body{
 	background-color:#fffdfa;
+	background-image: url("{{site.baseurl}}/assets/images/background_logo_ds.png");
 	text-align:left;
 	margin: 0px;
 	font-size: 20px;
@@ -165,7 +166,6 @@ textarea {
 	width: 990px;
 	height: 200px;
 	margin: 10px 10px 10px 0px;
-	background-color: #f5eee4;
 	border: solid black 1px;
 } 
 
