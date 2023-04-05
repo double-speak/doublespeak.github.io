@@ -8,15 +8,16 @@ layout: default
 <head>
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/notepagestyle.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-      
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  
+
+
 </head>
 
    <title>{{page.translator}} on translating {{page.author}}</title>
 
 <body>
-  {% include navbar.html %}    
+  {% include navbar.html %}
     <div class="poemtags">
       <ul>
         <p class="tcontentslink link"><a href="{{site.baseurl}}/toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
@@ -28,7 +29,6 @@ layout: default
         <li><a href="{{site.baseurl}}/author_tags/{{page.author | slugify: 'latin' | replace: '-','_'}}">{{page.author}}</a></li>
       </ul>
     </div>
-  </div>
   <br>
 
 {% assign path = "poems_" | append: page.edition %}
@@ -47,7 +47,7 @@ layout: default
 {% for pg in site.data[path] %}
 
          {% if forloop.index == nextIndex %}
-  
+
           {% assign nextPage = pg.pid %}
 
         {% endif %}
@@ -61,11 +61,11 @@ layout: default
       <div class="note">
         <h1>{{page.translator}}</h1><br>
         <h2 class="note">on translating {{page.author}}</h2><br>
-        <p class="note"> {{page.note}} 
+        <p class="note"> {{page.note}}
         </p>
-      </div> 
+      </div>
     <div class="flex-container">
-      
+
        <div class="note-text">
           <div class="abio">
 
@@ -81,7 +81,7 @@ layout: default
       {% if page.image and page.image != "none" and page.image != "none " and page.image != "" %}
          <p class="caption"> {{page.imagecredit}}
         </p>
-         <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img>
+         <!-- <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img> -->
          </div>
       {% endif %}
 
@@ -116,4 +116,16 @@ layout: default
            <img class="line" style="margin: -100px -100px 0 0;" src="{{site.baseurl}}/assets/images/line 2022.svg"/>
          </div>
 </body>
+<style>
+body {
+background-color:#fffdfa;
+background-image: url('{{site.baseurl}}{{page.image}}');
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+</style>
+
+
 <html>

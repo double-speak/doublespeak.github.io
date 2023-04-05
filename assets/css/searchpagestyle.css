@@ -1,6 +1,9 @@
 body{
 	background-color:#fffdfa;
-	background-image: url("{{site.baseurl}}/assets/images/background_logo_ds.png");
+	background-image: url("../images/background_logo_ds.png");
+	background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 	text-align:left;
 	margin: 0px;
 	font-size: 20px;
@@ -167,7 +170,7 @@ textarea {
 	height: 200px;
 	margin: 10px 10px 10px 0px;
 	border: solid black 1px;
-} 
+}
 
 button[type="submit"] {
 	margin: 10px 0 0 10px;
@@ -196,5 +199,3 @@ input:focus {
 textarea:focus {
   border: 2px solid #555;
 }
-
-

@@ -1,6 +1,9 @@
 body{
 	background-color:#fffdfa;
-	background-image: url("{{site.baseurl}}/assets/images/background_logo_ds.png");
+	background-image: url("../images/background_logo_ds.png");
+	background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 	text-align: left;
 	margin: 0px;
 	font-size: 20px;
