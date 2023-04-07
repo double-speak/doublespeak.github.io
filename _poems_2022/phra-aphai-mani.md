@@ -55,16 +55,13 @@ abio: |-
   <p>
   We decided to translate this poem because it challenges the male stereotype of warriorship. Sunthorn Phu rejects this stereotype by portraying the lead character, Phra Aphai Mani, as a keen musician instead of a great warrior. We would also like to raise awareness of the works of Thailand’s most celebrated author — Amazon currently has only one listing for Phu’s work. It is nonetheless challenging to transfer the beautiful rhymes of Thai into another language, and most of Sunthorn Phu’s works are lengthy.
   </p>
-tbio: "<p>\nJohn Viano and Peeriya Pongsarigun are authors and translators who value
-  the importance of creating English language rhyme schemes which echo that of their
-  sources, while accurately communicating the author’s message. They co-founded the
-  company InterThaiMedia LLC to create media that brings people together across languages
-  and cultures. InterThaiMedia’s first project was <em>Can You Carry Me?</em>, a children’s
-  book by Viano and Pongasrigun about sibling rivalry. Their second project was <em>Calm</em>
-  by Cheewan Wisasa, an IBBY Honor List book that tells the story of children using
-  their superpower of mindfulness to manage their feelings.\n</p>\n<p>\r\nViano and
-  Pongsarigun have translated more than 150 children’s books. They last published
-  with DoubleSpeak in Spring 2021.\n</p>"
+tbio: |-
+  <p>
+  John Viano and Peeriya Pongsarigun are authors and translators who value the importance of creating English language rhyme schemes which echo that of their sources, while accurately communicating the author’s message. They co-founded the company InterThaiMedia LLC to create media that brings people together across languages and cultures. InterThaiMedia’s first project was <em>Can You Carry Me?</em>, a children’s book by Viano and Pongasrigun about sibling rivalry. Their second project was <em>Calm</em> by Cheewan Wisasa, an IBBY Honor List book that tells the story of children using their superpower of mindfulness to manage their feelings.
+  </p>
+  <p>
+  Viano and Pongsarigun have translated more than 150 children’s books. They last published with <em>DoubleSpeak</em> in Spring 2021.
+  </p>
 language: Thai
 lang: th
 image: none

@@ -55,7 +55,7 @@ abio: "<p>Rosabetty Muñoz is a Chilean poet and teacher from the southern city 
 tbio: "<p>Claudia Nuñez de Ibieta translates and interprets within Spanish and English.
   Past work includes various translation projects for Chilean television, as well
   as historical translation for the Academy of American Franciscan History. More recently,
-  she has translated short fiction and poetry, with work appearing in Harpy <em>Hybrid
+  she has translated short fiction and poetry, with work appearing in <em>Harpy Hybrid
   Review</em>, <em>DoubleSpeak</em>, and at <em>www.fiikbooks.org</em>, where she
   participates in collaborative group translation projects. Also a member of the <em>Cardboard
   House Press Cartonera Collective</em> in Phoenix and a long-time bookseller, she
