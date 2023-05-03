@@ -399,6 +399,17 @@ p strong {
 	width: 50%;
 }
 
+.both-audio{
+	display: flex;
+	justify-content: center;
+	gap:50px;
+	flex-wrap: wrap;
+	margin-bottom: 50px;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .note {
 	margin: 0px 0 30px 0px;
 }
