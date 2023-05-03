@@ -106,16 +106,7 @@ origaudio: |-
     src="https://drive.google.com/file/d/1E7LLnQLe_X_tMggIOlQvEKP5ZBSFBysE/preview">
   </iframe>
   </div>
-translaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1Qi1pKy_UbfgI7yHcGobHwbHHAgHOZ5dt/preview">
-  </iframe>
-  </div>
+translaudio: 
 edition: '2022'
 pagetype: submission
 wrapformat: 

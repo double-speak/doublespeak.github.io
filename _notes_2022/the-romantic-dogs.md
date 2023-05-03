@@ -3,7 +3,7 @@ pid: the-romantic-dogs
 title: Los perros románticos
 transtitle: The Romantic Dogs
 author: Roberto Bolaño
-translator: em_DoubleSpeak_em_Staff
+translator: "<em>DoubleSpeak Staff</em>"
 poem: |-
   En aquel tiempo yo tenía veinte años
   y estaba loco.
