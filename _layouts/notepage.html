@@ -17,6 +17,7 @@ layout: default
    <title>{{page.translator}} on translating {{page.author}}</title>
 
 <body>
+  <div class="bg">
   {% include navbar.html %}
     <div class="poemtags">
       <ul>
@@ -115,6 +116,7 @@ layout: default
     <div class="lineart">
            <img class="line" style="margin: -100px -100px 0 0;" src="{{site.baseurl}}/assets/images/line 2022.svg"/>
          </div>
+         </div>
 </body>
 <style>
 body {
@@ -123,6 +125,14 @@ background-image: url('{{site.baseurl}}{{page.image}}');
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
+}
+
+.bg{
+  background-color:rgba(255,253,250,0.65);
+  background-size: cover;
+  height:210%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 </style>
