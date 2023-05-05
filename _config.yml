@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   DoubleSpeak is the University of Pennsylvania’s only journal for literary translation and the only literary translation journal in the country run by undergraduate students. Founded over a decade ago, our annual journal celebrates a range of languages, cultures, and countries through thoughtful curation of poets across centuries and around the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.doublespeakmagazine.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username:
 
 
 # Build settings
@@ -79,6 +79,22 @@ collections:
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
 
+  poems_2023:
+    layout: 'poempage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2023.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  notes_2023:
+    layout: 'notepage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2023.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+
+
   #used to generate the poem + note pages for each issue/year
   poems_2022:
     layout: 'poempage'
@@ -94,7 +110,7 @@ collections:
       source: 'poems_2022.csv' # path to the metadata file, must be within '_data'
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
-  
+
   poems_2021:
     layout: 'poempage'
     output: true # this must be true for your .md pages to be built to html!
@@ -124,7 +140,7 @@ collections:
       source: 'poems_2020.csv' # path to the metadata file, must be within '_data'
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
-  
+
   poems_2019:
     layout: 'poempage'
     output: true # this must be true for your .md pages to be built to html!
@@ -154,7 +170,7 @@ collections:
       source: 'poems_2018.csv' # path to the metadata file, must be within '_data'
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
-  
+
   poems_2017:
     layout: 'poempage'
     output: true # this must be true for your .md pages to be built to html!
