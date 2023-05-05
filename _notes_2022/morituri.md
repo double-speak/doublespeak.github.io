@@ -5,14 +5,14 @@ transtitle: Morituri
 author: Adolf Brand
 translator: Robert Chen
 poem: "Sonne, Sterberin! \nDu heilige Sonne blutest \nUnd Deine Liebe strömt in Flammenpurpur
-  Hin über den leuchtenden, \nAnbetung lispelnden See! \nSonne! - Menschenmutter!
+  \nHin über den leuchtenden, \nAnbetung lispelnden See! \nSonne! - Menschenmutter!
   \n\nKüsse noch einmal dort in der ferne \nMeines Heissgeliebten klagenden Mund:
-  Auch er ist Dein Sohn! \nEh die Segel tauchen in Dampf, \nEh die Wasser stehen \nUnd
-  der Wald den düstern Mantel nimmt! \nSchönetrunken lächelt mir immer noch \nDein
-  Heiligenantlitz, \nMenschenmutter! \nDu, die mich ausströmte ins lebende All, Dort
-  in der ferne \nZittert ein wundes Freundesherz! \n\nO, gieb ihm jetzt \nIn Deinem
-  letzten Glutenkusse \nNieverzagende Kraft, \nEwige Jugend! \nEh die Nacht das schwarze
-  Laken breitet Und Orion Totenwache hält! \n"
+  \nAuch er ist Dein Sohn! \nEh die Segel tauchen in Dampf, \nEh die Wasser stehen
+  \nUnd der Wald den düstern Mantel nimmt! \nSchönetrunken lächelt mir immer noch
+  \nDein Heiligenantlitz, \nMenschenmutter! \nDu, die mich ausströmte ins lebende
+  \nAll, Dort in der ferne \nZittert ein wundes Freundesherz! \n\nO, gieb ihm jetzt
+  \nIn Deinem letzten Glutenkusse \nNieverzagende Kraft, \nEwige Jugend! \nEh die
+  Nacht das schwarze Laken \nbreitet Und Orion Totenwache hält! \n"
 transpoem: "Sun, dying one! \nYou, holy sun, bleed \nAnd thy love surges in flaming
   purple \nOver the shining, \nWorship-whispering sea! \nSun! - Mother of man! \n\nKiss
   once more there in the distance \nMy beloved’s plaintive mouth: \nHe, too, is thy
@@ -45,14 +45,14 @@ abio: "<p>Adolf Brand (1874–1945) was a German gay activist and the founder of
   homophobic views, for which he was imprisoned at one point. Unfortunately, Brand
   was forced to abandon his activism in the 1930s due to harassment from Nazi authorities.</p>"
 tbio: "<p>Robert Chen is a fourth-year at the University of Pennsylvania studying
-  biochemistry and chemistry.</p>"
+  biochemistry and chemistry                                                                                                          .</p>"
 language: German
 lang: de
 image: "/assets/images/images_22/Brand_Morituri.png"
 image2: none
 imagecredit: An illustration by Richard Grimm accompanying the original poem in <i>Der
   Eigene</i>.
-imagecredit2: 
+imagecredit2:
 origaudio: |-
   <div>
 
@@ -60,7 +60,7 @@ origaudio: |-
     frameborder="0"
     width="375"
     height="65"
-    src="https://drive.google.com/file/d/1MG2iMYAg7qzKDwIviTvKBtvxy0EF_W4O/preview">
+    src="https://drive.google.com/file/d/1XUmyX3zGBqGV8YZRcHdxp9LaJDYDL37i/preview">
   </iframe>
   </div>
 translaudio: |-
@@ -70,12 +70,12 @@ translaudio: |-
     frameborder="0"
     width="375"
     height="65"
-    src="https://drive.google.com/file/d/1Z98zVjs-iQryfIlwrGiI0fm8racz07sB/preview">
+    src="https://drive.google.com/file/d/1UkRcqFEPMxfxcWkooO5hnY8yeuWb4b2H/preview">
   </iframe>
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat: 
+wrapformat:
 order: '07'
 layout: notepage
 collection: notes_2022

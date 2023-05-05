@@ -4,26 +4,26 @@ title: NO SE CRÍAN HIJOS PARA VERLOS MORIR
 transtitle: YOU DON’T RAISE CHILDREN TO WATCH THEM DIE
 author: Rosabetty Muñoz
 translator: Claudia Nuñez de Ibieta
-poem: "<div style=\"text-align: right\">Cuando el mar se llevó a sus tres hijos Ella\nestaba
-  acodada en la puerta de su casa, pensando \nen ollas aladas y repletas. De pronto
-  cayó en \nun vacío del que surgió vieja y encorvada. No \nnecesitó entrar para vestirse
-  de negro. Ya estaba \nrecogiendo ﬂores cuando salió su hombre con la \nradio en
-  la mano, desamparado y tembloroso. </div>\n\n\nElla es una sábana ﬂotando sobre
-  nosotros.\nNada detiene el remolino que alienta su vuelo.\nDesde su vientre deshabitado\nlos
-  ovarios violeta se abren como ﬂores nocturnas.\nLa ansiedad es un arrecife\ndonde
-  acerados corales hieren los cuerpos amados.\n\nSin hijos bajo sus ojos\nquisiéramos
-  las madres\nofrecerle un trozo de pañal\npara vendar sus muñones o un arca\ndonde
-  recoger los salados restos.\n"
-transpoem: "<div style=\"text-align: right\">When the sea took away her three sons
-  She \nwas leaning in the doorway of her home, thinking \nof winged and brimming
-  pots. Suddenly she fell into\nan abyss, from which she emerged old and hunched.
-  She didn’t \nneed to go inside to be dressed in black. She was already \ngathering
-  flowers when her husband came outside with the \nradio in his hand, helpless and
-  trembling.</div>\n \nShe is a sheet floating above us.\nNothing restrains the whirlwind
-  that keeps her aloft.\nFrom her deserted womb\nviolet ovaries unfurl like night-blooming
-  flowers.\nAnxiety is a reef\nwhere sharpened corals wound beloved bodies.\n\nWithout
-  children in her sight\nwe mothers would like\nto offer her a piece of diaper cloth\nto
-  bandage her stumps or an ark\nto gather the salty remains.\n"
+poem: "Cuando el mar se llevó a sus tres hijos \nElla estaba acodada en la puerta
+  de su casa, pensando \nen ollas aladas y repletas. De pronto cayó en \nun vacío
+  del que surgió vieja y encorvada. No \nnecesitó entrar para vestirse de negro. Ya
+  estaba \nrecogiendo ﬂores cuando salió su hombre con la \nradio en la mano, desamparado
+  y tembloroso.\n\n\nElla es una sábana ﬂotando sobre nosotros.\nNada detiene el remolino
+  que alienta su vuelo.\nDesde su vientre deshabitado\nlos ovarios violeta se abren
+  como ﬂores nocturnas.\nLa ansiedad es un arrecife\ndonde acerados corales hieren
+  los cuerpos amados.\n\nSin hijos bajo sus ojos\nquisiéramos las madres\nofrecerle
+  un trozo de pañal\npara vendar sus muñones o un arca\ndonde recoger los salados
+  restos.\n"
+transpoem: "When the sea took away her three sons \nShe was leaning in the doorway
+  of her home, \nthinking of winged and brimming pots. \nSuddenly she fell into an
+  abyss, \nfrom which she emerged old and hunched. \nShe didn’t need to go inside
+  to be dressed in black. \nShe was already gathering flowers \nwhen her husband came
+  outside \nwith the radio in his hand, helpless and trembling.\n \nShe is a sheet
+  floating above us.\nNothing restrains the whirlwind that keeps her aloft.\nFrom
+  her deserted womb\nviolet ovaries unfurl like night-blooming flowers.\nAnxiety is
+  a reef\nwhere sharpened corals wound beloved bodies.\n\nWithout children in her
+  sight\nwe mothers would like\nto offer her a piece of diaper cloth\nto bandage her
+  stumps or an ark\nto gather the salty remains.\n"
 note: |-
   <p>This poem originally appeared in <em>Hijos</em> (<em>Children</em>, 1991), a sublimely beautiful collection of Muñoz’s poems centered around pregnancy and motherhood. This image-rich, heart-aching piece — the final poem in the collection — is based on a real event from the time. In a historical context, such tragedies occur all too often in the maritime culture of Chiloé, as perhaps they do in other places, and the individual loss and grief conveyed become universal in significance. The particular language and imagery of Muñoz’s poetry, however, is specific to the culture, lore and landscape of the Chiloé archipelago, and is one of the most essential elements throughout her entire body of work.</p>
   <p>We learn of the tragic loss in the first line and throughout the first stanza. In robbing her of her children, the sea not only took them — <em>se los llevó</em>, but “took them away”; the line becomes more similar in length to the original and emphasizes the loss. While their mother leaned in the doorway, awaiting their safe return and anticipating a successful catch, the pots of fish and seafood stew she was already planning would not merely be full, but <em>rebosantes</em> — “brimming” in joyous abundance. The traditional clay pots, with handles like folded “wings,” embody the magic of the hearth, the reward for such hard, often dangerous, labor at sea. She is endowed by the poet — a mother of three herself — with a powerful, unquestionable sense of maternal intuition. She somehow knows and feels the ultimate loss before her husband hears the tragic news reported on the radio. An abyss of devastation swallows her and spits her out, shrunken and aged. In a traditional culture not unfamiliar with tragedies at sea, it isn’t odd that she is already “dressed in black” and “gathering flowers” by the time he comes outside, “helpless and trembling.”</p>
@@ -59,8 +59,8 @@ language: Spanish
 lang: es
 image: none
 image2: none
-imagecredit: 
-imagecredit2: 
+imagecredit:
+imagecredit2:
 origaudio: |-
   <div>
 
@@ -83,7 +83,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat: 
+wrapformat:
 order: '01'
 layout: notepage
 collection: notes_2022

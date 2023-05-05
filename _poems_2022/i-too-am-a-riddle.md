@@ -22,10 +22,10 @@ poem: |-
   पर हूँ असीम से खेली भी !
 transpoem: "My love, I, too, am a riddle.\n\nThe nectar, the honeyed laughter, \nThe
   lust in your glances, \nThe lamentation, the despair, \nAll the poison in this quivering
-  world.  \n\nI drink, I drink it all, and yet I thirst for sorrow \nAnd bathe in
+  world.  \n\nI drink, I drink it all, and yet I thirst \nfor sorrow \nAnd bathe in
   the river of joy. \n\nFrom every fiber of my being \nBoth the fire and water fall.
   \nRenunciation and devotion join \nIn my panting breath. \n\nMy love, I was born
-  to the lap of limitation,\nBut I, too, have loved in the limitless."
+  to the lap \nof limitation,\nBut I, too, have loved in the limitless."
 note: |-
   <p>This poem speaks to me of duality, conflict, and devotion. I really wanted to convey the complexity and confusion in this poem. There is a palpable tension and urgency that needs to be prioritized. </p>
   <p>As in all translations, I had to compromise. I struggled with the translation of <span lang= "hi">प्रिय</span> (<em>priya</em>), appearing as both the poem’s first word and towards the end. The whole poem hinges on this one word. Because it is a direct address, it sets the tone for the poem and makes it an intimate conversation. Previous translators conveyed this as “beloved,” and “dear one.” These felt antiquated and awkward to me. I chose to translate this as “my love” because it felt more colloquial and like a gentle whisper. </p>
@@ -44,12 +44,12 @@ lang: hi
 image: "/assets/images/images_22/varma.jpg"
 image2: none
 imagecredit: photo by Yan Zhang
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2022'
 pagetype: submission
-wrapformat: 
+wrapformat:
 order: '00'
 layout: poempage
 collection: poems_2022

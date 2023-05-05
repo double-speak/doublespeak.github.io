@@ -53,7 +53,7 @@ lang: es
 image: "/assets/images/images_22/vilarino.jpg"
 image2: none
 imagecredit: photo by Ryan Hardy
-imagecredit2: 
+imagecredit2:
 origaudio: |
   <div>
     <iframe
@@ -74,7 +74,7 @@ translaudio: |
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat: 
+wrapformat:
 order: '12'
 layout: notepage
 collection: notes_2022

@@ -25,27 +25,17 @@ poem: |
   L’espoir vivait en nous comme une citadelle
   Et des mines du Souaziland à la sueur lourde des usines d’Europe
   Le printemps prendra chair sous nos pas de clarté.
-transpoem: |
-  In those days
-  With the rantings of civilization
-  With blows of holy water on domesticated foreheads
-  The vultures built in the shadow of their talons
-  The bloody monument of the guardian era
-  In those days
-  Laughter lay dying in the metallic hell of the roads
-  And the monotonous rhythm of the Paternosters
-  Drowned out the howls of the plantations for profit
-  O the acid memory of snatched kisses
-  The promises mutilated by the shock of machine guns
-  Strange men who were not men
-  You knew all the books you did not know love
-  And the hands that fertilize the womb of the earth
-  The roots of our hands deep as revolt
-  In spite of your songs of pride in the midst of mass graves
-  The desolate villages Africa torn apart
-  Hope lived in us like a citadel
-  And from the mines of Swaziland to the heavy sweat of the factories of Europe
-  Spring will take flesh under our steps of light.
+transpoem: "In those days\nWith the rantings of civilization\nWith blows of holy water
+  on domesticated foreheads\nThe vultures built in the shadow of their talons\nThe
+  bloody monument of the guardian era\nIn those days\nLaughter lay dying in the metallic
+  hell of the roads\nAnd the monotonous rhythm of the Paternosters\nDrowned out the
+  howls of the plantations for profit\nO the acid memory of snatched kisses\nThe promises
+  mutilated by the shock of machine guns\nStrange men who were not men\nYou knew all
+  the books you did not know love\nAnd the hands that fertilize the womb of the earth\nThe
+  roots of our hands deep as revolt\nIn spite of your songs of pride in the midst
+  of mass graves\nThe desolate villages Africa torn apart\nHope lived in us like a
+  citadel\nAnd from the mines of Swaziland to the heavy sweat \nof the factories of
+  Europe\nSpring will take flesh under our steps of light.\n"
 note: |
   <p>
   David Diop’s “The Vultures” describes the destructive collaboration of Christian missionaries and French colonizers in Africa. Translator Ulli Beier renders the second line (“à coups de gueule de civilisation”) as “when civilization kicked us in the face” by reading “coups de gueule” as a literal composite of <em>coups</em> (“blows”) and <em>gueule</em> (an informal word for “mouth, face”). However, “coup de gueule” is an idiom that means “roar, yell, rant, tirade,” so I translated this line as “with the rantings of civilization.” I translated <em>domestiqués</em> as “domesticated,” rather than its secondary meaning of “controlled, subjugated,” to show that the Christian missionaries who helped colonize Africa sought to erase traditional African culture and replace it with European culture under the guise of “domesticating” and allegedly improving Black people. Before Diop describes the physical violence of colonization, he condemns the cultural imperialism that supported it, which relied as much on “all the books” as on “machine guns.” He immediately dismisses the racist ideology that justified the spread of “civilization” as mere “rantings,” establishing the hopeful promise of the poem’s conclusion.
@@ -68,8 +58,8 @@ language: French
 lang: fr
 image: none
 image2: none
-imagecredit: 
-imagecredit2: 
+imagecredit:
+imagecredit2:
 origaudio: |-
   <div>
 
@@ -91,7 +81,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat: 
+wrapformat:
 order: '05'
 layout: notepage
 collection: notes_2022

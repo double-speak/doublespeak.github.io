@@ -95,7 +95,7 @@ lang: ar
 image: "/assets/images/images_22/qabbani.jpg"
 image2: none
 imagecredit: photo by Michael Karam
-imagecredit2: 
+imagecredit2:
 origaudio: |-
   <div>
 
@@ -103,13 +103,22 @@ origaudio: |-
     frameborder="0"
     width="375"
     height="65"
-    src="https://drive.google.com/file/d/1E7LLnQLe_X_tMggIOlQvEKP5ZBSFBysE/preview">
+    src="https://drive.google.com/file/d/1EwnEcJ6HFSW4EtN65IPPlXCRq6fWzbN6/preview">
   </iframe>
   </div>
-translaudio: 
+translaudio: |-
+  <div>
+
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src="https://drive.google.com/file/d/19lleN2f1fkMscjNYOzyTJVHEo3X61jQf/preview">
+  </iframe>
+  </div>
 edition: '2022'
 pagetype: submission
-wrapformat: 
+wrapformat:
 order: '16'
 layout: notepage
 collection: notes_2022

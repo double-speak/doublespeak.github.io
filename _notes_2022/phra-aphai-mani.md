@@ -4,40 +4,36 @@ title: พระอภัยมณี
 transtitle: Phra Aphai Mani
 author: Sunthorn Phu
 translator: Peeriya Pongsarigun and John Viano
-poem: |-
-  วันนั้นพระอภัยมณีศรีสุวรรณ             จรจรัลเข้ามาถึงหน้าบ้าน
-  เห็นลิขิตปิดไว้กับใบทวาร                พระทรงอ่านแจ้งจิตในกิจจา
-  อันท่านครูอยู่ตึกตำแหน่งนี้               ฝีปากปี่เป่าเสนาะเพราะหนักหนา
-  จึงดำรัสตรัสแก่ยา                             อันวิชาสิ่งนี้พี่ชอบใจ
-  อนุชาว่าการกลศึก                             น้องนี้นึกรักมาแต่ไหนไหน
-  ถ้าเรียนรู้รำกระบองได้ว่องไว             จะชิงชัยข้าศึกไม่นึกเกรง
-  พระเชษฐาว่าจริงแล้วเจ้าพี่                วิชามีแล้วใครไม่ข่มเหง
-  แต่ใจพี่นี้รักทางนักเลง                       หมายว่าเพลงดนตรีนี้ดีจริง
-  ถึงการเล่นเป็นที่ประโลมโลก             ได้ดับโศกสูญหายทั้งชายหญิง
-  แต่ขัดสนจนจิตคิดประวิง                    ด้วยทรัพย์สิ่งหนึ่งนี้ไม่มีมา ฯ
-  ศรีสุวรรณปัญญาฉลาดแหลม             จึงยิ้มแย้มเยื้อนตอบพระเชษฐา
-  ธำมรงค์เรือนมณีมีราคา                      จะคิดค่าควรแสนตำลึงทอง
-  พอบูชาอาจารย์เอาต่างทรัพย์            เห็นจะรับสอนสั่งเราทั้งสอง
-  อันตัวน้องนี้จะอยู่ด้วยครูกระบอง       หัดให้คล่องเชี่ยวชาญชำนาญดี
-  ขอพระองค์จงเสด็จไปท้ายบ้าน         อยู่ศึกษาอาจารย์ข้างดีดสี
-  ครั้นเสร็จสมปรารถนาไม่ช้าที             จะตามพี่ไปหาที่อาจารย์
-transpoem: |
-  That day, Phra Aphai Mani and Sri Suwan arrived in front of the house
-  And saw that fateful door closed. His Majesty read the missive upon it, proving it is the house of a musical maestro.
-  “That teacher who lives here, yet is now absent, plays his flute with sonorousness equal to his seriousness.”
-  Thus, His Majesty’s speech, full of passionate vigor, let slip his passion for the musical arts.
-  By way of reply, the younger prince shared a passion denied­—that he should deign to learn the art of war.
-  If only he could dance sveltely with his poleaxe, all foes would be at his fearless mercy.
-  The elder prince thought, it’s true, mastering these martial arts is a virtue unassailable.
-  While he longed for more vulgar things, as can be found in the musical arts, the old master’s song crept into his heart.
-  With a flute at his lips, he was transported away from his struggles as notions of manliness and womanliness faded into the musical void.
-  His longing to play turned into thoughts of delay, in consideration of what treasure he needed to pay to learn to make song.
-  The younger Sri Suwan, usually quite cunning, allowed himself an indelicate grin in answer to his elder brother.
-  My rings and glittering baubles have some worth, perhaps a thousand talent-weights of gold—
-  Perhaps enough to convince our teachers to accept other treasures, and accept us as students both.
-  As for me, older brother, I shall endeavor to learn my martial arts well to master my poleaxe professionally.
-  I pray, my dear elder brother, bide your time here in wait of your maestro.
-  When you’re finished, my artistic king and brother, I’ll come quickly to meet you here at your maestro’s place.
+poem: "วันนั้นพระอภัยมณีศรีสุวรรณ             \nจรจรัลเข้ามาถึงหน้าบ้าน\nเห็นลิขิตปิดไว้กับใบทวาร
+  \               \nพระทรงอ่านแจ้งจิตในกิจจา\nอันท่านครูอยู่ตึกตำแหน่งนี้               \nฝีปากปี่เป่าเสนาะเพราะหนักหนา\nจึงดำรัสตรัสแก่ยา
+  \                           \n อันวิชาสิ่งนี้พี่ชอบใจ\nอนุชาว่าการกลศึก                             \nน้องนี้นึกรักมาแต่ไหนไหน\nถ้าเรียนรู้รำกระบองได้ว่องไว
+  \            \nจะชิงชัยข้าศึกไม่นึกเกรง\nพระเชษฐาว่าจริงแล้วเจ้าพี่                \nวิชามีแล้วใครไม่ข่มเหง\nแต่ใจพี่นี้รักทางนักเลง
+  \                      \nหมายว่าเพลงดนตรีนี้ดีจริง\nถึงการเล่นเป็นที่ประโลมโลก             \nได้ดับโศกสูญหายทั้งชายหญิง\nแต่ขัดสนจนจิตคิดประวิง
+  \                   \nด้วยทรัพย์สิ่งหนึ่งนี้ไม่มีมา ฯ\nศรีสุวรรณปัญญาฉลาดแหลม             \nจึงยิ้มแย้มเยื้อนตอบพระเชษฐา\nธำมรงค์เรือนมณีมีราคา
+  \                     \nจะคิดค่าควรแสนตำลึงทอง\nพอบูชาอาจารย์เอาต่างทรัพย์            \nเห็นจะรับสอนสั่งเราทั้งสอง\nอันตัวน้องนี้จะอยู่ด้วยครูกระบอง
+  \      \nหัดให้คล่องเชี่ยวชาญชำนาญดี\nขอพระองค์จงเสด็จไปท้ายบ้าน         \nอยู่ศึกษาอาจารย์ข้างดีดสี\nครั้นเสร็จสมปรารถนาไม่ช้าที
+  \            \nจะตามพี่ไปหาที่อาจารย์"
+transpoem: "That day, Phra Aphai Mani and Sri Suwan arrived \nin front of the house
+  and saw that fateful door closed. \nHis Majesty read the missive upon it, \nproving
+  it is the house of a musical maestro.\n“That teacher who lives here, yet is now
+  absent, \nplays his flute with sonorousness equal \nto his seriousness.” Thus, His
+  Majesty’s speech, \nfull of passionate vigor, let slip his passion \nfor the musical
+  arts. By way of reply, \nthe younger prince shared a passion denied­—\nthat he should
+  deign to learn the art of war.\nIf only he could dance sveltely with his poleaxe,
+  \nall foes would be at his fearless mercy.\nThe elder prince thought, it’s true,
+  mastering \nthese martial arts is a virtue unassailable.\nWhile he longed for more
+  vulgar things, \nas can be found in the musical arts, \nthe old master’s song crept
+  into his heart.\nWith a flute at his lips, he was transported \naway from his struggles
+  as notions \nof manliness and womanliness faded \ninto the musical void.His longing
+  to play \nturned into thoughts of delay, in consideration \nof what treasure he
+  needed to pay \nto learn to make song.The younger Sri Suwan, \nusually quite cunning,
+  allowed himself \nan indelicate grin in answer to his elder brother. \nMy rings
+  and glittering baubles have some worth, \nperhaps a thousand talent-weights of gold—\nPerhaps
+  enough to convince our teachers \nto accept other treasures, and accept us \nas
+  students both. As for me, older brother, \nI shall endeavor to learn my martial
+  arts well \nto master my poleaxe professionally.\nI pray, my dear elder brother,
+  bide your time here \nin wait of your maestro. When you’re finished, \nmy artistic
+  king and brother, I’ll come quickly \nto meet you here at your maestro’s place."
 note: |-
   <p>
   <em>Phra Aphai Mani</em> is a 48,700-line epic poem written by the poet Sunthorn Phu between 1821 and 1845. The male protagonist of the poem is Phra Aphai Mani, a keen musician who plays the flute. Nineteenth-century Thai literature was often centered on male warrior figures known for their martial prowess. For example, <em>I-nao</em>, written during the early Rattanakosin Period, portrays the titular protagonist as an expert in the use of daggers. <em>Kraithong</em> by King Rama II is about a hero who kills crocodiles. <em>Khobut</em>, written by Sunthorn Phu during the reign of King Rama I, is about Kobut, the son of the Sun, who has special power to resurrect the dead. <em>Singha Krai Phop</em>, also written by Sunthorn Phu during the reign of King Rama II and III, is about a child raised by a giant demon who drinks milk from a lion during infancy.
@@ -60,24 +56,15 @@ tbio: |-
   John Viano and Peeriya Pongsarigun are authors and translators who value the importance of creating English language rhyme schemes which echo that of their sources, while accurately communicating the author’s message. They co-founded the company InterThaiMedia LLC to create media that brings people together across languages and cultures. InterThaiMedia’s first project was <em>Can You Carry Me?</em>, a children’s book by Viano and Pongasrigun about sibling rivalry. Their second project was <em>Calm</em> by Cheewan Wisasa, an IBBY Honor List book that tells the story of children using their superpower of mindfulness to manage their feelings.
   </p>
   <p>
-  Viano and Pongsarigun have translated more than 150 children’s books. They last published with <em>DoubleSpeak</em> in Spring 2021.
+  Viano and Pongsarigun have translated more than 150 children’s books. They last published with <em>DoubleSpeak</em>  in Spring 2021.
   </p>
 language: Thai
 lang: th
 image: none
 image2: none
-imagecredit: 
-imagecredit2: 
-origaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1k33TmXe1FCr_np2FV10xp9TqY9jMuxH6/preview">
-  </iframe>
-  </div>
+imagecredit:
+imagecredit2:
+origaudio:
 translaudio: |-
   <div>
 
@@ -90,7 +77,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat: 
+wrapformat:
 order: '11'
 layout: notepage
 collection: notes_2022
