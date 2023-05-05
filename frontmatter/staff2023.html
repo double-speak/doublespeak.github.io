@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/miscpagestyle.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+</head>
+
+   <title>staff 2023</title>
+
+<body>
+  {% include navbar.html %}
+  <div class="tcontentslink">
+    <p><a href="{{site.baseurl}}/toc2023.html"><  &nbsp; table of contents</a></p>
+  </div>
+  <div class=container>
+    <div class="staff">
+      <h1>our staff</h1>
+      <ul class="staff-u">
+        {% for item in site.data.staff_2023 %}
+        <li class="staff-l"><a><strong>{{item.name}}</strong> — {{item.role}}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="acknowledgements">
+        <h1 class="acknolwedgements">acknowledgements</h1>
+        <p>Thank you to the <a href="https://writing.upenn.edu/~wh/">Kelly Writers House</a>, the <a href="https://sacfunded.net/">Student Activities Council</a> at the University of Pennsylvania, and the <a href="https://pricelab.sas.upenn.edu/">Price Lab for Digital Humanities</a>, especially <a href="http://cassandrahradil.com/">Cassandra Hradil</a>, for their support of <em>DoubleSpeak</em>.</p>
+        <p>Cover photo taken by Limin Jiang.</p>
+    </div>
+  </div>
+
+<!--   {% assign previousIndex = page.pid | minus: 1 %} -->
+
+    {% for pg in site.data.poems_2021 %}
+
+      {% if pg.pid == page.pid %}
+
+          {% assign previousIndex = forloop.index | minus: 1 %}
+        {% endif %}
+
+
+    {% endfor %}
+
+    {% for pg in site.data.poems_2021 %}
+
+         {% if forloop.index == previousIndex %}
+
+          {% assign previousPage = pg.pid %}
+
+        {% endif %}
+
+    {% endfor %}
+  <div class="nextlink">
+    <p><a href="{{site.url}}{{site.baseurl}}/frontmatter/ednote2023">next  &nbsp; ></a></p>
+  </div>
+  <div class="nextmobile">
+      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/ednote2023"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+    </div>
+</body>
+
+<style>
+body {
+background-image: url('{{site.baseurl}}/assets/images/background_logo_ds.png');
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+</style>
+<html>
