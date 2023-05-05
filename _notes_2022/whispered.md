@@ -35,36 +35,17 @@ poem: |+
   zahleděn v tvé oči vznešené
   půl smrt půl stín se vkradu tam
 
-transpoem: |
-  A thin stalk is your body
-  from which grain fell without sprouting
-  how like a thin stalk is your body
-
-  A skein of silk is your body
-  desire written on the tissues’s every last wrinkling
-  how like a skein of silk is your body
-
-  A burning sky is your body
-  furtively, a banshee with it, in the weaving
-  how like a burning sky is your body
-
-  The quiet is your body
-  its cry sets my eyelids trembling
-  how like the quiet is your body
-
-  <h1>Certitude</h1>
-
-  I enter into love and while blinded
-  feel my way, stumbling into the dark past
-  of your stricken mercies
-
-  I ransack and, unexpectedly and already, I know
-  it is not a given for me to stay in this paradise
-  I have so longed and yet do not belong
-
-  I pass though I renounce nothing
-  while staring into your noble eyes
-  there, I steal into half death half shadow
+transpoem: "A thin stalk is your body\nfrom which grain fell without sprouting\nhow
+  like a thin stalk is your body\n\nA skein of silk is your body\ndesire written on
+  the tissues’s \nevery last wrinkling\nhow like a skein of silk is your body\n\nA
+  burning sky is your body\nfurtively, a banshee with it, \nin the weaving\nhow like
+  a burning sky is your body\n\nThe quiet is your body\nits cry sets my eyelids trembling\nhow
+  like the quiet is your body\n\n<h1>Certitude</h1>\n\nI enter into love and while
+  blinded\nfeel my way, stumbling into the dark past\nof your stricken mercies\n\nI
+  ransack and, unexpectedly and already, I know\nit is not a given for me to stay
+  in this paradise\nI have so longed and yet do not belong\n\nI pass though I renounce
+  nothing\nwhile staring into your noble eyes\nthere, I steal into half death half
+  shadow\n"
 note: |+
   <p>The poems here were chosen from the book <em>Krásné neštěstí</em> (<em>Beautiful Bad Luck</em> – or <em>Unhappiness</em>, depending on how you read it), which was first published in 2006 by one of Halas’s sons, a well-known radio presenter in the Czech Republic. The poems were published for the first time alongside the letters that Halas sent them in, to his wife, between the years 1928 and 1939. None of her correspondence is included in the volume.</p>
   <p>I chose both poems because they delighted and challenged me. The first thing I discovered is that making things rhyme in Czech is much easier than in English. I was only able to preserve the rhyme in “Whispered,” but since Halas was often accused of not being poetic enough, I figured he would not mind.</p>
@@ -91,10 +72,19 @@ origaudio: |-
     src="https://drive.google.com/file/d/1P-UYmnjajSduW2mD-opeysxyi_0-KnB8/preview">
   </iframe>
   </div>
-translaudio: 
+translaudio: |-
+  <div>
+
+  <iframe
+    frameborder="0"
+    width="375"
+    height="65"
+    src=" ">
+  </iframe>
+  </div>
 edition: '2022'
 pagetype: submission
-wrapformat: 
+wrapformat:
 order: '03'
 layout: notepage
 collection: notes_2022

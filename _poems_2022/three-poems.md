@@ -1,13 +1,13 @@
 ---
 pid: three-poems
-title: 
+title:
 transtitle: Three poems
 author: Stella N’Djoku
 translator: Julia Pelosi-Thorpe
 poem: "Se io e tu \nnon fossimo io e tu \nchi saremmo esattamente e cosa \ndirebbero
   di noi le mani, questi \ncorpi. Saremmo  \nlo stesso incastro? Potremmo, \nio e
-  tu, riconoscerci tra mille, \nsarebbero dello stesso blu il cielo e \nle correnti,
-  \nse io non fossi io e tu non fossi tu? \nNon lo so, ma che ci importa? In \nfondo
+  tu, riconoscerci tra mille, \nsarebbero dello stesso blu \nil cielo e le correnti,
+  \nse io non fossi io e tu non fossi tu? \nNon lo so, ma che ci importa? \nIn fondo
   \nio sono io e tu sei tu.\n\n\nÈ per sempre \nl’eterna carezza \nluce, grattacieli
   \ncome spighe di grano.  \nOggi non basta nulla  \nle ali le stelle \nl’agosto di
   fuochi  \nmagnetici al cielo.\n\n\nNon ti hanno visto \nche nelle foto a colori
@@ -28,25 +28,24 @@ note: |-
   <p>Caresses can be eternal. Someone only seen in photographs can live on through being articulated. Our organs can be composed of shells and stars.</p>
   <p>From my very first encounter with N’Djoku’s verse — in an anthology of poems responding to the pandemic (<em>Dal sottovuoto: poesie assetate d’aria</em>, Samuele Editore, April 2020) — I was enchanted. In interpreting her beautiful, elusive rhythm, I hope to match N’Djoku’s movements as closely as I can while accepting their ultimate untranslatability. It is inspiring to watch my English reach a place of such elegance through correspondence with N’Djoku’s words.</p>
   <p>For me, each translation is an approximation, and I carve out many paths initially. I find it so difficult to then choose some above others. This is one of the reasons I engage in retranslations,  revisiting the same poems with different approaches over the years. I hope to retranslate these poems one day too.</p>
-abio: <p>Stella N’Djoku is a Swiss poet, journalist, and educator of Italian and Congolese
-  heritage. Her poems are widely published in online literary journals and anthologies.
-  <em>Il tempo di una cometa</em> (Ensemble, 2019) is her debut collection. Currently
-  completing her PhD in philosophy, N’Djoku teaches secondary school students, organizes
-  cultural events, and works with the Italian-language Swiss public broadcasting organization
-  RSI and the Italian WebRadioGiardino. After speaking at the Swiss Literary Festival
-  of Babel, Switzerland in 2021, N’Djoku taught creative writing in the <em>L’altraLingua</em>
-  initiative this February. She is currently at work on her second collection and
-  can be found <a href="https://stellandjoku.wordpress.com/">here</a>.</p>
+abio: "<p>Stella N’Djoku is a Swiss poet, journalist, and educator of Italian and
+  Congolese heritage. Her poems are widely published in online literary journals and
+  anthologies. <em>Il tempo di una cometa</em> (Ensemble, 2019) is her debut collection.
+  Currently completing her PhD in philosophy, N’Djoku teaches secondary school students,
+  organizes cultural events, and works with the Italian-language Swiss public broadcasting
+  organization RSI and the Italian WebRadioGiardino. After speaking at the Swiss Literary
+  Festival of Babel, Switzerland in 2021, N’Djoku taught creative writing in the <em>L’altraLingua</em>
+  initiative this February. She is currently at work on her second collection.</a></p>"
 tbio: |-
   <p>
-  Julia Pelosi-Thorpe’s translations of Latin, Italian, and Parmesan dialect poetry appear in the <em>Journal of Italian Translation</em>, <em>Asymptote</em>, <em>Modern Poetry in Translation</em>, the <em>Poetry Review</em>, and more. She can be found <a href="https://jpelosithorpe.com/">here</a>.
+  Julia Pelosi-Thorpe’s translations of Latin, Italian, and Parmesan dialect poetry appear in the <em>Journal of Italian Translation</em>, <em>Asymptote</em>, <em>Modern Poetry in Translation</em>, the <em>Poetry Review</em>, and more.</a>
   </p>
 language: Italian
 lang: it
 image: "/assets/images/images_22/n'djoku.jpg"
 image2: none
 imagecredit: photo by Ryan Hardy
-imagecredit2: 
+imagecredit2:
 origaudio: |-
   <div>
 
@@ -57,10 +56,10 @@ origaudio: |-
     src="https://drive.google.com/file/d/1Qi1pKy_UbfgI7yHcGobHwbHHAgHOZ5dt/preview">
   </iframe>
   </div>
-translaudio: 
+translaudio:
 edition: '2022'
 pagetype: submission
-wrapformat: 
+wrapformat:
 order: '15'
 layout: poempage
 collection: poems_2022

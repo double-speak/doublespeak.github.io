@@ -64,24 +64,12 @@ lang: zh
 image: "/assets/images/images_22/ergun.jpg"
 image2: none
 imagecredit: photo by Stacy Shimanuki
-imagecredit2: 
-origaudio: |-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1d5u0RTGF_rDFrUBxiM4gh_44NCIViAx6/preview">
-  </iframe>
-translaudio: |-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1mlPwShxmifJifVB_xtJf_7wJwqbEJ6l2/preview">
-  </iframe>
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2022'
 pagetype: submission
-wrapformat: 
+wrapformat:
 order: '06'
 layout: poempage
 collection: poems_2022
