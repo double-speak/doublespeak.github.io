@@ -206,6 +206,16 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
+      poems_2023:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - transtitle
+          - title
+          - author
+          - translator
+          - poem
+          - transpoem
+          - language
       poems_2022:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
