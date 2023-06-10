@@ -164,7 +164,7 @@ p {
 }
 
 .currentissue:hover .currentissue-overlay {
-	opacity: 0.79;
+	opacity: 0.8;
 }
 
 .currentissue:hover .currentissue-overlay-text {
