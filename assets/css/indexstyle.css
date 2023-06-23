@@ -206,7 +206,7 @@ but that screwed up the navbar*/
   -webkit-columns: 2;
   -moz-columns: 2;
   column-gap: 20px;
-  margin-left: 45px;
+  margin-left: 40px;
 	margin-right: 20px;
 }
 
@@ -215,7 +215,7 @@ but that screwed up the navbar*/
   -webkit-columns: 2;
   -moz-columns: 2;
   column-gap: 20px;
-  margin-left: 45px;
+  margin-left: 40px;
 	margin-right: 20px;
 	list-style: circle;
 	text-decoration: none;
