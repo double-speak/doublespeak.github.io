@@ -1,7 +1,8 @@
 ---
-pid: Osip Mandelstam
+pid: Osip_Mandelstam
+name: Osip Mandelstam
 type: author
-order: '108'
+order: '109'
 layout: tagpage
 collection: author_tags
 ---

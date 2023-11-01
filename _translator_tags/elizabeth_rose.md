@@ -1,5 +1,6 @@
 ---
-pid: Elizabeth Rose
+pid: Elizabeth_Rose
+name: Elizabeth Rose
 type: translator
 order: '042'
 layout: tagpage

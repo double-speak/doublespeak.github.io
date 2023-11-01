@@ -1,7 +1,8 @@
 ---
-pid: Pierre de Ronsard
+pid: Pierre_de_Ronsard
+name: Pierre de Ronsard
 type: author
-order: '115'
+order: '116'
 layout: tagpage
 collection: author_tags
 ---

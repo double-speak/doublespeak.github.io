@@ -1,5 +1,6 @@
 ---
-pid: Elvira Sastre
+pid: Elvira_Sastre
+name: Elvira Sastre
 type: author
 order: '033'
 layout: tagpage

@@ -1,7 +1,8 @@
 ---
-pid: Rainer Maria Rilke
+pid: Rainer_Maria_Rilke
+name: Rainer Maria Rilke
 type: author
-order: '122'
+order: '123'
 layout: tagpage
 collection: author_tags
 ---

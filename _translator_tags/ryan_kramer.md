@@ -1,5 +1,6 @@
 ---
-pid: Ryan Kramer
+pid: Ryan_Kramer
+name: Ryan Kramer
 type: translator
 order: '126'
 layout: tagpage

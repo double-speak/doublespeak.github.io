@@ -1,5 +1,6 @@
 ---
-pid: David Ting
+pid: David_Ting
+name: David Ting
 type: translator
 order: '036'
 layout: tagpage

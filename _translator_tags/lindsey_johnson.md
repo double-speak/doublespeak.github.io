@@ -1,5 +1,6 @@
 ---
-pid: Lindsey Johnson
+pid: Lindsey_Johnson
+name: Lindsey Johnson
 type: translator
 order: '083'
 layout: tagpage

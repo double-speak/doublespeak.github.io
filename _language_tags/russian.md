@@ -1,5 +1,6 @@
 ---
 pid: Russian
+name: Russian
 type: language
 order: '28'
 layout: tagpage

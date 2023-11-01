@@ -1,5 +1,6 @@
 ---
 pid: Hindi
+name: Hindi
 type: language
 order: '14'
 layout: tagpage

@@ -1,5 +1,6 @@
 ---
-pid: Josh Bryer
+pid: Josh_Bryer
+name: Josh Bryer
 type: translator
 order: '068'
 layout: tagpage

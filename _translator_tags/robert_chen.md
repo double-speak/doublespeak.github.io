@@ -1,5 +1,6 @@
 ---
-pid: Robert Chen
+pid: Robert_Chen
+name: Robert Chen
 type: translator
 order: '122'
 layout: tagpage

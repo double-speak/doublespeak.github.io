@@ -1,5 +1,6 @@
 ---
 pid: French
+name: French
 type: language
 order: '08'
 layout: tagpage

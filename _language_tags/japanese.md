@@ -1,5 +1,6 @@
 ---
 pid: Japanese
+name: Japanese
 type: language
 order: '17'
 layout: tagpage

@@ -1,5 +1,6 @@
 ---
-pid: Alda Merini
+pid: Alda_Merini
+name: Alda Merini
 type: author
 order: '004'
 layout: tagpage

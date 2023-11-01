@@ -1,7 +1,8 @@
 ---
 pid: Sappho
+name: Sappho
 type: author
-order: '130'
+order: '131'
 layout: tagpage
 collection: author_tags
 ---

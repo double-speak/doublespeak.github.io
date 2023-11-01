@@ -1,7 +1,8 @@
 ---
-pid: Lu Xun
+pid: Lu_Xun
+name: Lu Xun
 type: author
-order: '078'
+order: '079'
 layout: tagpage
 collection: author_tags
 ---

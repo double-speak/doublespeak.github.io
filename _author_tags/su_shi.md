@@ -1,7 +1,8 @@
 ---
-pid: Su Shi
+pid: Su_Shi
+name: Su Shi
 type: author
-order: '141'
+order: '142'
 layout: tagpage
 collection: author_tags
 ---

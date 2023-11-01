@@ -1,161 +1,176 @@
-pid,type
-<em>DoubleSpeak</em> Staff,translator
-Alex Droznin-Israel,translator
-Alex Stern,translator
-Alexandra Bousquet-Chavanne,translator
-Alexandra Pierson,translator
-Ali Noori,translator
-Allan Persinger,translator
-Allison Collins,translator
-Alyssa Dickinson,translator
-Andrea Conde,translator
-Anika Prakash,translator
-Anjali Gupta,translator
-Anjali Tsui,translator
-Anna Carapellotti,translator
-Anne Chen,translator
-Armghan Ahmad,translator
-Ashley Sniffen,translator
-Ayla Fudala,translator
-Aylin Malcolm,translator
-Benjamin Notkin,translator
-Bethany Wiggin,translator
-Betsy Morgan,translator
-Carla Rossi,translator
-Chamini Kulathunga,translator
-Chardonnay Needler,translator
-Chen Du and Xisheng Chen,translator
-Chenel Morrison,translator
-Christina Frei,translator
-Claudia Lynn,translator
-Claudia Nuñez de Ibieta,translator
-Cory Austin Knudson,translator
-Couloir Hanson,translator
-Dan Ben-Amos,translator
-Dan Guralnik,translator
-Daniel Sawey,translator
-Darío Goldgel Carballo,translator
-David Ting,translator
-Dillon Bergin,translator
-Dionysia Sotiropoulou,translator
-Donnisa Edmonds,translator
-Eirini Lemos,translator
-Elizabeth Balabayev,translator
-Elizabeth Rose,translator
-Ella Konefal,translator
-Ellen Doré Watson,translator
-Emily Yoon,translator
-Emily Zimbrick-Rogers,translator
-Emma Arsekin,translator
-Emma Hirvisalo,translator
-Emre Azizlerli,translator
-Erika Kontulainen,translator
-Eza Koch,translator
-Florian Breitkopf,translator
-George Rosa,translator
-"Gil Lehmann, Jacey Chang, and Yehudith Dashevsky",translator
-Gina DeCagna,translator
-Giulia Rupi and John Sherer,translator
-Gregorio Doblehablante,translator
-Heta Patel,translator
-Irena Natcheva,translator
-Jackson Gu,translator
-Jacob Hershman,translator
-Jasmine Phun,translator
-Jianing Zhao,translator
-Jin Ah Lee,translator
-Johnathan Zheng,translator
-Jonathan Iwry,translator
-Jordan Barger,translator
-Josh Bryer,translator
-Josh Glahn,translator
-Juan Cabrera,translator
-Julia Pelosi-Thorpe,translator
-Karina Carreras,translator
-Katherine Hemmann,translator
-Kathleen Zhou,translator
-Kathryn Dettmer,translator
-Kejia Wang,translator
-Keshav Sharma,translator
-Keyla Cavdar,translator
-Kristen Kelly,translator
-Laura Francis,translator
-Lauren Kaufmann,translator
-Leah Baxter,translator
-Lindsey Johnson,translator
-Liwa Sun,translator
-Maggie Grabmeier,translator
-Malika Kadyrova,translator
-Margaret Borowezyk,translator
-Margaret Lawlace,translator
-Maria Dahvana Headley,translator
-Maria Lourdes Riillo,translator
-Marisa Bruno,translator
-Max McKenna,translator
-Maya Shumyatcher,translator
-Meg Pendoley,translator
-Melanie Vladimirschi,translator
-Michael Freeman,translator
-Michael Karam,translator
-Michaela Kotziers,translator
-Mira Revesz,translator
-Mirela Zaneva,translator
-Monica Wojciechowski,translator
-Nadia Park,translator
-Najme Khatami,translator
-Naomi Bernstein,translator
-Nick Defina,translator
-Nicolette Tan,translator
-Olaya Barr,translator
-Omar Khoury,translator
-Pablo Abrante,translator
-Patricia Mary Hearons,translator
-Pedro Lino,translator
-Peeriya Pongsarigun and John Viano,translator
-Perren Carrillo,translator
-Phoebe Liu,translator
-Qingyang Zhou,translator
-Quinn Gruber,translator
-Rafael Rodriguez,translator
-Rawad Wehbe,translator
-Rebekah Zhuraw,translator
-Rhosean Asmah,translator
-Rivky Mondal,translator
-Robert Chen,translator
-Roberto Rodriguez,translator
-Ross Karlan,translator
-Ryan Hardy,translator
-Ryan Kramer,translator
-Saagar Asnani,translator
-Sam Friskey,translator
-Samantha DeStefano,translator
-Samantha Kook,translator
-Samantha Osaki,translator
-Samantha Pious,translator
-Sarah Greene,translator
-Sean Mason,translator
-Shailly Pandey,translator
-Shilpa Saravanan,translator
-Shiven Sharma,translator
-Shoshana Akabas,translator
-Shuke Zeng,translator
-Simon Richter,translator
-Sirin Parkan,translator
-Stefano Pietrosanti,translator
-Stephan Rihs,translator
-Stephanie Diaz,translator
-Sue Jia,translator
-Suvir Kaul,translator
-Taylor McConnell,translator
-Tim Lorndale,translator
-Tina Zhu,translator
-Trask Roberts,translator
-Vanessa Hu,translator
-VanJessica Gladney,translator
-Vivian Yuxin Wen,translator
-Wenhan Zhang,translator
-Yehudith Dashevsky,translator
-Yi Feng,translator
-Younghoon Jeong and Saagar Asnani,translator
-Yuchao Wang,translator
-Zhiqiao (Kate) Jiang,translator
+pid,name,type
+em_DoubleSpeak_em_Staff,<em>DoubleSpeak</em> Staff,translator
+Alex_Droznin_Israel,Alex Droznin-Israel,translator
+Alex_Stern,Alex Stern,translator
+Alexandra_Bousquet_Chavanne,Alexandra Bousquet-Chavanne,translator
+Alexandra_Pierson,Alexandra Pierson,translator
+Ali_Noori,Ali Noori,translator
+Allan_Persinger,Allan Persinger,translator
+Allison_Collins,Allison Collins,translator
+Alyssa_Dickinson,Alyssa Dickinson,translator
+Andrea_Conde,Andrea Conde,translator
+Anika_Prakash,Anika Prakash,translator
+Anjali_Gupta,Anjali Gupta,translator
+Anjali_Tsui,Anjali Tsui,translator
+Anna_Carapellotti,Anna Carapellotti,translator
+Anne_Chen,Anne Chen,translator
+Armghan_Ahmad,Armghan Ahmad,translator
+Ashley_Sniffen,Ashley Sniffen,translator
+Ayla_Fudala,Ayla Fudala,translator
+Aylin_Malcolm,Aylin Malcolm,translator
+Benjamin_Notkin,Benjamin Notkin,translator
+Bethany_Wiggin,Bethany Wiggin,translator
+Betsy_Morgan,Betsy Morgan,translator
+Carla_Rossi,Carla Rossi,translator
+Chamini_Kulathunga,Chamini Kulathunga,translator
+Chardonnay_Needler,Chardonnay Needler,translator
+Chen_Du_and_Xisheng_Chen,Chen Du and Xisheng Chen,translator
+Chenel_Morrison,Chenel Morrison,translator
+Christina_Frei,Christina Frei,translator
+Claudia_Lynn,Claudia Lynn,translator
+Claudia_Nunez_de_Ibieta,Claudia Nuñez de Ibieta,translator
+Cory_Austin_Knudson,Cory Austin Knudson,translator
+Couloir_Hanson,Couloir Hanson,translator
+Dan_Ben_Amos,Dan Ben-Amos,translator
+Dan_Guralnik,Dan Guralnik,translator
+Daniel_Sawey,Daniel Sawey,translator
+Darío_Goldgel_Carballo,Darío Goldgel Carballo,translator
+David_Ting,David Ting,translator
+Dillon_Bergin,Dillon Bergin,translator
+Dionysia_Sotiropoulou,Dionysia Sotiropoulou,translator
+Donnisa_Edmonds,Donnisa Edmonds,translator
+Eirini_Lemos,Eirini Lemos,translator
+Elizabeth_Balabayev,Elizabeth Balabayev,translator
+Elizabeth_Rose,Elizabeth Rose,translator
+Ella_Konefal,Ella Konefal,translator
+Ellen_Doré_Watson,Ellen Doré Watson,translator
+Emily_Yoon,Emily Yoon,translator
+Emily_Zimbrick_Rogers,Emily Zimbrick-Rogers,translator
+Emma_Arsekin,Emma Arsekin,translator
+Emma_Hirvisalo,Emma Hirvisalo,translator
+Emre_Azizlerli,Emre Azizlerli,translator
+Erika_Kontulainen,Erika Kontulainen,translator
+Eza_Koch,Eza Koch,translator
+Florian_Breitkopf,Florian Breitkopf,translator
+George_Rosa,George Rosa,translator
+Gil_Lehmann_Jacey_Chang_and_Yehudith_Dashevsky,"Gil Lehmann, Jacey Chang, and Yehudith Dashevsky",translator
+Gina_DeCagna,Gina DeCagna,translator
+Giulia_Rupi_and_John_Sherer,Giulia Rupi and John Sherer,translator
+Gregorio_Doblehablante,Gregorio Doblehablante,translator
+Heta_Patel,Heta Patel,translator
+Irena_Natcheva,Irena Natcheva,translator
+Jackson_Gu,Jackson Gu,translator
+Jacob_Hershman,Jacob Hershman,translator
+Jasmine_Phun,Jasmine Phun,translator
+Jianing_Zhao,Jianing Zhao,translator
+Jin_Ah_Lee,Jin Ah Lee,translator
+Johnathan_Zheng,Johnathan Zheng,translator
+Jonathan_Iwry,Jonathan Iwry,translator
+Jordan_Barger,Jordan Barger,translator
+Josh_Bryer,Josh Bryer,translator
+Josh_Glahn,Josh Glahn,translator
+Juan_Cabrera,Juan Cabrera,translator
+Julia_Pelosi_Thorpe,Julia Pelosi-Thorpe,translator
+Karina_Carreras,Karina Carreras,translator
+Katherine_Hemmann,Katherine Hemmann,translator
+Kathleen_Zhou,Kathleen Zhou,translator
+Kathryn_Dettmer,Kathryn Dettmer,translator
+Kejia_Wang,Kejia Wang,translator
+Keshav_Sharma,Keshav Sharma,translator
+Keyla_Cavdar,Keyla Cavdar,translator
+Kristen_Kelly,Kristen Kelly,translator
+Laura_Francis,Laura Francis,translator
+Lauren_Kaufmann,Lauren Kaufmann,translator
+Leah_Baxter,Leah Baxter,translator
+Lindsey_Johnson,Lindsey Johnson,translator
+Liwa_Sun,Liwa Sun,translator
+Maggie_Grabmeier,Maggie Grabmeier,translator
+Malika_Kadyrova,Malika Kadyrova,translator
+Margaret_Borowezyk,Margaret Borowezyk,translator
+Margaret_Lawlace,Margaret Lawlace,translator
+Maria_Dahvana_Headley,Maria Dahvana Headley,translator
+Maria_Lourdes_Riillo,Maria Lourdes Riillo,translator
+Marisa_Bruno,Marisa Bruno,translator
+Max_McKenna,Max McKenna,translator
+Maya_Shumyatcher,Maya Shumyatcher,translator
+Meg_Pendoley,Meg Pendoley,translator
+Melanie_Vladimirschi,Melanie Vladimirschi,translator
+Michael_Freeman,Michael Freeman,translator
+Michael_Karam,Michael Karam,translator
+Michaela_Kotziers,Michaela Kotziers,translator
+Mira_Revesz,Mira Revesz,translator
+Mirela_Zaneva,Mirela Zaneva,translator
+Monica_Wojciechowski,Monica Wojciechowski,translator
+Nadia_Park,Nadia Park,translator
+Najme_Khatami,Najme Khatami,translator
+Naomi_Bernstein,Naomi Bernstein,translator
+Nick_Defina,Nick Defina,translator
+Nicolette_Tan,Nicolette Tan,translator
+Olaya_Barr,Olaya Barr,translator
+Omar_Khoury,Omar Khoury,translator
+Pablo_Abrante,Pablo Abrante,translator
+Patricia_Mary_Hearons,Patricia Mary Hearons,translator
+Pedro_Lino,Pedro Lino,translator
+Peeriya_Pongsarigun_and_John_Viano,Peeriya Pongsarigun and John Viano,translator
+Perren_Carrillo,Perren Carrillo,translator
+Phoebe_Liu,Phoebe Liu,translator
+Qingyang_Zhou,Qingyang Zhou,translator
+Quinn_Gruber,Quinn Gruber,translator
+Rafael_Rodriguez,Rafael Rodriguez,translator
+Rawad_Wehbe,Rawad Wehbe,translator
+Rebekah_Zhuraw,Rebekah Zhuraw,translator
+Rhosean_Asmah,Rhosean Asmah,translator
+Rivky_Mondal,Rivky Mondal,translator
+Robert_Chen,Robert Chen,translator
+Roberto_Rodriguez,Roberto Rodriguez,translator
+Ross_Karlan,Ross Karlan,translator
+Ryan_Hardy,Ryan Hardy,translator
+Ryan_Kramer,Ryan Kramer,translator
+Saagar_Asnani,Saagar Asnani,translator
+Sam_Friskey,Sam Friskey,translator
+Samantha_DeStefano,Samantha DeStefano,translator
+Samantha_Kook,Samantha Kook,translator
+Samantha_Osaki,Samantha Osaki,translator
+Samantha_Pious,Samantha Pious,translator
+Sarah_Greene,Sarah Greene,translator
+Sean_Mason,Sean Mason,translator
+Shailly_Pandey,Shailly Pandey,translator
+Shilpa_Saravanan,Shilpa Saravanan,translator
+Shiven_Sharma,Shiven Sharma,translator
+Shoshana_Akabas,Shoshana Akabas,translator
+Shuke_Zeng,Shuke Zeng,translator
+Simon_Richter,Simon Richter,translator
+Sirin_Parkan,Sirin Parkan,translator
+Stefano_Pietrosanti,Stefano Pietrosanti,translator
+Stephan_Rihs,Stephan Rihs,translator
+Stephanie_Diaz,Stephanie Diaz,translator
+Sue_Jia,Sue Jia,translator
+Suvir_Kaul,Suvir Kaul,translator
+Taylor_McConnell,Taylor McConnell,translator
+Tim_Lorndale,Tim Lorndale,translator
+Tina_Zhu,Tina Zhu,translator
+Trask_Roberts,Trask Roberts,translator
+Vanessa_Hu,Vanessa Hu,translator
+VanJessica_Gladney,VanJessica Gladney,translator
+Vivian_Yuxin_Wen,Vivian Yuxin Wen,translator
+Wenhan_Zhang,Wenhan Zhang,translator
+Yehudith_Dashevsky,Yehudith Dashevsky,translator
+Yi_Feng,Yi Feng,translator
+Younghoon_Jeong_and_Saagar_Asnani,Younghoon Jeong and Saagar Asnani,translator
+Yuchao_Wang,Yuchao Wang,translator
+Zhiqiao_Kate_Jiang,Zhiqiao (Kate) Jiang,translator
+Fernando_Ursine,Fernando Ursine,translator
+Dian_Febrianti,Dian Febrianti,translator
+Ailie_Margot,Ailie Margot,translator
+Ben_Notis,Ben Notis,translator
+James_Mesiti,James Mesiti,translator
+Ash_Maria,Ash Maria,translator
+Benjamin_McAvoy-Bickford,Benjamin McAvoy-Bickford,translator
+Yudi_Xie,Yudi Xie,translator
+John_Viano_and_Peeriya_Pongsarigun,John Viano and Peeriya Pongsarigun,translator
+Abigail_Tuscano,Abigail Tuscano ,translator
+Anna_Aresi,Anna Aresi,translator
+Denis_Ferhatovic,Denis Ferhatovic,translator
+Madison_Weiss,Madison Weiss,translator
+Nesara_Shree,Nesara Shree,translator
+C_H_Henry,C.H. Henry,translator

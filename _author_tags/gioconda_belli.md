@@ -1,5 +1,6 @@
 ---
-pid: Gioconda Belli
+pid: Gioconda_Belli
+name: Gioconda Belli
 type: author
 order: '048'
 layout: tagpage

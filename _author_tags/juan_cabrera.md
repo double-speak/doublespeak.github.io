@@ -1,5 +1,6 @@
 ---
-pid: Juan Cabrera
+pid: Juan_Cabrera
+name: Juan Cabrera
 type: author
 order: '062'
 layout: tagpage

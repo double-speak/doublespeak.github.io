@@ -1,5 +1,6 @@
 ---
-pid: Rafael Rodriguez
+pid: Rafael_Rodriguez
+name: Rafael Rodriguez
 type: translator
 order: '117'
 layout: tagpage

@@ -1,7 +1,8 @@
 ---
-pid: Paul Celan
+pid: Paul_Celan
+name: Paul Celan
 type: author
-order: '111'
+order: '112'
 layout: tagpage
 collection: author_tags
 ---

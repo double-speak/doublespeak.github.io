@@ -1,7 +1,8 @@
 ---
-pid: Naji Munawar
+pid: Naji_Munawar
+name: Naji Munawar
 type: author
-order: '099'
+order: '100'
 layout: tagpage
 collection: author_tags
 ---

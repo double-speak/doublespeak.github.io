@@ -56,9 +56,9 @@ abio: "<p>Kuppali Venkatappa Puttappa (1904 –1994), known best under his pen n
   he perceived as dragging the nation down. To this day, his works are considered
   incredibly influential.</p> "
 tbio: |
-  <p>Nesara Shree is a first-generation student with roots in Karnataka, India, where my parents were born and raised. My family has extensively read and listened to musical renditions of Kuvempu’s poetry, an interest that inspired me to translate one of our favorites into English.</p>
+  <p>Nesara Shree is a first-generation student with roots in Karnataka, India, where her parents were born and raised. Her family has extensively read and listened to musical renditions of Kuvempu’s poetry, an interest that inspired her to translate one of her favorites into English.</p>
 
-  <p>I speak both Kannada and English at home, but cannot yet write or translate direct Kannada/Brahmic script, limited to the English alphabet spellings. I admire the softness of our language. I consider it poetry in itself to be able to preserve its effortless sweetness as it passes through the restricting sieve of another tongue.</p>
+  <p>She speaks both Kannada and English at home, but cannot yet write or translate direct Kannada/Brahmic script, limited to the English alphabet spellings. She admires the softness of her language. She considers it poetry in itself to be able to preserve its effortless sweetness as it passes through the restricting sieve of another tongue.</p>
 language: Kannada
 lang: kn
 image: "/assets/images/images_23/to-sell-milk-in-brindavana.jpeg"
@@ -70,7 +70,7 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-order: '18'
+order: '17'
 layout: poempage
 collection: poems_2023
 ---

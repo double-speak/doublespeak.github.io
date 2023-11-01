@@ -1,7 +1,8 @@
 ---
-pid: Pythagoras Papastamatiou
+pid: Pythagoras_Papastamatiou
+name: Pythagoras Papastamatiou
 type: author
-order: '116'
+order: '117'
 layout: tagpage
 collection: author_tags
 ---

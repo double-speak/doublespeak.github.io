@@ -1,7 +1,8 @@
 ---
-pid: Quim Monzó
+pid: Quim_Monzo
+name: Quim Monzó
 type: author
-order: '118'
+order: '119'
 layout: tagpage
 collection: author_tags
 ---

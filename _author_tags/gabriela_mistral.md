@@ -1,5 +1,6 @@
 ---
-pid: Gabriela Mistral
+pid: Gabriela_Mistral
+name: Gabriela Mistral
 type: author
 order: '046'
 layout: tagpage

@@ -1,7 +1,8 @@
 ---
-pid: Sirin Parkan
+pid: Sirin_Parkan
+name: Sirin Parkan
 type: author
-order: '138'
+order: '139'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,7 +1,8 @@
 ---
-pid: Qasmūna bint Ismā‘il
+pid: Qasmuna_bint_Isma‘il
+name: Qasmūna bint Ismā‘il
 type: author
-order: '117'
+order: '118'
 layout: tagpage
 collection: author_tags
 ---

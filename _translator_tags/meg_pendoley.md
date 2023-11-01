@@ -1,5 +1,6 @@
 ---
-pid: Meg Pendoley
+pid: Meg_Pendoley
+name: Meg Pendoley
 type: translator
 order: '094'
 layout: tagpage

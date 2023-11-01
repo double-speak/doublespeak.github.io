@@ -1,5 +1,6 @@
 ---
-pid: Claudia Lynn
+pid: Claudia_Lynn
+name: Claudia Lynn
 type: translator
 order: '028'
 layout: tagpage

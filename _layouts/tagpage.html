@@ -10,13 +10,13 @@ layout: default
       
 </head>
 
-   <title>{{page.pid}}</title>
+   <title>{{page.name}}</title>
 
 <body>
 {% include navbar.html  %}
 <div class="tcontents">
 <p><a href="{{site.baseurl}}/contentindex.html"><  &nbsp; back to index</a></p>
-<h1 class="tcontents-title">{{page.pid}}</h1>
+<h1 class="tcontents-title">{{page.name}}</h1>
 <div class="toc-container">
   <div class="left">
 
@@ -27,7 +27,7 @@ layout: default
  -->    
 
         {% if page.type == "language" %}
-            {% if poem.language == page.pid %}
+            {% if poem.language == page.name %}
             <div class="tcleft">
               <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
               <h3 class="tcleft">written by {{ poem.author }}<br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
@@ -36,7 +36,7 @@ layout: default
             {% endif %}
 <!--          look in the author spreadsheet
  -->    {% if page.type == "author" %}
-            {% if poem.author == page.pid %}
+            {% if poem.author == page.name %}
             <div class="tcleft">
               <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2>
               <h3 class="tcleft">written by {{ poem.author }}<br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
@@ -45,7 +45,7 @@ layout: default
             {% endif %}
 <!--          look in the translator spreadsheet
  -->    {% if page.type == "translator" %}
-            {% if poem.translator == page.pid %}
+            {% if poem.translator == page.name %}
             <div class="tcleft">
               <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
               <h3 class="tcleft">written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>

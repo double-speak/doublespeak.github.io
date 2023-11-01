@@ -49,7 +49,7 @@ tbio: "<p>Yudi Xie is a poet, a fervent talker, one who dreams in Chinese and wr
   to be a writer.</p>"
 language: Chinese
 lang: zh
-image: "/assets/images/images_23/living-in-the-hills-impromptu-verses.jpeg"
+image: "/assets/images/images_23/living-in-the-hills-impromptu-verses.png"
 image2: none
 imagecredit: photo by Chardonnay Needler
 imagecredit2: 
@@ -67,7 +67,7 @@ translaudio: |-
 edition: '2023'
 pagetype: submission
 wrapformat: 
-order: '11'
+order: '10'
 layout: notepage
 collection: notes_2023
 ---

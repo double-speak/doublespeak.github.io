@@ -1,7 +1,8 @@
 ---
-pid: Nizar Qabbani
+pid: Nizar_Qabbani
+name: Nizar Qabbani
 type: author
-order: '103'
+order: '104'
 layout: tagpage
 collection: author_tags
 ---

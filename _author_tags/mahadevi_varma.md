@@ -1,7 +1,8 @@
 ---
-pid: Mahadevi Varma
+pid: Mahadevi_Varma
+name: Mahadevi Varma
 type: author
-order: '079'
+order: '080'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,7 +1,8 @@
 ---
-pid: Shu Ting
+pid: Shu_Ting
+name: Shu Ting
 type: author
-order: '133'
+order: '134'
 layout: tagpage
 collection: author_tags
 ---

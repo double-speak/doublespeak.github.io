@@ -1,7 +1,8 @@
 ---
-pid: Li Yu
+pid: Li_Yu
+name: Li Yu
 type: author
-order: '074'
+order: '075'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,7 +1,8 @@
 ---
-pid: Liu Xiaobo
+pid: Liu_Xiaobo
+name: Liu Xiaobo
 type: author
-order: '076'
+order: '077'
 layout: tagpage
 collection: author_tags
 ---

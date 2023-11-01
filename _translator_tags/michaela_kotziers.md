@@ -1,5 +1,6 @@
 ---
-pid: Michaela Kotziers
+pid: Michaela_Kotziers
+name: Michaela Kotziers
 type: translator
 order: '098'
 layout: tagpage

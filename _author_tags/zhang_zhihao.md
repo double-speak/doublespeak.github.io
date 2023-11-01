@@ -1,7 +1,8 @@
 ---
-pid: Zhang Zhihao
+pid: Zhang_Zhihao
+name: Zhang Zhihao
 type: author
-order: '164'
+order: '165'
 layout: tagpage
 collection: author_tags
 ---

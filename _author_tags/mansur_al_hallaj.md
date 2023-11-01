@@ -1,7 +1,8 @@
 ---
-pid: Mansur Al-Hallaj
+pid: Mansur_Al_Hallaj
+name: Mansur Al-Hallaj
 type: author
-order: '082'
+order: '083'
 layout: tagpage
 collection: author_tags
 ---

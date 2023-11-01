@@ -1,5 +1,6 @@
 ---
-pid: Trask Roberts
+pid: Trask_Roberts
+name: Trask Roberts
 type: translator
 order: '150'
 layout: tagpage

@@ -1,7 +1,8 @@
 ---
-pid: Kim Sowol
+pid: Kim_Sowol
+name: Kim Sowol
 type: author
-order: '068'
+order: '069'
 layout: tagpage
 collection: author_tags
 ---

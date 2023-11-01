@@ -1,5 +1,6 @@
 ---
-pid: Amina Saïd
+pid: Amina_Said
+name: Amina Saïd
 type: author
 order: '008'
 layout: tagpage

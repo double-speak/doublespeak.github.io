@@ -1,5 +1,6 @@
 ---
-pid: Emma Hirvisalo
+pid: Emma_Hirvisalo
+name: Emma Hirvisalo
 type: translator
 order: '048'
 layout: tagpage

@@ -1,5 +1,6 @@
 ---
-pid: Carla Rossi
+pid: Carla_Rossi
+name: Carla Rossi
 type: translator
 order: '022'
 layout: tagpage

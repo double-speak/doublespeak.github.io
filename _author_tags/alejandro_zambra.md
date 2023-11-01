@@ -1,5 +1,6 @@
 ---
-pid: Alejandro Zambra
+pid: Alejandro_Zambra
+name: Alejandro Zambra
 type: author
 order: '006'
 layout: tagpage

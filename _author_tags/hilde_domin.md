@@ -1,5 +1,6 @@
 ---
-pid: Hilde Domin
+pid: Hilde_Domin
+name: Hilde Domin
 type: author
 order: '057'
 layout: tagpage

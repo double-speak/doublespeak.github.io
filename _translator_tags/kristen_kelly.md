@@ -1,5 +1,6 @@
 ---
-pid: Kristen Kelly
+pid: Kristen_Kelly
+name: Kristen Kelly
 type: translator
 order: '079'
 layout: tagpage

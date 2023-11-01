@@ -1,5 +1,6 @@
 ---
-pid: Ross Karlan
+pid: Ross_Karlan
+name: Ross Karlan
 type: translator
 order: '124'
 layout: tagpage

@@ -2,12 +2,8 @@
 pid: music
 title: La Musique
 transtitle: Music
-author: |-
-  Marie Krysińska
-  <h1> Marie Krysińska </h1>
-translator: |-
-  Samantha Pious
-  <h1> Samantha Pious </h1>
+author: Marie Krysińska
+translator: Samantha Pious
 poem: |-
   C’est une Muse parfois voilée
   De chastes voiles d’argent
@@ -145,7 +141,7 @@ transpoem: "is a Muse, sometimes veiled\nin silver, chaste and true,\nwhose wing
   rittard.)</em>\n\n<div style=\"text-align: center\">\nIs this not the moment of\nImmortality?\nAnd
   the bitter gates\nof Reality—\nwill they unbolt themselves\nonce more?\n\nThis little
   death—\nif it only were\nthe great, majestic Death\nso beautiful!\n</div>\n\n2 April
-  1890.\t\t\t<em>Picturesque rhythms</em>, 1890."
+  1890.                        <em>Picturesque rhythms</em>, 1890."
 note: |-
   <p>Marie Krysińska is known today — though perhaps not as widely as she should be — as the first French poet to publish in free verse. However, what Krysińska meant by vers libre is not necessarily the same as what twenty-first-century Anglophone poets mean by “free verse.” (Austin Allen’s essay “Hard Line Politics” provides an excellent history of the mythical divide between free verse and form(alism); A. E. Stalling’s “Presto Manifesto!” is an elegant apologia for poetic forms of all kinds.) In the preface to her second collection, <em>Joies errantes</em> (Paris: Alphonse Lemerre, 1894), Krysińska wrote, “The sacrifice of rhyme and the symmetric cutting of the verse is only an apparent sacrifice, for eyes accustomed to regular prosodies” — thus implying that free verse, too, has prosodies, albeit irregular ones. Many of Krysińska's poems engage in rhymes that, for readers accustomed to traditional French prosody, sound decidedly slanted. Nonetheless, rhyme is there, and so is meter.</p>
   <p>In translating Krysińska, I have aimed at an irregular prosody in English, a hybrid between today’s form(alism) and free verse, which I have taken to calling “free form.” This kind of prosody consists of rhythm rather than “perfect” meter; provided the line “works” as a musical phrase, it is nearly always possible to slip in an extra syllable or two. When rhyme is present, it tends to be assonant. The rhyme schemes are frequently asymmetrical. This is at least partly due to my own feeling that sound, in poetry, is just as important as meaning. But Krysińska herself was a singer-songwriter with a taste for music — and a talent for exploiting its near-endless possibilities.</p>
@@ -208,7 +204,7 @@ translaudio: |-
 edition: '2023'
 pagetype: submission
 wrapformat: 
-order: '19'
+order: '18'
 layout: poempage
 collection: poems_2023
 ---

@@ -1,5 +1,6 @@
 ---
-pid: Rawad Wehbe
+pid: Rawad_Wehbe
+name: Rawad Wehbe
 type: translator
 order: '118'
 layout: tagpage

@@ -1,5 +1,6 @@
 ---
-pid: Emre Azizlerli
+pid: Emre_Azizlerli
+name: Emre Azizlerli
 type: translator
 order: '049'
 layout: tagpage

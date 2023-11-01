@@ -1,7 +1,8 @@
 ---
-pid: Pablo Neruda
+pid: Pablo_Neruda
+name: Pablo Neruda
 type: author
-order: '109'
+order: '110'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,5 +1,6 @@
 ---
-pid: Haruki Murakami
+pid: Haruki_Murakami
+name: Haruki Murakami
 type: author
 order: '055'
 layout: tagpage

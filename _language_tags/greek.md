@@ -1,5 +1,6 @@
 ---
 pid: Greek
+name: Greek
 type: language
 order: '12'
 layout: tagpage

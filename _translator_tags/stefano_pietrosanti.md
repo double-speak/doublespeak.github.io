@@ -1,5 +1,6 @@
 ---
-pid: Stefano Pietrosanti
+pid: Stefano_Pietrosanti
+name: Stefano Pietrosanti
 type: translator
 order: '142'
 layout: tagpage

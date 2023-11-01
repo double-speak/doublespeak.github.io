@@ -1,5 +1,6 @@
 ---
-pid: Marisa Bruno
+pid: Marisa_Bruno
+name: Marisa Bruno
 type: translator
 order: '091'
 layout: tagpage

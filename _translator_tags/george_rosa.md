@@ -1,5 +1,6 @@
 ---
-pid: George Rosa
+pid: George_Rosa
+name: George Rosa
 type: translator
 order: '053'
 layout: tagpage

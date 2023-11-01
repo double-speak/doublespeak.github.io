@@ -1,5 +1,6 @@
 ---
-pid: David Diop
+pid: David_Diop
+name: David Diop
 type: author
 order: '027'
 layout: tagpage

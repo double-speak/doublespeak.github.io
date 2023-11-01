@@ -1,5 +1,6 @@
 ---
-pid: Najme Khatami
+pid: Najme_Khatami
+name: Najme Khatami
 type: translator
 order: '103'
 layout: tagpage

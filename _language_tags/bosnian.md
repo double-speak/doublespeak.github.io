@@ -1,5 +1,6 @@
 ---
 pid: Bosnian
+name: Bosnian
 type: language
 order: '02'
 layout: tagpage

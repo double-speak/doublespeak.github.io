@@ -1,5 +1,6 @@
 ---
-pid: Rivky Mondal
+pid: Rivky_Mondal
+name: Rivky Mondal
 type: translator
 order: '121'
 layout: tagpage

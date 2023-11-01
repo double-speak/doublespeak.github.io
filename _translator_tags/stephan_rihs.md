@@ -1,5 +1,6 @@
 ---
-pid: Stephan Rihs
+pid: Stephan_Rihs
+name: Stephan Rihs
 type: translator
 order: '143'
 layout: tagpage

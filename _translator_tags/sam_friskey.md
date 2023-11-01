@@ -1,5 +1,6 @@
 ---
-pid: Sam Friskey
+pid: Sam_Friskey
+name: Sam Friskey
 type: translator
 order: '128'
 layout: tagpage

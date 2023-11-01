@@ -1,7 +1,8 @@
 ---
-pid: Matthew Dickman
+pid: Matthew_Dickman
+name: Matthew Dickman
 type: author
-order: '092'
+order: '093'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,7 +1,8 @@
 ---
-pid: Münír Nurettín Selçuk
+pid: Munir_Nurettin_Selcuk
+name: Münír Nurettín Selçuk
 type: author
-order: '097'
+order: '098'
 layout: tagpage
 collection: author_tags
 ---

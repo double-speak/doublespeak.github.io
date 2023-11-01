@@ -1,5 +1,6 @@
 ---
-pid: Betsy Morgan
+pid: Betsy_Morgan
+name: Betsy Morgan
 type: translator
 order: '021'
 layout: tagpage

@@ -1,7 +1,8 @@
 ---
-pid: Shuguang Zhang
+pid: Shuguang_Zhang
+name: Shuguang Zhang
 type: author
-order: '134'
+order: '135'
 layout: tagpage
 collection: author_tags
 ---

@@ -106,7 +106,7 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-order: '24'
+order: '23'
 layout: notepage
 collection: notes_2023
 ---

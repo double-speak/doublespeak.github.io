@@ -1,5 +1,6 @@
 ---
-pid: Alex Droznin-Israel
+pid: Alex_Droznin_Israel
+name: Alex Droznin-Israel
 type: translator
 order: '001'
 layout: tagpage

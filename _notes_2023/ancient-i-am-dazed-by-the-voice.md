@@ -29,8 +29,8 @@ note: |-
 abio: |-
   <p>Born in Genoa, in North Western Italy, Eugenio Montale (1896 –1981) is considered one of the greatest Italian poets of the 20th century.</p>
 
-  <p>He was called to arms during World War I, after which he devoted his entire life to literature. With the subsequent rise of fascism, he was among the signatories of the “Manifest of the Anti-Fascist Intellectuals.” He kept his literary career alive regardless of the newly established regime; some of his poems were published in Switzerland to avoid censorship. He was a journalist as well as a poet, and in 1975 he was awarded the Nobel Prize for Literature for “his distinctive poetry which, with great artistic sensi- tivity, has interpreted human values under the sign of an outlook on life with no illusions.</p>
-  <p>Montale is widely associated with what he calls <em>male di vivere</em>, which could translate to “the ill of living” or “the burden of living.” It refers to the sense of disorientation spreading in Europe between the two World Wars, which led to shared feelings of uncertainty and isolation. This theme is well represent- ed in his most renowned collection of poems, <em>Ossi di Seppia</em> (<em>Cuttlefish Bones</em>), in which “Antico, sono ubriacato dalla voce” was published.</p>
+  <p>He was called to arms during World War I, after which he devoted his entire life to literature. With the subsequent rise of fascism, he was among the signatories of the “Manifest of the Anti-Fascist Intellectuals.” He kept his literary career alive regardless of the newly established regime; some of his poems were published in Switzerland to avoid censorship. He was a journalist as well as a poet, and in 1975 he was awarded the Nobel Prize for Literature for “his distinctive poetry which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions.</p>
+  <p>Montale is widely associated with what he calls <em>male di vivere</em>, which could translate to “the ill of living” or “the burden of living.” It refers to the sense of disorientation spreading in Europe between the two World Wars, which led to shared feelings of uncertainty and isolation. This theme is well represented in his most renowned collection of poems, <em>Ossi di Seppia</em> (<em>Cuttlefish Bones</em>), in which “Antico, sono ubriacato dalla voce” was published.</p>
 tbio: "<p>Carla Rossi graduated with a degree in conference interpreting (English
   and Spanish) from the University of Bologna in 2017, after spending a semester at
   University of Pennsylvania as an exchange student. She is not new to <em>DoubleSpeak</em>,
@@ -69,7 +69,7 @@ translaudio: |-
 edition: '2023'
 pagetype: submission
 wrapformat: 
-order: '20'
+order: '19'
 layout: notepage
 collection: notes_2023
 ---

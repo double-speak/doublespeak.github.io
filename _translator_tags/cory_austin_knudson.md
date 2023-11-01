@@ -1,5 +1,6 @@
 ---
-pid: Cory Austin Knudson
+pid: Cory_Austin_Knudson
+name: Cory Austin Knudson
 type: translator
 order: '030'
 layout: tagpage

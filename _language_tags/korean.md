@@ -1,5 +1,6 @@
 ---
 pid: Korean
+name: Korean
 type: language
 order: '19'
 layout: tagpage

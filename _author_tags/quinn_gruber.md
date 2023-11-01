@@ -1,7 +1,8 @@
 ---
-pid: Quinn Gruber
+pid: Quinn_Gruber
+name: Quinn Gruber
 type: author
-order: '119'
+order: '120'
 layout: tagpage
 collection: author_tags
 ---

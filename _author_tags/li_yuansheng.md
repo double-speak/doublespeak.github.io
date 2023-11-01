@@ -1,7 +1,8 @@
 ---
-pid: Li Yuansheng
+pid: Li_Yuansheng
+name: Li Yuansheng
 type: author
-order: '075'
+order: '076'
 layout: tagpage
 collection: author_tags
 ---

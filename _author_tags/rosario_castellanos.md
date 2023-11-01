@@ -1,7 +1,8 @@
 ---
-pid: Rosario Castellanos
+pid: Rosario_Castellanos
+name: Rosario Castellanos
 type: author
-order: '127'
+order: '128'
 layout: tagpage
 collection: author_tags
 ---

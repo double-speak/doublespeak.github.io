@@ -1,7 +1,8 @@
 ---
-pid: Xi Murong
+pid: Xi_Murong
+name: Xi Murong
 type: author
-order: '156'
+order: '157'
 layout: tagpage
 collection: author_tags
 ---

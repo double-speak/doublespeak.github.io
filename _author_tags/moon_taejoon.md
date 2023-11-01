@@ -1,7 +1,8 @@
 ---
-pid: Moon Taejoon
+pid: Moon_Taejoon
+name: Moon Taejoon
 type: author
-order: '096'
+order: '097'
 layout: tagpage
 collection: author_tags
 ---

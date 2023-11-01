@@ -1,5 +1,6 @@
 ---
-pid: Idea Vilariño
+pid: Idea_Vilariño
+name: Idea Vilariño
 type: author
 order: '060'
 layout: tagpage

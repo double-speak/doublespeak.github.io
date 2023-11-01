@@ -1,5 +1,6 @@
 ---
-pid: Chen Du and Xisheng Chen
+pid: Chen_Du_and_Xisheng_Chen
+name: Chen Du and Xisheng Chen
 type: translator
 order: '025'
 layout: tagpage

@@ -1,5 +1,6 @@
 ---
-pid: Anjali Tsui
+pid: Anjali_Tsui
+name: Anjali Tsui
 type: translator
 order: '012'
 layout: tagpage

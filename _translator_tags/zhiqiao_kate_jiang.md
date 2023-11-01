@@ -1,5 +1,6 @@
 ---
-pid: Zhiqiao (Kate) Jiang
+pid: Zhiqiao_Kate_Jiang
+name: Zhiqiao (Kate) Jiang
 type: translator
 order: '159'
 layout: tagpage

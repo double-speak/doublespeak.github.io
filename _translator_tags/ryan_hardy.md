@@ -1,5 +1,6 @@
 ---
-pid: Ryan Hardy
+pid: Ryan_Hardy
+name: Ryan Hardy
 type: translator
 order: '125'
 layout: tagpage

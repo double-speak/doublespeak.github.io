@@ -1,5 +1,6 @@
 ---
-pid: Irena Natcheva
+pid: Irena_Natcheva
+name: Irena Natcheva
 type: translator
 order: '059'
 layout: tagpage

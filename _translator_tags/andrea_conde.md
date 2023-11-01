@@ -1,5 +1,6 @@
 ---
-pid: Andrea Conde
+pid: Andrea_Conde
+name: Andrea Conde
 type: translator
 order: '009'
 layout: tagpage

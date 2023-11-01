@@ -1,39 +1,40 @@
-pid,type
-Ancient Greek,language
-Arabic,language
-Bosnian,language
-Bulgarian,language
-Chinese,language
-Czech,language
-Esperanto,language
-Farsi,language
-French,language
-Friulian,language
-German,language
-Genovese,language
-Greek,language
-Hebrew,language
-Hindi,language
-Hungarian,language
-Italian,language
-Japanese,language
-Kashmiri,language
-Korean,language
-Latin,language
-Mandarin,language
-Middle English,language
-Norwegian,language
-Old English,language
-Old Occitan,language
-Polish,language
-Portuguese,language
-Russian,language
-Sanskrit,language
-Sinhalese,language
-Spanish,language
-Swedish,language
-Tagalog,language
-Thai,language
-Turkish,language
-Urdu,language
-Yiddish,language
+pid,name,type
+Ancient_Greek,Ancient Greek,language
+Arabic,Arabic,language
+Bosnian,Bosnian,language
+Bulgarian,Bulgarian,language
+Chinese,Chinese,language
+Czech,Czech,language
+Esperanto,Esperanto,language
+Farsi,Farsi,language
+French,French,language
+Friulian,Friulian,language
+German,German,language
+Genovese,Genovese,language
+Greek,Greek,language
+Hebrew,Hebrew,language
+Hindi,Hindi,language
+Hungarian,Hungarian,language
+Italian,Italian,language
+Japanese,Japanese,language
+Kashmiri,Kashmiri,language
+Korean,Korean,language
+Latin,Latin,language
+Mandarin,Mandarin,language
+Middle_English,Middle English,language
+Norwegian,Norwegian,language
+Old_English,Old English,language
+Old_Occitan_and_Genovese,Old Occitan and Genovese,language
+Polish,Polish,language
+Portuguese,Portuguese,language
+Russian,Russian,language
+Sanskrit,Sanskrit,language
+Sinhalese,Sinhalese,language
+Spanish,Spanish,language
+Swedish,Swedish,language
+Tagalog,Tagalog,language
+Thai,Thai,language
+Turkish,Turkish,language
+Urdu,Urdu,language
+Yiddish,Yiddish,language
+English,English,language

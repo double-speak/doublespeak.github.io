@@ -1,5 +1,6 @@
 ---
-pid: Kejia Wang
+pid: Kejia_Wang
+name: Kejia Wang
 type: translator
 order: '076'
 layout: tagpage

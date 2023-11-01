@@ -1,7 +1,8 @@
 ---
-pid: Nadia Park
+pid: Nadia_Park
+name: Nadia Park
 type: author
-order: '098'
+order: '099'
 layout: tagpage
 collection: author_tags
 ---

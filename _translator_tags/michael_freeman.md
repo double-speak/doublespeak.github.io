@@ -1,5 +1,6 @@
 ---
-pid: Michael Freeman
+pid: Michael_Freeman
+name: Michael Freeman
 type: translator
 order: '096'
 layout: tagpage

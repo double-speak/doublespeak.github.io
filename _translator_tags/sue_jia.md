@@ -1,5 +1,6 @@
 ---
-pid: Sue Jia
+pid: Sue_Jia
+name: Sue Jia
 type: translator
 order: '145'
 layout: tagpage

@@ -1,7 +1,8 @@
 ---
-pid: Rachel Bluwstein
+pid: Rachel_Bluwstein
+name: Rachel Bluwstein
 type: author
-order: '120'
+order: '121'
 layout: tagpage
 collection: author_tags
 ---

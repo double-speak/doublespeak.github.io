@@ -1,7 +1,8 @@
 ---
-pid: Sunthorn Phu
+pid: Sunthorn_Phu
+name: Sunthorn Phu
 type: author
-order: '142'
+order: '143'
 layout: tagpage
 collection: author_tags
 ---

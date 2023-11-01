@@ -1,7 +1,8 @@
 ---
-pid: Léopold Sédar Senghor
+pid: Leopold_Sedar_Senghor
+name: Léopold Sédar Senghor
 type: author
-order: '072'
+order: '073'
 layout: tagpage
 collection: author_tags
 ---

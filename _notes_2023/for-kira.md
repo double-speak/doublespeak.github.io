@@ -4,26 +4,27 @@ title: За Киру
 transtitle: For Kira
 author: Alina Khaitlina
 translator: Yehudith Dashevsky
-poem: "23 квітня, у переддень Великодня російська \nракета влучила в житловий будинок
-  в Одесі. \nВбито 8 людей, поранено 18.\nСеред загиблих — 3-місячна Кіра і її мати.\n\n23
-  апреля, в преддверии Пасхи,\nроссийская ракета попала в жилой дом в \nОдессе. Убито
-  8 людей, ранено 18. Среди \nпогибших 3х-месячная Кира и ее мама.\n\nКак вы там говорите
-  — скорей бы мира?\nКоляска через ступеньку летит по лестнице.\nДевочку из Одессы
-  назвали Кира.\nКире было три месяца.\n\nВ три месяца начинают держать игрушку,\nУчатся
-  переворачиваться на спинку.\nВ три месяца человек похож на зверушку —\nБелочку или
-  свинку.\n\nУлыбается маме, уставшей от вечных стирок,\nНачинает другие лица вокруг
-  учить.\nКирина мама погибла в Одессе с Кирой,\nТеперь никто не сумеет их разлучить.\n\nУ
-  мамы на запястье старая фенечка,\nСказали, что защитит. Видно, обманули.\nУ Киры
-  в приданом — купальник размера \"феечка,\"\nДолжна была примерить его в июле.\n\nКак
-  они там \"а давай напишем им 'с пасхой вас,'\nСейчас докурю и ракетку им в тыл закину.\"\nЖители
-  ада выйдут, боясь испачкаться,\nНа дверях напишут:\n\"За Киру.\"\n\n\n\n"
-transpoem: "On the 23rd of April [2022], just before Easter, a Russian rocket hit
-  a civilian residence in Odessa. Eight people were killed, eighteen wounded. Among
-  the dead were 3-month old Kira and her mother. \n\nWhat’s it called — let peace
-  come quicker? \nThe step, the stairs, where a stroller flies over —\nIn Odessa,
-  there was a girl\nwho was three months old. Her name was Kira. \n\nAt three months
-  you might begin to teach her\nto hold a toy, to learn to turn on her back.\nAt three
-  months a person looks like a squirrel,\nor a piglet — a small animal, a creature.
+poem: "<em>23 квітня, у переддень Великодня російська \nракета влучила в житловий
+  будинок в Одесі. \nВбито 8 людей, поранено 18.\nСеред загиблих — 3-місячна Кіра
+  і її мати.</em>\n\n<em>23 апреля, в преддверии Пасхи,\nроссийская ракета попала
+  в жилой дом в \nОдессе. Убито 8 людей, ранено 18. Среди \nпогибших 3х-месячная Кира
+  и ее мама.</em>\n\nКак вы там говорите — скорей бы мира?\nКоляска через ступеньку
+  летит по лестнице.\nДевочку из Одессы назвали Кира.\nКире было три месяца.\n\nВ
+  три месяца начинают держать игрушку,\nУчатся переворачиваться на спинку.\nВ три
+  месяца человек похож на зверушку —\nБелочку или свинку.\n\nУлыбается маме, уставшей
+  от вечных стирок,\nНачинает другие лица вокруг учить.\nКирина мама погибла в Одессе
+  с Кирой,\nТеперь никто не сумеет их разлучить.\n\nУ мамы на запястье старая фенечка,\nСказали,
+  что защитит. Видно, обманули.\nУ Киры в приданом — купальник размера \"феечка,\"\nДолжна
+  была примерить его в июле.\n\nКак они там \"а давай напишем им 'с пасхой вас,'\nСейчас
+  докурю и ракетку им в тыл закину.\"\nЖители ада выйдут, боясь испачкаться,\nНа дверях
+  напишут:\n\"За Киру.\"\n\n\n\n"
+transpoem: "<em>On the 23rd of April [2022], just before Easter, a Russian rocket
+  hit a civilian residence in Odessa. Eight people were killed, eighteen wounded.
+  Among the dead were 3-month old Kira and her mother. </em>\n\nWhat’s it called —
+  let peace come quicker? \nThe step, the stairs, where a stroller flies over —\nIn
+  Odessa, there was a girl\nwho was three months old. Her name was Kira. \n\nAt three
+  months you might begin to teach her\nto hold a toy, to learn to turn on her back.\nAt
+  three months a person looks like a squirrel,\nor a piglet — a small animal, a creature.
   \n\nShe smiles at her mom, who’s exhausted \nfrom infinite laundry. She’s solving
   the quandary \nof other faces around her, but she can’t separate\nfrom her mom now.
   Kira’s mom died in Odessa with Kira.\n\nOn the mom’s wrist was an old bauble, which
@@ -107,7 +108,7 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-order: '15'
+order: '14'
 layout: notepage
 collection: notes_2023
 ---

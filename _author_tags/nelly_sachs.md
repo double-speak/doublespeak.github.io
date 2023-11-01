@@ -1,7 +1,8 @@
 ---
-pid: Nelly Sachs
+pid: Nelly_Sachs
+name: Nelly Sachs
 type: author
-order: '102'
+order: '103'
 layout: tagpage
 collection: author_tags
 ---

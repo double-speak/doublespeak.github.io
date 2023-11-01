@@ -1,5 +1,6 @@
 ---
-pid: Dan Guralnik
+pid: Dan_Guralnik
+name: Dan Guralnik
 type: translator
 order: '033'
 layout: tagpage
