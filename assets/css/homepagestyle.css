@@ -152,7 +152,7 @@ p {
 	height: 57%;
 	opacity: 0;
 	transition: 0.3s;
-	flex-basis: 40%;
+	flex-basis: 50%;
 }
 
 .currentissue-overlay-text {
