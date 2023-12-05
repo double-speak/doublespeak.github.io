@@ -313,7 +313,7 @@ p.link {
 .poem-image {
 	max-width:100%;
 	margin:20px;
-	opacity: 60%;
+	opacity: 0.63;
 }
 
 .flex-container{
