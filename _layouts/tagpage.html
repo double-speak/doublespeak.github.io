@@ -20,18 +20,28 @@ layout: default
 <div class="toc-container">
   <div class="left">
 
-    {% for issues_hash in site.data.issues %}
-    {% assign issues = issues_hash[1] %}
+{% for issues_hash in site.data.issues %}
+  {% assign issues = issues_hash[1] %}
    {% for poem in issues %}
 <!--          look in the language spreadsheet
  -->    
 
         {% if page.type == "language" %}
             {% if poem.language == page.name %}
-            <div class="tcleft">
-              <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
-              <h3 class="tcleft">written by {{ poem.author }}<br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
-            </div>
+              {% if poem.pagetype == 'submission' %}
+                <div class="tcleft">
+                  <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
+                  <h3 class="tcleft">written by {{ poem.author }}<br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+                </div>
+              {% endif %}
+              {% if poem.pagetype != 'submission' %}
+                <div class="tcleft">
+                  <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
+                  {% if poem.author %}
+                    <h3 class="tcleft">by {{ poem.author }}</h3>
+                  {% endif %}
+                </div>
+            {% endif %}
             {% endif %}
             {% endif %}
 <!--          look in the author spreadsheet
