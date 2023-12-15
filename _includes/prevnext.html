@@ -19,12 +19,12 @@
 
         {% endif %}
 
-        {% if forloop.index == previousIndex and pg.pagetype != "musing" and pg.pagetype != "interview" %}
+        {% if forloop.index == previousIndex and pg.pagetype != "musing" and pg.pagetype != "interview" and pg.nonote != 2 %}
           {% assign previousPage = pg.pid %}
 
         {% endif %}
 
-        {% if forloop.index == previousIndex and pg.pagetype != "musing" and pg.pagetype != "interview" and pg.nonote == 2%}
+        {% if forloop.index == previousIndex and pg.pagetype != "musing" and pg.pagetype != "interview" and pg.nonote == 2 %}
           {% assign previousPage = pg.pid %}
           {% assign fixpath = "poems_" %}
         {% endif %}
