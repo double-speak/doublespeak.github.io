@@ -4,7 +4,7 @@ title: Der Erlkönig
 transtitle: The Elm-King
 author: Johann Wolfgang von Goethe
 translator: Benjamin McAvoy-Bickford
-poem: |
+poem: |-
   Wer reitet so spät durch Nacht und Wind?
   Es ist der Vater mit seinem Kind:
   Er hat den Knaben wohl in dem Arm,
@@ -44,72 +44,6 @@ poem: |
   Er hält in Armen das ächzende Kind,
   Erreicht den Hof mit Mühe und Not:
   In seinen Armen das Kind war tot.
-
-  <h1>Erlkönigs Tochter</h1>
-  <h2><em>Johann Gottfried von Herder</em></h2>
-
-  Herr Oluf reitet spät und weit,
-  Zu bieten auf seine Hochzeitsleut;
-
-  Da tanzen die Elfen auf grünem Land,
-  Erlkönigs Tochter reicht ihm die Hand.
-
-  »Willkommen, Herr Oluf! Was eilst von hier?
-  Tritt her in den Reihen und tanz mit mir.«
-
-  »Ich darf nicht tanzen, nicht tanzen ich mag,
-  Frühmorgen ist mein Hochzeittag.«
-
-  »Hör an, Herr Oluf, tritt tanzen mit mir,
-  Zwei güldne Sporne schenk ich dir.
-
-  Ein Hemd von Seide so weiß und fein,
-  Meine Mutter bleicht’s mit Mondenschein.«
-
-  »Ich darf nicht tanzen, nicht tanzen ich mag,
-  Frühmorgen ist mein Hochzeitstag.«
-
-  »Hör an, Herr Oluf, tritt tanzen mit mir,
-  Einen Haufen Goldes schenk ich dir.«
-
-  »Einen Haufen Goldes nähm ich wohl;
-  Doch tanzen ich nicht darf noch soll.«
-
-  »Und willt, Herr Oluf, nicht tanzen mit mir,
-  Soll Seuch und Krankheit folgen dir.«
-
-  Sie tät einen Schlag ihm auf sein Herz,
-  Noch nimmer fühlt er solchen Schmerz.
-
-  Sie hob ihn bleichend auf sein Pferd.
-  »Reit heim nun zu deinem Fräulein wert.«
-
-  Und als er kam vor Hauses Tür,
-  Seine Mutter zitternd stand dafür.
-
-  »Hör an, mein Sohn, sag an mir gleich,
-  Wie ist dein’ Farbe blaß und bleich?«
-
-  »Und sollt sie nicht sein blaß und bleich,
-  Ich traf in Erlenkönigs Reich.«
-
-  »Hör an, mein Sohn, so lieb und traut,
-  Was soll ich nun sagen deiner Braut?«
-
-  »Sagt ihr, ich sei im Wald zur Stund,
-  Zu proben da mein Pferd und Hund.«
-
-  Frühmorgen und als es Tag kaum war,
-  Da kam die Braut mit der Hochzeitschar.
-
-  »Sie schenkten Met, sie schenkten Wein;
-  Wo ist Herr Oluf, der Bräutigam mein?«
-
-  »Herr Oluf, er ritt in Wald zur Stund,
-  Er probt allda sein Pferd und Hund.«
-
-  Die Braut hob auf den Scharlach rot,
-  Da lag Herr Oluf, und er war tot.
 transpoem: "Who rides so late through night and wind?\nThe father with his lad: \nHe
   has the young one in his arms,\nHe keeps him safe, well-clad.\n\n“My son, what brings
   your look to fear?”\n“You can’t see the Elm-King?\nThe Elm-King with his crown and
@@ -122,27 +56,7 @@ transpoem: "Who rides so late through night and wind?\nThe father with his lad: 
   son, my son, well can I see,\nSome willows old and gray.”\n\n“I love your figure,
   teasing me,\nYou’ll see how I am strong.”\n“My father, father, feel his touch!\nThe
   Elm-King does me wrong!”\n\nThe father, dreading, swiftly rides,\nHe holds his groaning
-  son,\nAt last in need he reaches home:\nHis child’s life is done.\n\n<h1>Elm-King's
-  Daughter</h1>\n\n\"Sir Oluf rides both far and wide,\nTo tell them of his marriage-bride;\n\nThere
-  dance the elves on verdant land,\nThe Elm-King’s daughter gave her hand.\n\n“Come
-  in, Sir Oluf! Must you flee?\nDo stay to waltz and dance with me.”\n\n“I must not
-  dance, no dance I may,\nTomorrow morn’s my wedding day.”\n\n“Sir Oluf, listen, dance
-  with me,\nTwo golden spurs I’ll give to thee.\n\nA silken shirt so fine and white,\nMy
-  mother bleached it with moonlight.”\n\n“I must not dance, no dance I may,\nTomorrow
-  morn’s my wedding day.”\n\n“Sir Oluf, listen, dance with me,\nA golden hoard I’ll
-  give to thee.”\n\n“I’d take a golden hoard, it’s true;\nYet I must never dance with
-  you.”\n\n“You won’t, Sir Oluf, dance with me,\nLet pox and illness follow thee.”\n\nShe
-  dealt a blow unto his heart,\nHe felt a wound to deeply smart.\n\nShe helped him,
-  pale, onto his horse.\n“For your one, ride a homeward course.”\n\nAnd as he reached
-  his house’s door,\nHis mother, trembling, stood before.\n\n“My son, do listen, tell
-  me true,\nWhat makes your face so pale and blue?”\n\n“And should it not be pale
-  and blue,\nThe Elm-King’s realm I did go through.”\n\n“My son, do listen, my dear
-  pride,\nWhat should I now go tell your bride?”\n\n“Just say I went into the grove\nTo
-  let my horse and dog go rove.”\n\nThe day, by early morning, rose,\nThe bride came
-  by in wedding clothes.\n\n“They give the mead, they give the wine,\nOh where’s Sir
-  Oluf, bridegroom mine?”\n\n“Sir Oluf’s gone into the grove,\nTo let his horse and
-  dog go rove.”\n\nThe bride was turning scarlet red,\nThere lay Sir Oluf, he was
-  dead.\n\""
+  son,\nAt last in need he reaches home:\nHis child’s life is done.\n"
 note: "<p>“Der Erlkönig” has become one of Goethe’s most famous poems because it lends
   itself well to musical settings, of which one by Franz Schubert has become the most
   well-known. However, its long history of musical settings stretches from the first
@@ -211,6 +125,7 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
+nonote: '1'
 order: '08'
 layout: notepage
 collection: notes_2023

@@ -52,7 +52,7 @@ lang: he
 image: "/assets/images/images_22/segalovitsh.jpg"
 image2: none
 imagecredit: photo by Betsy Morgan
-imagecredit2:
+imagecredit2: 
 origaudio: |-
   <div>
   <iframe
@@ -73,7 +73,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '04'
 layout: notepage
 collection: notes_2022

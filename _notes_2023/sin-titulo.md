@@ -85,6 +85,7 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
+nonote: '0'
 order: '06'
 layout: notepage
 collection: notes_2023

@@ -2,7 +2,9 @@
 pid: to-read-in-case-of-snow
 title: Te Lezen bij Sneeuw
 transtitle: To Read in Case of Snow
-author: "Esther Jansma\r"
+author: 'Esther Jansma
+
+'
 translator: C.H. Henry
 poem: "Een paar hoeken om en je staat in de stilte\nop een bodem, tussen oude muren,
   lagen metselwerkin\nzomaar een winter. Uit de tijd gestapt.\n\nHet vriest. Kinderen
@@ -63,7 +65,8 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-order: '22'
+nonote: '0'
+order: '23'
 layout: poempage
 collection: poems_2023
 ---

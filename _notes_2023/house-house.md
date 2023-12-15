@@ -32,21 +32,21 @@ poem: "Вокруг нас дом-деревянные полы. Поля за �
 transpoem: "All around us, there’s a house of wooden floors. There are fields behind
   the wooden windows. Through the cracked glass, I try to see the point where they
   end. We’re the point where they start. But the house surrounded us. Wooden shutters.
-  The house. Wooden furniture. The house. \r\rWooden feelings, happenings, motions.\r\rI
+  The house. Wooden furniture. The house. \n\nWooden feelings, happenings, motions.\n\nI
   hold my stomach. It’s wooden from the feelings having washed in. There isn’t a point
   where they might end. They swell with every touch. You say it’s my father’s house,
   stroke my shoulder. And I’m cold. A draft. I feel your rough chin run higher up
-  my spine… isn’t it uncomfortable to stand with knees half-bent? Your knees, \rlike
-  our house, are wooden.\r\rBetween us, there is the house. A house like the world.
-  A house like eternity. And there isn’t a point where it ends.\r\rOld, study furniture.
+  my spine… isn’t it uncomfortable to stand with knees half-bent? Your knees, \nlike
+  our house, are wooden.\n\nBetween us, there is the house. A house like the world.
+  A house like eternity. And there isn’t a point where it ends.\n\nOld, study furniture.
   The smell is all around, the smell of the house… how wood smells before it’s cut.
-  Trees haven’t existed for 90% of the planet’s existence. You haven’t existed \rfor
-  90% of mine.\r\rThe house house doesn’t protect us from eternity, from the speed
+  Trees haven’t existed for 90% of the planet’s existence. You haven’t existed \nfor
+  90% of mine.\n\nThe house house doesn’t protect us from eternity, from the speed
   of light, from the threat of parting. The house is too wooden and it belonged to
   your father. Your father — a former soldier. He came into the house with his wooden
   steps. It didn’t get any warmer. It got more frightening. That’s why our touching
   is a sabotage of memory. It’s in spite of the wooden fatherly love. You kiss me
-  in spite. And I try to stay level, so my heart \rdoesn’t recoil.\r\rThe house house
+  in spite. And I try to stay level, so my heart \ndoesn’t recoil.\n\nThe house house
   surrounds us, squeezes us. You feel it and press your lips tighter to the nape of
   my neck, pull my hair down to kiss the top of my head. With the top of my head I’ll
   touch the sky, then kiss eternity, showing it your kiss. With the top of my head,
@@ -55,7 +55,7 @@ transpoem: "All around us, there’s a house of wooden floors. There are fields 
   it’s that same silence. Air’s absence swallows 100% of sound. Your absence swallows
   100% of my life. I am eternity and emptiness. I leaf through the rooms of the house,
   not our house, swipe up to the very beginning, and touch the wood to force in more
-  \rsplinters.\r\rThis home home, it’s a dream dream. There’s you and your smell…
+  \nsplinters.\n\nThis home home, it’s a dream dream. There’s you and your smell…
   the rest is blurry. And there’s the field. The horizon is overflowing."
 note: |-
   <p>In our correspondence, Krutova told me a bit about the poem. In a dream, she saw a house with shutters, shrouded in fog. She noted how unnerving and scary the dream was and wanted to convey this in words. When she woke up, she jotted down the first line. Upon sitting with the dream further, she wanted to break away from this unnervedness and leaned into the poem’s intimacy.</p>
@@ -88,6 +88,7 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
+nonote: '0'
 order: '03'
 layout: notepage
 collection: notes_2023

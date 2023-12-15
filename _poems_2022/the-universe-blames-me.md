@@ -95,7 +95,7 @@ lang: ar
 image: "/assets/images/images_22/qabbani.jpg"
 image2: none
 imagecredit: photo by Michael Karam
-imagecredit2:
+imagecredit2: 
 origaudio: |-
   <div>
 
@@ -118,7 +118,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '16'
 layout: poempage
 collection: poems_2022

@@ -65,11 +65,11 @@ note: |+
   <p>but who are these <em>avenue muses</em>?</p>
 
 abio: |-
-  <p>Zoraida Armengol is a Miami-Dade County Spanish teacher whose published books include <em>Un cielo para todos</em> and <em>Las alas de un alma</em>. she was born in Havana, Cuba in 1965.
+  <p>Zoraida Armengol is a Miami-Dade County Spanish teacher whose published books include <em>Un cielo para todos</em> and <em>Las alas de un alma</em>. She was born in Havana, Cuba in 1965.
   </p>
-tbio: "<p>howdy, i am Pablo (he/him)! i am Spanish and Cuban and Miamian! i do science,
-  translation, and tabletop things. i really enjoy translating poems about striking
-  out on one’s own. an urban fantasy novel — about tropical diaspora best friend assassins,
+tbio: "<p>Pablo (he/him) Abrante is a Spanish and Cuban and Miamian. He does science,
+  translation, and tabletop things. He really enjoys translating poems about striking
+  out on one’s own. An urban fantasy novel — about tropical diaspora best friend assassins,
   spilling cafecito for the cafecito god, and queer spanglish passenger seat conversations
   — may or may not be forthcoming.</p>"
 language: Spanish
@@ -77,7 +77,7 @@ lang: es
 image: "/assets/images/images_22/armengol.jpg"
 image2: none
 imagecredit: photo by Stacy Shimanuki
-imagecredit2:
+imagecredit2: 
 origaudio: |-
   <div>
 
@@ -100,7 +100,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '02'
 layout: notepage
 collection: notes_2022

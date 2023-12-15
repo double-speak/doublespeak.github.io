@@ -222,8 +222,8 @@ note: "<p><em>This interview was conducted by <strong><em>DoubleSpeak</em></stro
   of the mothers in the <em>Beowulf</em> story.</p>"
 abio: 
 tbio: 
-language: English
-lang: en
+language: 
+lang: 
 image: "/assets/images/images_21/interview.jpeg"
 imagecredit: photo by Chardonnay Needler
 origaudio: 

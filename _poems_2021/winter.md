@@ -5,11 +5,7 @@ transtitle: Winter
 author: Kobayashi Issa
 translator: Vanessa Hu
 poem: "初雪や                 \nそれは世にある         \n人の事\n\n猫の子の                 \nくるくる舞や
-  \         \n散る木の葉\n\n玉霰                         \n夜鷹は月に                 \n帰るめり\n\nFrom
-  the haiku collection <span lang=”ja”>\n《猫与四季》</span> \n(<em>Cats and the Four Seasons</em>)\nBy
-  <span lang=”ja”>小林一茶</span> (Kobayashi Issa)\nMandarin translations from Japanese
-  \nby <span lang=”ja”>吴菲</span> (Wu Fei)\nIllustrated by <span lang=”ja”>千巨万</span>\n(Qian
-  Ju Wan)."
+  \         \n散る木の葉\n\n玉霰                         \n夜鷹は月に                 \n帰るめり"
 transpoem: "first snowfalls: \nthose are matters \nof mortal beings\n\noh, how the
   kitty \nwhirls ’n twirls in dance \namongst the drifting leaves\n\nin pearls of
   hail \nperhaps a nightjar \nreturns to the moon\n\n*Nightjars are small, \nnocturnal
@@ -28,7 +24,7 @@ tbio: <p>Vanessa is a rising sophomore studying computer science and Ethnicity, 
   haikus, and other minute forms. She was inspired to translate poetry after buying
   a Japanese haiku collection translated into Mandarin. Vanessa spent her quarantine
   in the NJ suburbs drinking lattes, learning to dance, and overthinking a tad too
-  much. You can find more haiku translations at her site <a href="https://vanessahu.squarespace.com/about">here.</a></p>
+  much. </p>
 language: Japanese
 lang: ja
 image: 

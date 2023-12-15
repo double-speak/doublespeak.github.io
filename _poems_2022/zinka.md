@@ -122,7 +122,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '10'
 layout: poempage
 collection: poems_2022

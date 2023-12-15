@@ -84,7 +84,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '03'
 layout: poempage
 collection: poems_2022

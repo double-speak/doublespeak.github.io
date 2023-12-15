@@ -127,7 +127,8 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-order: '20'
+nonote: '0'
+order: '21'
 layout: poempage
 collection: poems_2023
 ---

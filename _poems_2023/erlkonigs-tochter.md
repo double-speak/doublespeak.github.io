@@ -1,62 +1,48 @@
 ---
-pid: der-erlkonig
-title: Der Erlkönig
-transtitle: The Elm-King
+pid: erlkonigs-tochter
+title: Erlkönigs Tochter
+transtitle: Elm-King's Daughter
 author: Johann Wolfgang von Goethe
 translator: Benjamin McAvoy-Bickford
-poem: |-
-  Wer reitet so spät durch Nacht und Wind?
-  Es ist der Vater mit seinem Kind:
-  Er hat den Knaben wohl in dem Arm,
-  Er fasst ihn sicher, er hält ihn warm.
-
-  »Mein Sohn, was birgst du so bang dein Gesicht?«
-  »Siehst, Vater, du den Erlkönig nicht?
-  Den Erlenkönig mit Kron’ und Schweif?«
-  »Mein Sohn, es ist ein Nebelstreif.«
-
-  »Du liebes Kind, komm, geh mit mir!
-  Gar schöne Spiele spiel’ ich mit dir;
-  Manch’ bunte Blumen sind an dem Strand,
-  Meine Mutter hat manch gülden Gewand.«
-
-  »Mein Vater, mein Vater, und hörest du nicht,
-  Was Erlenkönig mir leise verspricht?«
-  »Sei ruhig, bleibe ruhig, mein Kind:
-  In dürren Blättern säuselt der Wind.«
-
-  »Willst, feiner Knabe, du mit mir gehn?
-  Meine Töchter sollen dich warten schön;
-  Meine Töchter führen den nächtlichen Reihn
-  Und wiegen und tanzen und singen dich ein.«
-
-  »Mein Vater, mein Vater, und siehst du nicht dort
-  Erlkönigs Töchter am düstern Ort?«
-  »Mein Sohn, mein Sohn, ich seh es genau:
-  Es scheinen die alten Weiden so grau.«
-
-  »Ich liebe dich, mich reizt deine schöne Gestalt;
-  Und bist du nicht willig, so brauch ich Gewalt.«
-  »Mein Vater, mein Vater, jetzt fasst er mich an!
-  Erlkönig hat mir ein Leids getan!«
-
-  Dem Vater grauset’s, er reitet geschwind,
-  Er hält in Armen das ächzende Kind,
-  Erreicht den Hof mit Mühe und Not:
-  In seinen Armen das Kind war tot.
-transpoem: "Who rides so late through night and wind?\nThe father with his lad: \nHe
-  has the young one in his arms,\nHe keeps him safe, well-clad.\n\n“My son, what brings
-  your look to fear?”\n“You can’t see the Elm-King?\nThe Elm-King with his crown and
-  tail?”\n“My son, the mists just sing.”\n\n“Beloved lad, come, go with me!\nThe games
-  we’ll nicely play;\nSo many flowers on my shore,\nAnd mother’s gold array.”\n\n“My
-  father, father, don’t you hear,\nThe Elm-King’s quiet deals?”\n“Be calm, stay calm,
-  my lad: it’s just\nDry leaves the wind reveals.”\n\n“You want, young sir, to go
-  with me?\nMy daughters wait there nigh;\nMy daughters lead the nightly waltz,\nAnd
-  dance a lullaby.”\n\n“My father, father, don’t you see,\nHis daughters’ dark display?”\n“My
-  son, my son, well can I see,\nSome willows old and gray.”\n\n“I love your figure,
-  teasing me,\nYou’ll see how I am strong.”\n“My father, father, feel his touch!\nThe
-  Elm-King does me wrong!”\n\nThe father, dreading, swiftly rides,\nHe holds his groaning
-  son,\nAt last in need he reaches home:\nHis child’s life is done.\n"
+poem: Herr Oluf reitet spät und weit, Zu bieten auf seine Hochzeitsleut; Da tanzen
+  die Elfen auf grünem Land, Erlkönigs Tochter reicht ihm die Hand. »Willkommen, Herr
+  Oluf! Was eilst von hier? Tritt her in den Reihen und tanz mit mir.« »Ich darf nicht
+  tanzen, nicht tanzen ich mag, Frühmorgen ist mein Hochzeittag.« »Hör an, Herr Oluf,
+  tritt tanzen mit mir, Zwei güldne Sporne schenk ich dir. Ein Hemd von Seide so weiß
+  und fein, Meine Mutter bleicht’s mit Mondenschein.« »Ich darf nicht tanzen, nicht
+  tanzen ich mag, Frühmorgen ist mein Hochzeitstag.« »Hör an, Herr Oluf, tritt tanzen
+  mit mir, Einen Haufen Goldes schenk ich dir.« »Einen Haufen Goldes nähm ich wohl;
+  Doch tanzen ich nicht darf noch soll.« »Und willt, Herr Oluf, nicht tanzen mit mir,
+  Soll Seuch und Krankheit folgen dir.« Sie tät einen Schlag ihm auf sein Herz, Noch
+  nimmer fühlt er solchen Schmerz. Sie hob ihn bleichend auf sein Pferd. »Reit heim
+  nun zu deinem Fräulein wert.« Und als er kam vor Hauses Tür, Seine Mutter zitternd
+  stand dafür. »Hör an, mein Sohn, sag an mir gleich, Wie ist dein’ Farbe blaß und
+  bleich?« »Und sollt sie nicht sein blaß und bleich, Ich traf in Erlenkönigs Reich.«
+  »Hör an, mein Sohn, so lieb und traut, Was soll ich nun sagen deiner Braut?« »Sagt
+  ihr, ich sei im Wald zur Stund, Zu proben da mein Pferd und Hund.« Frühmorgen und
+  als es Tag kaum war, Da kam die Braut mit der Hochzeitschar. »Sie schenkten Met,
+  sie schenkten Wein; Wo ist Herr Oluf, der Bräutigam mein?« »Herr Oluf, er ritt in
+  Wald zur Stund, Er probt allda sein Pferd und Hund.« Die Braut hob auf den Scharlach
+  rot, Da lag Herr Oluf, und er war tot.
+transpoem: '"Sir Oluf rides both far and wide, To tell them of his marriage-bride;
+  There dance the elves on verdant land, The Elm-King’s daughter gave her hand. “Come
+  in, Sir Oluf! Must you flee? Do stay to waltz and dance with me.” “I must not dance,
+  no dance I may, Tomorrow morn’s my wedding day.” “Sir Oluf, listen, dance with me,
+  Two golden spurs I’ll give to thee. A silken shirt so fine and white, My mother
+  bleached it with moonlight.” “I must not dance, no dance I may, Tomorrow morn’s
+  my wedding day.” “Sir Oluf, listen, dance with me, A golden hoard I’ll give to thee.”
+  “I’d take a golden hoard, it’s true; Yet I must never dance with you.” “You won’t,
+  Sir Oluf, dance with me, Let pox and illness follow thee.” She dealt a blow unto
+  his heart, He felt a wound to deeply smart. She helped him, pale, onto his horse.
+  “For your one, ride a homeward course.” And as he reached his house’s door, His
+  mother, trembling, stood before. “My son, do listen, tell me true, What makes your
+  face so pale and blue?” “And should it not be pale and blue, The Elm-King’s realm
+  I did go through.” “My son, do listen, my dear pride, What should I now go tell
+  your bride?” “Just say I went into the grove To let my horse and dog go rove.” The
+  day, by early morning, rose, The bride came by in wedding clothes. “They give the
+  mead, they give the wine, Oh where’s Sir Oluf, bridegroom mine?” “Sir Oluf’s gone
+  into the grove, To let his horse and dog go rove.” The bride was turning scarlet
+  red, There lay Sir Oluf, he was dead. "'
 note: "<p>“Der Erlkönig” has become one of Goethe’s most famous poems because it lends
   itself well to musical settings, of which one by Franz Schubert has become the most
   well-known. However, its long history of musical settings stretches from the first
@@ -125,8 +111,8 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '1'
-order: '08'
+nonote: '2'
+order: '09'
 layout: poempage
 collection: poems_2023
 ---

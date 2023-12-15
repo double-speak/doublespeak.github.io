@@ -40,13 +40,13 @@ abio: "<p>Pavel Friedmann was a Jewish Czechslovakian poet who was famous for hi
   in Prague. This poem was found on a very thin piece of paper along with a lot of
   other drawings and writings from Jewish children at the camp. Pavel Friedmann was
   later transported to Auschwitz in 1944, where he died.</p>"
-tbio: "<p>My name is Karina Carreras, and I am a senior at the University of Iowa.
-  This semester, I decided to take a translation course not thinking a lot of it,
-  and I ended up falling in love with translation. I didn’t realize how captivating
-  the art of translation was until I started working with pieces and workshopping
-  them with my peers and professor. I wanted to submit this translation because it
-  was so moving in German, and I think English readers should have the chance to read
-  this as well.</p>"
+tbio: "<p>Karina Carreras is a senior at the University of Iowa. This semester, she
+  decided to take a translation course not thinking a lot of it, and she ended up
+  falling in love with translation. She didn’t realize how captivating the art of
+  translation was until she started working with pieces and workshopping them with
+  her peers and professor. She wanted to submit this translation because it was so
+  moving in German, and she thinks English readers should have the chance to read
+  it as well.</p>"
 language: German
 lang: de
 image: "/assets/images/images_21/friedmann.JPEG"

@@ -4,24 +4,24 @@ title: NO SE CRÍAN HIJOS PARA VERLOS MORIR
 transtitle: YOU DON’T RAISE CHILDREN TO WATCH THEM DIE
 author: Rosabetty Muñoz
 translator: Claudia Nuñez de Ibieta
-poem: "Cuando el mar se llevó a sus tres hijos \nElla estaba acodada en la puerta
-  de su casa, pensando \nen ollas aladas y repletas. De pronto cayó en \nun vacío
-  del que surgió vieja y encorvada. No \nnecesitó entrar para vestirse de negro. Ya
-  estaba \nrecogiendo ﬂores cuando salió su hombre con la \nradio en la mano, desamparado
-  y tembloroso.\n\n\nElla es una sábana ﬂotando sobre nosotros.\nNada detiene el remolino
-  que alienta su vuelo.\nDesde su vientre deshabitado\nlos ovarios violeta se abren
-  como ﬂores nocturnas.\nLa ansiedad es un arrecife\ndonde acerados corales hieren
-  los cuerpos amados.\n\nSin hijos bajo sus ojos\nquisiéramos las madres\nofrecerle
-  un trozo de pañal\npara vendar sus muñones o un arca\ndonde recoger los salados
-  restos.\n"
+poem: "Cuando el mar \nse llevó a sus tres hijos \nElla estaba acodada \nen la puerta
+  de su casa, \npensando en ollas aladas y repletas. \nDe pronto cayó en un vacío
+  \ndel que surgió vieja y encorvada. \nNo necesitó entrar \npara vestirse de negro.
+  \nYa estaba recogiendo ﬂores \ncuando salió su hombre \ncon la radio en la mano,
+  \ndesamparado y tembloroso.\n\n\nElla es una sábana ﬂotando \nsobre nosotros.\nNada
+  detiene el remolino \nque alienta su vuelo.\nDesde su vientre deshabitado\nlos ovarios
+  violeta se abren \ncomo ﬂores nocturnas.\nLa ansiedad es un arrecife\ndonde acerados
+  corales \nhieren los cuerpos amados.\n\nSin hijos bajo sus ojos\nquisiéramos las
+  madres\nofrecerle un trozo de pañal\npara vendar sus muñones o un arca\ndonde recoger
+  los salados restos.\n"
 transpoem: "When the sea took away her three sons \nShe was leaning in the doorway
   of her home, \nthinking of winged and brimming pots. \nSuddenly she fell into an
   abyss, \nfrom which she emerged old and hunched. \nShe didn’t need to go inside
-  to be dressed in black. \nShe was already gathering flowers \nwhen her husband came
-  outside \nwith the radio in his hand, helpless and trembling.\n \nShe is a sheet
-  floating above us.\nNothing restrains the whirlwind that keeps her aloft.\nFrom
+  \nto be dressed in black. \nShe was already gathering flowers \nwhen her husband
+  came outside \nwith the radio in his hand, helpless \nand trembling.\n \nShe is
+  a sheet floating above us.\nNothing restrains the whirlwind \nthat keeps her aloft.\nFrom
   her deserted womb\nviolet ovaries unfurl like night-blooming flowers.\nAnxiety is
-  a reef\nwhere sharpened corals wound beloved bodies.\n\nWithout children in her
+  a reef\nwhere sharpened corals \nwound beloved bodies.\n\nWithout children in her
   sight\nwe mothers would like\nto offer her a piece of diaper cloth\nto bandage her
   stumps or an ark\nto gather the salty remains.\n"
 note: |-
@@ -59,8 +59,8 @@ language: Spanish
 lang: es
 image: none
 image2: none
-imagecredit:
-imagecredit2:
+imagecredit: 
+imagecredit2: 
 origaudio: |-
   <div>
 
@@ -83,7 +83,7 @@ translaudio: |-
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '01'
 layout: notepage
 collection: notes_2022

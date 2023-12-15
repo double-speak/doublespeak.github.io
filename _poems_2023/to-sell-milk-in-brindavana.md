@@ -43,18 +43,17 @@ note: |-
 abio: "<p>Kuppali Venkatappa Puttappa (1904 –1994), known best under his pen name
   Kuvempu, was an Indian poet revered throughout the country for his many linguistic
   contributions to its rich literary history. His career included teaching and publishing
-  poems, scripts, novels, essays, and more.</p> \r\n<p>Born in Karnataka, Kuvempu
-  majored in Kannada at the Maharaja College of Mysore, graduating to become an academic
-  lecturer at the same university. Along with his expertise in the Indian tongue,
-  he entered the literary field with a collection of poetry in English. Regardless,
-  Kuvempu wrote primarily in Kannada because of his firm belief that he could do more
-  justice to his roots and society through native rather than foreign speech.</p>
-  \r\n<p>He advocated extensively for students in Karnataka to be taught in Kannada
-  as opposed to English, starting the Institute of Kannada Studies through Mysore
-  University to further this cause. In addition, Kuvempu was vocal about societal
-  change, advocating for the dismantling of gender inequality and such discrimination
-  he perceived as dragging the nation down. To this day, his works are considered
-  incredibly influential.</p> "
+  poems, scripts, novels, essays, and more.</p> \n<p>Born in Karnataka, Kuvempu majored
+  in Kannada at the Maharaja College of Mysore, graduating to become an academic lecturer
+  at the same university. Along with his expertise in the Indian tongue, he entered
+  the literary field with a collection of poetry in English. Regardless, Kuvempu wrote
+  primarily in Kannada because of his firm belief that he could do more justice to
+  his roots and society through native rather than foreign speech.</p> \n<p>He advocated
+  extensively for students in Karnataka to be taught in Kannada as opposed to English,
+  starting the Institute of Kannada Studies through Mysore University to further this
+  cause. In addition, Kuvempu was vocal about societal change, advocating for the
+  dismantling of gender inequality and such discrimination he perceived as dragging
+  the nation down. To this day, his works are considered incredibly influential.</p> "
 tbio: |
   <p>Nesara Shree is a first-generation student with roots in Karnataka, India, where her parents were born and raised. Her family has extensively read and listened to musical renditions of Kuvempu’s poetry, an interest that inspired her to translate one of her favorites into English.</p>
 
@@ -70,7 +69,8 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-order: '17'
+nonote: '0'
+order: '18'
 layout: poempage
 collection: poems_2023
 ---

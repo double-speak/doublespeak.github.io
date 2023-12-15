@@ -1,6 +1,6 @@
 ---
 pid: lost-and-found
-title: Lost and Found
+title: 'Lost and Found: Musing'
 transtitle: 
 author: Aiyana Nosizwe Mate
 translator: 
@@ -50,7 +50,8 @@ translaudio:
 edition: '2023'
 pagetype: musing
 wrapformat: 
-order: '09'
+nonote: '0'
+order: '10'
 layout: notepage
 collection: notes_2023
 ---

@@ -44,12 +44,12 @@ lang: hi
 image: "/assets/images/images_22/varma.jpg"
 image2: none
 imagecredit: photo by Yan Zhang
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '00'
 layout: notepage
 collection: notes_2022

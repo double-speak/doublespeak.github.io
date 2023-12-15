@@ -44,8 +44,8 @@ language: Turkish
 lang: tr
 image: none
 image2: none
-imagecredit:
-imagecredit2:
+imagecredit: 
+imagecredit2: 
 origaudio: |
   <div>
     <iframe
@@ -66,7 +66,7 @@ translaudio: |
   </div>
 edition: '2022'
 pagetype: submission
-wrapformat:
+wrapformat: 
 order: '14'
 layout: poempage
 collection: poems_2022
