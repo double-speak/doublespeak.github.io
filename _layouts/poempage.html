@@ -147,6 +147,18 @@ layout: default
     </div>
 
   {% else %}
+    {% if page.nonote == "True" %}
+         <div class="nextlink">
+            <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
+          </div>
+
+        <div class="nextmobile">
+
+          <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+
+        </div>
+
+    {% else %}
     <div class="nextlink">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}">next &nbsp; ></a></p>
     </div>
@@ -156,6 +168,7 @@ layout: default
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
 
     </div>
+    {% endif %}
 {% endif %}
   
 </body>
