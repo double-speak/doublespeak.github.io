@@ -2,7 +2,7 @@
 pid: Norwegian
 name: Norwegian
 type: language
-order: '23'
+order: '27'
 layout: tagpage
 collection: language_tags
 ---

@@ -2,7 +2,7 @@
 pid: Portuguese
 name: Portuguese
 type: language
-order: '27'
+order: '31'
 layout: tagpage
 collection: language_tags
 ---

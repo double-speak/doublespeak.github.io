@@ -2,7 +2,7 @@
 pid: Sanskrit
 name: Sanskrit
 type: language
-order: '29'
+order: '33'
 layout: tagpage
 collection: language_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Latin
-name: Latin
+pid: Bahasa_indonesia
+name: Bahasa Indonesia
 type: language
-order: '23'
+order: '02'
 layout: tagpage
 collection: language_tags
 ---

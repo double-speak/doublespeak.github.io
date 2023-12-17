@@ -2,7 +2,7 @@
 pid: Italian
 name: Italian
 type: language
-order: '16'
+order: '18'
 layout: tagpage
 collection: language_tags
 ---

@@ -1,11 +1,13 @@
 pid,name,type
 Ancient_Greek,Ancient Greek,language
 Arabic,Arabic,language
+Bahasa_indonesia,Bahasa Indonesia,language
 Bosnian,Bosnian,language
 Bulgarian,Bulgarian,language
 Chinese,Chinese,language
 Czech,Czech,language
 Esperanto,Esperanto,language
+Dutch,Dutch,language
 Farsi,Farsi,language
 French,French,language
 Friulian,Friulian,language
@@ -17,9 +19,11 @@ Hindi,Hindi,language
 Hungarian,Hungarian,language
 Italian,Italian,language
 Japanese,Japanese,language
+Kannada,Kannada,language
 Kashmiri,Kashmiri,language
 Korean,Korean,language
 Latin,Latin,language
+Lithuanian,Lithuanian,language
 Mandarin,Mandarin,language
 Middle_English,Middle English,language
 Norwegian,Norwegian,language

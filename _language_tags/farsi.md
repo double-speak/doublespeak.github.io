@@ -2,7 +2,7 @@
 pid: Farsi
 name: Farsi
 type: language
-order: '07'
+order: '09'
 layout: tagpage
 collection: language_tags
 ---

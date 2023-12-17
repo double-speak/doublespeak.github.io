@@ -1,8 +1,8 @@
 ---
-pid: Latin
-name: Latin
+pid: Lithuanian
+name: Lithuanian
 type: language
-order: '23'
+order: '24'
 layout: tagpage
 collection: language_tags
 ---

@@ -2,7 +2,7 @@
 pid: German
 name: German
 type: language
-order: '10'
+order: '12'
 layout: tagpage
 collection: language_tags
 ---

@@ -2,7 +2,7 @@
 pid: Greek
 name: Greek
 type: language
-order: '12'
+order: '14'
 layout: tagpage
 collection: language_tags
 ---

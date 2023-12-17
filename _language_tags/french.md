@@ -2,7 +2,7 @@
 pid: French
 name: French
 type: language
-order: '08'
+order: '10'
 layout: tagpage
 collection: language_tags
 ---

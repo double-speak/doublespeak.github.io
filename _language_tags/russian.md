@@ -2,7 +2,7 @@
 pid: Russian
 name: Russian
 type: language
-order: '28'
+order: '32'
 layout: tagpage
 collection: language_tags
 ---

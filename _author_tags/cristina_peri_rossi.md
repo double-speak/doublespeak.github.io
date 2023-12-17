@@ -1,6 +1,6 @@
 ---
-pid: Christina_Perri_Rossi
-name: Christina Perri Rossi
+pid: Cristina_Peri_Rossi
+name: Cristina Peri Rossi
 type: author
 order: '025'
 layout: tagpage

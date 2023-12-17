@@ -1,5 +1,5 @@
 ---
-pid: Benjamin_McAvoy-Bickford
+pid: Benjamin_McAvoy_Bickford
 name: Benjamin McAvoy-Bickford
 type: translator
 order: '166'

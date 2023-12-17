@@ -2,7 +2,7 @@
 pid: Mandarin
 name: Mandarin
 type: language
-order: '21'
+order: '25'
 layout: tagpage
 collection: language_tags
 ---

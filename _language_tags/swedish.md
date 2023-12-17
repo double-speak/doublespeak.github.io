@@ -2,7 +2,7 @@
 pid: Swedish
 name: Swedish
 type: language
-order: '32'
+order: '36'
 layout: tagpage
 collection: language_tags
 ---

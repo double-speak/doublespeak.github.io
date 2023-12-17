@@ -2,7 +2,7 @@
 pid: Hindi
 name: Hindi
 type: language
-order: '14'
+order: '16'
 layout: tagpage
 collection: language_tags
 ---

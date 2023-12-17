@@ -2,7 +2,7 @@
 pid: Hungarian
 name: Hungarian
 type: language
-order: '15'
+order: '17'
 layout: tagpage
 collection: language_tags
 ---

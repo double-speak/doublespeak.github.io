@@ -2,7 +2,7 @@
 pid: Polish
 name: Polish
 type: language
-order: '26'
+order: '30'
 layout: tagpage
 collection: language_tags
 ---

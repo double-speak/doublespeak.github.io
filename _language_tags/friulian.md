@@ -2,7 +2,7 @@
 pid: Friulian
 name: Friulian
 type: language
-order: '09'
+order: '11'
 layout: tagpage
 collection: language_tags
 ---

@@ -2,7 +2,7 @@
 pid: Hebrew
 name: Hebrew
 type: language
-order: '13'
+order: '15'
 layout: tagpage
 collection: language_tags
 ---

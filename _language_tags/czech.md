@@ -2,7 +2,7 @@
 pid: Czech
 name: Czech
 type: language
-order: '05'
+order: '06'
 layout: tagpage
 collection: language_tags
 ---
