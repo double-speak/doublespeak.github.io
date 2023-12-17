@@ -3,6 +3,370 @@ layout: none
 ---
 [
   {
+    "pid": "cobweb-clues-counting",
+    "title": "蛛丝迹：数",
+    "transtitle": "Cobweb Clues: Counting",
+    "author": "Jiemin Liu (刘洁岷)",
+    "translator": "Yi Feng",
+    "poem": "我在平原上数影子的数目\n记起一个细节的代价是\n忘掉更多的轮廓\n\n高速公路上，车流嘈杂地穿梭\n中国的农村已飘逝而去\n\n2013.3",
+    "transpoem": "On the plain I counted the number of shadows\nThe cost of remembering one detail is to\nforget more contours\n\nOn the highway, the traffic was noisily shuttling\nRural China was flowing away\n\nMarch, 2013",
+    "language": "Chinese",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/cobweb-clues-counting",
+    "lunr_id": 0
+  },
+  {
+    "pid": "to-read-in-case-of-snow",
+    "title": "Te Lezen bij Sneeuw",
+    "transtitle": "To Read in Case of Snow",
+    "author": "Esther Jansma\n",
+    "translator": "C.H. Henry",
+    "poem": "Een paar hoeken om en je staat in de stilte\nop een bodem, tussen oude muren, lagen metselwerkin\nzomaar een winter. Uit de tijd gestapt.\n\nHet vriest. Kinderen — theemutsjes op lompe beentjes — \nrapen takken en sneeuw van de grond net zoals\nzij eeuwen geleden deden tussen de stenen\n\nhet gemetselde lapwerk in het zwijgen van het hof \nwaar als je goed luistert ijle stemmen misschien\nde flarden van iets mateloos naar het heden zingen.\n\nDat is nu, vandaag. Het schemert al. De kinderen \nspelen zoals ze spelen, omringd door tijd\nwaar jij niet bent. Jij kijkt naar hun herinneringen.",
+    "transpoem": "Turn a couple corners and you stand in the silence \non the ground, between old walls, layers of masonry \nin just any winter. You stepped out of time. \n\nIt is freezing. Children — tea cozies on clumsy legs — \npick up branches and snow from the ground just\nlike they did ages ago between the stones \n\nthe masonry patchwork in the hush of the court\nwhere if you listen carefully, airy voices perhaps\nsing the fragments of something measureless to the present. \n\nThat is now, today. It is already growing dark. The children \nplay as they play, surrounded by time\nwhere you are not. You look at their memories. ",
+    "language": "Dutch",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/to-read-in-case-of-snow",
+    "lunr_id": 1
+  },
+  {
+    "pid": "der-erlkonig",
+    "title": "Der Erlkönig",
+    "transtitle": "The Elm-King",
+    "author": "Johann Wolfgang von Goethe",
+    "translator": "Benjamin McAvoy-Bickford",
+    "poem": "Wer reitet so spät durch Nacht und Wind?\nEs ist der Vater mit seinem Kind:\nEr hat den Knaben wohl in dem Arm,\nEr fasst ihn sicher, er hält ihn warm.\n\n»Mein Sohn, was birgst du so bang dein Gesicht?«\n»Siehst, Vater, du den Erlkönig nicht?\nDen Erlenkönig mit Kron’ und Schweif?«\n»Mein Sohn, es ist ein Nebelstreif.«\n\n»Du liebes Kind, komm, geh mit mir!\nGar schöne Spiele spiel’ ich mit dir;\nManch’ bunte Blumen sind an dem Strand,\nMeine Mutter hat manch gülden Gewand.«\n\n»Mein Vater, mein Vater, und hörest du nicht,\nWas Erlenkönig mir leise verspricht?«\n»Sei ruhig, bleibe ruhig, mein Kind:\nIn dürren Blättern säuselt der Wind.«\n\n»Willst, feiner Knabe, du mit mir gehn?\nMeine Töchter sollen dich warten schön;\nMeine Töchter führen den nächtlichen Reihn\nUnd wiegen und tanzen und singen dich ein.«\n\n»Mein Vater, mein Vater, und siehst du nicht dort\nErlkönigs Töchter am düstern Ort?«\n»Mein Sohn, mein Sohn, ich seh es genau:\nEs scheinen die alten Weiden so grau.«\n\n»Ich liebe dich, mich reizt deine schöne Gestalt;\nUnd bist du nicht willig, so brauch ich Gewalt.«\n»Mein Vater, mein Vater, jetzt fasst er mich an!\nErlkönig hat mir ein Leids getan!«\n\nDem Vater grauset’s, er reitet geschwind,\nEr hält in Armen das ächzende Kind,\nErreicht den Hof mit Mühe und Not:\nIn seinen Armen das Kind war tot.",
+    "transpoem": "Who rides so late through night and wind?\nThe father with his lad: \nHe has the young one in his arms,\nHe keeps him safe, well-clad.\n\n“My son, what brings your look to fear?”\n“You can’t see the Elm-King?\nThe Elm-King with his crown and tail?”\n“My son, the mists just sing.”\n\n“Beloved lad, come, go with me!\nThe games we’ll nicely play;\nSo many flowers on my shore,\nAnd mother’s gold array.”\n\n“My father, father, don’t you hear,\nThe Elm-King’s quiet deals?”\n“Be calm, stay calm, my lad: it’s just\nDry leaves the wind reveals.”\n\n“You want, young sir, to go with me?\nMy daughters wait there nigh;\nMy daughters lead the nightly waltz,\nAnd dance a lullaby.”\n\n“My father, father, don’t you see,\nHis daughters’ dark display?”\n“My son, my son, well can I see,\nSome willows old and gray.”\n\n“I love your figure, teasing me,\nYou’ll see how I am strong.”\n“My father, father, feel his touch!\nThe Elm-King does me wrong!”\n\nThe father, dreading, swiftly rides,\nHe holds his groaning son,\nAt last in need he reaches home:\nHis child’s life is done.\n",
+    "language": "German",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/der-erlkonig",
+    "lunr_id": 2
+  },
+  {
+    "pid": "music",
+    "title": "La Musique",
+    "transtitle": "Music",
+    "author": "Marie Krysińska",
+    "translator": "Samantha Pious",
+    "poem": "C’est une Muse parfois voilée\nDe chastes voiles d’argent\nDont la frissonnante âme ailée\nComme une rosée dans les cœurs se répand.\n\nQuand elle chante inspirée\nLa face levée vers les cieux\nLa norme est abolie, le présent effacé,\nLes temps ressuscitent prestigeux.\n\nA son ordre se dressent les fantômes pâlis\nDes belles danseuses de Pavanes,\nEt les Menuets de jadis\nOù saluent de gracieuses dames.\n\nElle est la voix des orgues funéraires\nVantant les Morts héroïsés\nEt la Pleureuse baignée de pleurs austères\nPar qui notre douleur est apaisée.\n\nElle est l’envol de joie et le cri de tendresse,\nL’Alouette aux ailes ouvertes près des nues ;\nMiroir divin où se mire notre tristesse,\nVase d’or où toute larme en perle se transmue.\n\n<em>Intermèdes</em>, 1903.\n\n<h1>Sonate</h1>\n<h2>Prelude</h2>\n\n<div style=\"text-align: center\">\n\nLes douces lampes veillent\nSur le frissonant calme des tentures\nEt les coussins profonds comme l’oubli\nSe font complices de notre langueur.\n\nQuel charme dans la muette sérénade\nDes guitares frôlées par nos cœurs émus\nSous les balcons des Exstases !\n\nEt ces baisers tristes à force de tendresse\nSont comme les humides pétales des nénuphares\nS’évanouissant\nSur l’inextinguible soif de nos âmes —\nAccourues au rendez-vous\nDe ces baisers tristes à force de tendresse, —\n\nNe commettons pas la faute\nDe ravir l’amoureuse proie\nAu Sphinx adorable des minutes futures.\n\nVois le gracieux Léthé de lumière\nCaresser la soie des tentures.\n\n<em>(Rinforzando)</em>\n\nInvincible l’étreinte\nEt plus sonores les arpèges aux Harpes\nQui sommeillaient\nDans le frissonnant calme des tentures.\n\nDe quelles invisibles cassolettes\nMonte ce parfum de pourpres roses ?\nEt la hantise inquiète des œillets roses?...\n.    .    .    .    .    .    .    .    .    .    .    .    .    .\nLe Rêve conquérant\nA soumis nos rebelles vouloirs.\n\n<em>(Fugue)</em>\n\nOrs fulgurants des torches,\nChevelures ardentes des célestes Monstres,\nFlammes d’azur, flammes violettes\nEt rouges flammes des bûchers ;\nCimballums stridents et grondants orgues\nUnissent l’héroïque éclat de leurs accords\nAux larges pleurs des violoncelles.\n\nTandis que d’un fabuleux firmament\nTombent en avalanche\nDe grands lys odorants aux cœurs jaunes\nAu milieu de tons mauves suaves jusqu’aux larmes\nEt de lilas évanouis.\n\n<em>(Dolce rittard.)</em>\n\nN’est-ce point l’instant\nImmortel ?\nEt les âpres portes\nDu Réel\nVont-elles se rouvrir\nEncore ?\n\nCette demi-mort\nQue n’est-elle\nLa grande, l’auguste Mort\nSi belle !\n\n\n2 avril 1890.\n<em>Rythmes pittoresques</em>, 1890.\n\n</div>",
+    "transpoem": "is a Muse, sometimes veiled\nin silver, chaste and true,\nwhose winged soul, trembling, \nspreads in our hearts like drops of morning dew.\n\nWhen, inspired, she sings\n— her face raised toward the skies —\nnorms are abolished, the present day destroyed,\nthe times revitalized. \n\nAt her command arise the faded ghosts\nof Pavane dancers, beautiful and stately,\nand Minuets of long ago\nin praise of many a noble lady.\n\nShe is the voice of funeral organs\nboasting the heroic Dead\nthe Mourner bathed in solemn tears\nthrough which our pain is quieted.\n\nShe is the flight of joy, the cry of tenderness,\nthe Lark that spreads its wings above the world,\na looking glass where sadness looks upon itself,\na golden vase where every tear becomes a pearl.\n\n<em>Interlude</em>, 1903.\n\n<h1>Sonata</h1>\n<h2>Prelude</h2>\n<div style=\"text-align: center\">\nThe soft lamps watch\nover the quivering calm of the drapes\nand the cushions, as deep as forgetfulness,\nbecome complicit in our languor.  \n\nHow charming is the silent serenade\nof guitar strings swept by our hearts, which are stirred\nbelow the balconies of Ecstasies!\n\nThese kisses, sorrowful in their tenderness,\nare like the glistening petals of waterlilies\nthat start to fade\nin our souls’ unslakable thirst—\nhastening to the meeting-place\nof these kisses, sorrowful in their tenderness—\n\nLet us not commit the sin\nof ravishing the amorous prey\nfrom the lovely Sphinx of the minutes yet to come.\n\nSee, the graceful Lethe of light\nis caressing the silken drapes.\n</div>\n<em>(Rinforzando)</em>\n<div style=\"text-align: center\">\nUnbreakable the embrace\nand more resonant the arpeggios of the Harps\nthat slept\nin the quivering calm of the drapes.\n\nFrom what invisible cassolettes\ndoes this scent of purple roses emanate?\nAnd the pink carnations’ unquiet dread …?\n\n.    .    .    .    .    .    .    .    .    .    .    .    .    .   .\n\nConquering Dreams\nhave subdued our rebellious desires.\n</div>\n\n<em>(Fugue)</em>\n\n<div style=\"text-align: center\">\nGlowing gold of torches,\nfiery manes of heavenly Monsters,\nflames of azure, violet flames,\nscarlet blazing at the stake;\nthe strident cimbalom and the organ’s roar\nunite the heroic burst of their chords\nwith the cellos’ cries.\n\nWhile from a fantastic firmament\nan avalanche falls—\ngreat fragrant lilies with yellow hearts\namid soft mauve tones that move to tears\nand faded lilacs.\n</div>\n\n<em>(Dolce rittard.)</em>\n\n<div style=\"text-align: center\">\nIs this not the moment of\nImmortality?\nAnd the bitter gates\nof Reality—\nwill they unbolt themselves\nonce more?\n\nThis little death—\nif it only were\nthe great, majestic Death\nso beautiful!\n</div>\n\n2 April 1890.                        <em>Picturesque rhythms</em>, 1890.",
+    "language": "French",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/music",
+    "lunr_id": 3
+  },
+  {
+    "pid": "to-sell-milk-in-brindavana",
+    "title": "ಬೃಂದಾವನಕೆ ಹಾಲನು ಮಾರಲು",
+    "transtitle": "To Sell Milk in Brindavana",
+    "author": "Kuppali Venkatappa Puttappa",
+    "translator": "Nesara Shree",
+    "poem": "ಬೃಂದಾವನಕೆ ಹಾಲನು ಮಾರಲು\nಹೋಗುವ ಬಾರೆ ಬೇಗ ಸಖಿ\nಬೃಂದಾವನದಿ ಹಾಲನು ಕೊಳ್ಳುವ\nಅರಿಹರೇ ಹೇಳ್ ಇಂಧುಮುಖಿ? \n\nಗೋವನು ಕಾಯುವ ಗೋವಿಂದನಿಹನೆ,\nಹಾಲನು ಕೊಳ್ಳುವ ಕೇಳೆ ಸಖಿ\nಚಿನ್ನವ ಕೊಡನೆ, ರನ್ನವ ಕೊಡನೆ,\nತನ್ನನೆ ಕೊಡುವನು ಬಾರೆ ಸಖಿ\n\nಕಣ್ಣನು ಮೋಹಿಪ ಪೀತಾಂಬರವನು\nಬಣ್ಣದ ಬಳೆಗಳ ದರಿಸು ಸಖಿ\n​ಚಿನ್ನವ ಮೋಹಿಸುವೆಡೆಯನು ಹಾರವ ಸಿಂಗರಿಸಲೇ ​ಹೇ​ಳೆ ನಳಿನಮುಖಿ!\n\nಯಮುನಾ ತೀರದಲಿ ಅಲೆಯುವ ಬಾರೆ,\nಹಾಲು ಬೇಕೆ ಹಾಲು ಎಂದು ಸಖಿ\nಹಾಲನು ಮಾರುವ ನೆಪದಿಂದ ಹರಿಯಾ\nಮೋಹಿಸಿ ಕರೆಯುವ ಬಾರೆ ಸಖಿ\n\nಹಾಲ ನಿವೇದಿಸಿ ಆತ್ಮವ ಅರ್ಪಿಸಿ,\nಮುಕ್ತಿಯ ಹೊಂದುವ ಸೌಮ್ಯಮುಖಿ\nಹಾಲನು ಮಾರಿ ಹರಿಯನು ಕೊಳ್ಳುವ\nನಾವೇ ಧನ್ಯರು ಕಮಲಮುಖಿ\n\nನಮ್ಮೀ ಲಾಭವ ಮೀರುವ ಲಾಭವು\nಬೇರೇನಿಹುದೆ ಇಂದುಮುಖಿ?\nಬೃಂದಾವನಕೆ ಹಾಲನು ಮಾರಲು,\nಹೋಗುವ ಬಾರೆ ಬೇಗ ಸಖಿ, ಹೋಗುವ ಬಾರೆ ಬೇಗ ಸಖಿ\n\n\nBrindavanake halanu maralu \nHoguva bare bega sakhi \nBrindavanadi halanu kolluva \nArihare hel indhumukhi? \n\nGovanu kayuva govindanihane? \nHalanu kolluva hele sakhi \nChinnava kodane rannava kodane \nTannane koduvanu bare sakhi\n\nKannanu mohipa peetambaravanu \nBannada balegala darisu sakhi \nChennava mohisuvedeyanu haravu \nSingarisale he nalinamukhi!\n\nYamuna teerada aleyuva bare \nHalu beke halendu sakhi \nHalanu maruvu nevadinda hariya \nMohisi kareyuva bare sakhi \n\nHalanivedisi atmavanarpisi \nMuktiya honduva soumyamukhi \nHalanu mari hariyanu kolluva \nNaave dhanyaru kamalmukhi\n\nNammee labhava meeruva labhavu \nBerinnihude indhumukhi? \nBrindavanake halanu maralu \nHoguva bare bega sakhi \n",
+    "transpoem": "Let’s go to Brindavana, to sell milk. \nCome fast, hurry, my friend. \nAren’t you aware, moon-faced one, \nof who waits to buy milk in Brindavana? \n\nGovinda, who minds the cows \nIs it not he who buys milk? \nIn exchange, he gives no gold, no milky pearls he gives only himself. \nSo come, my friend. \n\nSport your colorful bangles, wear your golden allure \nBeautify yourself, doe-eyed one! \nThe charmer, decked in silken finery, awaits. \n\nLet’s roam the banks of the Yamuna, \nSinging out, ‘Milk anyone, milk?’ \nSelling milk is just a ruse; we’ll meet our God. \nFrom our hearts, we’ll call out to him, \nmy friend. \n\nLet’s give him the milk, and offer him our souls. We go seeking liberation, gentle one. \nHow fortunate we are, to sell milk \nand get Hari in return! \nWe submit to him, the lotus-eyed. \n\nTell me — what other profit\ncould be greater than our profit \nfrom encountering Hari, my friend? \n\nLet’s return to the garden \non the banks of the Yamuna to sell milk. With it, our devotion, just as pure. \nCome fast, hurry, my friend.",
+    "language": "Kannada",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/to-sell-milk-in-brindavana",
+    "lunr_id": 4
+  },
+  {
+    "pid": "sin-titulo",
+    "title": "Sin título",
+    "transtitle": "Without a title",
+    "author": "Rosalía de Castro",
+    "translator": "James Mesiti",
+    "poem": "Una sombra tristísima, indefinible y vaga\nComo lo incierto, siempre ante mis ojos va\nTras de otra vaga sombra que sin cesar la huye,\nCorriendo sin cesar.\nIgnoro su destino…mas no sé por qué temp\nal ver su ansia mortal,\nque ni han de parar nunca, ni encontrarse jamás.",
+    "transpoem": "A melancholic and indefinable shadow, blurry\nlike all that is uncertain, before my eyes always follows\nanother blurry shadow that without rest tries to escape,\nrunning restlessly.\nIts destiny I ignore… but I am not sure why I am scared \nupon seeing such mortal longing\nas they must never stop, nor ever meet.",
+    "language": "Spanish",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/sin-titulo",
+    "lunr_id": 5
+  },
+  {
+    "pid": "palik-tik-daina-man",
+    "title": "Palik Tik Dainą Man",
+    "transtitle": "Leave Me Only A Song",
+    "author": "Paulius Širvys",
+    "translator": "Ash Maria",
+    "poem": "Girdėjau tavo atdūsį\nKaip dainą iš toli. \nDaireis, kažką praradusi\nBaltam dienų kely.\nŠaukiau tave — neatmeni.\nNeatmeni — nereik.\nApeik mane kaip akmenį,\nKaip mirusį apeik.\nIr eik tu sau, kaip einama\nMylėti pirmąsyk. \nPalik, palik tik dainą man,\nTik ilgesį palik.",
+    "transpoem": "I heard how you breathe \nAs though a song far out. \nYou looked around for something bereaved\nOn the days’ white route. \n\nI called out to you… no recollection.\nRecollect you… don’t need to. \nPass me — a stone’s reflection, \nAs if dead, pass me through. \n\nAnd go the way, in which you belong\nTo experience love on its eve.\nLeave, leave me only a song, \nOnly the longing I want you to leave.",
+    "language": "Lithuanian",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/palik-tik-daina-man",
+    "lunr_id": 6
+  },
+  {
+    "pid": "house-house",
+    "title": "Дом дом",
+    "transtitle": "House house",
+    "author": "Valeriya Krutova",
+    "translator": "Ryan Hardy",
+    "poem": "Вокруг нас дом-деревянные полы. Поля за деревянными окнами. Сквозь треснувшие стёкла пытаюсь увидеть точку, где они заканчиваются. Мы — точка, где они начинаются. Но нас окружил дом. Деревянные ставни. Дом. Деревянная мебель. Дом. \n\nДеревянные чувства, поступки, движения.\n\nЯ держусь за живот. Деревянный от нахлынувших чувств. Нет точки, где бы они закончились. Они нарастают с каждым прикосновением. Ты говоришь это дом моего отца, гладишь плечо. И мне холодно. Сквозняк. Спиной я чувствую твой шершавый подбородок поднимись выше — неудобно стоять на полусогнутых. Твои колени, как наш дом, — деревянные.\n\nМежду нами дом. Дом-мир. Дом-вечность. И нет точки, где бы он закончился.\n\nСтарая крепкая мебель. Запах вокруг — запах дома. Так пахнет дерево перед тем, как его срубят. Деревьев не существовало 90% времени существования планеты. Тебя не существовало 90% времени моего существования.\n\nДом дом не защитит нас от вечности, от скорости света, от угрозы расставания. Дом слишком деревянный, и он принадлежал твоему отцу. Отец — бывший военный. Деревянным шагом он входил в дом, теплее не становилось. Становилось страшнее. Поэтому наши прикосновения здесь — саботаж памяти, они — вопреки деревянной отцовской любви. Ты целуешь меня назло. А я пытаюсь сохраниться на этом уровне, чтобы сердце не откатилось назад.\n\nДом дом нас окружает, стискивает, ты чувствуешь это и крепче прижимаешься губами к затылку, тянешь волосы книзу, чтобы поцеловать макушку. Макушкой я буду трогать небо, потом целую вечность, показывая ей твой поцелуй. Макушкой я достану до крыши деревянного дома, возможно, пробью его и полечу в космос. Там — та же пустота без тебя и нашего будущего дома. Там — та же тишина. Отсутствие воздуха поглощает 100% звуков. Твоё отсутствие поглощает 100% моей жизни. Я — вечность и пустота. Листаю комнаты не нашего дома дома — свайп вверх до самого начала — и трогаю дерево, чтобы вогнать в себя побольше заноз.\n\nЭтот дом дом — сон сон. Есть ты и твой запах, остальное заблюрено. И поле есть. Горизонт завален.",
+    "transpoem": "All around us, there’s a house of wooden floors. There are fields behind the wooden windows. Through the cracked glass, I try to see the point where they end. We’re the point where they start. But the house surrounded us. Wooden shutters. The house. Wooden furniture. The house. \n\nWooden feelings, happenings, motions.\n\nI hold my stomach. It’s wooden from the feelings having washed in. There isn’t a point where they might end. They swell with every touch. You say it’s my father’s house, stroke my shoulder. And I’m cold. A draft. I feel your rough chin run higher up my spine… isn’t it uncomfortable to stand with knees half-bent? Your knees, \nlike our house, are wooden.\n\nBetween us, there is the house. A house like the world. A house like eternity. And there isn’t a point where it ends.\n\nOld, study furniture. The smell is all around, the smell of the house… how wood smells before it’s cut. Trees haven’t existed for 90% of the planet’s existence. You haven’t existed \nfor 90% of mine.\n\nThe house house doesn’t protect us from eternity, from the speed of light, from the threat of parting. The house is too wooden and it belonged to your father. Your father — a former soldier. He came into the house with his wooden steps. It didn’t get any warmer. It got more frightening. That’s why our touching is a sabotage of memory. It’s in spite of the wooden fatherly love. You kiss me in spite. And I try to stay level, so my heart \ndoesn’t recoil.\n\nThe house house surrounds us, squeezes us. You feel it and press your lips tighter to the nape of my neck, pull my hair down to kiss the top of my head. With the top of my head I’ll touch the sky, then kiss eternity, showing it your kiss. With the top of my head, I’ll reach the roof of the wooden house, maybe break through it, and fly into the cosmos. There, it’s that same emptiness without you and our future home. There, it’s that same silence. Air’s absence swallows 100% of sound. Your absence swallows 100% of my life. I am eternity and emptiness. I leaf through the rooms of the house, not our house, swipe up to the very beginning, and touch the wood to force in more \nsplinters.\n\nThis home home, it’s a dream dream. There’s you and your smell… the rest is blurry. And there’s the field. The horizon is overflowing.",
+    "language": "Russian",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/house-house",
+    "lunr_id": 7
+  },
+  {
+    "pid": "ghazal-97",
+    "title": "Gazel 97",
+    "transtitle": "Ghazal 97",
+    "author": "Mostarli Hasan Ziyâî",
+    "translator": "Denis Ferhatovic",
+    "poem": "Şâd ol ey sâim-i hicrân yine bayrâm gelür\nSalını salını ol serv-i hırâmân gelür\n‘Ahd ü peymândan iñen dönme iñen ey rakkâs\nDevrdür böyle bu kalmaz geçer eyyâm gelür\nGelse ger raks iderek bezme o hurşîd-i cihân\nTenüme cân irişür cânuma ârâm gelür\nMerhabâ eyleyesin ola ki devlet vire el\nEy kalan rûze-i gamda gör e bayrâm gelür\nEy Ziyâ’î niçe kırılmaya halk-ı ‘âlem\nÇünki ol piste-dehen gözleri bâdâm gelür",
+    "transpoem": "Be elated, you who fast in exile, for Eid once more arrives\nSwaying his hips, the flirtatious cypress arrives\nKeep your troth and pledge, do not renege, O dancer\nSeasons turn, this will pass, brand-new days will arrive \nIf he dances into our gathering, that cosmic sun\nTo my flesh the soul will return, to the soul solace arrives\nMy greetings to him: let good fortune extend her hand\nO you remaining in the era of sorrow, behold, Eid arrives\nO Ziyâî, may the folk of this world not overly pine\nFor he — pistachio-lipped, almond-eyed — arrives\n",
+    "language": "Turkish",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/ghazal-97",
+    "lunr_id": 8
+  },
+  {
+    "pid": "lost-and-found",
+    "title": "Lost and Found: Musing",
+    "transtitle": null,
+    "author": "Aiyana Nosizwe Mate",
+    "translator": null,
+    "poem": null,
+    "transpoem": null,
+    "language": null,
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/lost-and-found",
+    "lunr_id": 9
+  },
+  {
+    "pid": "for-kira",
+    "title": "За Киру",
+    "transtitle": "For Kira",
+    "author": "Alina Khaitlina",
+    "translator": "Yehudith Dashevsky",
+    "poem": "<em>23 квітня, у переддень Великодня російська \nракета влучила в житловий будинок в Одесі. \nВбито 8 людей, поранено 18.\nСеред загиблих — 3-місячна Кіра і її мати.</em>\n\n<em>23 апреля, в преддверии Пасхи,\nроссийская ракета попала в жилой дом в \nОдессе. Убито 8 людей, ранено 18. Среди \nпогибших 3х-месячная Кира и ее мама.</em>\n\nКак вы там говорите — скорей бы мира?\nКоляска через ступеньку летит по лестнице.\nДевочку из Одессы назвали Кира.\nКире было три месяца.\n\nВ три месяца начинают держать игрушку,\nУчатся переворачиваться на спинку.\nВ три месяца человек похож на зверушку —\nБелочку или свинку.\n\nУлыбается маме, уставшей от вечных стирок,\nНачинает другие лица вокруг учить.\nКирина мама погибла в Одессе с Кирой,\nТеперь никто не сумеет их разлучить.\n\nУ мамы на запястье старая фенечка,\nСказали, что защитит. Видно, обманули.\nУ Киры в приданом — купальник размера \"феечка,\"\nДолжна была примерить его в июле.\n\nКак они там \"а давай напишем им 'с пасхой вас,'\nСейчас докурю и ракетку им в тыл закину.\"\nЖители ада выйдут, боясь испачкаться,\nНа дверях напишут:\n\"За Киру.\"\n\n\n\n",
+    "transpoem": "<em>On the 23rd of April [2022], just before Easter, a Russian rocket hit a civilian residence in Odessa. Eight people were killed, eighteen wounded. Among the dead were 3-month old Kira and her mother. </em>\n\nWhat’s it called — let peace come quicker? \nThe step, the stairs, where a stroller flies over —\nIn Odessa, there was a girl\nwho was three months old. Her name was Kira. \n\nAt three months you might begin to teach her\nto hold a toy, to learn to turn on her back.\nAt three months a person looks like a squirrel,\nor a piglet — a small animal, a creature. \n\nShe smiles at her mom, who’s exhausted \nfrom infinite laundry. She’s solving the quandary \nof other faces around her, but she can’t separate\nfrom her mom now. Kira’s mom died in Odessa with Kira.\n\nOn the mom’s wrist was an old bauble, which they said \nwould protect her. That turned out to be a con. \nKira was about to inherit a fairy-sized swimsuit, \nwhich, in July, she was supposed to try on. \n\nSo they were like — “Let’s send them a ‘Happy Easter!’\nGonna finish this smoke and blow their brains out with a rocket.”\nThe dwellers of hell will crawl out, afraid to get stained, \nand write on the door:\n“For Kira.”",
+    "language": "Russian",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/for-kira",
+    "lunr_id": 10
+  },
+  {
+    "pid": "send-me-your-news-and-kisses-to-all",
+    "title": "Dammi tue notizie e un bacio a tutti",
+    "transtitle": "Send Me Your News and Kisses to All",
+    "author": "Valerio Grutt",
+    "translator": "Anna Aresi",
+    "poem": "Mi chiedo cos’hai visto\nquando non hai visto più niente\nquando per qualche secondo\nti hanno spento la luce degli occhi.\nFissavi un punto impossibile del soffitto\ne ti ho sentita andare via, camminare\nsul muro, stringere la mano a un altro bene.\nPoi sei tornata e non te n’eri accorta,\nhai chiesto: sono a terra? e hai guardato me.\nSì, eri a terra, eri la mia terra\nche tremava sotto ai piedi.\n                                                        \nE allora rispondi bene\na chi ti chiede come stai\ne non vede l’inferno che ti scuote\nnon ti vede andare via di spalle.\nCol tempo diventa tutto normale\ntu dici che l’universo conosce\nla strada più di te e che capita\na tanti e che c’è di peggio\nc’è sempre di peggio.\nMa una parte di pianto resta\ngonfia in mezzo al petto\nuna parte che si chiede perché\ncontinuamente e non si rassegna\nuna parte che segna il sorriso\nferita negli occhi, una cosa \nche porterai su di te come un marchio\nfino alla fine.\n                                                        \nTi ho vista entrare in ospedale\nDea svenutaa\ndi tutte le sigarette fumate\ne per mesi ho pensato\na quale sarebbe stata l’ultima parola\nche ti avrei detto, quindi finivo\nogni frase con ti amo.\nE oggi che il sole sembra\nnon farti più effetto\nspero almeno ci sia\nun sole più caldo di questo\nche ti aspetta da qualche parte\nnell’universo.\n                                              \nTi ho telefonato\ntutti i giorni per dieci anni\ne ora che il tuo telefono squilla a vuoto\ncome potrò chiamarti?\nFacendo scendere tutte le stelle\nnel mio ufficio\naprendo la porta\ndel punto più chiaro del giorno\ndove la tua voce è acqua\ndi ogni rubinetto, ogni fiume,\ne dice: Valerio svegliati\ncome quando mi addormentavo\nsul divano. Ora la tua voce\ncanta la canzone di Marinella\ntra il vento degli alberi\ne fa del mio cuore una marcia lenta.\n                                                        \nRideremo di questi giorni\ncon le mani celesti\nquando la testa ci esploderà\nd’amore per il segreto delle cose.",
+    "transpoem": "I wonder what you saw\nwhen you saw no more\nwhen for a few seconds\nthey turned off the lights in your eyes.\nYou stared at an impossible spot in the ceiling\nand I heard you leave, walk\non the wall, squeeze the hand of \nanother love.\nThen you returned and you hadn’t realized;\nam I on earth? you asked. And you looked at me.\nYes, you were on earth. You were my earth,\ntrembling under my feet.\n                                                     \nAnd so you reply well\nto those asking how are you\nthose who don’t see that hell is \nshaking you\ndo not see you leave behind their backs.\nOver time it all becomes normal\nyou say the universe knows the\nway better than you do and it happens\nto many and there is worse\nthere is always worse.\nBut a piece of sorrow remains\nswollen in the middle of the chest\na piece that continuously wonders \nwhy and does not subside \na piece that marks the smile\nwound in your eyes, something\nyou’ll take with you like a hallmark\ntill the end.\n\nI saw you enter the hospital\nfainted Goddess\nof all the cigarettes you smoked\nand for months I thought \nabout the last word\nI’d say to you, so I ended\nevery sentence with ti amo.\nAnd today when the sun seems\nto leave you indifferent\nI hope that at least\na sun warmer than this\nis waiting for you somewhere\nin the universe. \n\nI telephoned you\nevery day for ten years\nand now that your phone just rings out\nhow will I call you?\nMaking all the stars descend\ninto my office\nopening the door\nof the brightest point of day\nwhere your voice is water\nfrom every faucet, every river,\nand it says: Valerio wake up\nlike when I fall asleep\non the couch. Now your voice\nis singing the song of Marinella \namong the wind in the trees\nand turns my heart into a slow march.\n\nWe will laugh of these days,\nour hands azure,\nwhen our heads will explode\nout of love for the secret of things.",
+    "language": "Italian",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/send-me-your-news-and-kisses-to-all",
+    "lunr_id": 11
+  },
+  {
+    "pid": "sonnet",
+    "title": "Soneto",
+    "transtitle": "Sonnet",
+    "author": "Guillermo Blest Gana",
+    "translator": "Madison Weiss",
+    "poem": "Si a veces silencioso y pensativo\na tu lado me ves, querida mía,\nes porque hallo en tus ojos la armonía\nde un lenguaje tan dulce y expresivo.\nY eres tan mía entonces, que me privo\nhasta oír tu voz, porque creería\nque rompiendo el silencio, desunía\nmi ser del tuyo, cuando en tu alma vivo.\n¡Y estás tan bella; mi placer es tanto,\nes tan completo cuando así te miro;\nsiento en mi corazón tan dulce encanto,\nque me parece, a veces, que en ti admiro\nuna visión celeste, un sueño santo\nque va a desvanecerse si respiro!",
+    "transpoem": "If at times, thoughtful and silent\nby your side you do see me,\nit is because I discover in your eyes the harmony\nof a most tender and affectionate language.\nAnd you are so much mine, then, that I myself deprive\nof even hearing your voice, because I fear\nthat in breaking the silence, my dear,\nI split my being from yours, when in your soul I live.\nAnd you are so beautiful, my pleasure is so great,\nso complete when I look at you like this;\nI feel in my heart such sweet enchantment,\nthat it seems, at times, as if in you I admire\na heavenly vision, a holy dream\nthat will vanish if I so much as breathe!",
+    "language": "Spanish",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/sonnet",
+    "lunr_id": 12
+  },
+  {
+    "pid": "untitled-from-the-salad-anniversary-collection",
+    "title": "Untitled (From the サラダ記念日 Collection)",
+    "transtitle": "Untitled (from the Salad Anniversary Collection)",
+    "author": "Machi Tawara",
+    "translator": "<em>DoubleSpeak</em> Staff",
+    "poem": "<span lang=\"ja\">「寒いね」 と話しかければ 「寒いね」 と答える人のいるあたたかさ</span>\n\n<h2>translated into Asturian by Lucía Vázquez<h2>\n\nLa calidez\nDe poder dicir\n“Fai fríu, ¿nun te paez?”\nY escuchate dicir\n“Sí, fai fríu.”\n\n<h2>translated into Catalan by Lucía Vázquez<h2>\n\nLa calidesa\nDe poder dir\n“Fa fred, ¿no?”\nI escoltar-te dir\n“Sí, fa fred. “\n\n<h2>translated into Czech by Katherine Rozsypalek, Leo Wagner, and Ryan Hardy<h2>\n\nTeplo,\nkteré pochází od říkání \n„je chladno, že jo?”\nA slyšet tě říct\n„Jo, je chladno.”\n\n<h2>translated into Hindi by Sammy Mann<h2>\n\n<span lang=\"hi\">गर्मजोशी\nकहने में सक्षम होने के नाते\n“यह ठंडा है, है ना,”\nऔर तुम कहते सुनो\n“हाँ, यह ठंडा है।”</span>\n\n<h2>translated into Indonesian by Benjamin McAvoy-Bickford<h2>\n\n“Itu dingin, bukan?”\nAku bilang\n“Ya, itu dingin”\nKamu bilang\nKami panas karena itu\n\n<h2><translated into Latin by Benjamin McAvoy-Bickford<h2>\n\n“Nonne frigidus”\nDico\n“Est frigidus”\nDicis\nCalor est.",
+    "transpoem": "<h1>Untitled (From the Salad Anniversary Collection)</h1>\n<h2>translated into English by Stacy Shimanuki, Tsubasa Somasundaram Inada, and Chardonnay Needler</h2>\n\nThe warmth\nof being able to say\n“it’s cold, isn’t it,”\nand hear you say\n“yes, it’s cold.”\n\n<h2>translated into Farsi by Cameron Sabet</h2>\n\nگرمیِ‌ من \nکه بگویم \n“سرد است، مگر نه”\nو تو که بگویی\n“آری، سرد است.”\n\n<h2>translated into Galician by Lucía Vázquez</h2>\n\nA calidez\nDe poder dicir\n“Vai frío, non?”\nE escoitarche dicir\n“Si, vai frío.”\n\n<h2>translated into German by Benjamin McAvoy-Bickford and Ryan Hardy</h2>\n\nDie Wärme\nzu sagen können\n»es ist kalt, gell«\nUnd dich hören sagen\n»ja, es ist kalt.«\n\n<h2>translated into Punjabi by Sammy Mann</h2>\n\nਨਿੱਘ\nਕਹਿਣ ਦੇ ਯੋਗ ਹੋਣ ਦੇ\n“ਇਹ ਠੰਡਾ ਹੈ, ਹੈ ਨਾ,”\nਅਤੇ ਤੁਸੀਂ ਕਹਿੰਦੇ ਸੁਣੋ\n“ਹਾਂ, ਠੰਡ ਹੈ।”\n\n<h2>translated into Russian by Ryan Hardy and Leo Wagner</h2>\n\nТеплота\nот того, что можешь сказать:\n“холодно, не так ли”\nи слышать тебя сказать\n“да, холодно”.\n\n<h2>translated into Spanish by Ryan Hardy, Leo Wagner, Lucía Vázquez, Alison Yau, and Andrea Conde</h2>\n\nLa calidez\nDe poder decir\n“Hace frío, ¿no?”\nY escucharte decir\n“Sí, hace frío.”",
+    "language": "English",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/untitled-from-the-salad-anniversary-collection",
+    "lunr_id": 13
+  },
+  {
+    "pid": "i-want-to",
+    "title": "Aku Ingin",
+    "transtitle": "I Want To",
+    "author": "Sapardi Djoko Damono",
+    "translator": "Dian Febrianti",
+    "poem": "Aku ingin mencintaimu dengan sederhana: \ndengan kata yang tak sempat diucapkan kayu \nkepada api yang menjadikannya abu.\n\nAku ingin mencintaimu dengan sederhana: \ndengan isyarat yang tak sempat disampaikan awan\nkepada hujan yang menjadikannya tiada.",
+    "transpoem": "I want to love you in simplicity\nwith a word that the woods cannot say \nto the fire that turns it to ashes.\n\nI want to love you in simplicity\nwith a cue that the clouds cannot convey \nto the rain that turns it into nothing.",
+    "language": "Bahasa indonesia",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/i-want-to",
+    "lunr_id": 14
+  },
+  {
+    "pid": "dont-bother-the-earth-spirit",
+    "title": "Don't Bother the Earth Spirit",
+    "transtitle": "Don't Bother the Earth Spirit",
+    "author": "Joy Harjo",
+    "translator": "<em>DoubleSpeak</em> Staff",
+    "poem": "Don’t bother the earth spirit who lives here. She is working on a story. It is the oldest story in the world and it is delicate, changing. If she sees you watching she will invite you in for coffee, give you warm bread, and you will be obligated to stay and listen. But this is no ordinary story. You will have to endure earthquakes, lightning, the deaths of all those you love, the most blinding beauty. It’s a story so compelling you may never want to leave; this is how she traps you. See that stone finger over there? That is the only one who ever escaped.\n\n<h1>No molestes a l’esperit de la terra<h1>\n<h2>translated into Catalan by Lucía Vázquez<h2>\n\nNo molestes a l'esperit de la terra que viu aquí. Està treballant en una història. És la història més antiga del món, i és delicada, canviant. Si veu que l'observes, et convidarà a prendre un cafè, et donarà pa calent, i et veuràs estaràs obligat a quedar-te i escoltar. Però aquesta no és una història ordinària. Hauràs de sobreviure terratrèmols, llamps, les morts d'aquells als quals amaga, la bellesa més cegadora. És una història tan irresistible que pot que mai vulguis marxar; així és com ella t'atrapa. Veus aquí aquest dit de pedra? Aquest és l'únic que mai ha escapat.\n\n<h1>Non molestes ao espírito da terra<h1>\n<h2>translated into Galician by Lucía Vázquez<h2>\n\nNon molestes ao espírito da terra que vive aquí. Está a traballar nunha historia. É a historia máis antiga do mundo, e é delicada, cambiante. Se ve que a observas, convidarache a tomar un café, darache pan quente, e verasche estarás obrigado a quedarche e escoitar. Pero esta non é unha historia ordinaria. Terás que sobrevivir terremotos, lóstregos, as mortes daqueles aos que amas, a beleza máis cegadora. É unha historia tan irresistible que poida que nunca queiras marcharche; así é como ela che atrapa. Ves aí ese dedo de pedra? Ese é o único que xamais escapou.\n\n<h1>地の霊を煩わさないように<h1>\n<h2>translated into Japanese by Stacy Shimanuki, Tsubasa Somasundaram Inada, and Chardonnay Needler<h2>\n\nここに住む地の霊を煩わさないように。 物語を作っているから。 世界で最も古い話で、繊細で、いつも変わっている。 彼女と目が会ったら、家の中に誘われて、コーヒーと温かいパンを出してもらって、そこで彼女の話を聞かないといけなくなる。 でも、普通の話じゃない。 地震や雷、愛するすべての人が死ぬという、目をくらますような美しさに耐えなければならない。 話に魅了されて、一生帰りたくなくなるかも、彼女はそうやって罠をかける。 あそこの石になった指が見える？ここを抜け出せたのは、あいつだけなんだよ。\n\n<h1>不要打扰那位自然神灵<h1>\n<h2>translated into Simplified Chinese by Chardonnay Needler, Zijie “Harry” Zhu, Hannah Zhao, and Katherine Rozsypalek<h2>\n\n不要打扰住在这里的那位自然神灵。她在写故事。这是世界上最古老的故事，而它也很优雅，在改变。如果她看着你看着她，她会请你进入喝咖啡，给你吃温热面包，然后你有义务留下来倾听。但是这并不是平凡的故事。你需要忍地震，闪电，亲人的死亡，最刺眼的壮丽。这故事如此引人，甚至你可能永远离不开；这就是她困住你的方法。你看见那边那支石头的手指了吗？这是唯逃脱过的人。\n\n<h1>No molestes al espíritu de la tierra<h1>\n<h2>translated into Spanish by Ryan Hardy, Leo Wagner, Lucía Vázquez, Alison Yau, and Andrea Conde<h2>\n\nNo molestes al espíritu de la tierra que vive aquí. Está trabajando en una historia. La historia más antigua del mundo, delicada, cambiante. Si ve que la observas, te invitará a tomar un café, te dará pan caliente, y te verás obligado a quedarte y escuchar. Pero esta no es una historia ordinaria. Tendrás que sobrevivir terremotos, relámpagos, las muertes de aquellos a los que amas, la belleza más cegadora. Es una historia tan irresistible que puede que nunca quieras marcharte; así es cómo ella te atrapa. ¿Ves ahí ese dedo de piedra? Ese es el único que jamás ha escapado.\n",
+    "transpoem": "<h1>Nun fastidies al espíritu de la tierra</h1>\n<h2>translated into Asturian by Lucía Vázquez</h2>\n\nNun fastidies al espíritu de la tierra que vive equí. Ta trabayando n’una hestoria. Hestoria más antigua del mundu, y ye delicada, cambiante. Si ve que la repares, te va convidar a tomar un café, te va dar pan caliente, y te vas ver obligáu a quedate y escuchar. Pero esta nun ye una hestoria ordinaria. Vas tener que sobrevivir terremotos, turmenta, les muertes d’aquellos a los qu’ames, la guapura más cegadora. Ye una hestoria tan irresistible que pue que nunca quieras dirte; asina ye cómo ella te atrapa. ¿Ves ende esi deu de piedra? Ese ye l’únicu qu’enxamás escapó.\n\n<h1>Neruš zemní duše</h1>\n<h2>translated into Czech by Katherine Rozsypalek, Leo Wagner, and Ryan Hardy</h2>\n\nNeruš zemní duše, které zde bydlí. Ona pracuje na příběhu. Je to nejstarší příběh na světě a je to choulostivé, měnící se. Jestli tě ona uvidí že se na ni díváš, ona tě pozve dovnitř na kávu, dá ti teplý chléb, a budeš povinen zůstat a poslouchat. Ale toto není obyčejný příběh. Budeš muset vydržet zemětřesení, blesky, smrti všech, které miluješ, nejvíc oslepující krásu. Je to příběh tak přesvědčivý, že je možné že nebudeš nikdy chtít odejít; takhle tě ona zlape. Vidíš támhle ten kamenný prst? To je jediný, kdo kdy vyvázl. \n\n<h1>Ärger die Erdgeistin nicht</h1>\n<h2>translated into German by Benjamin McAvoy-Bickford and Ryan Hardy</h2>\n\nÄrger die Erdgeistin nicht, die hier wohnt. Sie arbeitet an einer Geschichte. Dass ist die älteste Geschichte der Welt und sie ist empfindlich, wechselnd. Wenn du guchts und sie dich sieht, wird sie dich für Kaffee einladen, dir warmes Brot geben, und dann musst du bleiben und anhören. Aber sie ist keine gewöhnliche Geschichte. Du wirst Erdbeben, Blitzschlagen, und die Todesfälle von aller die du liebst, die blendendste Schönheit, ertragen müssen. Es ist eine so unwiderstehliche Geschichte, dass du vielleicht nie gehen willst; es ist als ob sie dich einfängt. Siehst du dort den steinen Finger? Er ist der einzige, der jemals entfliehen ist.\n\n<h1>Noli turbare deam terrestrem<h1>\n<h2>translated into Latin by Benjamin McAvoy-Bickford</h2>\n\nNoli turbare deam terrestrem qui hic habitat. Narrationem operatur. Est narratio antiquissima orbem terrarum et commutans tenerque. Si te observantem videt te hospitaliter invitabit tibi panem caldum dabit tibique manendum et audiendum erit. Sed narratio haec non vulgata est. Tibi terraemotus fulgura mortes amatissimorum pulchritudinemque splendidissimam perpeti necesse erit. Narratio cogens est, ut numquam abire velis; te hac irretit. Digitumne illum lapidis vides? Unicus fugitus est.\n\n<h1>Не беспокойте Духа Земли<h1>\n<h2>translated into Russian by Ryan Hardy and Leo Wagner<h2>\n\nНе беспокойте Духа Земли, которая здесь живёт. Она работает над рассказом. Рассказ самый старый в мире и хрупкий, меняющийся. Если она тебя видит, смотря на ней, она приглашает тебя у себя за кофе, даёт тебя тёплый хлеб и будешь обязан остаться её послушать. А рассказ не такой необычный. Тебя нужно будет терпеть землетрясения, молния, смерти всех твоих любимых, самую ослепительную красоту. Это рассказ такой неотразимый, что возможно ты никогда не захочешь уходить. И так она тебя поймёт. Видишь вон тот каменный палец? Он единственный, который сбежал.\n\n",
+    "language": "English",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/dont-bother-the-earth-spirit",
+    "lunr_id": 15
+  },
+  {
+    "pid": "living-in-the-hills-impromptu-verses",
+    "title": "山居即事",
+    "transtitle": "Living in the Hills: Impromptu Verses",
+    "author": "Wang Wei (王維)",
+    "translator": "Yudi Xie",
+    "poem": "寂寞掩柴扉，蒼茫對落暉。\n鶴巢松樹遍，人訪蓽門稀。 \n綠竹含新粉，紅蓮落故衣。\n渡頭煙火起，處處採菱歸。 ",
+    "transpoem": "In solitude I silently closed \nThe brushwood lattice-gate, facing\nThe setting sun whose shine is as vast\nand boundless as this moment. \n\nAs the cranes have found themselves homes \nEverywhere\nin the pine trees,\nVisitors seldom come to my grass-woven door. \n\nBamboos of green are newly coated\nby a thin layer of powders, \nwhile the lotuses of red \nhave just peeled her old dress. \n\nSmoke and flames are looming out of the darkness\nfrom the ferry afar, \nenveloping the silhouettes of the ladies upon their return\nfrom harvesting water-chestnuts. \n",
+    "language": "Chinese",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/living-in-the-hills-impromptu-verses",
+    "lunr_id": 16
+  },
+  {
+    "pid": "ancient-i-am-dazed-by-the-voice",
+    "title": "Antico, sono ubriacato dalla voce",
+    "transtitle": "Ancient, I am dazed by the voice",
+    "author": "Eugenio Montale",
+    "translator": "Carla Rossi",
+    "poem": "Antico, sono ubriacato dalla voce\nch’esce dalle tue bocche quando si schiudono come verdi campane e si ributtano \nindietro e si disciolgono.\nLa casa delle mie estati lontane,\nt’era accanto, lo sai,\nlà nel paese dove il sole cuoce\ne annuvolano l’aria le zanzare.\nCome allora oggi la tua presenza impietro, mare, ma non più degno\nmi credo del solenne ammonimento\ndel tuo respiro. Tu m’hai detto primo che il piccino fermento\ndel mio cuore non era che un momento del tuo; che mi era in fondo\nla tua legge rischiosa: esser vasto e diverso e insieme fisso:\ne svuotarsi così d’ogni lordura\ncome tu fai che sbatti sulle sponde\ntra sugheri alghe asterie\nle inutili macerie del tuo abisso. ",
+    "transpoem": "Ancient, I am dazed by the voice\ncoming out of your mouths when they open up like green bells and throw themselves back\nagain, and melt.\nThe home of my remote summers\nwas by your side, you know that,\nwhere the sun is scorching\nand mosquitoes swarm in the air.\nNow, like then, I am stunned by your presence, sea, but I don’t believe that I’m worthy anymore \nof the solemn rebuke\nof your breath. You told me first\nthat the tiny turmoil\nof my heart was nothing but a moment of yours; that after all, to me,\nyour law was risky — being vast and diverse and still at the same time:\nand unburdening of any filth\nas you do when you slam on the shores among cork seaweed starfish\nthe useless debris of your abyss. ",
+    "language": "Italian",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/ancient-i-am-dazed-by-the-voice",
+    "lunr_id": 17
+  },
+  {
+    "pid": "undine-goes",
+    "title": "Undine Geht",
+    "transtitle": "Undine Goes",
+    "author": "Ingeborg Bachmann",
+    "translator": "Ailie Margot",
+    "poem": "Ihr Menschen! Ihr Ungeheuer!\n\nIhr Ungeheuer mit Namen Hans! Mit diesem Namen, den ich nie vergessen kann. \n\nImmer wenn ich durch die Lichtung kam und die Zweige sich öffneten, wenn die Ruten mir das Wasser von den Armen schlugen, die Blätter mir die Tropfen von den Haaren leckten, traf ich auf einen, der Hans hieß. \n\nJa, diese Logik habe ich gelernt, daß einer Hans heißen muß, daß ihr alle so heißt, einer wie der andere, aber doch nur einer. Immer einer nur ist es, der diesen Namen trägt, den ich nicht vergessen kann, und wenn ich euch auch alle vergesse, ganz und gar vergesse, wie ich euch ganz geliebt habe. Und wenn eure Küsse und euer Samen von den vielen großen Wassern — Regen, Flüssen, Meeren — längst abgewaschen und fortgeschwemmt sind, dann ist doch der Name noch da, der sich fortpflanzt unter Wasser, weil ich nicht aufhören kann, ihn zu rufen, Hans, Hans, …\n\nIhr Monstren mit den festen und unruhigen Händen, mit den kurzen blassen Nägeln, den zerschürften Nägeln mit schwarzen Rändern, den weißen Manschetten um die Handgelenke, den ausgefransten Pullovern, den uniformen grauen Anzügen, den groben Lederjacken und den losen Sommerhemden! Aber laßt mich genau sein, ihr Ungeheuer, und euch jetzt einmal verächtlich machen, denn ich werde nicht wiederkommen, euren Winken nicht mehr folgen, keiner Einladung zu einem Glas Wein, zu einer Reise, zu einem Theaterbesuch. Ich werde nie wiederkommen, nie wieder Ja sagen und Du und Ja. All diese Worte wird es nicht mehr geben, und ich sage euch vielleicht, warum. Denn ihr kennt doch die Fragen, und sie beginnen alle mit »Warum?«. Es gibt keine Fragen in meinem Leben. Ich liebe das Wasser, seine dichte Durchsichtigkeit, das Grün im Wasser und die sprachlosen Geschöpfe (und so sprachlos bin auch ich bald!), mein Haar unter ihnen, in ihm, dem gerechten Wasser, dem gleichgültigen Spiegel, der es mir verbietet, euch anders zu sehen. Die nasse Grenze zwischen mir und mir…\n\nIch habe keine Kinder von euch, weil ich keine Fragen gekannt habe, keine Forderung, keine Vorsicht, Absicht, keine Zukunft und nicht wußte, wie man Platz nimmt in einem anderen Leben. Ich habe keinen Unterhalt gebraucht, keine Beteuerung und Versicherung, nur Luft, Nachtluft, Küstenluft, Grenzluft, um immer wieder Atem holen zu können für neue Worte, neue Küsse, für ein unaufhörliches Geständnis: Ja. Ja. Wenn das Geständnis abgelegt war, war ich verurteilt zu lieben; wenn ich eines Tages freikam aus der Liebe, mußte ich zurück ins Wasser gehen, in dieses Element, in dem niemand sich ein Nest baut, sich ein Dach aufzieht über Balken, sich bedeckt mit einer Plane. Nirgendwo sein, nirgendwo bleiben. Tauchen, ruhen, sich ohne Aufwand von Kraft bewegen — und eines Tages sich besinnen, wieder auftauchen, durch eine Lichtung gehen, ihn sehen und »Hans« sagen. Mit dem Anfang beginnen.\n\n»Guten Abend.«\n»Guten Abend.«\n»Wie weit ist es zu dir?«\n»Weit ist es, weit.«\n»Und weit ist es zu mir.«",
+    "transpoem": "You humans! You monsters!\n\nYou monsters named Hans! To those of you with this name which I cannot forget.\n\nWhen I come through the clearing and the branches open, when the river reeds whisk the water from my arms, the leaves licking the droplets from my hair, I meet someone whose name is Hans. \n\nYes, I learned this logic which demands that one of them be named Hans, which you are called, each one of you just like the other, but actually only one. It’s always only one who bears this name which I cannot forget completely and totally as I have loved you. And when your kisses and seed have been long ago washed off and swept away by the many great waters–rains, rivers, oceans– the name is still here under water, breeding, because I cannot cease calling it out, Hans, Hans…\n\nYou monsters with the steady and easy hands, with the short, sallow nails, dirty with black at their rims, the white shirt cuffs around the wrists, the frayed sweatshirts, the uniformed grey suits, the coarse leather jackets and the oversized T-shirts! Let me be clear, you monsters, and say it just once, because I will not return, will no longer follow your beckoning, an invitation to a glass of wine, to a vacation, to a visit to the theater. I will never come back, never again say Yes and You and Yes. These words will never more be given, and I tell you perhaps why. Because you all know the questions, and they all begin with “why?” There are no questions in my life. I love the water, its thick transparency, its greeness, and its speechless creatures (and just as speechless I will also be!), my hair under them, in it, the righteous water, the indifferent looking glass that forbids me to see you differently. The wet boundary between me and me… \n\nI have no children from you, because I have known no questions, demands, precautions, no future, and I have never known how to take up space in another life. I have no livelihood, no assurance, no security, only air, night air, coastal air, air from borderlands so that I may always be able to draw breath for new words, new kisses, for a constant confession: Yes. Yes. Were the confession to be discarded, I would be condemned to love; were I to come free for a day out of love, I would have to go back in the water, in this element in which no one builds themselves a nest, spins themselves a roof out of timber, decks themselves out with a plan. Nowhere to be. Nowhere to remain. To submerge, to recline, to move without the deference to power– and one day to change direction, to re-emerge, to go through a clearing, to see “him” and say “Hans.” To begin with the beginning: \n\n“Good evening.”\n“Good evening.” \n“How far is it to you?”\n“Far it is, far.” \n“And far is it to me.”",
+    "language": "German",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/undine-goes",
+    "lunr_id": 18
+  },
+  {
+    "pid": "1964",
+    "title": "1964",
+    "transtitle": "1964",
+    "author": "Jorge Luis Borges",
+    "translator": "Samantha DeStefano",
+    "poem": "I \n\nYa no es mágico el mundo. Te han dejado. \nYa no compartirás la clara luna\nNi los lentos jardines. Ya no hay una\nLuna que no sea espejo del pasado, \nCristal de soledad, sol de agonías. \nAdiós las mutuas manos y las sienes \nQue acercaba el amor. Hoy sólo tienes \nLa fiel memoria y los desiertos días. \nNadie pierde (repites vanamente)\nSino lo que no tiene y no ha tenido \nNunca, pero no basta ser valiente\nPara aprender el arte del olvido.\nUn símbolo, una rosa, te desgarra\nY te puede matar una guitarra. \n\nII \n\nYa no seré feliz. Tal vez no importa. \nHay tantas otras cosas en el mundo; \nUn instante cualquiera es más profundo \nY diverso que el mar. La vida es corta \nY aunque las horas son tan largas, una \nOscura maravilla nos acecha,\nLa muerte, ese otro mar, esa otra flecha \nQue nos libra del sol y de la luna\nY del amor. La dicha que me diste\nY me quitaste debe ser borrada;\nLo que era todo tiene que ser nada.\nSólo que me queda el goce de estar triste, \nEsa vana costumbre que me inclina\nAl Sur, a cierta puerta, a cierta esquina.",
+    "transpoem": "I \n\nThe world’s no longer magic. They have left you. \nYou will no longer share the clear bright moon \nNor the slow gardens. Now there is no longer \nA moon that’s not a mirror of the past, \nCrystal of solitude, sun of agonies.\nGoodbye to mutual hands and to our temples\nThat love brought near. Today you only have\nThe loyal memory and the deserted days. \nOne only loses (you repeat in vain)\nWhat one does not have and has never had \nBut being brave is not enough to learn\nThe art of forgetting: oblivion.\nA symbol or a rose tears up your heart \nWhat’s more, you can be killed by a guitar. \n\nII \n\nI won’t be happy now. Perhaps it doesn’t matter. \nSo many other things are in the world;\nA random instant is far more profound\nAnd varied than the sea. Yes, life is short \nAnd though the hours are so long, a dark \nWonder lies in ambush, stalking us,\nDeath, that other sea, that other arrow\nThat frees us from the sun and from the moon\nAnd love as well. The happiness you gave me\nAnd took away from me must be erased.\nWhat once was everything now must be nothing.\nOnly that I still enjoy being sad, \nThat vain habit that makes me inclined to \nThe South, a certain door, a certain corner.",
+    "language": "Spanish",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/1964",
+    "lunr_id": 19
+  },
+  {
+    "pid": "childrens-duties",
+    "title": "หน้าท’่เด็ก",
+    "transtitle": "Children's Duties ",
+    "author": "Cha-um Panchaphan",
+    "translator": "John Viano and Peeriya Pongsarigun",
+    "poem": "เด็กเอ๋ยเด็กดี\nต้องมีหน้าที่สิบอย่างด้วยกัน\nหนึ่ง นับถือศาสนา\nสอง รักษาธรรมเนียมมั่น\nสาม เชื่อพ่อแม่ครูอาจารย์\nสี่ วาจานั้นต้องสุภาพอ่อนหวาน\nห้า ยึดมั่นกตัญญู\nหก เป็นผู้รู้รักการงาน\nเจ็ด ต้องศึกษาให้เชี่ยวชาญ\nต้องมานะบากบั่น ไม่เกียจไม่คร้าน\nแปด รู้จักออมประหยัด\nเก้า ต้องซื่อสัตย์ตลอดกาล\nน้ำใจนักกีฬากล้าหาญ\nให้เหมาะกับกาลสมัยชาติพัฒนา\nสิบ ทำตนให้เป็นประโยชน์\nรู้บาปบุญคุณโทษ สมบัติชาติต้องรักษา\nเด็กสมัยชาติพัฒนา\nจะเป็นเด็กที่พาชาติไทยเจริญ",
+    "transpoem": "Dear good children of Thailand,\nYou should follow ten commandments.\nFirst, practice Buddhism every day.\nSecond, preserve Thai traditions; that’s the way.\nThird, listen to your parents and teachers.\nFourth, always speak with good cheer.\nFifth, be grateful to the older ones.\nSixth, work hard until it’s all done.\nSeventh, study thoroughly; \nRemember not to be lazy!\nEighth, save money; try your best.\nNinth, always be honest, \nExhibit good sportsmanship to others,\nBe brave and protect the nation’s honor.\nTenth, behave well and know what’s right or wrong; \nPreserve the heritage that’s been passed on.\nToday’s children in this country\nWill bring Thailand prosperity.",
+    "language": "Thai",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/childrens-duties",
+    "lunr_id": 20
+  },
+  {
+    "pid": "erlkonigs-tochter",
+    "title": "Erlkönigs Tochter",
+    "transtitle": "Elm-King's Daughter",
+    "author": "Johann Wolfgang von Goethe",
+    "translator": "Benjamin McAvoy-Bickford",
+    "poem": "Herr Oluf reitet spät und weit, Zu bieten auf seine Hochzeitsleut; Da tanzen die Elfen auf grünem Land, Erlkönigs Tochter reicht ihm die Hand. »Willkommen, Herr Oluf! Was eilst von hier? Tritt her in den Reihen und tanz mit mir.« »Ich darf nicht tanzen, nicht tanzen ich mag, Frühmorgen ist mein Hochzeittag.« »Hör an, Herr Oluf, tritt tanzen mit mir, Zwei güldne Sporne schenk ich dir. Ein Hemd von Seide so weiß und fein, Meine Mutter bleicht’s mit Mondenschein.« »Ich darf nicht tanzen, nicht tanzen ich mag, Frühmorgen ist mein Hochzeitstag.« »Hör an, Herr Oluf, tritt tanzen mit mir, Einen Haufen Goldes schenk ich dir.« »Einen Haufen Goldes nähm ich wohl; Doch tanzen ich nicht darf noch soll.« »Und willt, Herr Oluf, nicht tanzen mit mir, Soll Seuch und Krankheit folgen dir.« Sie tät einen Schlag ihm auf sein Herz, Noch nimmer fühlt er solchen Schmerz. Sie hob ihn bleichend auf sein Pferd. »Reit heim nun zu deinem Fräulein wert.« Und als er kam vor Hauses Tür, Seine Mutter zitternd stand dafür. »Hör an, mein Sohn, sag an mir gleich, Wie ist dein’ Farbe blaß und bleich?« »Und sollt sie nicht sein blaß und bleich, Ich traf in Erlenkönigs Reich.« »Hör an, mein Sohn, so lieb und traut, Was soll ich nun sagen deiner Braut?« »Sagt ihr, ich sei im Wald zur Stund, Zu proben da mein Pferd und Hund.« Frühmorgen und als es Tag kaum war, Da kam die Braut mit der Hochzeitschar. »Sie schenkten Met, sie schenkten Wein; Wo ist Herr Oluf, der Bräutigam mein?« »Herr Oluf, er ritt in Wald zur Stund, Er probt allda sein Pferd und Hund.« Die Braut hob auf den Scharlach rot, Da lag Herr Oluf, und er war tot.",
+    "transpoem": "\"Sir Oluf rides both far and wide, To tell them of his marriage-bride; There dance the elves on verdant land, The Elm-King’s daughter gave her hand. “Come in, Sir Oluf! Must you flee? Do stay to waltz and dance with me.” “I must not dance, no dance I may, Tomorrow morn’s my wedding day.” “Sir Oluf, listen, dance with me, Two golden spurs I’ll give to thee. A silken shirt so fine and white, My mother bleached it with moonlight.” “I must not dance, no dance I may, Tomorrow morn’s my wedding day.” “Sir Oluf, listen, dance with me, A golden hoard I’ll give to thee.” “I’d take a golden hoard, it’s true; Yet I must never dance with you.” “You won’t, Sir Oluf, dance with me, Let pox and illness follow thee.” She dealt a blow unto his heart, He felt a wound to deeply smart. She helped him, pale, onto his horse. “For your one, ride a homeward course.” And as he reached his house’s door, His mother, trembling, stood before. “My son, do listen, tell me true, What makes your face so pale and blue?” “And should it not be pale and blue, The Elm-King’s realm I did go through.” “My son, do listen, my dear pride, What should I now go tell your bride?” “Just say I went into the grove To let my horse and dog go rove.” The day, by early morning, rose, The bride came by in wedding clothes. “They give the mead, they give the wine, Oh where’s Sir Oluf, bridegroom mine?” “Sir Oluf’s gone into the grove, To let his horse and dog go rove.” The bride was turning scarlet red, There lay Sir Oluf, he was dead. \"",
+    "language": "German",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/erlkonigs-tochter",
+    "lunr_id": 21
+  },
+  {
+    "pid": "all-that-glitters",
+    "title": "淡泊",
+    "transtitle": "All That Glitters",
+    "author": "Liu Guo-Fang (刘国芳)",
+    "translator": "Chardonnay Needler",
+    "poem": "根仔从小就没有志向， 秋生总问他大了做什么， 根仔说砍柴。 秋生说就砍柴吗。 根仔说还娶老婆。 秋生问娶了老婆呢， 做什么。 根仔说生儿子呀。 秋生就笑根仔， 说他没出息， 秋生总跟根仔说：“我大了一定要出去，去外面干一番事业。”\n\n秋生大了， 真出去了。 走时， 秋生喊根仔一起去。 他们从小一起长大， 天天在一起， 秋生很希望根仔出去， 仍然天天在一起。 但根仔不出去， 根仔说: “你去吧， 我不想走。”\n\n秋生只好一个人出去。\n\n几年后， 秋生回来了， 秋生西装毕挺皮鞋锃亮。 一村的人都来看秋生， 说秋生有出息。 根仔便相形见绌了。 于是有人说：“根仔你也出去吧， 以后也穿西装， 穿皮鞋 。” 秋生和根仔好，  也劝他，  说; “城里怎么也比这山里好混， 你还是出去吧。”\n\n根仔说他不出去。\n\n又几年， 秋生带着老婆回来了， 女人长得如花似玉。 在乡下人眼里， 简直仙女一样。 村里人一脸羡墓。 这时有人见了根仔， 便说:“叫你也出去， 你不出去， 出去了也娶仙女一样的老婆， 根仔你还是出去吧 。” 秋生也劝根仔， 秋生说：“你应该开窍了， 在这山沟里要浪费你一辈子。”\n\n根仔仍说他不出去。\n\n再几年， 秋生担任领导了， 先是科长， 后是局长， 再是部长。 这期间秋生一年回几次家， 先是骑摩托， 后是坐吉普， 再是坐轿车。 村里人都以秋生为荣， 说到什么， 总把话往秋生身上引， 说我们村有个秋生当了部长。 秋生回来， 一村的人都意笑颜开， 这时没人再劝根仔了， 只说：“你看人家秋生， 多有出息。”\n\n根仔也说 :  “是有出息。” \n\n秋生记着根仔， 回来一定要看望根仔 。\n\n一次根仔在山上砍柴， 秋生也去了山上， 但秋生发福了， 大腹人便便， 等爬了上山去， 秋生气都喘不过来。 秋生喘着粗气跟根仔说：“你怎么就是想不开呀， 以我的地位， 你为啥要在这里砍柴?  跟我走吧， 就是看机关大门也比这里砍柴强。”\n\n根仔还是不出去。\n\n秋生四十岁的时候， 因喝多了酒， 得了肝硬化， 不出一月，死了。 根仔听说， 去一趟城里， 参加秋生的追悼会。 根仔和秋生一起长大， 秋生走了， 他十分难过， 见人就说: “他怎么喝那么多酒呢， 他怎么不注意身体呀， 早知道这样， 还不如跟我在山里砍柴哩 。”\n\n根仔说得泪眼巴巴。\n\n开完追悼会， 根仔又回到了山里。\n\n又过了一些年 。 起先， 还有人说到秋生， 说他曾经是部长 。 很多年很多年后， 有人提到秋生了， 偶尔有人提起， 也只说他们村里曾经有人当过部长。 又很多很多年后， 村里没人再提他了， 和秋生彻底被遗忘了。\n\n很多年很多年过去， 根仔还活着 。\n\n根仔一百岁时， 还活着， 这时的根仔银发皓齿， 一派仙风道骨。 村里人都以根仔为荣， 说他们村有一个根仔， 一百岁， 还耳聪目明， 行走自如。 很多人都知道百岁根仔， 有人坐了小车鱼贯而来， 问根仔长寿秘诀。 根仔读过好几年书， 说得出淡泊这个词， 他说淡泊就可以长寿。 问的人也懂得淡泊这个词， 但还问怎样才算淡泊。 根仔说不想发财不想当官， 不争名逐利， 过平平淡淡的日子， 无忧无虑， 你们做得到， 就可以长寿。 听的人不问了， 把小车鱼贯开出。\n\n这时候根仔的曾孙也上学了， 秋生的曾孙也上学了。 两个孩子就一个班 。 一天根仔的曾孙带秋生的曾孙到村里玩， 见了根仔， 曾孙喊道: “太公， 我回来了。”\n\n秋生的曾孙就说: “你怎么有太公呀。”\n\n根仔的曾孙说: “你没有太公吗? ”\n\n回答 :  “我没有太公。”",
+    "transpoem": "From his earliest days, Genzai never had any ambition. Qiusheng would always ask him what he wanted to do when he grew up, and Genzai would always say he wanted to be a woodcutter. Qiusheng would say, “So you’d just cut wood then, huh?” to which Genzai would add, “And marry a wife, of course.” Qiusheng would ask, “And after you get hitched, what’d you do then?” Genzai would say, “Have kids, ya know.” Then, Qiusheng would laugh at Genzai, saying he’d have zero prospects, and he’d tell Genzai, “When I grow up, I’m going to get out of here, travel overseas for a bit, do real business.”\n\nWhen Qiusheng grew up, he actually left. When he was going, he called out to Genzai to join him. They’d grown up together, spent every day together, so Qiusheng really hoped that Genzai would go with him, so they’d continue to spend every day together. But Genzai didn’t want to leave and said, “You go. I don’t want to leave.” \n\nSo Qiusheng had no choice but to go by himself. \n\nA few years later, Qiusheng came back — decked out in a spiffy suit and dazzling leather shoes, sharply polished. The entire village came out to see him, saying he has so much potential. Genzai looked pathetic in comparison. So people started saying, “Genzai, you’ve gotta get out there. Then you can wear fancy suits and leather shoes.” Qiusheng was close with Genzai, and he encouraged him to go out, saying, “Oh, the city is crazier than the countryside. You’ve gotta get out there!”\n\nGenzai said he didn’t want to leave. \n\nA few more years later, Qiusheng brought his wife back home. She was as beautiful as springtime blossoms and jade. In the eyes of the villagers, she was simply like the immortals from Daoist mythology. The whole village was envious. Now, though, people saw Genzai and said, “He’s calling to you to go too, but you’re not going. Leave and marry a woman of equal beauty and elegance. Genzai, you’ve gotta get out too.” Qiusheng kept trying to persuade Genzai, saying, “You should broaden your horizons. You can’t waste your life away in this valley.”\n\nGenzai still said he wouldn’t go. \n\nSome more years after, Qiusheng took up the office of a local leader: first a section chief, then the director-general, and later a government minister. During this time period, he’d return home a couple times per year, first on motorbike, then a Jeep, and later a limousine. All the townspeople took incredible pride in him. Whatever was discussed, people always found a way to quote Qiusheng, since it was Qiusheng of their village who was appointed as a minister. When Qiusheng returned, the face of every person in the entire village lit up, beaming ear-to-ear. This time, no one encouraged Genzai to leave as well, they’d only say, “Look at our Qiusheng, what a success.”\n\nGenzai would also say, “Yes, what a great success.” \n\nQiusheng remembered Genzai, and when he came back he had to pay his old friend a visit.\n\nOne time while Genzai was chopping wood up in the mountains, Qiusheng came up to the summit as well, but he’d put on weight and now had a potbelly. Once he’d gotten to the top, he was out of breath. Qiusheng said to Genzai in staggered breaths, “How have you not thought about leaving? From my position, I don’t see…Why the hell do you want to stay here chopping wood? Leave with me, please, and then you can see that the opportunities ahead are greater than cutting wood.”\n\nGenzai still wouldn’t go. \n\nWhen Qiusheng was forty years old, due to years of overdrinking, he got cirrhosis of the liver. Within one month, he died. Genzai heard the news and went to the city to attend Qiusheng’s memorial service. Genzai and Qiusheng had grown up together, and Qiusheng’s passing rocked him with grief. Upon seeing him he said, “How did he end up drinking that much alcohol? Why on earth did he not care for his body and health? Had I known this sooner, he might still be chopping wood with me on that mountain.”\n\nAs he said this, tears welled up in his eyes. \n\nAfter the funeral was over, Genzai returned to the mountains. \n\nA few years passed. At first, people still would talk about Qiusheng and how he once was a minister. Several years later, people would bring him up on occasion just to talk about how this village once had one of its people appointed as a minister. And many years after, no one brought him up again. Qiusheng had been completely forgotten. \n\nYet, a good few years later, Genzai was still alive. \n\nGenzai was one hundred years old, still alive, except by now he had silver hair and white teeth, the spitting image of the immortal and the Daoist. All the townspeople took incredible pride in him. They’d say, “Our town has Genzai, one hundred years old, and still with sharp sight and hearing; he comes and goes with incredible ease.” So many people knew about this one-hundred-year-old Genzai, and people would drive up in lines to come see him and ask him the secret to his longevity. Genzai had read volumes of books, and still he’d come to this phrase: “eliminating covetousness.” He said that ceasing the chase for wealth can lead to longevity. Some people understood this concept, but then would still ask, “Well, how do you actually stop striving after fame and fortune?” He’d say, “Don’t think about earning money or becoming a government official, don’t pursue titles and tokens. Just plainly live out your days, worriless, without anxieties. If you can do that, then you will be able to live a long and healthy life.” Those who heard would ask no further questions, just leave in the same line they came. \n\nThis same time, Genzai’s great-grandson and Qiusheng’s great-grandson both were in school. The kids were even in the same class. One day, Genzai’s great-grandson brought Qiusheng’s great-grandson into the village for a playdate. Upon seeing Genzai, Genzai’s great-grandson cried out, “Great-granddad, I’m back!”\n\nQiusheng’s great-grandson said, “How do you have a great-grandpa?”\n\nGenzai’s great-grandson said, “You don’t have a great-granddad? Huh?”\n\nThe response: “I don’t have a great-grandpa.”",
+    "language": "Chinese",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/all-that-glitters",
+    "lunr_id": 22
+  },
+  {
+    "pid": "poetica",
+    "title": "Poética",
+    "transtitle": "Poetica",
+    "author": "Manuel Bandeira",
+    "translator": "Fernando Ursine",
+    "poem": "Estou farto do lirismo comedido\nDo lirismo bem comportado\nDo lirismo funcionário público com livro de ponto expediente protocolo e manifestações de apreço ao sr. diretor\n\nEstou farto do lirismo que pára e vai averiguar no dicionário o cunho vernáculo de um vocábulo\n\nAbaixo os puristas\n\nTodas as palavras sobretudo os barbarismos universais\nTodas as construções sobretudo as sintaxes de exceção\nTodos os ritmos sobretudo os inumeráveis\n\nEstou farto do lirismo namorador\nPolítico\nRaquítico\nSifilítico\nDe todo lirismo que capitula ao que quer que seja fora de si mesmo.\n\nDe resto não é lirismo\nSerá contabilidade tabela de co-senos secretário do amante exemplar com cem modelos de cartas e as diferentes maneiras de agradar às mulheres, etc.\n\nQuero antes o lirismo dos loucos\nO lirismo dos bêbedos\nO lirismo difícil e pungente dos bêbedos\nO lirismo dos clowns de Shakespeare\n\n— Não quero mais saber do lirismo que não é libertação.\n",
+    "transpoem": "I am done with the discreet lyricism\nThe well-behaved lyricism\nThe public servant-like lyricism with timesheets fixed hours protocols and showing how much they appreciate the mr. big boss\n\nI am done with the lyricism that stops to consult a dictionary for the vernacular nature of a word\n\nDown with purists\n\nAll the words, especially the universal barbarisms\nAll the constructions, especially the exceptions of syntax\nAll the rhythms, especially the innumerable ones\n\nI am done with this lyricism\nflirtatious\npolitical\nrickety\nsyphilitic\nWith all the lyricism that surrenders to whatever is outside of itself\n\nBesides that, it is not lyricism\nIt is accounting cosines table secretary of the exemplary lover with a hundred letter templates and the different ways to please women, etc.\n\nI would rather have the lyricism of the lunatics\nThe lyricism of the drunkards\nThe lyricism of the drunkards, so difficult and pungent\nThe lyricism of Shakespeare’s clowns\n\n– I don’t care about the lyricism that is not liberation",
+    "language": "Portuguese",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/poetica",
+    "lunr_id": 23
+  },
+  {
+    "pid": "eight-epigrams-on-the-sudden-loss-of-a-son",
+    "title": "Eight Epigrams on the Sudden Loss of a Son ",
+    "transtitle": "Eight Epigrams on the Sudden Loss of a Son ",
+    "author": "Moses Ibn Ezra",
+    "translator": "Ben Notis",
+    "poem": "אֶצְעַק בְּמָרָה עַל-גְּזוֹר נַפְשִׁי פִּתְאֹם בְּשַׁחַק נִתְכְּנוּ בָתָּיו\nצַר-לִי מְאֹד עָלָיו וּמִי-יִתֵּן מוּתִי אֲנִי הַיּוֹם בְּנִי תַּחְתָּיו\n\n\n\nיָצָא לְבָבִי בַּחֲזוֹת יַעְקֹב מֵת עַל-זרֹעוֹת נֹשְׂאָיו רָכָב\nלֹא נֶחֱזוּ בִלְתָּם עֲלֵי תֵבֵל אִישִׁים בְּעָפָר קָבְרוּ כוֹכָב \n\n\n\n\nכַּמַּה אֲנִי סֹעֵד לְבָבִי עַד יִשְׁקֹט מְעַט עָלַי וְיִתְרַפֵּק\nעָלָיו יְמִינִי אֶתְּנָה אוּלַי יִשְׁלֶה וְלֹא אוּכַל לְהִתְאַפֵּק\n\n\n\nדְּמָעַי יִגְּרוּ מֵחֹם לְבָבִי אֲשֶׁר נִקרַע שְּׁנֵים עָשָׂר קְרָעִים\nוְחֹק מֵאֵין דֳּמִי תָמִיד לְבַכּוֹת לְבֵן יַקִּיר וְיֶלֶד שַׁעֲשׁוּעִים\n\n\n\nאֵיךְ יַעֲמֹד לִבִּי וְאֶמְצָא עַל תֵּבֵל יְמוֹתַי אַחֲרָיו נֹפֶש\nאוֹ אֵיךְ אֱהִי מַבְלִיג בְּלִי פָנָיו וּשְׁמוֹ וְזִכְרוֹ תַּאֲוַת נָפֶשׁ\n\n\nשֵׁם יַעֲקֹב אָבַד וְאַךְ נֶטַע שֹדוֹ בְּכִלְיוֹתַי מְאֹד יִדְגֶּה\nאֶבְכֶּה לְהַכְחִידוֹ וְיֹסִיף כִּי נֶטַע בְּהַשְׁקֹתוֹ מְאֹד יִשְׂגֶּה\n\n\n\nאֱמֶת תֵּבֵל כְּחוֹתָם צַר לְפָנַי וְכַכֶּלֶא בְּעֵינַי בֵּית מְגוּרָי\nוְלֹא-אִירָא זְמָן לָעַד לְמַעַן לְמוֹתֶךָ בְּנִי חָלוּ מְגוּרָי\n\n\n\nיוֹם בּוֹ נִפְקַד יַעְקֹב אָז קוֹל כִּנּוֹרִי אֶל אֵבֶל הוּמָר\nהַיּוֹם הַהוּא יִקַּח אֹפֶל גַּם-יֹאבַד יוֹם הָרַע וָמָר\n\n",
+    "transpoem": "I shriek in anguish for the boy severed from my soul—\nSuddenly his home is in the expanse\nI am in great pain for him —\n— Please, just let me take me his place —\n\nMy heart left me when I saw Jacob, dead,\nCarried upon his bearers’ arms.\nOn this earth, other than they,\nNone have been seen\nBurying a star in the dust.\n\nI brace my heart again and again,\nThat it might quiet down and settle in place.\nMy right hand is upon it. Perhaps it will slacken,\nBut then I won’t hold back.\n\nTears stream from my searing heart,\nWhich has been rent twelvefold.\nNow I must weep unrestrained\nFor my precious son, my beloved child.\n\nHow can my heart last — so I find rest — in my life\n— after him — on this earth?\nAnd how can I find comfort without his face,\nWhen his name and memory are all I desire?\nJacob’s name is lost — and yet\nA sprout of his loss still thrives inside.\nI try to weep it away, and yet it grows —\nFor a sprout flourishes when quenched.\n\nTrue, to me, the Earth is like a tight stopper.\nTo my eyes, my house is like a prison.\nBut I will never fear Fate again, for\nIn your death, my son, every fear came to pass.\n\nOn the day Jacob was taken,\nThe sound of my harp turned to mourning.\nMay that day seize darkness!\nMay that evil, bitter day be lost!\n",
+    "language": "Hebrew",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/eight-epigrams-on-the-sudden-loss-of-a-son",
+    "lunr_id": 24
+  },
+  {
+    "pid": "net",
+    "title": "जाल",
+    "transtitle": "Net",
+    "author": "Padma Sachdev (पद्मा सचदेव)",
+    "translator": "Abigail Tuscano ",
+    "poem": "सुनो\nसुनो तो सही\nमेरे आसपास बँधा हुआ ये जाल मत तोड़ो\nमैंने सारी उम्र इसमें से निकलने का यत्न किया है\nइससे बँधा हुआ काँटा-काँटा मेरा परिचित है\nपर ये सारे हीं काँटे मरते देखते-देखते उगे हैं\nरात को सोने से पहले\nमैं इनके बालों को हाथो से सहलाकर सोयी थी\nऔर सुबह उठते हीं\nइनके वो मुँह तीखे हो गये हैं\nतो दोष किसका है दोस्त!\n\nसुनो,\nमिन्नत करती हूँ सुनो तो सही\nमुझे फूलों की ज़रूरत नहीं है\nउनके रंगों को देखकर जो ख़ुश होती\nवो नज़र नहीं रही\nइस जाल की ख़ुशबू मेरी साँसों में बंध गयी है\nमैं फूलों को लेकर क्या करूँगी\n\nसुनो,\nमैं तुम्हारी मिन्नत करती हूँ\nसुनो, मेरा जाल मत काटो\nमुझे परबस रहने दो\nमुझे इस जाल के भीतर\nबड़ा चैन मिलता है मित्तर!\n\nइसमें से निकलने के जितने हीले\nमुझे इसके बीच रहकर सूझते हैं\nइसके बाहर वो कहाँ\nउम्र की यह कठिन बेला\nमुझे काटने दो इस जाल के भीतर दबकर\nचलो, अब दूर हो जाओ\nजाल के काँटों के बहुत-से मुँह\nमेरे कलेजे में खुभे हुए हैं\nजाल काटते हीं अगर ये मुझमें टूट गये\nतो मत पूछो क्या होगा\nबुजुर्ग कहते हैं—\nटूटे हुए काँटों का बड़ा दर्द होता है.\n\n\nSunoh\nSunoh toh sahi\nMere aaspaas bandha hua yeh jaal mat todo\nMaine saari umr ismein se nikalne ka yatn kiya hai\nIssein bandha hua kaanta-kaanta mera parichit hai\nPar ye saare heen kaante marte dekhte-dekhte uge hain\nRaat ko sone se pehle main inke baalon ko haatho sehlaakar soyi thi \nAur subah uthte heen\nInke vo munh teekhe ho gaye hain\nToh dosh kiska hai dost!\n\nSunoh,\nMinnat karti hoon sunoh toh sahi\nMujhe phoolon ki zaroorat nahin hai\nUnke rangon ko dekhkar jo khush hoti\nVo nazar nahin rahi\nIss jaal ki khushboo meri saason mein bandh gayi hai\nMain phoolon ko lekar kya karoongi\n\nSunoh,\nMain tumhaari minnat karti hoon\nSunoh, mera jaal mat kaanto\nMujhe parbas rehne do\nMujhe iss jaal ke bheetar bada chain milta hai mittar!\n\nIsmein se nikalne ke jitne hile\nMujhe iske beech rehkar soojhte hain\nIske baahar vo kahaan \nUmr ki yeh kathin bela \nMujhe kaantne do iss jaal ke bheetar dabaakar\nChalo, abh door ho jao\nJaal ke kaanton ke bahaut-se munh\nMere kaleje main khubhe hue hain\nJaal kaathte heen agar yeh mujhmen toot gaye\nToh mat poocho kya hoga\nBujurg kehte hain—\nToote hue kaanton ka bada dard hota hai\n",
+    "transpoem": "Listen, do listen,\ndon’t break this net tied around me.\nMy whole life, I have tried to get out of it.\nI’m familiar with the thorns bound to it,\nbut all of these thorns have grown witnessing death.\nBefore sleeping at night,\nI laid down with a hand caressing their hair.\nAnd when I wake up in the morning,\nthat mouth of theirs has become sharp.\nSo who’s to blame, my friend!\n\nListen, \nI beg of you, do listen.\nI don’t have any need for flowers.\nShe who used to become content upon seeing their color,\nher gaze didn’t remain.\nThe scent of this net has been bound in my very breath.\nWhat will I do with flowers?\n\nListen,\nI’m begging you.\nListen, don’t cut my net.\nJust leave me be.\nI find great comfort\nwithin this net, my friend!\n\nAs much as as you shake to get out of it,\nI understand through living within it.\nWhere are they outside, \nthe hard times of this age?\nLet me bite this net, buried inside.\nCome on, distance yourself.\nThe many-mouths of the net’s teeth\nare doing well in my liver.\nIf, while biting the net, they break within me, \nthen don’t ask what will happen.\nThe elders say—\nBroken thorns cause ample pain.",
+    "language": "Hindi",
+    "collection": "poems_2023",
+    "content": " ",
+    "permalink": "/poems_2023/net",
+    "lunr_id": 25
+  },
+  {
     "pid": "alcohols-1909",
     "title": "Alcools: 1909",
     "transtitle": "Alcohols: 1909",
@@ -14,7 +378,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/alcohols-1909",
-    "lunr_id": 0
+    "lunr_id": 26
   },
   {
     "pid": "i-have-seen-ikh-hob-gezen",
@@ -28,7 +392,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/i-have-seen-ikh-hob-gezen",
-    "lunr_id": 1
+    "lunr_id": 27
   },
   {
     "pid": "the-vultures",
@@ -42,7 +406,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/the-vultures",
-    "lunr_id": 2
+    "lunr_id": 28
   },
   {
     "pid": "whispered",
@@ -56,7 +420,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/whispered",
-    "lunr_id": 3
+    "lunr_id": 29
   },
   {
     "pid": "epilogue-ii-to-requiem",
@@ -70,7 +434,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/epilogue-ii-to-requiem",
-    "lunr_id": 4
+    "lunr_id": 30
   },
   {
     "pid": "morituri",
@@ -84,7 +448,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/morituri",
-    "lunr_id": 5
+    "lunr_id": 31
   },
   {
     "pid": "whole-of-spring",
@@ -98,7 +462,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/whole-of-spring",
-    "lunr_id": 6
+    "lunr_id": 32
   },
   {
     "pid": "phra-aphai-mani",
@@ -112,7 +476,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/phra-aphai-mani",
-    "lunr_id": 7
+    "lunr_id": 33
   },
   {
     "pid": "unwavering",
@@ -126,7 +490,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/unwavering",
-    "lunr_id": 8
+    "lunr_id": 34
   },
   {
     "pid": "i-too-am-a-riddle",
@@ -140,7 +504,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/i-too-am-a-riddle",
-    "lunr_id": 9
+    "lunr_id": 35
   },
   {
     "pid": "kaise-kahoon-how-do-i-say",
@@ -150,11 +514,11 @@ layout: none
     "translator": null,
     "poem": null,
     "transpoem": null,
-    "language": "English",
+    "language": null,
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/kaise-kahoon-how-do-i-say",
-    "lunr_id": 10
+    "lunr_id": 36
   },
   {
     "pid": "three-poems",
@@ -168,7 +532,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/three-poems",
-    "lunr_id": 11
+    "lunr_id": 37
   },
   {
     "pid": "zinka",
@@ -182,7 +546,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/zinka",
-    "lunr_id": 12
+    "lunr_id": 38
   },
   {
     "pid": "you-dont-raise-children-to-watch-them-die",
@@ -190,13 +554,13 @@ layout: none
     "transtitle": "YOU DON’T RAISE CHILDREN TO WATCH THEM DIE",
     "author": "Rosabetty Muñoz",
     "translator": "Claudia Nuñez de Ibieta",
-    "poem": "Cuando el mar se llevó a sus tres hijos \nElla estaba acodada en la puerta de su casa, pensando \nen ollas aladas y repletas. De pronto cayó en \nun vacío del que surgió vieja y encorvada. No \nnecesitó entrar para vestirse de negro. Ya estaba \nrecogiendo ﬂores cuando salió su hombre con la \nradio en la mano, desamparado y tembloroso.\n\n\nElla es una sábana ﬂotando sobre nosotros.\nNada detiene el remolino que alienta su vuelo.\nDesde su vientre deshabitado\nlos ovarios violeta se abren como ﬂores nocturnas.\nLa ansiedad es un arrecife\ndonde acerados corales hieren los cuerpos amados.\n\nSin hijos bajo sus ojos\nquisiéramos las madres\nofrecerle un trozo de pañal\npara vendar sus muñones o un arca\ndonde recoger los salados restos.\n",
-    "transpoem": "When the sea took away her three sons \nShe was leaning in the doorway of her home, \nthinking of winged and brimming pots. \nSuddenly she fell into an abyss, \nfrom which she emerged old and hunched. \nShe didn’t need to go inside to be dressed in black. \nShe was already gathering flowers \nwhen her husband came outside \nwith the radio in his hand, helpless and trembling.\n \nShe is a sheet floating above us.\nNothing restrains the whirlwind that keeps her aloft.\nFrom her deserted womb\nviolet ovaries unfurl like night-blooming flowers.\nAnxiety is a reef\nwhere sharpened corals wound beloved bodies.\n\nWithout children in her sight\nwe mothers would like\nto offer her a piece of diaper cloth\nto bandage her stumps or an ark\nto gather the salty remains.\n",
+    "poem": "Cuando el mar \nse llevó a sus tres hijos \nElla estaba acodada \nen la puerta de su casa, \npensando en ollas aladas y repletas. \nDe pronto cayó en un vacío \ndel que surgió vieja y encorvada. \nNo necesitó entrar \npara vestirse de negro. \nYa estaba recogiendo ﬂores \ncuando salió su hombre \ncon la radio en la mano, \ndesamparado y tembloroso.\n\n\nElla es una sábana ﬂotando \nsobre nosotros.\nNada detiene el remolino \nque alienta su vuelo.\nDesde su vientre deshabitado\nlos ovarios violeta se abren \ncomo ﬂores nocturnas.\nLa ansiedad es un arrecife\ndonde acerados corales \nhieren los cuerpos amados.\n\nSin hijos bajo sus ojos\nquisiéramos las madres\nofrecerle un trozo de pañal\npara vendar sus muñones o un arca\ndonde recoger los salados restos.\n",
+    "transpoem": "When the sea took away her three sons \nShe was leaning in the doorway of her home, \nthinking of winged and brimming pots. \nSuddenly she fell into an abyss, \nfrom which she emerged old and hunched. \nShe didn’t need to go inside \nto be dressed in black. \nShe was already gathering flowers \nwhen her husband came outside \nwith the radio in his hand, helpless \nand trembling.\n \nShe is a sheet floating above us.\nNothing restrains the whirlwind \nthat keeps her aloft.\nFrom her deserted womb\nviolet ovaries unfurl like night-blooming flowers.\nAnxiety is a reef\nwhere sharpened corals \nwound beloved bodies.\n\nWithout children in her sight\nwe mothers would like\nto offer her a piece of diaper cloth\nto bandage her stumps or an ark\nto gather the salty remains.\n",
     "language": "Spanish",
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/you-dont-raise-children-to-watch-them-die",
-    "lunr_id": 13
+    "lunr_id": 39
   },
   {
     "pid": "the-universe-blames-me",
@@ -210,7 +574,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/the-universe-blames-me",
-    "lunr_id": 14
+    "lunr_id": 40
   },
   {
     "pid": "finch",
@@ -224,7 +588,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/finch",
-    "lunr_id": 15
+    "lunr_id": 41
   },
   {
     "pid": "mother",
@@ -238,21 +602,21 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/mother",
-    "lunr_id": 16
+    "lunr_id": 42
   },
   {
     "pid": "reaching-for-words-on-gottschee",
     "title": null,
-    "transtitle": "Reaching for Words: On Gottschee",
+    "transtitle": "Reaching for Words on Gottschee",
     "author": "Quinn Gruber",
     "translator": null,
     "poem": null,
     "transpoem": null,
-    "language": "English",
+    "language": null,
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/reaching-for-words-on-gottschee",
-    "lunr_id": 17
+    "lunr_id": 43
   },
   {
     "pid": "the-romantic-dogs",
@@ -266,7 +630,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/the-romantic-dogs",
-    "lunr_id": 18
+    "lunr_id": 44
   },
   {
     "pid": "epitaph-for-when-i-die",
@@ -280,7 +644,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/epitaph-for-when-i-die",
-    "lunr_id": 19
+    "lunr_id": 45
   },
   {
     "pid": "xxv",
@@ -294,7 +658,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/xxv",
-    "lunr_id": 20
+    "lunr_id": 46
   },
   {
     "pid": "come",
@@ -308,7 +672,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/come",
-    "lunr_id": 21
+    "lunr_id": 47
   },
   {
     "pid": "declines-of-the-monologue",
@@ -322,7 +686,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/declines-of-the-monologue",
-    "lunr_id": 22
+    "lunr_id": 48
   },
   {
     "pid": "maybe-its-clarity",
@@ -336,7 +700,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/maybe-its-clarity",
-    "lunr_id": 23
+    "lunr_id": 49
   },
   {
     "pid": "like-an-illusion-a-poet-and-a-translator",
@@ -350,7 +714,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/like-an-illusion-a-poet-and-a-translator",
-    "lunr_id": 24
+    "lunr_id": 50
   },
   {
     "pid": "to-a-black-dancer",
@@ -364,7 +728,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/to-a-black-dancer",
-    "lunr_id": 25
+    "lunr_id": 51
   },
   {
     "pid": "the-greatest-ink",
@@ -378,7 +742,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/the-greatest-ink",
-    "lunr_id": 26
+    "lunr_id": 52
   },
   {
     "pid": "i-want-to-live-with-you",
@@ -392,7 +756,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/i-want-to-live-with-you",
-    "lunr_id": 27
+    "lunr_id": 53
   },
   {
     "pid": "two-poems-by-qasmuna-bint-ismail",
@@ -406,7 +770,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/two-poems-by-qasmuna-bint-ismail",
-    "lunr_id": 28
+    "lunr_id": 54
   },
   {
     "pid": "some-later-day",
@@ -420,7 +784,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/some-later-day",
-    "lunr_id": 29
+    "lunr_id": 55
   },
   {
     "pid": "wild-grass",
@@ -434,7 +798,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/wild-grass",
-    "lunr_id": 30
+    "lunr_id": 56
   },
   {
     "pid": "shapes-in-sleep-eight-poems",
@@ -448,12 +812,12 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/shapes-in-sleep-eight-poems",
-    "lunr_id": 31
+    "lunr_id": 57
   },
   {
     "pid": "each-day-the-sun-slits-the-throat-of-its-former-self",
     "title": "chaque jour le soleil égorge son spectre",
-    "transtitle": "ach day the sun slits the throat of its former self",
+    "transtitle": "each day the sun slits the throat of its former self",
     "author": "Amina Saïd",
     "translator": "Ashley Sniffen",
     "poem": "chaque jour le soleil \négorge son spectre\net se lève dans son sang\n\ntout commencement \ndessine un cercle\nla mémoire mène \nà la mer des commencements\nla jetée est de pierre l’arbre d’exil\nj’aspire à l’horizon\n\nsur un fil de lumière\nje vais vers ce lieu qui est toi\net ce qui fut advient\n\nune étoile danse sur \nle ciel de mon front\nl’oiseau en nous renaît \nde la rive de l’âme\nta parole est tienne \nmienne est ma parole\n\ntu rejoins le lieu que je suis\net le poème continue de s’écrire\n\nje vois ton visage et \nl’ombre sur ton visage\ncomme le poème \nla souffrance se partage\nnous compatissons \nà l’arbre aux saisons\ntrop brèves et \nà l’exil des saisons\naux sourires et aux \ndéchirements de la terre\naux malheurs des hommes \naux prières des femmes\n\nà nos voeux l’instant prend \nsa forme éblouie\nle temps s’efface \ntel un paysage\nnous vivons les \ndeux moitiés de nos vies\ncomme un voyage qui \nse souviendrait peut-être\ndu nom des îles \ndes oiseaux des ports\ndu sillage blanc \ndes navires des villes des êtres\ndu cycle des arrivées et des départs\n\net nous tombons \namoureux de la nuit\nparce que chaque nuit \ncélèbre les noces du rêve\net nous tombons \namoureux du jour\nparce que la vie \ncommence avec chaque jour\n",
@@ -462,7 +826,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/each-day-the-sun-slits-the-throat-of-its-former-self",
-    "lunr_id": 32
+    "lunr_id": 58
   },
   {
     "pid": "onlooker",
@@ -476,7 +840,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/onlooker",
-    "lunr_id": 33
+    "lunr_id": 59
   },
   {
     "pid": "listen",
@@ -490,7 +854,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/listen",
-    "lunr_id": 34
+    "lunr_id": 60
   },
   {
     "pid": "a-chain-verse",
@@ -504,7 +868,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/a-chain-verse",
-    "lunr_id": 35
+    "lunr_id": 61
   },
   {
     "pid": "four-poems",
@@ -518,7 +882,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/four-poems",
-    "lunr_id": 36
+    "lunr_id": 62
   },
   {
     "pid": "diary-of-the-lockdown-lifted",
@@ -532,7 +896,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/diary-of-the-lockdown-lifted",
-    "lunr_id": 37
+    "lunr_id": 63
   },
   {
     "pid": "millibars-of-the-storm",
@@ -546,7 +910,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/millibars-of-the-storm",
-    "lunr_id": 38
+    "lunr_id": 64
   },
   {
     "pid": "conversation-of-a-drunk-poetess-and-her-lover",
@@ -560,7 +924,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/conversation-of-a-drunk-poetess-and-her-lover",
-    "lunr_id": 39
+    "lunr_id": 65
   },
   {
     "pid": "khun-chang-khun-phaen-book-4-the-affair-of-phlai-kaew-and-nang-phim",
@@ -574,7 +938,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/khun-chang-khun-phaen-book-4-the-affair-of-phlai-kaew-and-nang-phim",
-    "lunr_id": 40
+    "lunr_id": 66
   },
   {
     "pid": "choose",
@@ -588,7 +952,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/choose",
-    "lunr_id": 41
+    "lunr_id": 67
   },
   {
     "pid": "verb",
@@ -602,7 +966,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/verb",
-    "lunr_id": 42
+    "lunr_id": 68
   },
   {
     "pid": "transfigured-night",
@@ -616,7 +980,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/transfigured-night",
-    "lunr_id": 43
+    "lunr_id": 69
   },
   {
     "pid": "interview-with-maria-dahvana-headley",
@@ -626,11 +990,11 @@ layout: none
     "translator": null,
     "poem": null,
     "transpoem": null,
-    "language": "English",
+    "language": null,
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/interview-with-maria-dahvana-headley",
-    "lunr_id": 44
+    "lunr_id": 70
   },
   {
     "pid": "winter",
@@ -638,13 +1002,13 @@ layout: none
     "transtitle": "Winter",
     "author": "Kobayashi Issa",
     "translator": "Vanessa Hu",
-    "poem": "初雪や                 \nそれは世にある         \n人の事\n\n猫の子の                 \nくるくる舞や          \n散る木の葉\n\n玉霰                         \n夜鷹は月に                 \n帰るめり\n\nFrom the haiku collection <span lang=”ja”>\n《猫与四季》</span> \n(<em>Cats and the Four Seasons</em>)\nBy <span lang=”ja”>小林一茶</span> (Kobayashi Issa)\nMandarin translations from Japanese \nby <span lang=”ja”>吴菲</span> (Wu Fei)\nIllustrated by <span lang=”ja”>千巨万</span>\n(Qian Ju Wan).",
+    "poem": "初雪や                 \nそれは世にある         \n人の事\n\n猫の子の                 \nくるくる舞や          \n散る木の葉\n\n玉霰                         \n夜鷹は月に                 \n帰るめり",
     "transpoem": "first snowfalls: \nthose are matters \nof mortal beings\n\noh, how the kitty \nwhirls ’n twirls in dance \namongst the drifting leaves\n\nin pearls of hail \nperhaps a nightjar \nreturns to the moon\n\n*Nightjars are small, \nnocturnal or crepuscular (twilight) birds;\nthe gray nightjar is particular to East Asia.",
     "language": "Japanese",
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/winter",
-    "lunr_id": 45
+    "lunr_id": 71
   },
   {
     "pid": "from-what-mistake",
@@ -658,7 +1022,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/from-what-mistake",
-    "lunr_id": 46
+    "lunr_id": 72
   },
   {
     "pid": "romance-of-the-moon-and-the-child",
@@ -672,7 +1036,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/romance-of-the-moon-and-the-child",
-    "lunr_id": 47
+    "lunr_id": 73
   },
   {
     "pid": "eternity",
@@ -686,7 +1050,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/eternity",
-    "lunr_id": 48
+    "lunr_id": 74
   },
   {
     "pid": "eclipse",
@@ -700,7 +1064,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/eclipse",
-    "lunr_id": 49
+    "lunr_id": 75
   },
   {
     "pid": "the-butterfly-june-4th-1942",
@@ -714,7 +1078,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/the-butterfly-june-4th-1942",
-    "lunr_id": 50
+    "lunr_id": 76
   },
   {
     "pid": "a-letter-of-menakhem-mendl",
@@ -728,7 +1092,7 @@ layout: none
     "collection": "poems_2021",
     "content": "כך אומרים ---היא בת-נצח. שינה שינדל שלי, יורד שלג לבן, אין אדם. כלם תמו. הביני. טוביה מת ומת מוטל בן פיסי החזן. מת האיש היקר הדוד פיני. ועל השלג נח סטמפניו, קט ויחף, וכלו כמאז מלא חן עוד. אך אלם הכנור. לא נגון הוא רועף. יען אין לו למי לנגן עוד. וגם טופלה נח, טוטוריטו התם נח פעוט ומחיך ממות. נצחיים הם שחוקו ובכיו של העם. לכן טופלה הוא בן-אלמות. שינה שינדל שלי. לילה, לילה עמק. את זוכרת הליל בו נפרדנו. עם העם שנתנו לו דמע ושחוק גם אנחנו מול מות עמדנו. את לבשת, שינה שינדל, מטפחת של חג. את נקית הקפוטה שלי הנושנת. והעם זאת הפעם צחוק לא צחק. הוא נשק את ידך הקורנת. והלילה היה משרפות חכלילי ואני צואה לך נסחתי, על אגרת קטנה, שינה שינדל שלי. וברור כי עקר שכחתי. העקר...לך רציתי תודה להגיד, שהיית לי בת-זוג, סבלנית ומכפרת. שינה שינדל, שחקנו קומדיה נצחית, אך גמרנו אחרת, אחרת. זאת נבאה בדיחתנו מאז,טרם סוף, עת נגנו כנוריה בתוך הלע היא על לב גבוריה הכתה באגרוף , אבל איש לא אבה לשמע. גם אני לא ידעתי, גם את לא הבנת, את חזיון התוגה ששחקנו עד ערב. שום ספרות---כך יאמרו---לא ידעה קומדינט שכמונו נשא על צואר את החרב. עד יום גזר...עד נצבנו בתוך הגולה, אבירי החלום, גאוני העני, גבורי הספרות היהודית הגדולה, הנופלת בשלג כמוני. --- --- שינה שינדל שלי, דרף ליל וסופה בראשי ההרוג את נוגעת. שינה שינדל שלי, זוגתי היפה במרומים הלבנה נוגהת. transpoem: 'My lovely wife Sheyne-Sheyndl,Through a cloud the moon is shining. Through storm and night, you handle My dreamy head, gently patting. The mighty wind blows up my capotaMy hat drops to the back of my head.Like that I walked alive, like that I lie deadSince my figure, so they say, is immortal.My Sheyne-Sheyndl, it is snowing white.Not a soul, all are gone, face it.Tevye died And Motl died too, the son of cantor Peyse,Uncle Pinye, dear man, is dead too. Stempenyu on the snow cradles, small and barefoot,Charming as ever and more.But his fiddle is silent, no sound no hoot All are gone, all who listened before.Topeleh too is resting, simple-minded tuturitu The toddler is resting dead and smiling. People’s jokes and tears are immortal, So immortal is Topeleh too.My Sheyne-Sheyndl, do you rememberDeep, deep was the night we parted,In line we stood facing death togetherWith whom in tears and laughs we delighted.Sheyne-Sheyndl you wore your holiday shawl,My tattered capota you tried to mend.This time our people did not laugh, not at all,They just kissed your glowing hand.The night turned scarlet from flames,And for you, my will I wrote On a small piece of paper with your name.And, sure enough, the main point I forgot.I wanted to thank you, so much and no lessFor being a patient, forgiving wifeSheyne-Sheyndl, we played our lifeFor a laugh, but the finish was something else.Our joke foretold this end from the start, Playing silent music in us, inside.We pounded our heroes at their heartBut nobody listened or cared to mind.I did not know and you did not getThe sad drama we played till too late.No lit., so they say, has a jester tell jokesWhile a hangman’s noose his neck chokes.Till judgement day we did not exit, Dreamy knights and clumsy heroes,The figures of the great Yiddish lit,That like me in the snow wallow.Through storm and night, Sheyne Sheyndl, My murdered head you are gently patting. My lovely wife Sheyne-Sheyndl,In heaven the moon is shining.' note: 'The poem was published in Hebrew in the newspaper Davar (March 9, 1945) and was included in subsequent editions of Alterman’s collected poems. The speaker in this poetic monologue is Menakhem Mendl, the protagonist of the epistolary novel The Letters of Menakhem-Mendl and Sheyn-Sheyndl, by Sholem Aleichem (Sholem Yakov Rabinovitz [1859–1916]), published in 1892–1913. The latest English translation is published together with a book about another figure from Sholem Aleichem’s fictional gallery who is mentioned in the poem, “The Letters of Menakhen-Mendl and Motl, the Cantor’s Son,” translated by Hillel Halkin (New Yiddish Library. New Haven: Yale University Press, 2002). Uncle Pinye is also a character in this book. Stempenyu, the gifted fiddler, is the hero of Sholem Aleichem’s first novel that was published in Yiddish in 1888, and its latest English translation is by Hanna Berman (Stempenyu: A Yiddish Romance, [Brooklyn: Melville, 2007]). Topeleh Tuturitu is the child who narrates the tale “The Flag” in Sholem Aleichem’s stories for children, published in English as A Treasury of Sholom Aleichem Children’s Stories, translated by Aliza Shervin (Northvale, NJ: Jason Aronson, 1996). Tevye is Tevye the Dairyman of Fiddler on the Roof fame, whose story was published first as Tevye and his Daughters in 1894, and later in English translation as Tevye’s Daughters, translated by Frances Butwin (New York: Crown, 1949).' abio: |- Nathan Alterman (1910–1970) was one of the leading Hebrew poets of the twentieth century. He was awarded major literary prizes in Israel: in 1946 and 1967 he received the Tchernichovsky Prize for translating classical French plays into Hebrew, in 1947 the Ruppin Literary Prize for his second book of poems, in 1957 the Bialik Prize for Literature, and in 1968 the highest Israeli prize for literature, the Israel Prize. He became a cultural literary monument, and in 2011 the State of Israel printed his portrait on its currency. Alterman began publishing topical poems in July 1934 at the age of twenty-four in Davar and, later, in the leading newspaper Ha-Aretz. During eight years with Ha-Aretz, he wrote about three hundred poems. In 1942, he returned to Davar, where he continued to publish his topical poetry. Until 1965, Alterman’s work at Davar was commentary in prose. In addition to his topical poetry, he published several volumes of lyrical poems, wrote poems for the theater (many of them became popular songs), translated classical plays, and wrote four plays, which were produced in Israel. tbio: 'Dan Ben-Amos teaches folklore at the University of Pennsylvania. He earned his BA in literature from the Hebrew University of Jerusalem, and his doctorate degree in folklore from Indiana University. Among his books are Sweet Words, Folklore in Context, Folklore Concepts, and the edited volumes of Folktales of the Jews, Folklore Genres, Folklore: Performance and Communication (with Kenneth S. Goldstein), Cultural Memory and the Construction of Identity (with Liliane Weissberg), and The Diary: The Epic of Everyday Life (with Batsheva Ben-Amos). His translations of Alterman’s poems appeared in Jewish Review of Books and Moment.' language: Hebrew lang: he image: imagecredit: origaudio: ' \\ ' translaudio: |- edition: '2021' pagetype: submission order: '25' layout: poempage collection: poems_2021 --- ",
     "permalink": "/poems_2021/a-letter-of-menakhem-mendl",
-    "lunr_id": 51
+    "lunr_id": 77
   },
   {
     "pid": "the-city",
@@ -742,7 +1106,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/the-city",
-    "lunr_id": 52
+    "lunr_id": 78
   },
   {
     "pid": "the-sand-and-the-angel",
@@ -756,7 +1120,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/the-sand-and-the-angel",
-    "lunr_id": 53
+    "lunr_id": 79
   },
   {
     "pid": "lilies",
@@ -770,7 +1134,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/lilies",
-    "lunr_id": 54
+    "lunr_id": 80
   },
   {
     "pid": "if-heritage-were-called-hither-air",
@@ -784,7 +1148,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/if-heritage-were-called-hither-air",
-    "lunr_id": 55
+    "lunr_id": 81
   },
   {
     "pid": "winter-heart-to-the-poet",
@@ -798,7 +1162,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/winter-heart-to-the-poet",
-    "lunr_id": 56
+    "lunr_id": 82
   },
   {
     "pid": "farewell-violin",
@@ -812,7 +1176,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/farewell-violin",
-    "lunr_id": 57
+    "lunr_id": 83
   },
   {
     "pid": "a-french-minstrel-and-an-italian-lady",
@@ -826,7 +1190,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-french-minstrel-and-an-italian-lady",
-    "lunr_id": 58
+    "lunr_id": 84
   },
   {
     "pid": "ah-motherland-dear-motherland",
@@ -840,7 +1204,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/ah-motherland-dear-motherland",
-    "lunr_id": 59
+    "lunr_id": 85
   },
   {
     "pid": "grave-news-at-dawn-great-tidings-at-dusk",
@@ -854,7 +1218,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/grave-news-at-dawn-great-tidings-at-dusk",
-    "lunr_id": 60
+    "lunr_id": 86
   },
   {
     "pid": "scissiparity",
@@ -868,7 +1232,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/scissiparity",
-    "lunr_id": 61
+    "lunr_id": 87
   },
   {
     "pid": "five-poems-by-vladimir-myakovsky",
@@ -882,7 +1246,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/five-poems-by-vladimir-myakovsky",
-    "lunr_id": 62
+    "lunr_id": 88
   },
   {
     "pid": "to-my-mother-he-who-lost-everything",
@@ -896,7 +1260,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/to-my-mother-he-who-lost-everything",
-    "lunr_id": 63
+    "lunr_id": 89
   },
   {
     "pid": "little-lessons-in-eroticism",
@@ -910,7 +1274,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/little-lessons-in-eroticism",
-    "lunr_id": 64
+    "lunr_id": 90
   },
   {
     "pid": "bitter-song",
@@ -924,7 +1288,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/bitter-song",
-    "lunr_id": 65
+    "lunr_id": 91
   },
   {
     "pid": "galeria-lxii-varia-xciv",
@@ -938,7 +1302,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/galeria-lxii-varia-xciv",
-    "lunr_id": 66
+    "lunr_id": 92
   },
   {
     "pid": "crossing",
@@ -952,7 +1316,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/crossing",
-    "lunr_id": 67
+    "lunr_id": 93
   },
   {
     "pid": "just-one-detail",
@@ -966,7 +1330,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/just-one-detail",
-    "lunr_id": 68
+    "lunr_id": 94
   },
   {
     "pid": "staff-translation-2020",
@@ -980,7 +1344,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/staff-translation-2020",
-    "lunr_id": 69
+    "lunr_id": 95
   },
   {
     "pid": "after-everything-still-you",
@@ -994,7 +1358,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/after-everything-still-you",
-    "lunr_id": 70
+    "lunr_id": 96
   },
   {
     "pid": "mirror",
@@ -1008,7 +1372,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/mirror",
-    "lunr_id": 71
+    "lunr_id": 97
   },
   {
     "pid": "be-well-thanks-in-front-of-you-this-ancient-rain",
@@ -1022,7 +1386,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/be-well-thanks-in-front-of-you-this-ancient-rain",
-    "lunr_id": 72
+    "lunr_id": 98
   },
   {
     "pid": "a-poem-nabakovs-butterfly",
@@ -1036,7 +1400,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-poem-nabakovs-butterfly",
-    "lunr_id": 73
+    "lunr_id": 99
   },
   {
     "pid": "preaching-to-women",
@@ -1050,7 +1414,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/preaching-to-women",
-    "lunr_id": 74
+    "lunr_id": 100
   },
   {
     "pid": "conversation-untitled",
@@ -1064,7 +1428,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/conversation-untitled",
-    "lunr_id": 75
+    "lunr_id": 101
   },
   {
     "pid": "shadow-of-the-coming-days-a-words-wish",
@@ -1078,7 +1442,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/shadow-of-the-coming-days-a-words-wish",
-    "lunr_id": 76
+    "lunr_id": 102
   },
   {
     "pid": "a-trial-race",
@@ -1092,7 +1456,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-trial-race",
-    "lunr_id": 77
+    "lunr_id": 103
   },
   {
     "pid": "a-sun-did-not-rise",
@@ -1106,7 +1470,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-sun-did-not-rise",
-    "lunr_id": 78
+    "lunr_id": 104
   },
   {
     "pid": "interview-yoon",
@@ -1120,7 +1484,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/interview-yoon",
-    "lunr_id": 79
+    "lunr_id": 105
   },
   {
     "pid": "diary",
@@ -1134,7 +1498,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/diary",
-    "lunr_id": 80
+    "lunr_id": 106
   },
   {
     "pid": "the-holy-land",
@@ -1148,7 +1512,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/the-holy-land",
-    "lunr_id": 81
+    "lunr_id": 107
   },
   {
     "pid": "bandujeewa-4",
@@ -1156,13 +1520,13 @@ layout: none
     "transtitle": "Earthworms",
     "author": "Ruwan Bandujeewa",
     "translator": "Chamini Kulathunga",
-    "poem": "“පියතුමනි\nකිමද අප නොයන්නේ \nවප් මගුල් උළෙලට \nරජතුමාත් ඒවි අද කුඹුරට \nහැරපියා මේ මුනිවත \nකියා පෑ යුතු නොවෙද ඔබ ඔවුනට\nඅප විසින් \nසාරවත් කල බැව් මේ පස \nපොළෝ කුහරය තුල සැඟව හිඳ”\n\n“කුඩා ගැඩවිල් පුත\nඋදලු තලයකට පුරුද්දක් නැත \nහඳුනගෙන\nපස සරු කල සහ නොකල උන්ගේ වත \nතව තවත් හාරගෙන\nඅඳුරු මඩ තුළ ගිලී යනු මිස \n ඉහල එළිමහන වෙත \nයෑම නුසුදුසුය පුත.”\n\n<h2>සැපකි — සතුටකි</h2> \n\nතවත් එක් පඹයෙක් හදන්නට\nගිහින් එක්කහු වෙනව වෙනුවට \nඋපන් කමතට පොහොර වෙන එක \nසැපකි — සතුටකි පිදුරු ගසකට\n\n<h2>ඇළ</h2>\n\nඇළ හොඳින් හැඳ පැළඳ \nඇවිද යයි කුඹුරු මැද \n\nවැව අරෙහෙ නිදි නැතිව \nමේ ඇඳුම මහපු බව \nකිසිම වී කරලකට \nඇළ කියා නැත තවම\n\n<h2>ගසක් තම මල් අමතා කී කවිය</h2> \n\nගණන් කර බැලූ විට \nතවත් මල් කීපයක් \nපිපෙන්නට නියමිතව \nඉතිරි වී ඇති බැවින් \n\nකැමැත්තෙන් පර වෙන්න \nකැමති මල් සිටී නම් \nසුළඟ එන්නට කලින් \nවරක් අත් ඔසවන්න",
-    "transpoem": "“Dear father,\nwhy don’t we attend\nthe Ploughing Festival?\nEven the king is coming\nto the field today.\nShouldn’t we break this silence\nand announce\nit is us\nwho manured this soil\nfrom within the bowels of the earth?”\n   \n“Little earthworm son,\na hoe’s blade knows not\nthose who manured the soil\nand those who did not.\nTherefore, rising into the open air\nis unadvised.\nDrill your way deeper\nto the dark depths of mud.\nDoing otherwise, my son,\nis not wiser.”\n\n<h2>A Joy — A Bliss</h2>\r\n\r\nRather than joining in creating\r\nyet another scarecrow\r\ndecaying into the homefield\r\nis a joy — a bliss to a stick of straw\n\n<h2>Canal</h2>\r\n\r\nThe canal, dressed all fine and dandy\r\nglides across the paddies\r\n\r\nhow the lake sewed its garb\r\nover sleepless nights\r\nthe canal hasn’t breathed a word\r\nto a single grain of rice\n\n<h2>A Tree to its Flowers</h2>\n\r\nUpon counting\r\nthe remaining buds \r\nawaiting to blossom,\r\na tree said\r\nto its flowers\r\n\r\nif there be flowers\r\nvolunteering to wilt\r\nraise your hand just once\r\nbefore the wind comes",
+    "poem": "“පියතුමනි\nකිමද අප නොයන්නේ \nවප් මගුල් උළෙලට \nරජතුමාත් ඒවි අද කුඹුරට \nහැරපියා මේ මුනිවත \nකියා පෑ යුතු නොවෙද ඔබ ඔවුනට\nඅප විසින් \nසාරවත් කල බැව් මේ පස \nපොළෝ කුහරය තුල සැඟව හිඳ”\n\n“කුඩා ගැඩවිල් පුත\nඋදලු තලයකට පුරුද්දක් නැත \nහඳුනගෙන\nපස සරු කල සහ නොකල උන්ගේ වත \nතව තවත් හාරගෙන\nඅඳුරු මඩ තුළ ගිලී යනු මිස \n ඉහල එළිමහන වෙත \nයෑම නුසුදුසුය පුත.”\n\n<h1>සැපකි — සතුටකි</h1> \n\nතවත් එක් පඹයෙක් හදන්නට\nගිහින් එක්කහු වෙනව වෙනුවට \nඋපන් කමතට පොහොර වෙන එක \nසැපකි — සතුටකි පිදුරු ගසකට\n\n<h1>ඇළ</h1>\n\nඇළ හොඳින් හැඳ පැළඳ \nඇවිද යයි කුඹුරු මැද \n\nවැව අරෙහෙ නිදි නැතිව \nමේ ඇඳුම මහපු බව \nකිසිම වී කරලකට \nඇළ කියා නැත තවම\n\n<h1>ගසක් තම මල් අමතා කී කවිය</h1> \n\nගණන් කර බැලූ විට \nතවත් මල් කීපයක් \nපිපෙන්නට නියමිතව \nඉතිරි වී ඇති බැවින් \n\nකැමැත්තෙන් පර වෙන්න \nකැමති මල් සිටී නම් \nසුළඟ එන්නට කලින් \nවරක් අත් ඔසවන්න",
+    "transpoem": "“Dear father,\nwhy don’t we attend\nthe Ploughing Festival?\nEven the king is coming\nto the field today.\nShouldn’t we break this silence\nand announce\nit is us\nwho manured this soil\nfrom within the bowels of the earth?”\n   \n“Little earthworm son,\na hoe’s blade knows not\nthose who manured the soil\nand those who did not.\nTherefore, rising into the open air\nis unadvised.\nDrill your way deeper\nto the dark depths of mud.\nDoing otherwise, my son,\nis not wiser.”\n\n<h1>A Joy — A Bliss</h1>\n\nRather than joining in creating\nyet another scarecrow\ndecaying into the homefield\nis a joy — a bliss to a stick of straw\n\n<h1>Canal</h1>\n\nThe canal, dressed all fine and dandy\nglides across the paddies\n\nhow the lake sewed its garb\nover sleepless nights\nthe canal hasn’t breathed a word\nto a single grain of rice\n\n<h1>A Tree to its Flowers</h1>\n\nUpon counting\nthe remaining buds \nawaiting to blossom,\na tree said\nto its flowers\n\nif there be flowers\nvolunteering to wilt\nraise your hand just once\nbefore the wind comes",
     "language": "Sinhalese",
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/bandujeewa-4",
-    "lunr_id": 82
+    "lunr_id": 108
   },
   {
     "pid": "valet",
@@ -1176,7 +1540,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/valet",
-    "lunr_id": 83
+    "lunr_id": 109
   },
   {
     "pid": "a-bookworm",
@@ -1190,7 +1554,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-bookworm",
-    "lunr_id": 84
+    "lunr_id": 110
   },
   {
     "pid": "sonnet-1",
@@ -1204,7 +1568,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/sonnet-1",
-    "lunr_id": 85
+    "lunr_id": 111
   },
   {
     "pid": "a-flowers-pride",
@@ -1218,7 +1582,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/a-flowers-pride",
-    "lunr_id": 86
+    "lunr_id": 112
   },
   {
     "pid": "here-i-love-you",
@@ -1232,7 +1596,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/here-i-love-you",
-    "lunr_id": 87
+    "lunr_id": 113
   },
   {
     "pid": "autumn-eyes",
@@ -1246,7 +1610,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/autumn-eyes",
-    "lunr_id": 88
+    "lunr_id": 114
   },
   {
     "pid": "easily-written-poem",
@@ -1260,7 +1624,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/easily-written-poem",
-    "lunr_id": 89
+    "lunr_id": 115
   },
   {
     "pid": "the-man-who-walks-too-fast",
@@ -1274,7 +1638,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/the-man-who-walks-too-fast",
-    "lunr_id": 90
+    "lunr_id": 116
   },
   {
     "pid": "ghazal",
@@ -1288,7 +1652,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/ghazal",
-    "lunr_id": 91
+    "lunr_id": 117
   },
   {
     "pid": "i",
@@ -1302,7 +1666,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/i",
-    "lunr_id": 92
+    "lunr_id": 118
   },
   {
     "pid": "i-was-ten-years-old-head-in-the-sky",
@@ -1316,7 +1680,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/i-was-ten-years-old-head-in-the-sky",
-    "lunr_id": 93
+    "lunr_id": 119
   },
   {
     "pid": "in-the-south-simple-speech",
@@ -1330,7 +1694,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/in-the-south-simple-speech",
-    "lunr_id": 94
+    "lunr_id": 120
   },
   {
     "pid": "song-for-helen",
@@ -1344,7 +1708,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/song-for-helen",
-    "lunr_id": 95
+    "lunr_id": 121
   },
   {
     "pid": "the-abandoned",
@@ -1358,7 +1722,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/the-abandoned",
-    "lunr_id": 96
+    "lunr_id": 122
   },
   {
     "pid": "paper-crane",
@@ -1372,7 +1736,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/paper-crane",
-    "lunr_id": 97
+    "lunr_id": 123
   },
   {
     "pid": "crucifixion",
@@ -1386,7 +1750,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/crucifixion",
-    "lunr_id": 98
+    "lunr_id": 124
   },
   {
     "pid": "blind-scrap-dealer",
@@ -1400,7 +1764,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/blind-scrap-dealer",
-    "lunr_id": 99
+    "lunr_id": 125
   },
   {
     "pid": "a-ballad-about-departing-for-heaven",
@@ -1414,7 +1778,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/a-ballad-about-departing-for-heaven",
-    "lunr_id": 100
+    "lunr_id": 126
   },
   {
     "pid": "here-i-love-you",
@@ -1427,7 +1791,7 @@ layout: none
     "language": "Spanish",
     "collection": "poems_2018",
     "permalink": "/poems_2018/here-i-love-you",
-    "lunr_id": 101
+    "lunr_id": 127
   },
   {
     "pid": "memories-watch-me",
@@ -1440,7 +1804,7 @@ layout: none
     "language": "Swedish",
     "collection": "poems_2018",
     "permalink": "/poems_2018/memories-watch-me",
-    "lunr_id": 102
+    "lunr_id": 128
   },
   {
     "pid": "meadow-in-the-forest",
@@ -1453,7 +1817,7 @@ layout: none
     "language": "German",
     "collection": "poems_2018",
     "permalink": "/poems_2018/meadow-in-the-forest",
-    "lunr_id": 103
+    "lunr_id": 129
   },
   {
     "pid": "as-much-as-you-can",
@@ -1466,7 +1830,7 @@ layout: none
     "language": "Greek",
     "collection": "poems_2018",
     "permalink": "/poems_2018/as-much-as-you-can",
-    "lunr_id": 104
+    "lunr_id": 130
   },
   {
     "pid": "the-meditated-death",
@@ -1479,7 +1843,7 @@ layout: none
     "language": "Italian",
     "collection": "poems_2018",
     "permalink": "/poems_2018/the-meditated-death",
-    "lunr_id": 105
+    "lunr_id": 131
   },
   {
     "pid": "in-the-pyre-of-war",
@@ -1492,7 +1856,7 @@ layout: none
     "language": "Hebrew",
     "collection": "poems_2018",
     "permalink": "/poems_2018/in-the-pyre-of-war",
-    "lunr_id": 106
+    "lunr_id": 132
   },
   {
     "pid": "poesia",
@@ -1505,7 +1869,7 @@ layout: none
     "language": "Italian",
     "collection": "poems_2018",
     "permalink": "/poems_2018/poesia",
-    "lunr_id": 107
+    "lunr_id": 133
   },
   {
     "pid": "from-requiem",
@@ -1518,7 +1882,7 @@ layout: none
     "language": "Russian",
     "collection": "poems_2018",
     "permalink": "/poems_2018/from-requiem",
-    "lunr_id": 108
+    "lunr_id": 134
   },
   {
     "pid": "life-song",
@@ -1531,7 +1895,7 @@ layout: none
     "language": "German",
     "collection": "poems_2018",
     "permalink": "/poems_2018/life-song",
-    "lunr_id": 109
+    "lunr_id": 135
   },
   {
     "pid": "the-birth-of-the-poem",
@@ -1544,7 +1908,7 @@ layout: none
     "language": "Portuguese",
     "collection": "poems_2018",
     "permalink": "/poems_2018/the-birth-of-the-poem",
-    "lunr_id": 110
+    "lunr_id": 136
   },
   {
     "pid": "moon",
@@ -1557,7 +1921,7 @@ layout: none
     "language": "Hebrew",
     "collection": "poems_2018",
     "permalink": "/poems_2018/moon",
-    "lunr_id": 111
+    "lunr_id": 137
   },
   {
     "pid": "riddle-47",
@@ -1570,7 +1934,7 @@ layout: none
     "language": "Old English, Middle French, English",
     "collection": "poems_2018",
     "permalink": "/poems_2018/riddle-47",
-    "lunr_id": 112
+    "lunr_id": 138
   },
   {
     "pid": "where-does-such-tenderness-come-from",
@@ -1583,7 +1947,7 @@ layout: none
     "language": "Russian",
     "collection": "poems_2018",
     "permalink": "/poems_2018/where-does-such-tenderness-come-from",
-    "lunr_id": 113
+    "lunr_id": 139
   },
   {
     "pid": "you-are-not-poetry",
@@ -1596,7 +1960,7 @@ layout: none
     "language": "Spanish",
     "collection": "poems_2018",
     "permalink": "/poems_2018/you-are-not-poetry",
-    "lunr_id": 114
+    "lunr_id": 140
   },
   {
     "pid": "three-sonnets-extracted-from-les-amours",
@@ -1609,7 +1973,7 @@ layout: none
     "language": "Middle French",
     "collection": "poems_2018",
     "permalink": "/poems_2018/three-sonnets-extracted-from-les-amours",
-    "lunr_id": 115
+    "lunr_id": 141
   },
   {
     "pid": "fair-lady-yu",
@@ -1622,7 +1986,7 @@ layout: none
     "language": "Chinese",
     "collection": "poems_2018",
     "permalink": "/poems_2018/fair-lady-yu",
-    "lunr_id": 116
+    "lunr_id": 142
   },
   {
     "pid": "black-woman",
@@ -1635,7 +1999,7 @@ layout: none
     "language": "French",
     "collection": "poems_2018",
     "permalink": "/poems_2018/black-woman",
-    "lunr_id": 117
+    "lunr_id": 143
   },
   {
     "pid": "the-verb",
@@ -1648,7 +2012,7 @@ layout: none
     "language": "Spanish",
     "collection": "poems_2018",
     "permalink": "/poems_2018/the-verb",
-    "lunr_id": 118
+    "lunr_id": 144
   },
   {
     "pid": "repose",
@@ -1661,7 +2025,7 @@ layout: none
     "language": "Italian",
     "collection": "poems_2018",
     "permalink": "/poems_2018/repose",
-    "lunr_id": 119
+    "lunr_id": 145
   },
   {
     "pid": "o-motherland-my-dear-motherland",
@@ -1674,7 +2038,7 @@ layout: none
     "language": "Chinese",
     "collection": "poems_2018",
     "permalink": "/poems_2018/o-motherland-my-dear-motherland",
-    "lunr_id": 120
+    "lunr_id": 146
   },
   {
     "pid": "if-you-dont-come-home-im-too-afraid-to-age",
@@ -1687,7 +2051,7 @@ layout: none
     "language": "Chinese",
     "collection": "poems_2018",
     "permalink": "/poems_2018/if-you-dont-come-home-im-too-afraid-to-age",
-    "lunr_id": 121
+    "lunr_id": 147
   },
   {
     "pid": "wait",
@@ -1700,7 +2064,7 @@ layout: none
     "language": "German",
     "collection": "poems_2018",
     "permalink": "/poems_2018/wait",
-    "lunr_id": 122
+    "lunr_id": 148
   },
   {
     "pid": "you-shattered",
@@ -1713,7 +2077,7 @@ layout: none
     "language": "Italian",
     "collection": "poems_2017",
     "permalink": "/poems_2017/you-shattered",
-    "lunr_id": 123
+    "lunr_id": 149
   },
   {
     "pid": "sinking-rising",
@@ -1726,7 +2090,7 @@ layout: none
     "language": "Hebrew",
     "collection": "poems_2017",
     "permalink": "/poems_2017/sinking-rising",
-    "lunr_id": 124
+    "lunr_id": 150
   },
   {
     "pid": "take-me-into-your-black-eyes",
@@ -1739,7 +2103,7 @@ layout: none
     "language": "Turkish",
     "collection": "poems_2017",
     "permalink": "/poems_2017/take-me-into-your-black-eyes",
-    "lunr_id": 125
+    "lunr_id": 151
   },
   {
     "pid": "with-a-newspaper",
@@ -1752,7 +2116,7 @@ layout: none
     "language": "Arabic",
     "collection": "poems_2017",
     "permalink": "/poems_2017/with-a-newspaper",
-    "lunr_id": 126
+    "lunr_id": 152
   },
   {
     "pid": "oh-reader",
@@ -1765,7 +2129,7 @@ layout: none
     "language": "French",
     "collection": "poems_2017",
     "permalink": "/poems_2017/oh-reader",
-    "lunr_id": 127
+    "lunr_id": 153
   },
   {
     "pid": "amerigo",
@@ -1778,7 +2142,7 @@ layout: none
     "language": "Italian",
     "collection": "poems_2017",
     "permalink": "/poems_2017/amerigo",
-    "lunr_id": 128
+    "lunr_id": 154
   },
   {
     "pid": "malinche",
@@ -1791,7 +2155,7 @@ layout: none
     "language": "Spanish",
     "collection": "poems_2017",
     "permalink": "/poems_2017/malinche",
-    "lunr_id": 129
+    "lunr_id": 155
   },
   {
     "pid": "hibernating",
@@ -1804,7 +2168,7 @@ layout: none
     "language": "Spanish",
     "collection": "poems_2017",
     "permalink": "/poems_2017/hibernating",
-    "lunr_id": 130
+    "lunr_id": 156
   },
   {
     "pid": "hour-of-stars",
@@ -1817,7 +2181,7 @@ layout: none
     "language": "Spanish",
     "collection": "poems_2017",
     "permalink": "/poems_2017/hour-of-stars",
-    "lunr_id": 131
+    "lunr_id": 157
   },
   {
     "pid": "identity-card",
@@ -1830,7 +2194,7 @@ layout: none
     "language": "Arabic",
     "collection": "poems_2017",
     "permalink": "/poems_2017/identity-card",
-    "lunr_id": 132
+    "lunr_id": 158
   },
   {
     "pid": "ruin",
@@ -1843,7 +2207,7 @@ layout: none
     "language": "Old English",
     "collection": "poems_2017",
     "permalink": "/poems_2017/ruin",
-    "lunr_id": 133
+    "lunr_id": 159
   },
   {
     "pid": "someones-already-had-a-sip-of-you",
@@ -1856,7 +2220,7 @@ layout: none
     "language": "Russian",
     "collection": "poems_2017",
     "permalink": "/poems_2017/someones-already-had-a-sip-of-you",
-    "lunr_id": 134
+    "lunr_id": 160
   },
   {
     "pid": "so-that-you-might-hear-me",
@@ -1869,7 +2233,7 @@ layout: none
     "language": "Spanish",
     "collection": "poems_2017",
     "permalink": "/poems_2017/so-that-you-might-hear-me",
-    "lunr_id": 135
+    "lunr_id": 161
   },
   {
     "pid": "vigil",
@@ -1882,7 +2246,7 @@ layout: none
     "language": "Italian",
     "collection": "poems_2017",
     "permalink": "/poems_2017/vigil",
-    "lunr_id": 136
+    "lunr_id": 162
   },
   {
     "pid": "silence",
@@ -1895,7 +2259,7 @@ layout: none
     "language": "Bulgarian",
     "collection": "poems_2017",
     "permalink": "/poems_2017/silence",
-    "lunr_id": 137
+    "lunr_id": 163
   },
   {
     "pid": "story-of-a-separation",
@@ -1908,7 +2272,7 @@ layout: none
     "language": "Turkish",
     "collection": "poems_2017",
     "permalink": "/poems_2017/story-of-a-separation",
-    "lunr_id": 138
+    "lunr_id": 164
   },
   {
     "pid": "the-night-i-count-the-stars",
@@ -1921,7 +2285,7 @@ layout: none
     "language": "Korean",
     "collection": "poems_2017",
     "permalink": "/poems_2017/the-night-i-count-the-stars",
-    "lunr_id": 139
+    "lunr_id": 165
   },
   {
     "pid": "historical-museum",
@@ -1934,7 +2298,7 @@ layout: none
     "language": "Chinese",
     "collection": "poems_2017",
     "permalink": "/poems_2017/historical-museum",
-    "lunr_id": 140
+    "lunr_id": 166
   },
   {
     "pid": "horizon",
@@ -1947,7 +2311,7 @@ layout: none
     "language": "Spanish",
     "collection": "poems_2017",
     "permalink": "/poems_2017/horizon",
-    "lunr_id": 141
+    "lunr_id": 167
   },
   {
     "pid": "testament",
@@ -1960,7 +2324,7 @@ layout: none
     "language": "Italian",
     "collection": "poems_2016",
     "permalink": "/poems_2016/testament",
-    "lunr_id": 142
+    "lunr_id": 168
   },
   {
     "pid": "interview-with-suvir-kaul",
@@ -1973,7 +2337,7 @@ layout: none
     "language": null,
     "collection": "poems_2016",
     "permalink": "/poems_2016/interview-with-suvir-kaul",
-    "lunr_id": 143
+    "lunr_id": 169
   },
   {
     "pid": "a-tree-in-blossom",
@@ -1986,7 +2350,7 @@ layout: none
     "language": "Chinese",
     "collection": "poems_2016",
     "permalink": "/poems_2016/a-tree-in-blossom",
-    "lunr_id": 144
+    "lunr_id": 170
   },
   {
     "pid": "all-your-breakers-and-your-waves",
@@ -1999,7 +2363,7 @@ layout: none
     "language": "Hebrew",
     "collection": "poems_2016",
     "permalink": "/poems_2016/all-your-breakers-and-your-waves",
-    "lunr_id": 145
+    "lunr_id": 171
   },
   {
     "pid": "you-dont-love-me-you-dont-pity-me",
@@ -2012,7 +2376,7 @@ layout: none
     "language": "Russian",
     "collection": "poems_2016",
     "permalink": "/poems_2016/you-dont-love-me-you-dont-pity-me",
-    "lunr_id": 146
+    "lunr_id": 172
   },
   {
     "pid": "by-the-agua-grande",
@@ -2025,7 +2389,7 @@ layout: none
     "language": "Portuguese",
     "collection": "poems_2016",
     "permalink": "/poems_2016/by-the-agua-grande",
-    "lunr_id": 147
+    "lunr_id": 173
   },
   {
     "pid": "i-would-like-to-die-before-you",
@@ -2038,7 +2402,7 @@ layout: none
     "language": "Turkish",
     "collection": "poems_2016",
     "permalink": "/poems_2016/i-would-like-to-die-before-you",
-    "lunr_id": 148
+    "lunr_id": 174
   },
   {
     "pid": "then-and-today",
@@ -2051,7 +2415,7 @@ layout: none
     "language": "Kashmiri",
     "collection": "poems_2016",
     "permalink": "/poems_2016/then-and-today",
-    "lunr_id": 149
+    "lunr_id": 175
   },
   {
     "pid": "heart-rind",
@@ -2064,7 +2428,7 @@ layout: none
     "language": "Spanish",
     "collection": "poems_2016",
     "permalink": "/poems_2016/heart-rind",
-    "lunr_id": 150
+    "lunr_id": 176
   },
   {
     "pid": "under-the-custody-of-time",
@@ -2077,7 +2441,7 @@ layout: none
     "language": "Spanish",
     "collection": "poems_2016",
     "permalink": "/poems_2016/under-the-custody-of-time",
-    "lunr_id": 151
+    "lunr_id": 177
   },
   {
     "pid": "pirate-king",
@@ -2090,7 +2454,7 @@ layout: none
     "language": "French",
     "collection": "poems_2016",
     "permalink": "/poems_2016/pirate-king",
-    "lunr_id": 152
+    "lunr_id": 178
   },
   {
     "pid": "metaphysique-des-tubes",
@@ -2103,7 +2467,7 @@ layout: none
     "language": "French",
     "collection": "poems_2016",
     "permalink": "/poems_2016/metaphysique-des-tubes",
-    "lunr_id": 153
+    "lunr_id": 179
   },
   {
     "pid": "as-i-wait-for-you",
@@ -2116,7 +2480,7 @@ layout: none
     "language": "Korean",
     "collection": "poems_2016",
     "permalink": "/poems_2016/as-i-wait-for-you",
-    "lunr_id": 154
+    "lunr_id": 180
   },
   {
     "pid": "from-requiem-2016",
@@ -2129,7 +2493,7 @@ layout: none
     "language": "Russian",
     "collection": "poems_2016",
     "permalink": "/poems_2016/from-requiem-2016",
-    "lunr_id": 155
+    "lunr_id": 181
   },
   {
     "pid": "leaning-into-the-afternoons",
@@ -2142,7 +2506,7 @@ layout: none
     "language": "Spanish",
     "collection": "poems_2016",
     "permalink": "/poems_2016/leaning-into-the-afternoons",
-    "lunr_id": 156
+    "lunr_id": 182
   },
   {
     "pid": "three-sonnets",
@@ -2155,7 +2519,7 @@ layout: none
     "language": "Italian",
     "collection": "poems_2016",
     "permalink": "/poems_2016/three-sonnets",
-    "lunr_id": 157
+    "lunr_id": 183
   },
   {
     "pid": "fine-untitled",
@@ -2168,7 +2532,7 @@ layout: none
     "language": "Polish",
     "collection": "poems_2016",
     "permalink": "/poems_2016/fine-untitled",
-    "lunr_id": 158
+    "lunr_id": 184
   },
   {
     "pid": "balcony",
@@ -2181,7 +2545,7 @@ layout: none
     "language": "French",
     "collection": "poems_2016",
     "permalink": "/poems_2016/balcony",
-    "lunr_id": 159
+    "lunr_id": 185
   },
   {
     "pid": "sleeping-on-a-night-of-autumn",
@@ -2194,7 +2558,7 @@ layout: none
     "language": "Chinese",
     "collection": "poems_2016",
     "permalink": "/poems_2016/sleeping-on-a-night-of-autumn",
-    "lunr_id": 160
+    "lunr_id": 186
   },
   {
     "pid": "a-new-day-will-dawn",
@@ -2207,7 +2571,7 @@ layout: none
     "language": "Kashmiri",
     "collection": "poems_2016",
     "permalink": "/poems_2016/a-new-day-will-dawn",
-    "lunr_id": 161
+    "lunr_id": 187
   },
   {
     "pid": "salute-and-wish",
@@ -2220,7 +2584,7 @@ layout: none
     "language": "Friulian, Italian",
     "collection": "poems_2016",
     "permalink": "/poems_2016/salute-and-wish",
-    "lunr_id": 162
+    "lunr_id": 188
   },
   {
     "pid": "herzeloyde",
@@ -2233,7 +2597,7 @@ layout: none
     "language": "German",
     "collection": "poems_2016",
     "permalink": "/poems_2016/herzeloyde",
-    "lunr_id": 163
+    "lunr_id": 189
   },
   {
     "pid": "to-an-oak",
@@ -2246,7 +2610,7 @@ layout: none
     "language": "Chinese",
     "collection": "poems_2016",
     "permalink": "/poems_2016/to-an-oak",
-    "lunr_id": 164
+    "lunr_id": 190
   },
   {
     "pid": "the-ninth-letter-on-the-platform",
@@ -2259,7 +2623,7 @@ layout: none
     "language": "Arabic",
     "collection": "poems_2016",
     "permalink": "/poems_2016/the-ninth-letter-on-the-platform",
-    "lunr_id": 165
+    "lunr_id": 191
   },
   {
     "pid": "clockwork-doll",
@@ -2272,7 +2636,7 @@ layout: none
     "language": "Hebrew",
     "collection": "poems_2016",
     "permalink": "/poems_2016/clockwork-doll",
-    "lunr_id": 166
+    "lunr_id": 192
   },
   {
     "pid": "azalea",
@@ -2285,7 +2649,7 @@ layout: none
     "language": "Korean",
     "collection": "poems_2016",
     "permalink": "/poems_2016/azalea",
-    "lunr_id": 167
+    "lunr_id": 193
   },
   {
     "pid": "excerpts-from-va-ou",
@@ -2298,7 +2662,7 @@ layout: none
     "language": "French",
     "collection": "poems_2016",
     "permalink": "/poems_2016/excerpts-from-va-ou",
-    "lunr_id": 168
+    "lunr_id": 194
   },
   {
     "pid": "notes-on-the-afterlives",
@@ -2311,7 +2675,7 @@ layout: none
     "language": null,
     "collection": "poems_2016",
     "permalink": "/poems_2016/notes-on-the-afterlives",
-    "lunr_id": 169
+    "lunr_id": 195
   },
   {
     "pid": "the-paths",
@@ -2324,7 +2688,7 @@ layout: none
     "language": "Bulgarian",
     "collection": "poems_2016",
     "permalink": "/poems_2016/the-paths",
-    "lunr_id": 170
+    "lunr_id": 196
   },
   {
     "pid": "under-one-little-star",
@@ -2337,7 +2701,7 @@ layout: none
     "language": "Polish",
     "collection": "poems_2016",
     "permalink": "/poems_2016/under-one-little-star",
-    "lunr_id": 171
+    "lunr_id": 197
   },
   {
     "pid": "cucumber",
@@ -2350,6 +2714,6 @@ layout: none
     "language": "Turkish",
     "collection": "poems_2016",
     "permalink": "/poems_2016/cucumber",
-    "lunr_id": 172
+    "lunr_id": 198
   }
 ]
