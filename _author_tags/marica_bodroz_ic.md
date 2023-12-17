@@ -1,5 +1,5 @@
 ---
-pid: Marica_Bodrozic
+pid: Marica_Bodroz_ic
 name: Marica Bodrožić
 type: author
 order: '087'

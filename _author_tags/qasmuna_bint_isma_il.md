@@ -1,5 +1,5 @@
 ---
-pid: Qasmuna_bint_Ismail
+pid: Qasmuna_bint_Isma_il
 name: Qasmūna bint Ismā‘il
 type: author
 order: '118'
