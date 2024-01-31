@@ -1,5 +1,5 @@
 ---
-pid: Bahasa_indonesia
+pid: Bahasa_Indonesia
 name: Bahasa Indonesia
 type: language
 order: '02'
