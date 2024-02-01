@@ -293,6 +293,7 @@ GEM
 PLATFORMS
   x86_64-darwin-14
   x86_64-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   github-pages
