@@ -92,12 +92,12 @@ layout: default
 
         {% endif %}
 
-        {% if forloop.index == previousIndex and pg.pagetype != "musing" and pg.pagetype != "interview" %}
+        {% if forloop.index == previousIndex and pg.pagetype != "musing" %}
           {% assign previousPage = pg.pid %}
 
         {% endif %}
 
-        {% if forloop.index == previousIndex and forloop.index != 1 and pg.pagetype == "musing" or pg.pagetype == "interview" %}
+        {% if forloop.index == previousIndex and forloop.index != 1 and pg.pagetype == "musing" %}
           {% assign previousPage = pg.pid %}
           {% assign fixpath = "poems_" %}
         {% endif %}
@@ -137,7 +137,7 @@ layout: default
 
 
 
-  {% if page.pagetype == "musing" or page.pagetype == "interview" %}
+  {% if page.pagetype == "musing" %}
   <div class="nextlink">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
     </div>
@@ -147,7 +147,7 @@ layout: default
     </div>
 
   {% else %}
-    {% if page.nonote == "1" %}
+    {% if page.nonote == "1" or page.nonote == "consecutive" %}
          <div class="nextlink">
             <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
           </div>
