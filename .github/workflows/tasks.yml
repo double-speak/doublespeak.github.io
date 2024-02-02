@@ -44,8 +44,12 @@ jobs:
         ## here begin the collection builds
       - name: build author tags
         run: bundle exec rake wax:pages author_tags
+      - name: clobber poems 2023
+        run: bundle exec rake wax:clobber poems_2023
       - name: build poems 2023
         run: bundle exec rake wax:pages poems_2023
+      - name: clobber poems 2022
+        run: bundle exec rake wax:clobber poems_2022
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build
