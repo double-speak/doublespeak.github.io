@@ -55,8 +55,8 @@ jobs:
 ## poems
       # - name: clobber poems 2023
       #   run: bundle exec rake wax:clobber poems_2023
-      - name: build poems 2023
-        run: bundle exec rake wax:pages poems_2023
+      # - name: build poems 2023
+      #   run: bundle exec rake wax:pages poems_2023
       # - name: clobber poems 2022
       #   run: bundle exec rake wax:clobber poems_2022
       - name: build poems 2022
