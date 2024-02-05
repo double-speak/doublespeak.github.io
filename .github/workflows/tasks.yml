@@ -99,10 +99,6 @@ jobs:
       - name: build search 
         run: bundle exec rake wax:search main
 
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
-
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build
