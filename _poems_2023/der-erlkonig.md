@@ -114,6 +114,7 @@ tbio: "<p>Benjamin McAvoy-Bickford is a first-year student at the University of 
   is a linguistics major. Besides learning languages, he spends his free time playing
   mandolin and guitar, writing and photographing for The Daily Pennsylvanian, and
   competing with the Penn Quiz Bowl.</p>"
+epigraph: 
 language: German
 lang: de
 image: "/assets/images/images_23/der-erlkonig.jpeg"
@@ -125,7 +126,7 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '1'
+nonote: '3'
 order: '08'
 layout: poempage
 collection: poems_2023

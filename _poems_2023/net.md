@@ -72,6 +72,7 @@ tbio: "<p>Abigail Tuscano (b. 2005) is a high school junior from Texas, and a fi
   and Spanish. Her loss of fluency in her heritage language at an early age — and
   the resultant loss of a cultural anchor — inspired her to turn to language-learning
   as a way of circling back to something akin to the voices and stories of her childhood.</p>"
+epigraph: 
 language: Hindi
 lang: hi
 image: "/assets/images/images_23/net.png"

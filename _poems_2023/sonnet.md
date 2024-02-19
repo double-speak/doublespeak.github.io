@@ -60,6 +60,7 @@ tbio: "<p>Madison Weiss is a senior at the University of Pennsylvania majoring i
   Philosophy, Politics, and Economics, minoring in French and Spanish. They hold a
   deep appreciation for classic literature, deep conversation, and pairing either
   with a good cup of coffee.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: "/assets/images/images_23/sonnet.png"

@@ -84,6 +84,7 @@ tbio: "<p>Fernando Ursine, from Montes Claros, Brazil, currently based in Sappor
   common among the first Modernist generation authors. This fostered his passion for
   modern and contemporary Brazilian literature and writing. He likes to learn things,
   and his interests are all over the place.</p>"
+epigraph: 
 language: Portuguese
 lang: pt
 image: "/assets/images/images_23/poetica.jpeg"

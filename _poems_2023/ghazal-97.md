@@ -69,6 +69,7 @@ tbio: "<p>Denis Ferhatović (b. 1980) is a Bosnian-American scholar and writer, 
   His scholarly work appears in various journals and essay collections. His monograph
   <em>Borrowed Objects and the Art of Poetry: Spolia in Old English Verse</em> came
   out in 2019.\n"
+epigraph: 
 language: Turkish
 lang: tr
 image: "/assets/images/images_23/ghazal-97.jpeg"

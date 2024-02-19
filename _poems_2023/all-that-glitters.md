@@ -116,6 +116,7 @@ tbio: "<p>Chardonnay Needler is a senior at the University of Pennsylvania study
   surely learning German and is excited to continue learning, translating, and erring
   even after graduating. She’s also a member of PennYo A Cappella and the Penn Chamber
   Music Ensemble (in which she plays cello), as well as a Turner ESG Fellow.</p>"
+epigraph: 
 language: Chinese
 lang: zh
 image: "/assets/images/images_23/all-that-glitters.jpg"

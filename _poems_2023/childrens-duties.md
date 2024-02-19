@@ -3,7 +3,7 @@ pid: childrens-duties
 title: หน้าท’่เด็ก
 transtitle: 'Children''s Duties '
 author: Cha-um Panchaphan
-translator: John Viano and Peeriya Pongsarigun
+translator: Peeriya Pongsarigun; John Viano
 poem: |-
   เด็กเอ๋ยเด็กดี
   ต้องมีหน้าที่สิบอย่างด้วยกัน
@@ -64,6 +64,7 @@ tbio: "<p>John Viano and Peeriya Pongsarigun are authors and translators who exc
   Ministry of Public Health and Thai Health Promotion Foundation. John and Peeriya
   have translated over one-hundred-fifty children’s books. They last published with
   <em>DoubleSpeak</em> in Spring 2022.</p>"
+epigraph: 
 language: Thai
 lang: th
 image: "/assets/images/images_23/childrens-duties.jpeg"

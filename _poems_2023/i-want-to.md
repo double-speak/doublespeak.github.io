@@ -35,6 +35,7 @@ tbio: "<p>Dian Febrianti is a Fulbright FLTA at the University of Pennsylvania f
   to improve the lives of marginalized people. Besides her professional work, she
   is also interested in the work of translation, and previously translated documents
   as a side job or for fun.</p>"
+epigraph: 
 language: Bahasa Indonesia
 lang: in
 image: "/assets/images/images_23/i-want-to.jpeg"

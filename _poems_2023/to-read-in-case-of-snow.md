@@ -2,9 +2,7 @@
 pid: to-read-in-case-of-snow
 title: Te Lezen bij Sneeuw
 transtitle: To Read in Case of Snow
-author: 'Esther Jansma
-
-'
+author: "Esther Jansma\r"
 translator: C.H. Henry
 poem: "Een paar hoeken om en je staat in de stilte\nop een bodem, tussen oude muren,
   lagen metselwerkin\nzomaar een winter. Uit de tijd gestapt.\n\nHet vriest. Kinderen
@@ -54,6 +52,7 @@ tbio: "<p>C.H. Henry is a sophomore at the University of Pennsylvania currently 
   and family in Nashville, Tennessee, are not directly Dutch, but he has enjoyed learning
   a language he previously had little to no knowledge of until reaching Penn. He hopes
   more students will pursue the same remote interests.</p>"
+epigraph: 
 language: Dutch
 lang: nl
 image: "/assets/images/images_23/to-read-in-case-of-snow.jpg"

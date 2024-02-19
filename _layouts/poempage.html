@@ -50,7 +50,6 @@ layout: default
         </div>
         <h2>{{page.author}}</h2>
         <hr />
-        <pre lang="{{ page.lang }}">{{page.poem}}</pre>
       </div>
       <div class="transpoem">
         <h1 class="poemtitle">{{page.transtitle}}</h1>
@@ -59,6 +58,14 @@ layout: default
         </div>
         <h2>{{page.translator}}</h2>
         <hr />
+      </div>
+        {% if page.epigraph %}
+          <pre style="width:60vw">{{page.epigraph}}</pre>
+        {% endif %}
+      <div class="ogpoem">
+        <pre lang="{{ page.lang }}">{{page.poem}}</pre>
+      </div>
+      <div class="transpoem">
         <pre>{{page.transpoem}}</pre>
       </div>
     </div>

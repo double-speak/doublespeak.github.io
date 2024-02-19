@@ -39,7 +39,8 @@ abio: |-
   <p>Aiyana Nosizwe Mate is an undergraduate student pursuing a bachelor’s in Anthropology from the
   University of Pennsylvania. She was born in Vancouver, British Columbia, and currently lives in Philadelphia. In her free time, she enjoys writing poetry and is currently an editor of Doublespeak Magazine.</p>
 tbio: 
-language: 
+epigraph: 
+language: siSwati
 lang: en
 image: "/assets/images/images_23/lost-and-found.jpg"
 image2: none
