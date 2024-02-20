@@ -102,14 +102,15 @@ tbio: "<p><em>DoubleSpeak</em> Staff is a group of poetry lovers and language af
   hosting a radio show at Penn. We are forever fascinated by the depth and breadth
   of language and translation, and we hope to share our love for such wonders with
   all the readers of <em>DoubleSpeak</em>.</p>\n"
-language: 
+interviewee_bio:
+language:
 lang: zh
-image: 
-imagecredit: 
+image:
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1zZbY1ri7v576AOO6ZKhCkLtBWBa1ULsA/preview\">\n
   \ </iframe>\n</div>\n"
-translaudio: 
+translaudio:
 edition: '2021'
 pagetype: submission
 order: '36'

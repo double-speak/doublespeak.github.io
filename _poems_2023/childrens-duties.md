@@ -64,20 +64,20 @@ tbio: "<p>John Viano and Peeriya Pongsarigun are authors and translators who exc
   Ministry of Public Health and Thai Health Promotion Foundation. John and Peeriya
   have translated over one-hundred-fifty children’s books. They last published with
   <em>DoubleSpeak</em> in Spring 2022.</p>"
-epigraph: 
+epigraph:
 language: Thai
 lang: th
 image: "/assets/images/images_23/childrens-duties.jpeg"
 image2: none
-imagecredit: 
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit:
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2023'
 pagetype: submission
-wrapformat: 
+wrapformat:
 nonote: '0'
-order: '12'
+order: '13'
 layout: poempage
 collection: poems_2023
 ---

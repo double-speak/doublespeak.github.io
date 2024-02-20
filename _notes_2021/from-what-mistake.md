@@ -1,7 +1,7 @@
 ---
 pid: from-what-mistake
 title: <span lang="ko">어떤 과오로부터</span>
-transtitle: "“From what mistake”"
+transtitle: From what mistake
 author: Kim Soon Mi
 translator: Nadia Park
 poem: "어떤 과오로부터\n어떤 환희로부터\n너희들은 왔는가\n가볍고 무거운 물새들의 몸\n패인 날갯죽지\n잘려 나간 꼬리들\n여윈 다리와 물갈퀴에\n걸리는
@@ -41,6 +41,7 @@ tbio: "<p>Nadia Park graduated from the University of Pennsylvania in 2019 as a 
   she continues to fall back into the world of poetry and translation both consciously
   and unconsciously, discovering and encountering non-English poems and this year
   — a poet.</p>"
+interviewee_bio:
 language: Korean
 lang: ko
 image: "/assets/images/images_21/kim_soon_mi.jpeg"

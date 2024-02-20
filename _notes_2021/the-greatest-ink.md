@@ -45,10 +45,11 @@ abio: "<p>What little information exists about Armando Valladares on the interne
   However, I believe Valladares when he said, “Poetry is a weapon.”</p>"
 tbio: "<p>Margaret Lawlace is a graduate student in clinical psychology at the University
   of Cincinnati. She enjoys watching birds, cats, and cats watching birds.</p>"
+interviewee_bio:
 language: Spanish
 lang: es
-image: 
-imagecredit: 
+image:
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/16cfcpPsFhBwXltFLY7yo-uBFK1_sEGNg/preview\">\n
   \ </iframe>\n</div>\n\n"

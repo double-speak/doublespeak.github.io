@@ -68,6 +68,7 @@ tbio: "<p>Elizabeth Rose is a poet, translator, and PhD candidate in comparative
   Quarterly</em>, <em>Cagibi</em>, <em>Volume</em>, and <em>Raspa Magazine</em>, among
   other places. They currently reside on occupied Tohono O’odham territory, or Tucson,
   Arizona.</p>"
+interviewee_bio:
 language: Spanish
 lang: es
 image: "/assets/images/images_21/rossi.png"

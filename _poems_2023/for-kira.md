@@ -120,15 +120,15 @@ language: Russian
 lang: ru
 image: "/assets/images/images_23/for-kira.jpeg"
 image2: none
-imagecredit: 
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit:
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2023'
 pagetype: submission
-wrapformat: 
+wrapformat:
 nonote: '0'
-order: '15'
+order: '16'
 layout: poempage
 collection: poems_2023
 ---

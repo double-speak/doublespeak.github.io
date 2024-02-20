@@ -47,6 +47,7 @@ tbio: "<p>Karina Carreras is a senior at the University of Iowa. This semester, 
   her peers and professor. She wanted to submit this translation because it was so
   moving in German, and she thinks English readers should have the chance to read
   it as well.</p>"
+interviewee_bio:
 language: German
 lang: de
 image: "/assets/images/images_21/friedmann.JPEG"

@@ -14,8 +14,6 @@ layout: default
 
 </head>
 
-   <title>{{page.translator}} on translating {{page.author}}</title>
-
 <body>
   <div class="bg">
   {% include navbar.html %}
@@ -66,24 +64,34 @@ layout: default
 
         {% endif %}
 
-
-
-
 {% endfor %}
+
+{% if page.pagetype =="frontmatter" %}
+<div class='flex-container'>
+  <div class="container">
+      <div class="note">
+        <h2 class="note">Editor's Note</h2><br>
+        <p class="note"> {{page.note}}</p>
+      </div>
+    <div class="flex-container">
+
+{% endif %}
+
+{% if page.note and page.pagetype == "submission" %}
+
+  <title>{{page.translator}} on translating {{page.author}}</title>
+
 <div class='flex-container'>
   <div class="container">
       <div class="note">
         <h1>{{page.translator}}</h1><br>
-        {% if page.note %}
         <h2 class="note">on translating {{page.author}}</h2><br>
-        <p class="note"> {{page.note}}
-        </p>
-        {% endif %}
-        
+        <p class="note"> {{page.note}}</p>
       </div>
     <div class="flex-container">
 
        <div class="note-text">
+
           <div class="abio">
 
             <h1 class="abio">about the author</h1>
@@ -95,13 +103,26 @@ layout: default
             <h1 class="tbio">about the translator</h1>
             <p>{{page.tbio}}</p>
         </div>
+      {% endif %}
+
+
       {% if page.image and page.image != "none" and page.image != "none " and page.image != "" %}
          <p class="caption"> 
         </p>
          <!-- <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img> -->
          </div>
       {% endif %}
+{% if page.note and page.pagetype == "interview" %}
+  <div class='flex-container'>
+    <div class="container">
+      <h1 class="abio" style="width:100%">About the Interviewee</h1>
+         <div class="note-text">
 
+          <p>{{page.interviewee_bio}}</p>
+          </div>
+        </div>
+      </div>
+{% endif %}
   </div>
 
     <div class="previouslink">

@@ -74,20 +74,20 @@ tbio: "<p>James Mesiti, a native of Albany, New York, is a researcher and poet. 
   of Pennsylvania where his research focuses on modern and contemporary transatlantic
   Hispanic poetry. In October 2021, he published his first poetry book titled <em>Algo
   de nadie</em> (<em>Something of No One</em>) with Valparaiso Ediciones.</p>"
-epigraph: 
+epigraph:
 language: Spanish
 lang: es
 image: "/assets/images/images_23/sin-titulo.png"
 image2: none
 imagecredit: photo by Katherine Rozsypalek
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2023'
 pagetype: submission
-wrapformat: 
+wrapformat:
 nonote: '0'
-order: '06'
+order: '07'
 layout: poempage
 collection: poems_2023
 ---

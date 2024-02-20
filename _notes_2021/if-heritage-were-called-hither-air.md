@@ -72,10 +72,11 @@ tbio: "<p>Qingyang Zhou (Freya) is a PhD candidate in German at UC Berkeley. She
   She has published academic articles on queer cinema, German and Israeli literature,
   interactions between Jewish refugees and the Chinese in Shanghai during World War
   II, and East German portrayals of China in literary and filmic travelogues.</p>"
+interviewee_bio:
 language: German
 lang: de
-image: 
-imagecredit: 
+image:
+imagecredit:
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1FzgKF7p6yfM_mGnRyOm2XN7CI2TySE6D/preview\">\n
   \ </iframe>\n</div>\n\n"

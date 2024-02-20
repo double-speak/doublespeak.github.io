@@ -108,6 +108,7 @@ abio: "<p>Born in 1973, Filippo Vignali lives in Rimini, Italy. He has cowritten
 tbio: |-
   <p>Giulia Rupi is from Rimini, Italy, and graduated with a master’s degree from the School of Foreign Languages and Cultures at the University of Bologna. She currently lives in Madrid, where she teaches Italian and English and translates into English, Italian, and Spanish.</p>
   <p>John Sherer is a writer based in Brooklyn. His poems, essays, and reviews have appeared in <em>The Point</em>, <em>Hot Metal Bridge</em>, <em>Botticelli Magazine</em>, <em>Hyperallergic</em>, and <em>Gulf Coast</em>. He is the poetry editor of the <em>Festival Review</em>.</p>
+interviewee_bio:
 language: Italian
 lang: it
 image: "/assets/images/images_21/vignali.jpeg"
@@ -175,4 +176,5 @@ pagetype: submission
 order: '28'
 layout: poempage
 collection: poems_2021
+...
 ---
