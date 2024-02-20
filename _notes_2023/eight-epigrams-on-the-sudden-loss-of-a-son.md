@@ -1,6 +1,6 @@
 ---
 pid: eight-epigrams-on-the-sudden-loss-of-a-son
-title: 'Eight Epigrams on the Sudden Loss of a Son '
+title:
 transtitle: 'Eight Epigrams on the Sudden Loss of a Son '
 author: Moses Ibn Ezra
 translator: Ben Notis
@@ -82,17 +82,18 @@ abio: "<p>Medieval Hebrew poetry in al-Andalus (Islamic Spain) from the eleventh
 tbio: |-
   <p>Ben Notis is a doctoral student in the University of Pennsylvania’s department of Near Eastern Languages and Civilizations. His dissertation focuses on Hebrew poetry written during an exciting time of Jewish-Muslim interaction in al-Andalus (Islamic Spain) in the eleventh and twelfth centuries. He hopes to explore lyrical complaints about physical and mental breakdowns, betrayal and abuse, separation from friends and lovers, and the vicissitudes of Time. His other interests include medieval Arabic poetry, the histories of madness and emotions, and the cultural history of the human body. A graduate of Brandeis’s Near Eastern and Judaic Studies department in 2017, he came to Penn after a series of odd jobs including farming, Bar Mitzvah tutoring, and book editing. When not studying, he enjoys visiting his nephews and baking.
   </p>
+epigraph:
 language: Hebrew
 lang: he
 image: "/assets/images/images_23/eight-epigrams-on-the-sudden-loss-of-a-son.jpeg"
 image2: none
 imagecredit: photo by Ryan Hardy
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2023'
 pagetype: submission
-wrapformat: 
+wrapformat:
 nonote: '0'
 order: '05'
 layout: notepage

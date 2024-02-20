@@ -159,12 +159,13 @@ tbio: "<p>Samantha Pious’s translations from the poetry of Renée Vivien are a
   de Pizan’s <em>One Hundred Ballades of a Lover</em> and his <em>Lady and Lady’s
   Lay</em> are on their way. She holds a Ph.D. in comparative literature from the
   University of Pennsylvania.</p>"
+epigraph:
 language: French
 lang: fr
 image: "/assets/images/images_23/music.jpg"
 image2: none
-imagecredit: 
-imagecredit2: 
+imagecredit:
+imagecredit2:
 origaudio: |-
   <div>
 
@@ -203,7 +204,7 @@ translaudio: |-
   </div>
 edition: '2023'
 pagetype: submission
-wrapformat: 
+wrapformat:
 nonote: '0'
 order: '19'
 layout: notepage

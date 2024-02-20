@@ -56,17 +56,18 @@ tbio: <p>Yi Feng is a scholar, translator, poet, and associate professor at Nort
   Monthly (<span lang=”zh”>诗歌月刊</span>), DoubleSpeak Magazine</em> and <em>Anomaly</em>.
   She was awarded the Hunt Scholarship in 2016. She has won the Bronze Prize in the
   2017 International Competition in Short Chinese Poems. She lives in Shenyang, China.</p>
+epigraph:
 language: Chinese
 lang: zh
 image: "/assets/images/images_23/cobweb-clues-counting.jpg"
 image2: none
-imagecredit: 
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit:
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2023'
 pagetype: submission
-wrapformat: 
+wrapformat:
 nonote: '0'
 order: '00'
 layout: notepage

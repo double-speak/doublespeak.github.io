@@ -93,17 +93,18 @@ tbio: "<p>Anna Aresi is an Italian translator and educator based in Rhode Island
   and in 2021 was among the winners of the All-Russia State Library for Foreign Literature
   and The Institute for Literary Translation “Writers of the Silver Age about War”
   translation contest, with a poem by Anna Akhmatova.</p>"
+epigraph:
 language: Italian
 lang: it
 image: "/assets/images/images_23/send-me-your-news-and-kisses-to-all.jpeg"
 image2: none
-imagecredit: 
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit:
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2023'
 pagetype: submission
-wrapformat: 
+wrapformat:
 nonote: '0'
 order: '14'
 layout: notepage

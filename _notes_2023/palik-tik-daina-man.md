@@ -74,12 +74,13 @@ abio: "<p>Paulius Širvys (1920 – 1979) was a popular Lithuanian poet and jour
 tbio: |-
   <p>Ash Maria is a first-generation college student double-majoring in anthropology and Russian and Eastern European studies at Pomona College. Despite entering college monolingual, at Pomona he was able to study Eastern Armenian, French, German, Lithuanian, Portuguese, and Russian. They spent the last summer living in Vilnius, Lithuania, where they completely fell in love with the Lithuanian language and realized that they wanted to spend their career studying and translating its literature. He has also published poetry translations of Anton Ochirov’s work from Russian and translated for the independent media outlet <em>Meduza</em>. They are currently applying to Ph.D. programs in both comparative literature and Slavic studies.
   </p>
+epigraph:
 language: Lithuanian
 lang: lt
 image: "/assets/images/images_23/palik-tik-daina-man.jpeg"
 image2: none
-imagecredit: 
-imagecredit2: 
+imagecredit:
+imagecredit2:
 origaudio: |-
   <div>
 
@@ -102,7 +103,7 @@ translaudio: |-
   </div>
 edition: '2023'
 pagetype: submission
-wrapformat: 
+wrapformat:
 nonote: '0'
 order: '07'
 layout: notepage

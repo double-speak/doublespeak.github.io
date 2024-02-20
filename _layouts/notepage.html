@@ -19,15 +19,28 @@ layout: default
 <body>
   <div class="bg">
   {% include navbar.html %}
-    <div class="poemtags">
+
+<div class="poemtags">
       <ul>
         <p class="tcontentslink link"><a href="{{site.baseurl}}/toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
-        {% if page.language %}<li><a href="{{site.baseurl}}/language_tags/{{page.language | slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
-        {% endif %}
+        {% if page.language and page.language != "English" %}
+          {% assign tags = page.language | split: ';' %}       
+            {% for tag in tags %}
+              <li><a href="{{site.baseurl}}/language_tags/{{tag| slugify: 'latin' | replace: '-','_'}}">{{tag}}</a></li>
+            {% endfor %}
+          {% endif %}
         {% if page.translator %}
-        <li><a href="{{site.baseurl}}/translator_tags/{{page.translator | slugify: 'latin' | replace: '-','_'}}">{{page.translator}}</a></li>
-        {% endif %}
-        <li><a href="{{site.baseurl}}/author_tags/{{page.author | slugify: 'latin' | replace: '-','_'}}">{{page.author}}</a></li>
+          {% assign tags = page.translator | split: ';' %}       
+            {% for tag in tags %}
+              <li><a href="{{site.baseurl}}/translator_tags/{{tag| slugify: 'latin' | replace: '-','_'}}">{{tag}}</a></li>
+            {% endfor %}
+          {% endif %}
+        {% if page.author %}
+          {% assign tags = page.author | split: ';' %}       
+            {% for tag in tags %}
+              <li><a href="{{site.baseurl}}/author_tags/{{tag| slugify: 'latin' | replace: '-','_'}}">{{tag}}</a></li>
+            {% endfor %}        
+          {% endif %}
       </ul>
     </div>
   <br>

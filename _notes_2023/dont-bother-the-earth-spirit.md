@@ -72,7 +72,7 @@ transpoem: "<h1>Nun fastidies al espíritu de la tierra</h1>\n<h2>translated int
   ослепительную красоту. Это рассказ такой неотразимый, что возможно ты никогда не
   захочешь уходить. И так она тебя поймёт. Видишь вон тот каменный палец? Он единственный,
   который сбежал.\n\n"
-note: 
+note:
 abio: "<p>Joy Harjo is a poet and musician from the Mvskoke (Creek) Nation. After
   growing up in Tulsa, Oklahoma, Harjo attended the Institute of American Indian Arts
   and the University of New Mexico, where she began composing poetry. Harjo has held
@@ -95,17 +95,18 @@ tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and languag
   submissions in rhymed couplets, we’re drawn together by our shared passion for language
   and translation.</p>\n\n<p>Thank you to all of our proofreaders in the DoubleSpeak
   community \nwho made this group translation possible!</p>"
+epigraph:
 language: English
 lang: en
 image: "/assets/images/images_23/dont-bother-the-earth-spirit.jpg"
 image2: none
-imagecredit: 
-imagecredit2: 
-origaudio: 
-translaudio: 
+imagecredit:
+imagecredit2:
+origaudio:
+translaudio:
 edition: '2023'
 pagetype: submission
-wrapformat: 
+wrapformat:
 nonote: '0'
 order: '24'
 layout: notepage
