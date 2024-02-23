@@ -102,16 +102,17 @@ layout: default
           {% assign nextIndex = forloop.index | plus: 1 %}
         {% endif %}
 
-    {% endfor %}
+      {% endfor %}
 
     {% for pg in site.data[path] %}
 
-        {% if forloop.index == previousIndex and pg.pagetype != "musing" and pg.pagetype != "frontmatter" %}
+<!--     if we are on the previous page, and our current page is not a musing or frontmatter -->
+        {% if forloop.index == previousIndex %}
           {% assign previousPage = pg.pid %}
 
         {% endif %}
 
-        {% if forloop.index == previousIndex and forloop.index != 1 and pg.pagetype == "musing" %}
+        {% if forloop.index == previousIndex and pg.pagetype == "musing" or pg.pagetype == "frontmatter" %}
           {% assign previousPage = pg.pid %}
           {% assign fixpath = "poems_" %}
         {% endif %}
@@ -136,6 +137,8 @@ layout: default
     {% endfor %}
 
 
+
+<!-- PREVIOUS BUTTON CODE --> 
   {% if fixpath == "poems_" %}
 
     <div class="previouslink">
@@ -145,8 +148,8 @@ layout: default
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
     </div>
 
-  {% else %}
-    {% if page.pagetype contains "frontmatter" %}
+  {% endif %}
+    {% if page.pid == "editor-note" %}
     <div class="previouslink">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"> < &nbsp;previous</a></p>
     </div>
@@ -172,10 +175,10 @@ layout: default
     </div>
     {% endif %}
   {% endif %}
-  {% endif %}
 
 
-  {% if page.pagetype == "musing" or page.pagetype == "frontmatter" %}
+<!-- NEXT BUTTON CODE -->  
+ {% if page.pagetype == "musing" or page.pagetype == "frontmatter" %}
   <div class="nextlink">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
     </div>
