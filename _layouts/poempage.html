@@ -42,7 +42,7 @@ layout: default
       </ul>
     </div>
 
-  {% if page.pagetype == "musing" or page.pagetype == "interview" %}
+  {% if page.pagetype == "musing" or page.pagetype == "interview" or page.pagetype == "frontmatter" %}
     <div class="container">
       <div class="note">
         <h1>{{page.title}}</h1>
@@ -106,13 +106,7 @@ layout: default
 
     {% for pg in site.data[path] %}
 
-
-        {% if forloop.index == 1 %}
-          {% assign previousPage = "ednote" | append: page.edition %}
-
-        {% endif %}
-
-        {% if forloop.index == previousIndex and pg.pagetype != "musing" %}
+        {% if forloop.index == previousIndex and pg.pagetype != "musing" and pg.pagetype != "frontmatter" %}
           {% assign previousPage = pg.pid %}
 
         {% endif %}
@@ -120,6 +114,19 @@ layout: default
         {% if forloop.index == previousIndex and forloop.index != 1 and pg.pagetype == "musing" %}
           {% assign previousPage = pg.pid %}
           {% assign fixpath = "poems_" %}
+        {% endif %}
+
+    
+
+        {% if forloop.index == 2 and pg.pagetype != "frontmatter" %}
+          {% assign previousPage = "editor-note" %}
+          {% assign fixpath = "poems_" %}
+
+        {% endif %}
+
+        {% if forloop.index == 2 and page.pagetype == "frontmatter" %}
+          {% assign previousPage = "staff" | append: page.edition %}
+
         {% endif %}
 
         {% if forloop.index == nextIndex %}
@@ -138,7 +145,8 @@ layout: default
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
     </div>
 
-  {% elsif previousPage contains "ednote" %}
+  {% else %}
+    {% if page.pagetype contains "frontmatter" %}
     <div class="previouslink">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"> < &nbsp;previous</a></p>
     </div>
@@ -164,10 +172,10 @@ layout: default
     </div>
     {% endif %}
   {% endif %}
+  {% endif %}
 
 
-
-  {% if page.pagetype == "musing" %}
+  {% if page.pagetype == "musing" or page.pagetype == "frontmatter" %}
   <div class="nextlink">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
     </div>

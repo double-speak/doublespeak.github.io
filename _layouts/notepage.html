@@ -66,17 +66,6 @@ layout: default
 
 {% endfor %}
 
-{% if page.pagetype =="frontmatter" %}
-<div class='flex-container'>
-  <div class="container">
-      <div class="note">
-        <h2 class="note">Editor's Note</h2><br>
-        <p class="note"> {{page.note}}</p>
-      </div>
-    <div class="flex-container">
-
-{% endif %}
-
 {% if page.note and page.pagetype == "submission" %}
 
   <title>{{page.translator}} on translating {{page.author}}</title>
