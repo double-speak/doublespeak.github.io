@@ -1,8 +1,8 @@
 ---
-pid: Stephanie_Diaz
-name: Stephanie Diaz
+pid: John_Viano
+name: " John Viano"
 type: translator
-order: '145'
+order: '113'
 layout: tagpage
 collection: translator_tags
 ---

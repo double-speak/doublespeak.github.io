@@ -25,9 +25,14 @@ layout: default
    {% for poem in issues %}
 <!--          look in the language spreadsheet
  -->    
+{% assign authors = poem.author | split: ';' %} 
+{% assign translators = poem.translator | split: ';' %} 
+{% assign languages = poem.language | split: ';' %} 
+
 
         {% if page.type == "language" %}
-            {% if poem.language == page.name %}
+          {% for lang in languages %}
+            {% if lang == page.name %}
               {% if poem.pagetype == 'submission' %}
                 <div class="tcleft">
                   <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
@@ -43,10 +48,12 @@ layout: default
                 </div>
             {% endif %}
             {% endif %}
+            {% endfor %}
             {% endif %}
 <!--          look in the author spreadsheet
  -->    {% if page.type == "author" or page.type == "translator" %}
-            {% if poem.author == page.name %}
+           {% for auth in authors %}
+            {% if auth == page.name %}
               {% if poem.pagetype == 'submission' %}
                 <div class="tcleft">
                   <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2>
@@ -61,12 +68,12 @@ layout: default
                   {% endif %}
                 </div>
             {% endif %}
-
             {% endif %}
+            {% endfor %}
  
 <!--          look in the translator spreadsheet
- -->    
-            {% if poem.translator == page.name %}
+ -->      {% for trans in translators %}
+            {% if trans == page.name %}
               {% if poem.pagetype == 'submission' %}
                 <div class="tcleft">
                   <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
@@ -82,7 +89,9 @@ layout: default
                 </div>
               {% endif %}
             {% endif %}
-        {% endif %}
+            {% endfor %}
+            {% endif %}
+
       {% endfor %}
     {% endfor %}
   </div>
