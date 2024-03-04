@@ -1,7 +1,7 @@
 pid,name,type
 Ancient_Greek,Ancient Greek,language
 Arabic,Arabic,language
-Bahasa_indonesia,Bahasa Indonesia,language
+Bahasa_Indonesia,Bahasa Indonesia,language
 Bosnian,Bosnian,language
 Bulgarian,Bulgarian,language
 Chinese,Chinese,language
@@ -28,7 +28,7 @@ Mandarin,Mandarin,language
 Middle_English,Middle English,language
 Norwegian,Norwegian,language
 Old_English,Old English,language
-Old_Occitan_and_Genovese,Old Occitan and Genovese,language
+Old_Occitan,Old Occitan,language
 Polish,Polish,language
 Portuguese,Portuguese,language
 Russian,Russian,language
@@ -42,3 +42,4 @@ Turkish,Turkish,language
 Urdu,Urdu,language
 Yiddish,Yiddish,language
 English,English,language
+siSwati,siSwati,language

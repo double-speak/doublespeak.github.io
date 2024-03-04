@@ -171,11 +171,10 @@ tbio: "<p>Couloir X. Hanson is a daughter of three worlds: Costa Rica, Germany, 
   chess, and singing opera. After graduating from Penn, Couloir will work in real
   estate, where she hopes to use her whimsy to see what is and imagine what could
   be.</p>"
-interviewee_bio:
 language: Spanish
 lang: es
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: |
   <div>
     <iframe
@@ -185,7 +184,7 @@ origaudio: |
       src="https://drive.google.com/file/d/1E-WXA42l7Zua7rsUTsOMD-H8DLp_gxeb/preview">
     </iframe>
   </div>
-translaudio:
+translaudio: 
 edition: '2021'
 pagetype: submission
 order: '24'

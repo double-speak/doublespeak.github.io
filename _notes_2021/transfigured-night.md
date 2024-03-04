@@ -80,11 +80,10 @@ tbio: "<p>Jonathan Iwry graduated <em>summa cum laude</em> from the University o
   Second World War. In addition to speaking Hebrew, he has been teaching himself German
   over the course of the pandemic; this is his first translation from German into
   English.</p>"
-interviewee_bio:
 language: German
 lang: de
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1OFFFGrfIXD2F7qrK7rFPuYmA1zWpMtIJ/preview\">\n
   \ </iframe>\n</div>"

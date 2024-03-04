@@ -38,11 +38,10 @@ abio: "<p>Carlos de Assumpção (1927–) is a Brazilian author who mainly write
 tbio: |
   <p>Pedro Lino is a senior majoring in history at São Paulo State University, Brazil. He is a true “logophile” (someone who loves words) and a polyglot who doesn’t talk all that often, but sure does translate a lot. Although he occasionally tries to stop writing, he just can’t seem to do so.</p>
   <p>You can find some of Pedro’s poems at <em>eMerge</em>, the magazine of the Writers Colony House at Dairy Hollow.</p>
-interviewee_bio:
 language: Portuguese
 lang: pt
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \  src=\"https://drive.google.com/file/d/1TiL2Nfnnxb1x0_ZZx9c8rVNi9f-kjoPN/preview\">\n
   \ </iframe>\n</div>"

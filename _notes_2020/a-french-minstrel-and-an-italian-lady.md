@@ -85,7 +85,7 @@ tbio: "<p>Samantha Pious is the translator of <em>A Crown of Violets: Selected P
   of Renée Vivien</em> (Headmistress Press, 2017). She holds a PhD in comparative
   literature from the University of Pennsylvania and is currently working as managing
   editor for Indolent Books.</p>"
-language: Old Occitan and Genovese
+language: Old Occitan; Genovese
 lang: oc
 image: "/assets/images/images_20/pious.jpg"
 image2: 

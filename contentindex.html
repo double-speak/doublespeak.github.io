@@ -26,8 +26,8 @@ layout: default
           {% for issues_hash in site.data.issues %}
             {% assign issues = issues_hash[1] %}
             {% for poem in issues %}
-              {% if poem.pagetype == "submission" %}
-                {% assign poem_authors = poem.author | split: ';' %}
+              {% if poem.pagetype == "submission" or poem.pagetype == "musing" or poem.pagetype == "frontmatter" %}
+                {% assign poem_authors = poem.author | split: '; ' %}
                 {% for indiv_author in poem_authors %}
                   {% assign authors = authors | push: indiv_author %}
                 {% endfor %}
@@ -51,7 +51,7 @@ layout: default
             {% assign issues = issues_hash[1] %}
             {% for poem in issues %}
               {% if poem.pagetype == "submission" %}
-                {% assign poem_translators = poem.translator | split: ';' %}
+                {% assign poem_translators = poem.translator | split: '; ' %}
                 {% for indiv_translator in poem_translators %}
                   {% assign translators = translators | push: indiv_translator %}
                 {% endfor %}
@@ -76,8 +76,8 @@ layout: default
           {% for issues_hash in site.data.issues %}
             {% assign issues = issues_hash[1] %}
             {% for poem in issues %}
-              {% if poem.pagetype == 'submission' %}
-              {% assign poem_languages = poem.language | split: ';' %}
+              {% if poem.pagetype == 'submission' or poem.pagetype == 'musing' %}
+              {% assign poem_languages = poem.language | split: '; ' %}
                 {% for indiv_language in poem_languages %}
                   {% assign languages = languages | push: indiv_language %}
                 {% endfor %}

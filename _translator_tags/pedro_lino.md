@@ -2,7 +2,7 @@
 pid: Pedro_Lino
 name: Pedro Lino
 type: translator
-order: '111'
+order: '116'
 layout: tagpage
 collection: translator_tags
 ---

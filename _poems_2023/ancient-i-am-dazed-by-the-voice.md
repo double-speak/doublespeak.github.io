@@ -40,13 +40,13 @@ tbio: "<p>Carla Rossi graduated with a degree in conference interpreting (Englis
   language ever since, in both private and public schools. She also worked as a university
   Spanish interpreting lecturer and as a teacher for students in special education.
   It is no wonder, then, that she has always loved foreign languages.</p>"
-epigraph:
+epigraph: 
 language: Italian
 lang: it
 image: "/assets/images/images_23/ancient-i-am-dazed-by-the-voice.jpeg"
 image2: none
-imagecredit:
-imagecredit2:
+imagecredit: 
+imagecredit2: 
 origaudio: |-
   <div>
 
@@ -69,7 +69,7 @@ translaudio: |-
   </div>
 edition: '2023'
 pagetype: submission
-wrapformat:
+wrapformat: 
 nonote: '0'
 order: '21'
 layout: poempage

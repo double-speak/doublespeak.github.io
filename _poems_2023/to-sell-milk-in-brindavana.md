@@ -59,18 +59,18 @@ tbio: |
   <p>Nesara Shree is a first-generation student with roots in Karnataka, India, where her parents were born and raised. Her family has extensively read and listened to musical renditions of Kuvempu’s poetry, an interest that inspired her to translate one of her favorites into English.</p>
 
   <p>She speaks both Kannada and English at home, but cannot yet write or translate direct Kannada/Brahmic script, limited to the English alphabet spellings. She admires the softness of her language. She considers it poetry in itself to be able to preserve its effortless sweetness as it passes through the restricting sieve of another tongue.</p>
-epigraph:
+epigraph: 
 language: Kannada
 lang: kn
 image: "/assets/images/images_23/to-sell-milk-in-brindavana.jpeg"
 image2: none
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2023'
 pagetype: submission
-wrapformat:
+wrapformat: 
 nonote: '0'
 order: '19'
 layout: poempage

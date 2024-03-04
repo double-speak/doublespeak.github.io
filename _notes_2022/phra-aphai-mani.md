@@ -3,7 +3,7 @@ pid: phra-aphai-mani
 title: พระอภัยมณี
 transtitle: Phra Aphai Mani
 author: Sunthorn Phu
-translator: Peeriya Pongsarigun and John Viano
+translator: Peeriya Pongsarigun; John Viano
 poem: "วันนั้นพระอภัยมณีศรีสุวรรณ             \nจรจรัลเข้ามาถึงหน้าบ้าน\nเห็นลิขิตปิดไว้กับใบทวาร
   \               \nพระทรงอ่านแจ้งจิตในกิจจา\nอันท่านครูอยู่ตึกตำแหน่งนี้               \nฝีปากปี่เป่าเสนาะเพราะหนักหนา\nจึงดำรัสตรัสแก่ยา
   \                           \n อันวิชาสิ่งนี้พี่ชอบใจ\nอนุชาว่าการกลศึก                             \nน้องนี้นึกรักมาแต่ไหนไหน\nถ้าเรียนรู้รำกระบองได้ว่องไว

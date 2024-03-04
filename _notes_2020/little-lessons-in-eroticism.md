@@ -114,8 +114,7 @@ transpoem: "I. \nTo ride the waters of a body \nis to sail around the world, nav
   \nArch your eyebrows, \nopen your nostrils like windows.  \n\n\nVIII.\nBreathe in.
   Breathe out.\nDie just a little.\nDie sweetly, slowly.  \nAgonize with your eyes,
   extend your pleasure.\nTurn the mast, give wind to the sails.\nThe sail bends towards
-  Venus\nmorning star— \nthe silver sea like a vast crystal—\nrest, you castaway.
-  \n"
+  Venus\nmorning star— \nthe silver sea like a vast crystal—\nrest, you castaway. "
 note: "<p>As I translated this poem, the most important element that I wanted to maintain
   was its sensuality, as, after all, this poem is a guidebook in eroticism. I wanted
   my translation to flow out of the mouth — I wanted the words to feel like they themselves

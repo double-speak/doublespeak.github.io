@@ -76,11 +76,10 @@ tbio: "<p>Ryan is an undergraduate at the University of Pennsylvania, pursuing a
   languages, having most recently started a course in Czech. Ryan’s collaborative
   translation of Tamara Dmitrievna Skoblikova-Kudryavtseva’s memoir, <em>Words for
   Oneself</em>, is due for release by the end of 2021.</p>"
-interviewee_bio:
 language: Russian
 lang: ru
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1DyW5LJAluutOBbP63VxrjR_z_QGXYmbd/preview\">\n
   \ </iframe>\n</div>\n"

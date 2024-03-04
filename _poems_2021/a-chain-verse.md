@@ -3,7 +3,7 @@ pid: a-chain-verse
 title: '<span lang="zh">连环诗: 赏花归去</span>'
 transtitle: A Chain Verse
 author: Su Shi
-translator: Gil Lehmann, Jacey Chang, and Yehudith Dashevsky
+translator: Gil Lehmann; Jacey Chang; Yehudith Dashevsky
 poem: |2-
                         赏
               暮                   花
@@ -49,7 +49,6 @@ abio: <p>The author is alleged to be <span lang= "zh">苏轼</span>, Su Shi, but
 tbio: "<p>Gil Lehmann and Jacey Chang are both Masters of City Planning students in
   the Weitzman School of Design. Yehudith Dashevsky is a former <em>DoubleSpeak</em>
   editor who currently works in Washington, DC.</p>"
-interviewee_bio:
 language: Chinese
 lang: zh
 image: "/assets/images/images_21/su_shi.jpg"

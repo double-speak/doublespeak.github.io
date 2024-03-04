@@ -2,7 +2,7 @@
 pid: Nick_Defina
 name: Nick Defina
 type: translator
-order: '105'
+order: '110'
 layout: tagpage
 collection: translator_tags
 ---

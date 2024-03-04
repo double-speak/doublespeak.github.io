@@ -1,6 +1,6 @@
 ---
-pid: Old_Occitan_and_Genovese
-name: Old Occitan and Genovese
+pid: Old_Occitan
+name: Old Occitan
 type: language
 order: '29'
 layout: tagpage

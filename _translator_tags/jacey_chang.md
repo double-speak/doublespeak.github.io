@@ -1,6 +1,6 @@
 ---
-pid: Giulia_Rupi_and_John_Sherer
-name: Giulia Rupi and John Sherer
+pid: Jacey_Chang
+name: Jacey Chang
 type: translator
 order: '056'
 layout: tagpage

@@ -41,7 +41,6 @@ tbio: "<p>Nadia Park graduated from the University of Pennsylvania in 2019 as a 
   she continues to fall back into the world of poetry and translation both consciously
   and unconsciously, discovering and encountering non-English poems and this year
   — a poet.</p>"
-interviewee_bio:
 language: Korean
 lang: ko
 image: "/assets/images/images_21/kim_soon_mi.jpeg"

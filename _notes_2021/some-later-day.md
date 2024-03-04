@@ -55,11 +55,10 @@ abio: '<p>Born in 1902 in Kwaksan, North Pyong’an Province (located in present
 tbio: |
   <p>Younghoon Jeong is a masters candidate at Sogang University, located in Seoul, Korea. He studies natural language processing, and is especially interested in ethical considerations of AI. He loves to code, and often finds himself doing so at midnight while enjoying lo-fi music. Younghoon received his BA as a double major in Chinese culture and computer science. While studying abroad at Tsinghua University (Beijing, China), he realized that he loves interacting with people of varying cultural backgrounds; this has been a huge inspiration for him to take on learning foreign languages like English and Mandarin Chinese, as well as travel across the world (before COVID-19). In his free time, Younghoon likes to rap, play badminton, and drink <em>pu’er</em> tea.</p>
   <p>Saagar Asnani (C’19) is a PhD student in musicology at the University of California, Berkeley. A medievalist, linguist, and poetry enthusiast, Saagar is fascinated by how music and language overlap, interact, and work together in myriad ways within our world. A scholar of medieval French musical genres, he believes that by studying the soundscapes of the past we can learn more about the structures and dynamics of human communication and perception today. He has been learning Korean for the past five years, and this is his first foray into translating Korean poetry to English. His research on medieval music has also immersed him in Latin and Middle French. As a graduating senior at Penn in 2019, he was awarded the Clifton C. Cherpack Prize in French Studies. In his free time, Saagar enjoys playing viola and is an active member of UC Berkeley’s Symphony Orchestra.</p>
-interviewee_bio:
 language: Korean
 lang: ko
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/1CtI76YH2UqLpPzRvr48I8ftG1KVcFWYK/preview\">\n
   \ </iframe>\n</div>"

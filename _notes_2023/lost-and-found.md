@@ -1,11 +1,11 @@
 ---
 pid: lost-and-found
-title:
+title: 
 transtitle: 'Lost and Found: Musing'
 author: Aiyana Nosizwe Mate
-translator:
-poem:
-transpoem:
+translator: 
+poem: 
+transpoem: 
 note: |-
   <p>Before I learned my first siSwati word, I learned how the sunset lights Malkerns’ sky on fire, painting the air maroon and casting dark shadows over marula trees. I heard water drip and flow from the hose in my Gogo’s backyard, and then again down a stream at Mantenga Falls, and then again from the clouds in the sky. I felt dry grass graze the back of my knees and the roughness of marula bark on my fingertips. And I learned the way our curly black hair glows like gold springs under the gleam of the sun. Memories, before words, were the first love letters eSwatini sent to
   me, inscribed on the joys and mysteries of early childhood.</p>
@@ -38,19 +38,19 @@ note: |-
 abio: |-
   <p>Aiyana Nosizwe Mate is an undergraduate student pursuing a bachelor’s in Anthropology from the
   University of Pennsylvania. She was born in Vancouver, British Columbia, and currently lives in Philadelphia. In her free time, she enjoys writing poetry and is currently an editor of Doublespeak Magazine.</p>
-tbio:
-epigraph:
+tbio: 
+epigraph: 
 language: siSwati
 lang: en
 image: "/assets/images/images_23/lost-and-found.jpg"
 image2: none
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2023'
 pagetype: musing
-wrapformat:
+wrapformat: 
 nonote: '0'
 order: '11'
 layout: notepage

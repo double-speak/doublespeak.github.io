@@ -31,11 +31,10 @@ tbio: "<p>Sue was raised in Canada, studied abroad in France, and currently work
   in statistics and minoring in French and creative writing. While at Penn, Sue was
   an editor on the <em>DoubleSpeak</em> team and loved exploring works by authors
   in different languages.</p>"
-interviewee_bio:
 language: French
 lang: fr
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
   \   src=\"https://drive.google.com/file/d/184u8BlRdW95dfjfYIgZL2cZr6G3F26Fq/preview\">\n
   \ </iframe>\n</div>\n"

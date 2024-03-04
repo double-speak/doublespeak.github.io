@@ -77,18 +77,18 @@ tbio: "<p>Ryan Hardy is an undergraduate at the University of Pennsylvania, purs
   new passion in Czech and planning future study of Kyrgyz. Ryan translates across
   genres, ranging from poetry and prose to memoir and articles from Russian civil
   society.</p>"
-epigraph:
+epigraph: 
 language: Russian
 lang: ru
 image: "/assets/images/images_23/house-house.png"
 image2: none
 imagecredit: photo by Katherine Rozsypalek
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2023'
 pagetype: submission
-wrapformat:
+wrapformat: 
 nonote: '0'
 order: '04'
 layout: notepage

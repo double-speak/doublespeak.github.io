@@ -56,11 +56,10 @@ tbio: "<p>Ashley Sniffen is a junior at the University of Pennsylvania studying 
   education, she enjoys staring at the paintings hanging on white walls of museums
   and creating events that support artists and cultural institutions. In her spare
   time, she enjoys reading, basking in nature, and watching college basketball games.</p>"
-interviewee_bio:
 language: French
 lang: fr
-image:
-imagecredit:
+image: 
+imagecredit: 
 origaudio: |-
   <div>
     <iframe

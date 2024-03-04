@@ -25,9 +25,9 @@ layout: default
    {% for poem in issues %}
 <!--          look in the language spreadsheet
  -->    
-{% assign authors = poem.author | split: ';' %} 
-{% assign translators = poem.translator | split: ';' %} 
-{% assign languages = poem.language | split: ';' %} 
+{% assign authors = poem.author | split: '; ' %} 
+{% assign translators = poem.translator | split: '; ' %} 
+{% assign languages = poem.language | split: '; ' %} 
 
 
         {% if page.type == "language" %}
@@ -95,6 +95,7 @@ layout: default
       {% endfor %}
     {% endfor %}
   </div>
+
 </div>
 
 

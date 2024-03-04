@@ -3,7 +3,7 @@ pid: preaching-to-women
 title: <span lang="th">อันนัยน์ตาพาตัวให้มัวหมอง</span>
 transtitle: Preaching to Women
 author: Sunthorn Phu
-translator: Peeriya Pongsarigun and John Viano
+translator: Peeriya Pongsarigun; John Viano
 poem: |-
   ดังพฤกษาต้องวายุพัดโบก                 เขยื้อนโยกก็แต่กิ่งไม่ทิ้งที่
   จงยับยั้งช่างใจเสียให้ดี                                 เหมือนจามรีรู้จักรักษากาย

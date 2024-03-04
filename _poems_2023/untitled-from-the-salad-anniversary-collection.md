@@ -30,7 +30,7 @@ transpoem: "<h1>Untitled (From the Salad Anniversary Collection)</h1>\n<h2>trans
   не так ли”\nи слышать тебя сказать\n“да, холодно”.\n\n<h2>translated into Spanish
   by Ryan Hardy, Leo Wagner, Lucía Vázquez, Alison Yau, and Andrea Conde</h2>\n\nLa
   calidez\nDe poder decir\n“Hace frío, ¿no?”\nY escucharte decir\n“Sí, hace frío.”"
-note:
+note: 
 abio: <p>Machi Tawara (<span lang="ja">俵万智</span>), poet, writer, translator, educator,
   and critic, is perhaps best known for her work in reviving the traditional art of
   <em>tanka</em>. <em>Tanka</em>, a five-line Japanese poetic with 5-7-5-7-7 syllabic
@@ -50,18 +50,18 @@ tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and languag
   submissions in rhymed couplets, we’re drawn together by our shared passion for language
   and translation.</p>\n\n<p>Thank you to all of our proofreaders in the DoubleSpeak
   community \nwho made this group translation possible!</p>"
-epigraph:
+epigraph: 
 language: English
 lang: en
 image: "/assets/images/images_23/untitled-from-the-salad-anniversary-collection.png"
 image2: none
-imagecredit:
-imagecredit2:
+imagecredit: 
+imagecredit2: 
 origaudio: " "
-translaudio:
+translaudio: 
 edition: '2023'
 pagetype: submission
-wrapformat:
+wrapformat: 
 nonote: '0'
 order: '26'
 layout: poempage

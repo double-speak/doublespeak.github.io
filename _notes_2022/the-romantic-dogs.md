@@ -3,7 +3,8 @@ pid: the-romantic-dogs
 title: Los perros románticos
 transtitle: The Romantic Dogs
 author: Roberto Bolaño
-translator: "<em>DoubleSpeak Staff</em>"
+translator: "<em>DoubleSpeak</em> Staff; Andrea Conde; Chardonnay Needler; Ziang (Arthur)
+  Wei; Ryan Hardy; Daniel Shevchenko"
 poem: |-
   En aquel tiempo yo tenía veinte años
   y estaba loco.

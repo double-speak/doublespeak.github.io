@@ -1,5 +1,5 @@
 ---
-pid: five-poems-by-vladimir-myakovsky
+pid: five-poems-by-Vladimir-Mayakovsky
 title: Five Poems by Vladimir Mayakovsky
 transtitle: Five Poems by Vladimir Mayakovsky
 author: Vladimir Mayakovsky
@@ -78,6 +78,6 @@ translaudio:
 edition: '2020'
 pagetype: submission
 order: '04'
-layout: poempage
-collection: poems_2020
+layout: notepage
+collection: notes_2020
 ---

@@ -52,18 +52,18 @@ tbio: "<p>C.H. Henry is a sophomore at the University of Pennsylvania currently 
   and family in Nashville, Tennessee, are not directly Dutch, but he has enjoyed learning
   a language he previously had little to no knowledge of until reaching Penn. He hopes
   more students will pursue the same remote interests.</p>"
-epigraph:
+epigraph: 
 language: Dutch
 lang: nl
 image: "/assets/images/images_23/to-read-in-case-of-snow.jpg"
 image2: none
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2023'
 pagetype: submission
-wrapformat:
+wrapformat: 
 nonote: '0'
 order: '24'
 layout: poempage

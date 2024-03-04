@@ -1,11 +1,11 @@
 ---
 pid: editor-note
-title:
+title: 
 transtitle: Editor's Note
 author: Ryan Hardy; Chardonnay Needler; Stacy Shimanuki
-translator:
-poem:
-transpoem:
+translator: 
+poem: 
+transpoem: 
 note: |-
   <p class="ednote">Dear readers,</p>
       <p class="ednote">Every Thursday evening, in a quieter corner of University of Pennsylvania’s campus, our staff meets to read translations, chat, laugh, and take a breath of fresh air from the bustle of student life. DoubleSpeak meetings typically unfold into a smattering of multilingual crossfire as we review submissions from translators hailing from Bangkok, Ankara, Santiago, Philadelphia, or any number of other places across the globe.</p>
@@ -18,20 +18,20 @@ note: |-
       <p>Warmly from West Philly,<br>Ryan Hardy, Chardonnay Needler, and Stacy Shimanuki<br>Editors-in-Chief</p>
       <p> . </p>
       <p> . </p>
-abio:
-tbio:
-epigraph:
-language:
+abio: 
+tbio: 
+epigraph: 
+language: 
 lang: en
-image:
+image: 
 image2: none
-imagecredit:
-imagecredit2:
-origaudio:
-translaudio:
+imagecredit: 
+imagecredit2: 
+origaudio: 
+translaudio: 
 edition: '2023'
 pagetype: frontmatter
-wrapformat:
+wrapformat: 
 nonote: '0'
 order: '00'
 layout: poempage
