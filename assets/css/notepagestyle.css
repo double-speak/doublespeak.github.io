@@ -28,62 +28,6 @@ p {
 	margin-right: 40px;
 }
 
-@media screen and (max-width: 600px) {
-	.previousmobile {
-		position: fixed;
-		bottom: 0;
-		left: 0;
-		display: inline-block !important;
-	}
-
-	.previousmobile a {
-		display: inline-block;
-		padding: 0px;
-		color: black;
-		text-decoration: none;
-		font-family: futura-pt, sans-serif;
-		font-weight: 300;
-		font-style: normal;
-		font-size: 18px;
-		line-height: 20px;
-		margin-top: 0px;
-		margin-bottom: 30px;
-		margin-left: -20px;
-		margin-right: 40px;
-	}
-
-	.nextmobile {
-		position: fixed;
-		bottom: 0;
-		right: 0;
-		display: inline-block !important;
-	}
-
-	.nextmobile a {
-		display: inline-block;
-		padding: 0px;
-		color: black;
-		text-decoration: none;
-		font-family: futura-pt, sans-serif;
-		font-weight: 300;
-		font-style: normal;
-		font-size: 18px;
-		line-height: 20px;
-		margin-top: 0px;
-		margin-bottom: 30px;
-		margin-left: 40px;
-		margin-right: -20px;
-	}
-
-	.previouslink{
-		display: none;
-	}
-	.nextlink{
-		display: none;
-	}
-
-}
-
 .previousmobile{
 	display: none;
 }
@@ -491,57 +435,24 @@ h1 {
 
 .previouslink {
 	position: fixed;
-	bottom: 0;
+	top:76px;
+	bottom: 76px;
 	left: 0;
-}
-
-.previouslink a {
-	display: inline-block;
-	padding: 10px;
-	color: black;
-	text-decoration: none;
-	font-family: futura-pt, sans-serif;
-	font-weight: 300;
-	font-style: normal;
-	font-size: 18px;
-	line-height: 20px;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 20px;
-	margin-right: 40px;
-}
-
-.previouslink a:hover {
-	text-decoration: underline;
+	height:calc(100% - 152px);
+	background-color:lightgrey;
+	width:30px;
 }
 
 .nextlink {
 	position: fixed;
+	top:76px;
 	bottom: 0;
 	right: 0;
+	height:calc(100% - 152px);
+	background-color:lightgrey;
+	width:30px;
 }
 
-.nextlink a {
-	display: inline-block;
-	padding: 10px;
-	color: black;
-	text-decoration: none;
-	font-family: futura-pt, sans-serif;
-	font-weight: 300;
-	font-style: normal;
-	font-size: 18px;
-	line-height: 20px;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 40px;
-	margin-right: 20px;
-}
-
-.nextlink a:hover {
-	text-decoration: underline;
-}
-
-}
 .caption {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
@@ -572,9 +483,10 @@ h1 {
 }
 .lineart{
 	position: absolute;
-	bottom: 0;
+	bottom: 50px;
 	left: 0;
-	width: 60%;
+	width: 100%;
+	height:50px;
 }
 
 /* language code */

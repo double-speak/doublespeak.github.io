@@ -142,35 +142,35 @@ layout: default
 <!-- PREVIOUS BUTTON CODE --> 
   {% if fixpath == "poems_" %}
 
-    <div class="previouslink">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"> < &nbsp;previous</a></p>
-    </div>
+    <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><div class="previouslink">
+      <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
+    </div></a>
     <div class="previousmobile">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
     </div>
 
   {% endif %}
     {% if page.pid == "editor-note" %}
-    <div class="previouslink">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"> < &nbsp;previous</a></p>
-    </div>
+    <a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"><div class="previouslink">
+      <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
+    </div></a>
   <div class="previousmobile">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
     </div>
   {% else %}
     {% if page.nonote == "2" or page.nonote == "consecutive" or page.nonote == "1" %}
-  <div class="previouslink">
-    <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
-  </div>
+  <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><div class="previouslink">
+    <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
+  </div></a>
   <div class="previousmobile">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
     </div>
         
     {% else %}
 
-  <div class="previouslink">
-    <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
-  </div>
+  <a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><div class="previouslink">
+    <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
+  </div></a>
   <div class="previousmobile">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
     </div>
@@ -180,9 +180,9 @@ layout: default
 
 <!-- NEXT BUTTON CODE -->  
  {% if page.pagetype == "musing" or page.pagetype == "frontmatter" %}
-  <div class="nextlink">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
-    </div>
+  <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><div class="nextlink">
+      <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
+    </div></a>
 
 <div class="nextmobile">
       <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
@@ -190,20 +190,20 @@ layout: default
 
   {% else %}
     {% if page.nonote == "1" or page.nonote == "consecutive" or page.nonote == "3" %}
-         <div class="nextlink">
-            <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
-          </div>
+         <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><div class="nextlink">
+          <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
+          </div></a>
 
-        <div class="nextmobile">
+        <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><div class="nextmobile">
 
-          <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
+          <p class="link"><i class="fa-solid fa-circle-chevron-right"></i></p>
 
-        </div>
+        </div></a>
 
     {% else %}
-    <div class="nextlink">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}">next &nbsp; ></a></p>
-    </div>
+    <a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}"><div class="nextlink">
+      <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
+    </div></a>
 
       <div class="nextmobile">
 
