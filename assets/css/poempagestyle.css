@@ -382,7 +382,7 @@ worth thinking about it.
 	bottom: 76px;
 	left: 0;
 	height:calc(100% - 152px);
-	background-color:lightgrey;
+	background-color:#D8CEBF;
 	width:30px;
 }
 
@@ -392,8 +392,9 @@ worth thinking about it.
 	bottom: 0;
 	right: 0;
 	height:calc(100% - 152px);
-	background-color:lightgrey;
+	background-color:#D8CEBF;
 	width:30px;
+
 }
 
 /* language code */

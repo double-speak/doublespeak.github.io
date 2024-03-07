@@ -66,17 +66,20 @@ layout: default
 
 {% endfor %}
 
-{% if page.note and page.pagetype == "submission" %}
+{% if page.pagetype == "submission" %}
 
   <title>{{page.translator}} on translating {{page.author}}</title>
 
 <div class='flex-container'>
   <div class="container">
+    {% if page.note %}
       <div class="note">
         <h1>{{page.translator}}</h1><br>
         <h2 class="note">on translating {{page.author}}</h2><br>
         <p class="note"> {{page.note}}</p>
       </div>
+      {% endif %}
+
     <div class="flex-container">
 
        <div class="note-text">
@@ -118,21 +121,21 @@ layout: default
 <!-- PREVIOUS BUTTON CODE -->  
 
     <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{page.pid}}"><div class="previouslink">
-      <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>  
+      <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>  
     </div></a>
 
 {% if thisIndex == endLength %}
 
   <a href="{{site.url}}{{site.baseurl}}/frontmatter/copyright{{page.edition}}">
     <div class="nextlink">
-      <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
+      <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
     </div>
   </a>
 
 {% else %}
 
 <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><div class="nextlink">
-  <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
+  <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
 </div></a>
 
 {% endif %}
