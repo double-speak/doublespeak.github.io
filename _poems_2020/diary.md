@@ -38,13 +38,13 @@ tbio: "<p>Chemistry, FC Barcelona, classic rock, in that order. Zhiqiao (Kate) J
 language: Chinese
 lang: zh
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '03'
 layout: poempage
 collection: poems_2020

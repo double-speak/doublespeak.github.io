@@ -24,15 +24,13 @@ epigraph:
 language: 
 lang: en
 image: 
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: frontmatter
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '00'
 layout: notepage
 collection: notes_2023

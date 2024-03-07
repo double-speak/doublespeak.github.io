@@ -73,9 +73,7 @@ epigraph:
 language: Turkish
 lang: tr
 image: "/assets/images/images_23/ghazal-97.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: |-
   <div>
@@ -90,7 +88,7 @@ translaudio: |-
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '17'
 layout: notepage
 collection: notes_2023

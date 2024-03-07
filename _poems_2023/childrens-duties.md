@@ -68,15 +68,13 @@ epigraph:
 language: Thai
 lang: th
 image: "/assets/images/images_23/childrens-duties.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '13'
 layout: poempage
 collection: poems_2023

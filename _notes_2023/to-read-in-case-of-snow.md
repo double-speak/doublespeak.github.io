@@ -56,15 +56,13 @@ epigraph:
 language: Dutch
 lang: nl
 image: "/assets/images/images_23/to-read-in-case-of-snow.jpg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '24'
 layout: notepage
 collection: notes_2023

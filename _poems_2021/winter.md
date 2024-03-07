@@ -89,6 +89,8 @@ translaudio: |+
 
 edition: '2021'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '08'
 layout: poempage
 collection: poems_2021

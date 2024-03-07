@@ -159,14 +159,13 @@ tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and languag
 language: 
 lang: 
 image: "/assets/images/images_22/group_translation.JPG"
-image2: none
 imagecredit: photo by Quinn Gruber
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '18'
 layout: notepage
 collection: notes_2022

@@ -100,13 +100,13 @@ tbio: "<p>Samantha DeStefano graduated <em>summa cum laude</em> from the Univers
 language: French
 lang: fr
 image: "/assets/images/images_20/destefano.jpg"
-image2: 
 imagecredit: photo by Rhosean Asmah
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '02'
 layout: notepage
 collection: notes_2020

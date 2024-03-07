@@ -40,13 +40,13 @@ tbio: "<p>Ali Noori is a doctoral student in religious studies at Penn. He likes
 language: Farsi
 lang: fa
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '02'
 layout: poempage
 collection: poems_2019

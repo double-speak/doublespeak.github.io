@@ -84,6 +84,8 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '07'
 layout: notepage
 collection: notes_2021

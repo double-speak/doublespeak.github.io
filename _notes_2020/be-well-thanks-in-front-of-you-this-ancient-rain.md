@@ -7,20 +7,11 @@ translator: Yehudith Dashevsky
 poem: "הֱיוּ שָׁלוֹם, תּוֹדָה \nכִּי בָּאתֶם. מַה \nחַיֵּי אָדָם לְבַדָּם \nעִם לִבּוֹ
   הָרַע \nעִם לִבּוֹ הַמַּךְ, עִם עֵינָיו הַסְּתוּרוֹת \nנְשׂוֹחֵחַ קִמְעָה, נִחְיֶה
   \nכְּמוֹ בָּאַגָּדָה, נַחֲלִיף \nמִלִּים סְפוּרוֹת, נֹאמַר \nשָׁלוֹם, שָׁלוֹם \n.הַמַּיִם
-  הַפּוֹרְחִים. הַלֶּחֶם הַשָּׁלֵם \nכֵּן. הָיִיתִי. כָּאן. כֻּלָּנוּ. כֵּן \n.תּוֹדָה\n\n<h2>...לְפָנֶיךָ
-  הַגֶּשֶׁם הָעַתִּיק</h2>\n \nלְפָנֶיךָ הַגֶּשֶׁם הָעַתִּיק\nהַחֹם בְּגַבְּךָ, אַתָּה
-  עוֹמֵד וְחוֹשֵׁב\nמַה מְעַטוֹת הַמִּלִּים\nשֶׁאָדָם צָרִיךְ בְּחַיָּיו\nוְחוֹשֵׁב
-  עַל מִי שֶׁרוֹאֶה כָּל אֵלֶּה וְעַל מִי\nשֶׁפָּנָיו רוּחַ, וּבַשַּׁלֶּכֶת, וְגֶשֶׁם\n.זֶה
-  הַמַּכֶּה בַּחַלּוֹן\n"
+  הַפּוֹרְחִים. הַלֶּחֶם הַשָּׁלֵם \nכֵּן. הָיִיתִי. כָּאן. כֻּלָּנוּ. כֵּן \n.תּוֹדָה"
 transpoem: "Be well, thanks\nfor coming. What\nare people on their own\nwith their
   evil hearts,\nwith their spent hearts, with their sidelong glances.\nLet’s talk
   a bit and live\nlike in a story, exchange\na few words; we’ll say, \nhey, hello\nblooming
-  water, hey, a whole loaf of bread.\nYes. I was. Here. We all were. Yes,\nthanks.\n\n<h2>In
-  front of you is this ancient rain…</h2>\r\n\r\nIn front of you is this ancient rain,\r\nbehind
-  you, this warmth; you stand and think \r\nhow few are those words\r\npeople need
-  in their lives\r\nyou think about the one who sees all this and about the one\r\nwhose
-  face is wind, and falling leaves, \r\n                                and pattering
-  on the window,\r\nthis rain. "
+  water, hey, a whole loaf of bread.\nYes. I was. Here. We all were. Yes,\nthanks."
 note: |-
   <p><b>Be well, thanks:</b></p>
   <p>I found this poem can be read either with a bite of sarcasm or with sincerity. If we take the latter approach, this poem is about genuinely putting in effort to “exchange a few words” even if it’s a little forced at first and follows a script, “like in a story.” It is about valuing those exchanges, even if they’re mundane, like “hey, the water’s growing things in it” or “look, we have enough bread.” There is an acceptance of loneliness too. “We all were” here, in this lonely place, where we craved a few words from another human being. If instead, we read the poem with the former, there is a hint of bitterness, which can be felt in the staccato of the periods in “Yes. I was. Here. We all were.” The narrator is stuck in this ridiculous situation of small-talk, in which roles have to be assumed and conversations playacted, “like in a story.” The “Yes, thanks,” is not the sincere gratitude of the lonely, but the acerbic retort of someone who finds these minute exchanges unsatisfactory and not real enough.</p>
@@ -49,14 +40,14 @@ tbio: "<p>Yehudith Dashevsky graduated from the University of Pennsylvania in 20
 language: Hebrew
 lang: he
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '28'
+wrapformat: 
+sequence: first
+order: '34'
 layout: notepage
 collection: notes_2020
 ---

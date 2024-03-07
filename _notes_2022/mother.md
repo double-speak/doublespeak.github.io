@@ -43,9 +43,7 @@ tbio: "<p>Emre Azizlerli, originally from Istanbul, has been living and working 
 language: Turkish
 lang: tr
 image: none
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: |
   <div>
     <iframe
@@ -67,6 +65,7 @@ translaudio: |
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '14'
 layout: notepage
 collection: notes_2022

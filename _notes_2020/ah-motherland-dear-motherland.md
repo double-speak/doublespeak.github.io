@@ -37,13 +37,13 @@ tbio: "<p>Anne is a junior studying Digital Media Design at the University of Pe
 language: Chinese
 lang: zh
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '07'
 layout: notepage
 collection: notes_2020

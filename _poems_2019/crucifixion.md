@@ -43,13 +43,13 @@ tbio: "<p>Yehudith Dashevsky is an undergraduate at the University of Pennsylvan
 language: Russian
 lang: ru
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '08'
 layout: poempage
 collection: poems_2019

@@ -50,9 +50,7 @@ tbio: |-
 language: Yiddish
 lang: he
 image: "/assets/images/images_22/segalovitsh.jpg"
-image2: none
 imagecredit: photo by Betsy Morgan
-imagecredit2: 
 origaudio: |-
   <div>
   <iframe
@@ -74,6 +72,7 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '04'
 layout: notepage
 collection: notes_2022

@@ -73,9 +73,7 @@ tbio: "<p>Saagar Asnani (C’19) is a PhD student in musicology at the Universit
 language: French
 lang: fr
 image: 
-image2: none
 imagecredit: photo by Ryan Hardy
-imagecredit2: 
 origaudio: |-
   <div>
   <iframe
@@ -97,6 +95,7 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '13'
 layout: notepage
 collection: notes_2022

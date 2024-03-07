@@ -62,14 +62,14 @@ tbio: "<p>Aylin Malcolm is a PhD candidate studying medieval poetry and the envi
 language: French
 lang: fr
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '21'
+wrapformat: 
+sequence: 
+order: '27'
 layout: poempage
 collection: poems_2020
 ---

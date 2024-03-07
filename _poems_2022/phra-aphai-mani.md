@@ -61,9 +61,7 @@ tbio: |-
 language: Thai
 lang: th
 image: none
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: |-
   <div>
@@ -78,6 +76,7 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '11'
 layout: poempage
 collection: poems_2022

@@ -75,9 +75,7 @@ tbio: "<p>Pablo (he/him) Abrante is a Spanish and Cuban and Miamian. He does sci
 language: Spanish
 lang: es
 image: "/assets/images/images_22/armengol.jpg"
-image2: none
 imagecredit: photo by Stacy Shimanuki
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -101,6 +99,7 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '02'
 layout: notepage
 collection: notes_2022

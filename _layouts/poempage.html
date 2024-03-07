@@ -145,35 +145,27 @@ layout: default
     <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><div class="previouslink">
       <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
     </div></a>
-    <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
-    </div>
 
   {% endif %}
     {% if page.pid == "editor-note" %}
     <a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"><div class="previouslink">
       <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
     </div></a>
-  <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
-    </div>
+
   {% else %}
-    {% if page.nonote == "2" or page.nonote == "consecutive" or page.nonote == "1" %}
+
+<!--   if statement for going back to previous poem, skipping note page -->    
+ {% if page.sequence == "middle" or page.sequence == "last" %}
   <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><div class="previouslink">
     <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
   </div></a>
-  <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
-    </div>
         
     {% else %}
 
   <a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><div class="previouslink">
     <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
   </div></a>
-  <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
-    </div>
+
     {% endif %}
   {% endif %}
 
@@ -184,32 +176,19 @@ layout: default
       <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
     </div></a>
 
-<div class="nextmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
-    </div>
-
   {% else %}
-    {% if page.nonote == "1" or page.nonote == "consecutive" or page.nonote == "3" %}
+<!--   if statement for going to next poem page, skipping notepage -->    
+{% if page.sequence == "first" or page.sequence == "middle" %}
          <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><div class="nextlink">
           <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
           </div></a>
 
-        <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><div class="nextmobile">
-
-          <p class="link"><i class="fa-solid fa-circle-chevron-right"></i></p>
-
-        </div></a>
-
     {% else %}
+
     <a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}"><div class="nextlink">
       <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
     </div></a>
 
-      <div class="nextmobile">
-
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
-
-    </div>
     {% endif %}
 {% endif %}
   

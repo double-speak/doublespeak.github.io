@@ -63,13 +63,13 @@ tbio: "<p>Stephanie Diaz is a junior at the University of Pennsylvania studying 
 language: Spanish
 lang: es
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '13'
 layout: poempage
 collection: poems_2019

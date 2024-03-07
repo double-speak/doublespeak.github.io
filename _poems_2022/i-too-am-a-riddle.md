@@ -42,14 +42,13 @@ tbio: "<p>Anjali Gupta is a senior at the University of Pennsylvania studying li
 language: Hindi
 lang: hi
 image: "/assets/images/images_22/varma.jpg"
-image2: none
 imagecredit: photo by Yan Zhang
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '00'
 layout: poempage
 collection: poems_2022

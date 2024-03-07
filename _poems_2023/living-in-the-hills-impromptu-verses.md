@@ -51,9 +51,7 @@ epigraph:
 language: Chinese
 lang: zh
 image: "/assets/images/images_23/living-in-the-hills-impromptu-verses.png"
-image2: none
 imagecredit: photo by Chardonnay Needler
-imagecredit2: 
 origaudio: 
 translaudio: |-
   <div>
@@ -68,7 +66,7 @@ translaudio: |-
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '12'
 layout: poempage
 collection: poems_2023

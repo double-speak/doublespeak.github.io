@@ -57,14 +57,14 @@ tbio: "<p>David F. Ting recently completed his pre-medical post-bacc program at 
 language: German
 lang: de
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '24'
+wrapformat: 
+sequence: 
+order: '30'
 layout: poempage
 collection: poems_2020
 ---

@@ -78,13 +78,13 @@ tbio: "<p>Dillon is a junior majoring in comparative literature. He loves mornin
 language: German
 lang: de
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '09'
 layout: poempage
 collection: poems_2019

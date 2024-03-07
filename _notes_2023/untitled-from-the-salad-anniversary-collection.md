@@ -54,15 +54,13 @@ epigraph:
 language: English
 lang: en
 image: "/assets/images/images_23/untitled-from-the-salad-anniversary-collection.png"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: " "
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '26'
 layout: notepage
 collection: notes_2023

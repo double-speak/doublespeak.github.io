@@ -75,6 +75,8 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '10'
 layout: poempage
 collection: poems_2021

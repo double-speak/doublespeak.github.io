@@ -88,14 +88,14 @@ tbio: "<p>Samantha Pious is the translator of <em>A Crown of Violets: Selected P
 language: Old Occitan; Genovese
 lang: oc
 image: "/assets/images/images_20/pious.jpg"
-image2: 
 imagecredit: photo by Samantha Pious
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '22'
+wrapformat: 
+sequence: 
+order: '28'
 layout: poempage
 collection: poems_2020
 ---

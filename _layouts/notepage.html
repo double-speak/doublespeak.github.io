@@ -121,27 +121,22 @@ layout: default
       <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>  
     </div></a>
 
-  <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{page.pid}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
-    </div>
-
 {% if thisIndex == endLength %}
+
   <a href="{{site.url}}{{site.baseurl}}/frontmatter/copyright{{page.edition}}">
     <div class="nextlink">
       <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
     </div>
   </a>
-<div class="nextmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/copyright{{page.edition}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
-    </div>
+
 {% else %}
+
 <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><div class="nextlink">
   <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#606060;"></i>
 </div></a>
-<div class="nextmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
-    </div>
+
 {% endif %}
+
   </div>
 </div>
          </div>

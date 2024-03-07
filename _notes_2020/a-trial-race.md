@@ -75,13 +75,13 @@ tbio: "<p>Dan Ben-Amos teaches folklore at the University of Pennsylvania. He ea
 language: Hebrew
 lang: he
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '12'
 layout: notepage
 collection: notes_2020

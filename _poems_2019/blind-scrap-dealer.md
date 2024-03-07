@@ -97,13 +97,13 @@ tbio: "<p>Armghan Ahmad is a senior in Wharton studying finance and marketing. A
 language: Urdu
 lang: ur
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '04'
 layout: poempage
 collection: poems_2019

@@ -64,9 +64,7 @@ epigraph:
 language: Spanish
 lang: es
 image: "/assets/images/images_23/sonnet.png"
-image2: none
 imagecredit: photo by Katherine Rozsypalek
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -81,7 +79,7 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '18'
 layout: poempage
 collection: poems_2023

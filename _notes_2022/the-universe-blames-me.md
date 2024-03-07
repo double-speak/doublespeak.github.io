@@ -93,9 +93,7 @@ tbio: "<p>Michael Karam (Penn C’17) is a translator, writer, and poet living a
 language: Arabic
 lang: ar
 image: "/assets/images/images_22/qabbani.jpg"
-image2: none
 imagecredit: photo by Michael Karam
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -119,6 +117,7 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '16'
 layout: notepage
 collection: notes_2022

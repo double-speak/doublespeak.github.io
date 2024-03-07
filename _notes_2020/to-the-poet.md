@@ -1,28 +1,37 @@
 ---
-pid: winter-heart-to-the-poet
-title: <span lang="ko">겨울 마음</span>
-transtitle: Winter Heart
+pid: to-the-poet
+title: <span lang="ko">시인에게</span>
+transtitle: To the Poet
 author: Yi Sang-hwa
 translator: Emily Yoon
-poem: "물장수가 귓속으로 들어와 내 눈을 열었다.\n보아라!\n까치가 뼈만 남은 나뭇가지에서 울음을 운다.\n왜 이래?\n서리가 덩달아 추녀끝으로
-  눈물을 흘리는가.\n내야 반가웁기만 하다. 오늘은 따스하겠구나.\n\n<span lang=\"ko\"><h2>시인에게</h2></span>\r\n\n\r\n한
-  편의 시 그것으로\r\n새로운 세계 하나를 낳아야 할 줄 깨칠 그 때라야\r\n시인아, 너의 존재가\r\n비로소 우주에게 없지 못할 너로 알려질것이다,\r\n가뭄
-  든 논에게는 청개구리의 울음이 있어야 하듯.\r\n\r\n새 세계란 속에서도\r\n마음과 몸이 갈려 사는 줄 풍류만 나와 보아라.\r\n시인아,
-  너의 목숨은\r\n진저리나는 절룸발이 노릇을 아직도 하는 것이다.\r\n언제든지 일식된 해가 돋으면 뭣하며 진들 어떠랴\r\n시인아, 너의 영광은\r\n미친
-  개 꼬리도 밟는 어린해의 짬 없는 그 마음이 되어\r\n밤이라도 낮이라도\r\n새 세계를 낳으려 손댄 자국이 시가 될 때에 있다.\r\n촛불로
-  날아들어 죽어도 아름다운 나비를 보아라.\r\n\r\n(1926)"
-transpoem: "The water-seller came through my ears and opened my eyes.\nLook!\nThe
-  magpie cries on the branch down to its bone.\nWhy?\nThe frost follows suit and drops
-  tears through the eaves’ corners.\nOf course I welcome this. It shall be warm today.\n\n<h2>To
-  the Poet</h2>\n\nOnly in that moment when you realize you must give birth \nto a
-  new world with that one poem,\nPoet, your existence will be known \nas one the universe
-  cannot be without,\nlike how rice paddies in drought need the cry of the green frog.\n\nEven
+poem: |-
+  한 편의 시 그것으로
+  새로운 세계 하나를 낳아야 할 줄 깨칠 그 때라야
+  시인아, 너의 존재가
+  비로소 우주에게 없지 못할 너로 알려질것이다,
+  가뭄 든 논에게는 청개구리의 울음이 있어야 하듯.
+
+  새 세계란 속에서도
+  마음과 몸이 갈려 사는 줄 풍류만 나와 보아라.
+  시인아, 너의 목숨은
+  진저리나는 절룸발이 노릇을 아직도 하는 것이다.
+  언제든지 일식된 해가 돋으면 뭣하며 진들 어떠랴
+  시인아, 너의 영광은
+  미친 개 꼬리도 밟는 어린해의 짬 없는 그 마음이 되어
+  밤이라도 낮이라도
+  새 세계를 낳으려 손댄 자국이 시가 될 때에 있다.
+  촛불로 날아들어 죽어도 아름다운 나비를 보아라.
+
+  (1926)
+transpoem: "Only in that moment when you realize you must give birth \nto a new world
+  with that one poem,\nPoet, your existence will be known \nas one the universe cannot
+  be without,\nlike how rice paddies in drought need the cry of the green frog.\n\nEven
   in the new world \nOnly see the elegance of art, the line dividing mind and body.\nPoet,
   your life means\nyou still live as one with that sickening limp. \nWhat is there
   to do when the eclipsed sun rises, and when it sinks?\nPoet, your glory exists in\nthe
   small heart of the child who dares step on the tail of a mad dog,\nin that moment
   when stains from the hand\ntrying night or day to give birth to a new world\nbecome
-  a poem. \nLook at the butterfly, \nbeautiful even when it dies flying into the candlelight.\n\n(1926)\n"
+  a poem. \nLook at the butterfly, \nbeautiful even when it dies flying into the candlelight.\n\n(1926)"
 note: "<p>I translated these poems a few years ago, in an attempt to “get to know”
   Yi, and thereby the literary atmosphere of the colonial period, better. I was initially
   attracted to the lyricism of his most famous poem, “Ppaeatkin Tŭredo Pomŭn Onŭn’ga”
@@ -55,14 +64,14 @@ tbio: "<p>Emily Jungmin Yoon graduated from University of Pennsylvania with a do
 language: Korean
 lang: ko
 image: "/assets/images/images_20/yoon.jpeg"
-image2: 
 imagecredit: photo by Limin Jiang
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '15'
+wrapformat: 
+sequence: last
+order: '16'
 layout: notepage
 collection: notes_2020
 ---

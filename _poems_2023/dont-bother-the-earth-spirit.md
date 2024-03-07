@@ -99,15 +99,13 @@ epigraph:
 language: English
 lang: en
 image: "/assets/images/images_23/dont-bother-the-earth-spirit.jpg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '25'
 layout: poempage
 collection: poems_2023

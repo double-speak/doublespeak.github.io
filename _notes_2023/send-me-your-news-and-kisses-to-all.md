@@ -97,15 +97,13 @@ epigraph:
 language: Italian
 lang: it
 image: "/assets/images/images_23/send-me-your-news-and-kisses-to-all.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '15'
 layout: notepage
 collection: notes_2023

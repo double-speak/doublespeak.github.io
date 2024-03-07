@@ -44,14 +44,14 @@ tbio: |-
 language: Thai
 lang: th
 image: "/assets/images/images_20/thai_chart.png"
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '25'
+wrapformat: 
+sequence: 
+order: '31'
 layout: poempage
 collection: poems_2020
 ---

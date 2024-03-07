@@ -233,6 +233,8 @@ origaudio:
 translaudio: 
 edition: '2021'
 pagetype: interview
+wrapformat: 
+sequence: 
 order: '15'
 layout: notepage
 collection: notes_2021

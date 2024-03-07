@@ -186,14 +186,14 @@ tbio:
 language: Korean
 lang: ko
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: interview
-order: '16'
+wrapformat: 
+sequence: 
+order: '17'
 layout: notepage
 collection: notes_2020
 ---

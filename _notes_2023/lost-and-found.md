@@ -43,15 +43,13 @@ epigraph:
 language: siSwati
 lang: en
 image: "/assets/images/images_23/lost-and-found.jpg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: musing
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '11'
 layout: notepage
 collection: notes_2023

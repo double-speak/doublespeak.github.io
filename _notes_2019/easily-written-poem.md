@@ -90,13 +90,13 @@ tbio: "<p>Nadia Park is a senior at the University of Pennsylvania studying comm
 language: Korean
 lang: ko
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '10'
 layout: notepage
 collection: notes_2019

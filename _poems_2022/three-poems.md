@@ -43,9 +43,7 @@ tbio: |-
 language: Italian
 lang: it
 image: "/assets/images/images_22/n'djoku.jpg"
-image2: none
 imagecredit: photo by Ryan Hardy
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -60,6 +58,7 @@ translaudio:
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '15'
 layout: poempage
 collection: poems_2022

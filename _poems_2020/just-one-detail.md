@@ -76,14 +76,14 @@ tbio: "<p>Ella Konefal is an artist who takes translation as conceptual groundin
 language: Spanish
 lang: es
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '29'
+wrapformat: 
+sequence: 
+order: '36'
 layout: poempage
 collection: poems_2020
 ---

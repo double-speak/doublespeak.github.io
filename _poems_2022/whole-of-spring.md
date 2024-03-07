@@ -51,9 +51,7 @@ tbio: "<p>Maria Lourdes Riillo was born in Buenos Aires, Argentina. She is a gra
 language: Spanish
 lang: es
 image: "/assets/images/images_22/vilarino.jpg"
-image2: none
 imagecredit: photo by Ryan Hardy
-imagecredit2: 
 origaudio: |
   <div>
     <iframe
@@ -75,6 +73,7 @@ translaudio: |
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '12'
 layout: poempage
 collection: poems_2022

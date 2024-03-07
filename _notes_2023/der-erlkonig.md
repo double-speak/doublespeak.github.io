@@ -118,15 +118,13 @@ epigraph:
 language: German
 lang: de
 image: "/assets/images/images_23/der-erlkonig.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '3'
+sequence: first
 order: '09'
 layout: notepage
 collection: notes_2023

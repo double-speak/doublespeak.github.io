@@ -119,15 +119,13 @@ epigraph: "<em>23 квітня, у переддень Великодня рос�
 language: Russian
 lang: ru
 image: "/assets/images/images_23/for-kira.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '16'
 layout: poempage
 collection: poems_2023

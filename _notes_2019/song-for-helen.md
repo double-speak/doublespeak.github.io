@@ -99,13 +99,13 @@ tbio: "<p>Saagar Asnani is a senior in the College of Arts and Sciences at Penn 
 language: French
 lang: fr
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '11'
 layout: notepage
 collection: notes_2019

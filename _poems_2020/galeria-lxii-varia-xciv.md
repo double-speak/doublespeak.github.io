@@ -55,13 +55,13 @@ tbio: |-
 language: Spanish
 lang: es
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '08'
 layout: poempage
 collection: poems_2020

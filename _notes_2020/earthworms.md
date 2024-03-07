@@ -1,5 +1,5 @@
 ---
-pid: bandujeewa-4
+pid: earthworms
 title: <span lang="si">ගැඩවිල්ලු</span>
 transtitle: Earthworms
 author: Ruwan Bandujeewa
@@ -8,25 +8,13 @@ poem: "“පියතුමනි\nකිමද අප නොයන්නේ \n
   මේ මුනිවත \nකියා පෑ යුතු නොවෙද ඔබ ඔවුනට\nඅප විසින් \nසාරවත් කල බැව් මේ පස \nපොළෝ
   කුහරය තුල සැඟව හිඳ”\n\n“කුඩා ගැඩවිල් පුත\nඋදලු තලයකට පුරුද්දක් නැත \nහඳුනගෙන\nපස
   සරු කල සහ නොකල උන්ගේ වත \nතව තවත් හාරගෙන\nඅඳුරු මඩ තුළ ගිලී යනු මිස \n ඉහල එළිමහන
-  වෙත \nයෑම නුසුදුසුය පුත.”\n\n<h1>සැපකි — සතුටකි</h1> \n\nතවත් එක් පඹයෙක් හදන්නට\nගිහින්
-  එක්කහු වෙනව වෙනුවට \nඋපන් කමතට පොහොර වෙන එක \nසැපකි — සතුටකි පිදුරු ගසකට\n\n<h1>ඇළ</h1>\n\nඇළ
-  හොඳින් හැඳ පැළඳ \nඇවිද යයි කුඹුරු මැද \n\nවැව අරෙහෙ නිදි නැතිව \nමේ ඇඳුම මහපු බව
-  \nකිසිම වී කරලකට \nඇළ කියා නැත තවම\n\n<h1>ගසක් තම මල් අමතා කී කවිය</h1> \n\nගණන්
-  කර බැලූ විට \nතවත් මල් කීපයක් \nපිපෙන්නට නියමිතව \nඉතිරි වී ඇති බැවින් \n\nකැමැත්තෙන්
-  පර වෙන්න \nකැමති මල් සිටී නම් \nසුළඟ එන්නට කලින් \nවරක් අත් ඔසවන්න"
+  වෙත \nයෑම නුසුදුසුය පුත.”"
 transpoem: "“Dear father,\nwhy don’t we attend\nthe Ploughing Festival?\nEven the
   king is coming\nto the field today.\nShouldn’t we break this silence\nand announce\nit
   is us\nwho manured this soil\nfrom within the bowels of the earth?”\n   \n“Little
   earthworm son,\na hoe’s blade knows not\nthose who manured the soil\nand those who
   did not.\nTherefore, rising into the open air\nis unadvised.\nDrill your way deeper\nto
-  the dark depths of mud.\nDoing otherwise, my son,\nis not wiser.”\n\n<h1>A Joy —
-  A Bliss</h1>\n\nRather than joining in creating\nyet another scarecrow\ndecaying
-  into the homefield\nis a joy — a bliss to a stick of straw\n\n<h1>Canal</h1>\n\nThe
-  canal, dressed all fine and dandy\nglides across the paddies\n\nhow the lake sewed
-  its garb\nover sleepless nights\nthe canal hasn’t breathed a word\nto a single grain
-  of rice\n\n<h1>A Tree to its Flowers</h1>\n\nUpon counting\nthe remaining buds \nawaiting
-  to blossom,\na tree said\nto its flowers\n\nif there be flowers\nvolunteering to
-  wilt\nraise your hand just once\nbefore the wind comes"
+  the dark depths of mud.\nDoing otherwise, my son,\nis not wiser.”"
 note: |-
   <p>The four poems hand-picked for this submission are from a collection I am currently translating from my native language of Sinhalese, one of the official languages in Sri Lanka. The selection of poems weaves together metaphors from a pastoral, agricultural Sri Lankan setting unique to Bandujeewa’s poetry. In my English translations of these poems, I wanted to preserve the simple, pastoral elegance in Bandujeewa’s choice of language. I also attempted to preserve in English the melody produced through the simple, colloquial language Bandujeewa uses, which contrasts the conventional literary high variety of the diglossic Sinhalese.</p>
   <p>One of the main strategies I adopted to bring the aforementioned qualities into English was the use of internal rhymes. I tried to produce music in English in places where the original poem flowed melodiously. End rhymes were also used when and where necessary, although I did not consciously try to employ them. I attempted to remain as close to the original word order as possible without, of course, distorting the meaning and language of the poem in English; I used anastrophe where applicable.</p>
@@ -47,14 +35,14 @@ tbio: "<p>Chamini Kulathunga is a translator from Sri Lanka working with contemp
 language: Sinhalese
 lang: si
 image: "/assets/images/images_20/kulathunga.jpg"
-image2: 
 imagecredit: photo by Chamini Kulathunga
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '19'
+wrapformat: 
+sequence: first
+order: '22'
 layout: notepage
 collection: notes_2020
 ---

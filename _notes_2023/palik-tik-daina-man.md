@@ -78,9 +78,7 @@ epigraph:
 language: Lithuanian
 lang: lt
 image: "/assets/images/images_23/palik-tik-daina-man.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -104,7 +102,7 @@ translaudio: |-
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '08'
 layout: notepage
 collection: notes_2023

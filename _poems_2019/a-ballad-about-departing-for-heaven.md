@@ -159,13 +159,13 @@ tbio: |-
 language: Russian
 lang: ru
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '06'
 layout: poempage
 collection: poems_2019

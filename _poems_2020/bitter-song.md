@@ -49,13 +49,13 @@ tbio: "<p>Heta Patel is a junior at the University of Pennsylvania studying heal
 language: Spanish
 lang: es
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '01'
 layout: poempage
 collection: poems_2020

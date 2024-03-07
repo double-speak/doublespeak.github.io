@@ -120,15 +120,13 @@ epigraph:
 language: Chinese
 lang: zh
 image: "/assets/images/images_23/all-that-glitters.jpg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '22'
 layout: notepage
 collection: notes_2023

@@ -45,14 +45,14 @@ tbio: "<p>Carla Rossi graduated with a degree in conference interpreting from th
 language: Italian
 lang: it
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '20'
+wrapformat: 
+sequence: 
+order: '26'
 layout: poempage
 collection: poems_2020
 ---

@@ -52,14 +52,14 @@ tbio: |-
 language: Arabic
 lang: ar
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '23'
+wrapformat: 
+sequence: 
+order: '29'
 layout: poempage
 collection: poems_2020
 ---

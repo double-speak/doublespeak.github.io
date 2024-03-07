@@ -47,13 +47,13 @@ tbio: "<p>Quinn Gruber (C’22) studies English and Italian Literature at the Un
 language: Italian
 lang: it
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '10'
 layout: notepage
 collection: notes_2020

@@ -37,7 +37,9 @@ origaudio:
 translaudio: 
 edition: '2021'
 pagetype: musing
-order: '17'
+wrapformat: 
+sequence: 
+order: '18'
 layout: notepage
 collection: notes_2021
 ---

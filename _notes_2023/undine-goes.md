@@ -102,9 +102,7 @@ epigraph:
 language: German
 lang: de
 image: "/assets/images/images_23/undine-goes.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -119,7 +117,7 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '05'
 layout: notepage
 collection: notes_2023

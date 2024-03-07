@@ -75,13 +75,13 @@ tbio: "<p><em>DoubleSpeak</em> is composed of a group of passionate language lov
 language: Japanese
 lang: ja
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '14'
 layout: poempage
 collection: poems_2020

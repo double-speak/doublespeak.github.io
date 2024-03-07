@@ -63,15 +63,13 @@ epigraph:
 language: Kannada
 lang: kn
 image: "/assets/images/images_23/to-sell-milk-in-brindavana.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '19'
 layout: notepage
 collection: notes_2023

@@ -76,15 +76,13 @@ epigraph:
 language: Hindi
 lang: hi
 image: "/assets/images/images_23/net.png"
-image2: none
 imagecredit: photo by Katherine Rozsypalek
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '14'
 layout: poempage
 collection: poems_2023

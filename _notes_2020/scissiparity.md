@@ -288,13 +288,13 @@ tbio: "<p>I am a graduate student in the Comparative Literature and Literary The
 language: French
 lang: fr
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '09'
 layout: notepage
 collection: notes_2020

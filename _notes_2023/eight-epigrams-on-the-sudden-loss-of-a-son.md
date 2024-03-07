@@ -86,15 +86,13 @@ epigraph:
 language: Hebrew
 lang: he
 image: "/assets/images/images_23/eight-epigrams-on-the-sudden-loss-of-a-son.jpeg"
-image2: none
 imagecredit: photo by Ryan Hardy
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '06'
 layout: notepage
 collection: notes_2023

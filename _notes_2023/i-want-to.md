@@ -39,15 +39,13 @@ epigraph:
 language: Bahasa Indonesia
 lang: in
 image: "/assets/images/images_23/i-want-to.jpeg"
-image2: none
-imagecredit: photo by Stacy Shiumaki
-imagecredit2: 
+imagecredit: photo by Stacy Shimanuki
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '03'
 layout: notepage
 collection: notes_2023

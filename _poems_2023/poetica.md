@@ -88,9 +88,7 @@ epigraph:
 language: Portuguese
 lang: pt
 image: "/assets/images/images_23/poetica.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -114,7 +112,7 @@ translaudio: |-
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '02'
 layout: poempage
 collection: poems_2023

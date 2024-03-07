@@ -58,9 +58,7 @@ tbio: "<p>Claudia Nuñez de Ibieta translates and interprets within Spanish and 
 language: Spanish
 lang: es
 image: none
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -84,6 +82,7 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '01'
 layout: notepage
 collection: notes_2022

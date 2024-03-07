@@ -57,9 +57,7 @@ tbio: |-
 language: French
 lang: fr
 image: none
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -82,6 +80,7 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '05'
 layout: notepage
 collection: notes_2022

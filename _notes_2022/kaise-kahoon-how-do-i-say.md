@@ -78,15 +78,14 @@ abio: |-
 tbio: 
 language: 
 lang: 
-image: "/assets/images/images_22/musing1.jpg"
-image2: "../assets/images/images_22/musing2.jpg"
-imagecredit: photo by Stacy Shimanuki
-imagecredit2: photo by Stacy Shimanuki
+image: "/assets/images/images_22/musing1.jpg; /assets/images/images_22/musing2.jpg"
+imagecredit: photos by Stacy Shimanuki
 origaudio: 
 translaudio: 
 edition: '2022'
 pagetype: musing
 wrapformat: 
+sequence: 
 order: '08'
 layout: notepage
 collection: notes_2022

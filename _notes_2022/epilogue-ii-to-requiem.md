@@ -100,14 +100,13 @@ tbio: "<p>Ryan Hardy is an undergraduate at the University of Pennsylvania, purs
 language: Russian
 lang: ru
 image: "/assets/images/images_22/akhmatova.jpeg"
-image2: none
 imagecredit: photo by Ryan Hardy
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2022'
 pagetype: submission
 wrapformat: 
+sequence: 
 order: '17'
 layout: notepage
 collection: notes_2022

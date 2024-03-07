@@ -44,9 +44,7 @@ epigraph:
 language: Italian
 lang: it
 image: "/assets/images/images_23/ancient-i-am-dazed-by-the-voice.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -70,7 +68,7 @@ translaudio: |-
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '21'
 layout: notepage
 collection: notes_2023

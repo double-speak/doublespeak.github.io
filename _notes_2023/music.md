@@ -163,9 +163,7 @@ epigraph:
 language: French
 lang: fr
 image: "/assets/images/images_23/music.jpg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -205,7 +203,7 @@ translaudio: |-
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
+sequence: '0'
 order: '20'
 layout: notepage
 collection: notes_2023

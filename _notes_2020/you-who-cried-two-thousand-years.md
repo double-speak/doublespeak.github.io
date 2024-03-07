@@ -1,51 +1,29 @@
 ---
-pid: conversation-untitled
-title: Dialogue
-transtitle: Conversation
+pid: you-who-cried-two-thousand-years
+title: "[Vous qui avez pleuré deux mille ans]"
+transtitle: "[You who cried two thousand years]"
 author: Charlotte Delbo
 translator: Rhosean Asmah
-poem: "« Tu es française ?\n— Oui.\n— Moi aussi. »\nElle n’a pas d’F sur la poitrine.
-  Une étoile.\n« D’où ?\n— Paris.\n— Il y a longtemps que tu es ici ?\n— Cinq semaines.\n—
-  Moi, seize jours.\n— C’est beaucoup déjà, je sais.\n— Cinq semaines… Comment est-ce
-  possible ?\n— Tu vois.\n— Et tu crois qu’on peut tenir ? »\nElle mendie. \n« Il
-  faut essayer.\n— Vous, vous pouvez espérer mais nous… »\nElle montre ma jaquette
-  rayée et elle        montre son manteau, un manteau trop grand tellement, trop sale
-  tellement, trop en loques tellement.\n« Oh, nos chances sont égales, va… \n— Pour
-  nous, il n’y a pas d’espoir. »\n        Et sa main fait un geste et son geste évoque
-  la fumée qui monte.\n« Il faut lutter de tout son courage.\n— Pourquoi… Pourquoi
-  lutter puisque nous devons toutes… »\n        Le geste de sa main achève. La fumée
-  qui monte. \n« Non. Il faut lutter.\n— Comment espérer sortir d’ici. Comment quel-qu’un
-  sortira-t-il jamais d’ici. Il vaudrait mieux se jeter dans les barbelés tout de
-  suite. »\n        Que lui dire ? Elle est petite, chétive. Et je n’ai pas le pouvoir
-  de me persuader moi-même. Tous les arguments sont insensés. Je lutte contre ma raison.
-  On lutte contre toute raison. \n        La cheminée fume. Le ciel est bas. La fumée
-  traîne sur le camp et pèse et nous enveloppe et  c’est l’odeur de la chair qui brûle.\n\n<h2>[Vous
-  qui avez pleuré deux mille ans]</h2>\nVous qui avez pleuré deux mille ans\nun qui
-  a agonisé trois jours et trois nuits\n\nquelles larmes aurez-vous\npour ceux qui
-  ont agonisé\nbeaucoup plus de trois cents nuits et beaucoup\n    plus de trois cents
-  journées\ncombien\npleurerez-vous\nceux-là qui ont agonisé tant d’agonies\net ils
-  étaient innombrables\n\nIls ne croyaient pas à résurrection dans l’éternité\nEt
-  ils savaient que vous ne pleureriez pas.\n\n"
-transpoem: "Are you French?\nYes.\nMe too.\n\nShe doesn’t have an F on her chest.
-  A star.\n\nWhere from?\nParis. \nYou’ve been here a long time?\nFive weeks.\nSixteen
-  days for me. \nThat’s already a long time, I know.\nFive weeks… How is that possible?\nWell,
-  you know. \nAnd you think we can make it?\n\nShe pleads.\n\nWe have to try. \nYou
-  can hope, but us…\n\nShe points to my striped jacket and then to her own coat, a
-  coat much too big, much too dirty, much too worn.\n\nOh, our chances are equal,
-  don’t worry…\nThere’s no hope for us.\n\nAnd she makes a gesture, a gesture of rising
-  smoke. \n\nWe have to fight with all our courage. \nWhy… Why fight when we we’re
-  all bound to…\n\nThe gesture finishes the sentence. The rising smoke.\n\nNo. We
-  have to fight.\nHow can you hope to leave here. How will anyone ever leave here.
-  It’d be better to just throw ourselves at the barbed wire right now.\n\nWhat do
-  I tell her? She’s small, puny. And I can’t even convince myself. Every argument
-  is senseless. I fight against my own reason. We fight against all reason. \n\nThe
-  chimney smokes. The sky is low. The smoke, heavy, hangs over the camp and envelops
-  us and it’s the smell of burning flesh.\n\n<h2>[You who cried two thousand years]</h2>\n\nYou
-  who cried two thousand years\nfor one who died for three days and three nights\n\nwhat
-  tears will you have\nfor those who died\nfor much longer than three hundred nights
-  and much \nlonger than three hundred days\nhow much\nwill you cry\nfor those who
-  died so many deaths\nand they were countless\n\nThey did not believe in resurrection
-  and eternal life\nand they knew you would not cry. "
+poem: |
+  Vous qui avez pleuré deux mille ans
+  un qui a agonisé trois jours et trois nuits
+
+  quelles larmes aurez-vous
+  pour ceux qui ont agonisé
+  beaucoup plus de trois cents nuits et beaucoup
+      plus de trois cents journées
+  combien
+  pleurerez-vous
+  ceux-là qui ont agonisé tant d’agonies
+  et ils étaient innombrables
+
+  Ils ne croyaient pas à résurrection dans l’éternité
+  Et ils savaient que vous ne pleureriez pas.
+transpoem: "You who cried two thousand years\nfor one who died for three days and
+  three nights\n\nwhat tears will you have\nfor those who died\nfor much longer than
+  three hundred nights and much \nlonger than three hundred days\nhow much\nwill you
+  cry\nfor those who died so many deaths\nand they were countless\n\nThey did not
+  believe in resurrection and eternal life\nand they knew you would not cry. "
 note: "<p>Charlotte Delbo’s “Dialogue” presents a conversation between two people,
   a woman and the poem’s narrator, and the narrator’s inner thoughts. Given that “Dialogue”
   appeared in <em>Aucun de nous ne reviendra</em> (<em>None of Us Will Return</em>),
@@ -108,14 +86,14 @@ tbio: "<p>Rhosean Asmah is a senior at the University of Pennsylvania. She studi
 language: French
 lang: fr
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '18'
+wrapformat: 
+sequence: last
+order: '21'
 layout: notepage
 collection: notes_2020
 ---

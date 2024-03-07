@@ -90,14 +90,14 @@ tbio: "<p>Shuke Zeng is an undergraduate student at Penn. She majors in English 
 language: Chinese
 lang: zh
 image: "/assets/images/images_20/shengyi_lu.png"
-image2: 
 imagecredit: photo by Shengyi Liu
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '26'
+wrapformat: 
+sequence: 
+order: '32'
 layout: notepage
 collection: notes_2020
 ---

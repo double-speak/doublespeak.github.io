@@ -104,15 +104,13 @@ epigraph:
 language: German
 lang: de
 image: "/assets/images/images_23/der-erlkonig.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '2'
+sequence: last
 order: '10'
 layout: poempage
 collection: poems_2023

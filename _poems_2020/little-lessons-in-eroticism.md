@@ -135,13 +135,13 @@ tbio: "<p>Sam Friskey — always a playwright, occasionally a translator of Span
 language: Spanish
 lang: es
 image: "/assets/images/images_20/friskey.jpg"
-image2: 
 imagecredit: photo by Vivian Wen
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
+wrapformat: 
+sequence: 
 order: '05'
 layout: poempage
 collection: poems_2020
