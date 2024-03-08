@@ -61,6 +61,7 @@ tbio: "<p>Emily Jungmin Yoon graduated from University of Pennsylvania with a do
   <em>Against Healing</em> (Tilted Axis Press, 2019). Her poems and translations have
   appeared in the <em>New Yorker</em>, the <em>New York Times Magazine</em>, <em>Poetry</em>,
   <em>DoubleSpeak</em>, and elsewhere.</p>"
+epigraph: 
 language: Korean
 lang: ko
 image: "/assets/images/images_20/yoon.jpeg"
@@ -71,7 +72,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: last
-order: '16'
+order: '17'
 layout: poempage
 collection: poems_2020
 ---

@@ -94,6 +94,7 @@ tbio: "<p>Armghan Ahmad is a senior in Wharton studying finance and marketing. A
   to each other at the dinner table and give him endless books to read. In his free
   time, Armghan enjoys taking photos, running along the Schuylkill trail, and waxing
   on about the cinematic masterpiece that is <em>Manchester by the Sea</em>.</p>"
+epigraph: 
 language: Urdu
 lang: ur
 image: 
@@ -104,7 +105,7 @@ edition: '2019'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '04'
+order: '05'
 layout: notepage
 collection: notes_2019
 ---

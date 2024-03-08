@@ -40,6 +40,7 @@ tbio: "<p>Yehudith Dashevsky is an undergraduate at the University of Pennsylvan
   projects include a thesis about ten translations of Anna Akhmatova’s <em>Requiem</em>,
   an article documenting educational triumphs in a woodworking shop in Philadelphia,
   and a chapter of a children’s book.</p>"
+epigraph: 
 language: Russian
 lang: ru
 image: 
@@ -50,7 +51,7 @@ edition: '2019'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '08'
+order: '09'
 layout: poempage
 collection: poems_2019
 ---

@@ -47,6 +47,7 @@ tbio: |-
   <p>
   Betsy Morgan began learning Yiddish during her time at Drexel University (’18) studying Materials Science and Engineering. Ever since that first immersive Yiddish learning program at Yiddish Farm in New York in 2015, Betsy has been listening to, reading, and trying to speak more Yiddish. Originally from the Philadelphia area, Betsy now lives with her husband in Haifa, Israel.
   </p>
+epigraph: 
 language: Yiddish
 lang: he
 image: "/assets/images/images_22/segalovitsh.jpg"
@@ -73,7 +74,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '04'
+order: '05'
 layout: poempage
 collection: poems_2022
 ---

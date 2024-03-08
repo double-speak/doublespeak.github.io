@@ -132,6 +132,7 @@ abio: "<p>Born on December 9, 1948, Nicaraguan poet and activist Giaconda Belli 
 tbio: "<p>Sam Friskey — always a playwright, occasionally a translator of Spanish
   poetry — is a senior in the College studying English with minors in economics and
   theater arts.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: "/assets/images/images_20/friskey.jpg"
@@ -142,7 +143,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '05'
+order: '06'
 layout: notepage
 collection: notes_2020
 ---

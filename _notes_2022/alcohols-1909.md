@@ -70,6 +70,7 @@ tbio: "<p>Saagar Asnani (C’19) is a PhD student in musicology at the Universit
   on texts in Modern French when it arises. As a graduating senior at Penn in 2019,
   he was awarded the Clifton C. Cherpack Prize in French Studies. In his free time,
   he enjoys playing viola and is an active member of UC Berkeley’s Symphony Orchestra.</p>"
+epigraph: 
 language: French
 lang: fr
 image: 
@@ -96,7 +97,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '13'
+order: '14'
 layout: notepage
 collection: notes_2022
 ---

@@ -38,6 +38,7 @@ tbio: "<p>Maria Lourdes Riillo is a senior at the University of Pennsylvania stu
   When she is not at theater rehearsal or in class, she enjoys reading, baking, and
   spending time with her friends. Maria enjoys the musicality and rhythm of poetry
   most of all, and the unique challenge that translating poses in that regard.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: "/assets/images/images_20/riilo_1.png; /assets/images/images_20/riilo_2.png"
@@ -48,7 +49,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: first
-order: '18'
+order: '19'
 layout: poempage
 collection: poems_2020
 ---

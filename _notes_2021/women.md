@@ -40,6 +40,7 @@ tbio: "<p>Donnisa Edmonds is a recent graduate of the University of Pennsylvania
   is struggling to maintain fluency in a post-college lifestyle. Her hobbies include
   sewing, roller skating, excessive visits to the craft store, and discussing music
   opinions with anyone who will listen.</p>"
+epigraph: 
 language: French
 lang: fr
 image: 
@@ -86,7 +87,7 @@ edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: last
-order: '22'
+order: '23'
 layout: notepage
 collection: notes_2021
 ---

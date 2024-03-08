@@ -103,6 +103,7 @@ tbio: "<p><em>DoubleSpeak</em> Staff is a group of poetry lovers and language af
   hosting a radio show at Penn. We are forever fascinated by the depth and breadth
   of language and translation, and we hope to share our love for such wonders with
   all the readers of <em>DoubleSpeak</em>.</p>\n"
+epigraph: 
 language: 
 lang: zh
 image: 
@@ -115,7 +116,7 @@ edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '40'
+order: '41'
 layout: notepage
 collection: notes_2021
 ---

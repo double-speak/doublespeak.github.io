@@ -59,6 +59,7 @@ tbio: "<p>Darío Goldgel Carballo is a PhD candidate in the romance languages de
   and will hope that <em>DoubleSpeak</em> is informal enough to forgive him. He has,
   indeed, done some stuff in his life, but nothing that can trick the readers into
   taking his translation more seriously.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: 
@@ -80,7 +81,7 @@ edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '39'
+order: '40'
 layout: notepage
 collection: notes_2021
 ---

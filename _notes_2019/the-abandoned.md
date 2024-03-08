@@ -110,6 +110,7 @@ tbio: "<p>I translated this poem as my final project in Taije Silverman’s clas
   Translation of Poetry and the Poetry of Translation.” I study Spanish , French,
   and comparative literature in the College, so I am constantly translating between
   languages, authors, times, etc.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: "/assets/images/images_19/mistral.JPG"
@@ -120,7 +121,7 @@ edition: '2019'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '03'
+order: '04'
 layout: notepage
 collection: notes_2019
 ---

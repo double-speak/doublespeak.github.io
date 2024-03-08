@@ -29,6 +29,7 @@ note: |-
   <p>I believe both Kim and I share the same hope that our readers too, can find time in their lives to think about their dreams and not be afraid to be a bit clumsy, a bit humble, a bit confused, and a bit daring. It’s not normal you see a 5-foot-8-inch twenty-four-year-old American and a five-foot, sixty-three-year-old Korean, but it was through certain aspirations that we were able to develop a connection. So thank you to poetry, to languages, and to <em>DoubleSpeak</em> for once again allowing me to discover warmth and hope.</p>
 abio: 
 tbio: 
+epigraph: 
 language: Korean
 lang: ko
 image: 
@@ -39,7 +40,7 @@ edition: '2021'
 pagetype: musing
 wrapformat: 
 sequence: 
-order: '18'
+order: '19'
 layout: poempage
 collection: poems_2021
 ---

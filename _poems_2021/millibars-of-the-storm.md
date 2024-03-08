@@ -31,6 +31,7 @@ tbio: "<p>Sue was raised in Canada, studied abroad in France, and currently work
   in statistics and minoring in French and creative writing. While at Penn, Sue was
   an editor on the <em>DoubleSpeak</em> team and loved exploring works by authors
   in different languages.</p>"
+epigraph: 
 language: French
 lang: fr
 image: 
@@ -52,7 +53,7 @@ edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '33'
+order: '34'
 layout: poempage
 collection: poems_2021
 ---

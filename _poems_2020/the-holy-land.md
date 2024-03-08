@@ -42,6 +42,7 @@ tbio: "<p>Carla Rossi graduated with a degree in conference interpreting from th
   the world. The only thing she knows is that she wants to keep learning English and
   possibly work in it. That’s why she recently completed her CELTA course, which enables
   her to teach English worldwide.</p>"
+epigraph: 
 language: Italian
 lang: it
 image: 
@@ -52,7 +53,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '26'
+order: '27'
 layout: poempage
 collection: poems_2020
 ---

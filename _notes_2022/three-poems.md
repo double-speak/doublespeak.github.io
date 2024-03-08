@@ -40,6 +40,7 @@ tbio: |-
   <p>
   Julia Pelosi-Thorpe’s translations of Latin, Italian, and Parmesan dialect poetry appear in the <em>Journal of Italian Translation</em>, <em>Asymptote</em>, <em>Modern Poetry in Translation</em>, the <em>Poetry Review</em>, and more.</a>
   </p>
+epigraph: 
 language: Italian
 lang: it
 image: "/assets/images/images_22/n'djoku.jpg"
@@ -59,7 +60,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '15'
+order: '16'
 layout: notepage
 collection: notes_2022
 ---

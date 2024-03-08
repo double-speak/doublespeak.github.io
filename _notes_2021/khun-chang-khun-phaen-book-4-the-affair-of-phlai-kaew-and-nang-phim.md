@@ -51,6 +51,7 @@ tbio: |-
   <p>Peeriya and John are award-winning authors and translators who excel in creating English language rhyme schemes which echo that of their sources, while accurately communicating the author’s message.</p>
   <p>In 2019, their passion for literature and language led to cofounding InterThaiMedia LLC to create media that brings people together across languages and cultures. InterThaiMedia’s first project was a picture-book called <em>Can You Carry Me?</em>, a Thai-English children’s book that is sold all over Thailand. <em>Can You Carry Me?</em> is slated to be published in English, Spanish, and dual-language formats. We seek to publish children’s books which address difficult issues like racism, adoption, loss, among others.</p>
   <p>In all, Peeriya and John have translated more than 140 children’s books, song lyrics, and poetry. They last published with <em>DoubleSpeak</em> in Spring 2020.</p>
+epigraph: 
 language: Thai
 lang: th
 image: 
@@ -63,7 +64,7 @@ edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '36'
+order: '37'
 layout: notepage
 collection: notes_2021
 ---

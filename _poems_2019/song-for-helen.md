@@ -96,6 +96,7 @@ tbio: "<p>Saagar Asnani is a senior in the College of Arts and Sciences at Penn 
   In addition to translation, he is an avid performer, and can often be seen on campus
   carrying his viola to rehearsals and concerts. After Penn, he intends to attend
   medical school.</p>"
+epigraph: 
 language: French
 lang: fr
 image: 
@@ -106,7 +107,7 @@ edition: '2019'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '11'
+order: '12'
 layout: poempage
 collection: poems_2019
 ---

@@ -56,6 +56,7 @@ tbio: "<p>Heta Patel is a senior at the University of Pennsylvania studying Heal
   medicine and immersing herself in Spanish, she has also found writing and translating
   poetry instrumental in her desire to learn more about the human condition. In her
   free time, she enjoys curating her Spotify playlists and bullet journaling.</p>\n"
+epigraph: 
 language: Spanish
 lang: es
 image: 
@@ -77,7 +78,7 @@ edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '13'
+order: '14'
 layout: poempage
 collection: poems_2021
 ---

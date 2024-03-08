@@ -61,6 +61,7 @@ abio: "<p>Erich Arendt spent the last three decades of his life a prisoner of th
 tbio: "<p>Robert Chen studies chemistry at the University of Pennsylvania. He pursues
   German because German is the language of chemistry, which in turn is the language
   of life.</p>"
+epigraph: 
 language: German
 lang: de
 image: 
@@ -71,7 +72,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '06'
+order: '07'
 layout: poempage
 collection: poems_2020
 ---

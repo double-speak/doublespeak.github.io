@@ -65,6 +65,7 @@ tbio: "<p>Jordan Barger is a Philadelphia-based translator specializing in trans
   from Norwegian and French. He has worked in Norway at the Ivar Aasen Center in Ørsta.
   He translated Sigbjørn Obstfelder’s 1894 novel <em>The Cross</em>. His translations
   can be found in the <em>Brooklyn Rail.</em></p>"
+epigraph: 
 language: Norwegian
 lang: 'no'
 image: "/assets/images/images_21/obstfelder.JPG"
@@ -86,7 +87,7 @@ edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '20'
+order: '21'
 layout: notepage
 collection: notes_2021
 ---

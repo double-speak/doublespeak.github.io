@@ -56,6 +56,7 @@ abio: |-
 tbio: |-
   <p>Kathryn A. Dettmer is an adjunct lecturer and instructor of French at the University of Pennsylvania, Drexel University, and Widener University. As a Peace Corps volunteer, she had the luck to learn Czech in a castle located in the spa town of Poděbrady before teaching English in an academic high school in
   Valašské Klobouky. She is currently translating a YA novel by Véronique Tadjo from French.</p>
+epigraph: 
 language: Czech
 lang: cs
 image: "/assets/images/images_22/halas.jpg; /assets/images/images_22/halas2.JPG"
@@ -84,7 +85,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '03'
+order: '04'
 layout: notepage
 collection: notes_2022
 ---

@@ -156,6 +156,7 @@ abio: "<p>Vladimir Vysotskii (1938–1980) was an accomplished actor and one of 
 tbio: |-
   <p>My name is Dan Guralnik. I am a mathematician working on geometric/topological methods for knowledge representation at Kod*Lab (Penn ESE) and am with Robert Ghrist’s group at the department of mathematics. I was born in Israel in 1975, raised by my Russian-Jewish parents, who introduced me to Vysotskii when I was about nine (or was it ten?) years old. He was a hero to them.</p>
   <p>I moved to the US at the age of thirty, my first six years spent in the “Bible Belt” (specifically Vanderbilt and the University of Oklahoma), where I learned many new things about English. This weekend is yet another anniversary of my dad’s passing (11/17/1939–10/20/2001) of lung cancer. Like every cool dude in his days (Vladimir Vysotskii included), Dad used to smoke a lot. The song I’ve attempted to translate here is the song I played for the small gathering at his funeral – a song celebrating life in what seems a singularly Russian way, painting heaven as the best of all worlds, save one: ours.</p>
+epigraph: 
 language: Russian
 lang: ru
 image: 
@@ -166,7 +167,7 @@ edition: '2019'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '06'
+order: '07'
 layout: notepage
 collection: notes_2019
 ---

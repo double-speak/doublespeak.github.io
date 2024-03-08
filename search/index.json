@@ -423,6 +423,20 @@ layout: none
     "lunr_id": 29
   },
   {
+    "pid": "editor-note",
+    "title": null,
+    "transtitle": "Editor's Note",
+    "author": "Zhiqiao (Kate) Jiang",
+    "translator": null,
+    "poem": null,
+    "transpoem": null,
+    "language": null,
+    "collection": "poems_2022",
+    "content": " ",
+    "permalink": "/poems_2022/editor-note",
+    "lunr_id": 30
+  },
+  {
     "pid": "whispered",
     "title": "Tiše",
     "transtitle": "Whispered",
@@ -434,7 +448,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/whispered",
-    "lunr_id": 30
+    "lunr_id": 31
   },
   {
     "pid": "epilogue-ii-to-requiem",
@@ -448,7 +462,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/epilogue-ii-to-requiem",
-    "lunr_id": 31
+    "lunr_id": 32
   },
   {
     "pid": "morituri",
@@ -462,7 +476,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/morituri",
-    "lunr_id": 32
+    "lunr_id": 33
   },
   {
     "pid": "whole-of-spring",
@@ -476,7 +490,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/whole-of-spring",
-    "lunr_id": 33
+    "lunr_id": 34
   },
   {
     "pid": "phra-aphai-mani",
@@ -490,7 +504,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/phra-aphai-mani",
-    "lunr_id": 34
+    "lunr_id": 35
   },
   {
     "pid": "unwavering",
@@ -504,7 +518,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/unwavering",
-    "lunr_id": 35
+    "lunr_id": 36
   },
   {
     "pid": "i-too-am-a-riddle",
@@ -518,7 +532,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/i-too-am-a-riddle",
-    "lunr_id": 36
+    "lunr_id": 37
   },
   {
     "pid": "kaise-kahoon-how-do-i-say",
@@ -532,7 +546,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/kaise-kahoon-how-do-i-say",
-    "lunr_id": 37
+    "lunr_id": 38
   },
   {
     "pid": "three-poems",
@@ -546,7 +560,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/three-poems",
-    "lunr_id": 38
+    "lunr_id": 39
   },
   {
     "pid": "zinka",
@@ -560,7 +574,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/zinka",
-    "lunr_id": 39
+    "lunr_id": 40
   },
   {
     "pid": "you-dont-raise-children-to-watch-them-die",
@@ -574,7 +588,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/you-dont-raise-children-to-watch-them-die",
-    "lunr_id": 40
+    "lunr_id": 41
   },
   {
     "pid": "the-universe-blames-me",
@@ -588,7 +602,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/the-universe-blames-me",
-    "lunr_id": 41
+    "lunr_id": 42
   },
   {
     "pid": "finch",
@@ -602,7 +616,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/finch",
-    "lunr_id": 42
+    "lunr_id": 43
   },
   {
     "pid": "mother",
@@ -616,7 +630,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/mother",
-    "lunr_id": 43
+    "lunr_id": 44
   },
   {
     "pid": "reaching-for-words-on-gottschee",
@@ -630,7 +644,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/reaching-for-words-on-gottschee",
-    "lunr_id": 44
+    "lunr_id": 45
   },
   {
     "pid": "the-romantic-dogs",
@@ -644,7 +658,7 @@ layout: none
     "collection": "poems_2022",
     "content": " ",
     "permalink": "/poems_2022/the-romantic-dogs",
-    "lunr_id": 45
+    "lunr_id": 46
   },
   {
     "pid": "epitaph-for-when-i-die",
@@ -658,7 +672,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/epitaph-for-when-i-die",
-    "lunr_id": 46
+    "lunr_id": 47
   },
   {
     "pid": "xxv",
@@ -672,7 +686,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/xxv",
-    "lunr_id": 47
+    "lunr_id": 48
   },
   {
     "pid": "come",
@@ -686,7 +700,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/come",
-    "lunr_id": 48
+    "lunr_id": 49
   },
   {
     "pid": "declines-of-the-monologue",
@@ -700,11 +714,11 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/declines-of-the-monologue",
-    "lunr_id": 49
+    "lunr_id": 50
   },
   {
     "pid": "maybe-its-clarity",
-    "title": "Three Poems",
+    "title": "Forse la trasparenza",
     "transtitle": "Maybe it's clarity",
     "author": "Filippo Vignali",
     "translator": "Giulia Rupi and John Sherer",
@@ -714,7 +728,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/maybe-its-clarity",
-    "lunr_id": 50
+    "lunr_id": 51
   },
   {
     "pid": "like-an-illusion-a-poet-and-a-translator",
@@ -728,7 +742,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/like-an-illusion-a-poet-and-a-translator",
-    "lunr_id": 51
+    "lunr_id": 52
   },
   {
     "pid": "to-a-black-dancer",
@@ -742,7 +756,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/to-a-black-dancer",
-    "lunr_id": 52
+    "lunr_id": 53
   },
   {
     "pid": "the-greatest-ink",
@@ -756,7 +770,20 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/the-greatest-ink",
-    "lunr_id": 53
+    "lunr_id": 54
+  },
+  {
+    "pid": "editor-note",
+    "title": null,
+    "transtitle": "Editor's Note",
+    "author": "Heta Patel",
+    "translator": null,
+    "poem": null,
+    "transpoem": null,
+    "language": null,
+    "content": " ",
+    "permalink": "/poems_2021/editor-note",
+    "lunr_id": 55
   },
   {
     "pid": "i-want-to-live-with-you",
@@ -770,7 +797,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/i-want-to-live-with-you",
-    "lunr_id": 54
+    "lunr_id": 56
   },
   {
     "pid": "two-poems-by-qasmuna-bint-ismail",
@@ -784,7 +811,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/two-poems-by-qasmuna-bint-ismail",
-    "lunr_id": 55
+    "lunr_id": 57
   },
   {
     "pid": "some-later-day",
@@ -798,7 +825,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/some-later-day",
-    "lunr_id": 56
+    "lunr_id": 58
   },
   {
     "pid": "wild-grass",
@@ -812,7 +839,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/wild-grass",
-    "lunr_id": 57
+    "lunr_id": 59
   },
   {
     "pid": "shapes-in-sleep-eight-poems",
@@ -826,7 +853,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/shapes-in-sleep-eight-poems",
-    "lunr_id": 58
+    "lunr_id": 60
   },
   {
     "pid": "each-day-the-sun-slits-the-throat-of-its-former-self",
@@ -840,7 +867,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/each-day-the-sun-slits-the-throat-of-its-former-self",
-    "lunr_id": 59
+    "lunr_id": 61
   },
   {
     "pid": "onlooker",
@@ -854,7 +881,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/onlooker",
-    "lunr_id": 60
+    "lunr_id": 62
   },
   {
     "pid": "listen",
@@ -868,7 +895,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/listen",
-    "lunr_id": 61
+    "lunr_id": 63
   },
   {
     "pid": "a-chain-verse",
@@ -882,7 +909,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/a-chain-verse",
-    "lunr_id": 62
+    "lunr_id": 64
   },
   {
     "pid": "four-poems",
@@ -896,12 +923,12 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/four-poems",
-    "lunr_id": 63
+    "lunr_id": 65
   },
   {
     "pid": "women",
     "title": "Femmes",
-    "transtitle": "Epitaph For When I Die",
+    "transtitle": "Women",
     "author": "Mariama Ndiaye",
     "translator": "Donnisa Edmonds",
     "poem": "<i>A toute mes soeurs \nqui souffrent loin de moi</i>\n\nFemmes africaines !\nFemmes de savanes et de la steppe ! \nFemmes des régions libérées ! \nFemmes de la Guinée Bissau, femmes d’Afrique ! \n\nVous avez aimé devant la rougeur de feux, \nSous le silence de l’ennemi, \nVous avez donné vie sous les crépitements \ndes mitrailleuses\nVous les sœurs opprimées, vous qui gardez \ndans vos entailles \nLe visage de l’Afrique immortelle ! \nVous ne pourrez être oubliées, ni décolorées. \n\nVous avez nourri l’Afrique de votre sève\nVotre peau d’ébène a refusé la caresse du colonisateur. \n\nFemmes africaines ! \nBelles femmes à la peau sombre\nAcceptez la demande de votre sœur du Sénégal. \n\nBelles femmes noires \nAux destinées éternelles, \nEnrôle dans vos brigades\nJe mettrai l’uniforme du refus, \nJe participerai à vos simulacres\nDe combat, et je crierai : \n\nVIVE L’AFRIQUE LIBRE ! ",
@@ -910,7 +937,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/women",
-    "lunr_id": 64
+    "lunr_id": 66
   },
   {
     "pid": "diary-of-the-lockdown-lifted",
@@ -924,7 +951,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/diary-of-the-lockdown-lifted",
-    "lunr_id": 65
+    "lunr_id": 67
   },
   {
     "pid": "millibars-of-the-storm",
@@ -938,7 +965,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/millibars-of-the-storm",
-    "lunr_id": 66
+    "lunr_id": 68
   },
   {
     "pid": "conversation-of-a-drunk-poetess-and-her-lover",
@@ -952,7 +979,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/conversation-of-a-drunk-poetess-and-her-lover",
-    "lunr_id": 67
+    "lunr_id": 69
   },
   {
     "pid": "khun-chang-khun-phaen-book-4-the-affair-of-phlai-kaew-and-nang-phim",
@@ -966,7 +993,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/khun-chang-khun-phaen-book-4-the-affair-of-phlai-kaew-and-nang-phim",
-    "lunr_id": 68
+    "lunr_id": 70
   },
   {
     "pid": "choose",
@@ -980,7 +1007,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/choose",
-    "lunr_id": 69
+    "lunr_id": 71
   },
   {
     "pid": "verb",
@@ -994,7 +1021,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/verb",
-    "lunr_id": 70
+    "lunr_id": 72
   },
   {
     "pid": "transfigured-night",
@@ -1008,11 +1035,11 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/transfigured-night",
-    "lunr_id": 71
+    "lunr_id": 73
   },
   {
     "pid": "i-see-my-father-crying",
-    "title": "Three Poems",
+    "title": "Vedo mio padre piangere",
     "transtitle": "I see my father crying",
     "author": "Filippo Vignali",
     "translator": "Giulia Rupi and John Sherer",
@@ -1022,7 +1049,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/i-see-my-father-crying",
-    "lunr_id": 72
+    "lunr_id": 74
   },
   {
     "pid": "interview-with-maria-dahvana-headley",
@@ -1036,11 +1063,11 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/interview-with-maria-dahvana-headley",
-    "lunr_id": 73
+    "lunr_id": 75
   },
   {
     "pid": "can-we-keep-quiet",
-    "title": "Three Poems",
+    "title": "Riusciamo a fare silenzio",
     "transtitle": "Can we keep quiet",
     "author": "Filippo Vignali",
     "translator": "Giulia Rupi and John Sherer",
@@ -1050,7 +1077,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/can-we-keep-quiet",
-    "lunr_id": 74
+    "lunr_id": 76
   },
   {
     "pid": "like-an-illusion-poetry",
@@ -1064,7 +1091,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/like-an-illusion-poetry",
-    "lunr_id": 75
+    "lunr_id": 77
   },
   {
     "pid": "winter",
@@ -1078,7 +1105,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/winter",
-    "lunr_id": 76
+    "lunr_id": 78
   },
   {
     "pid": "from-what-mistake",
@@ -1092,7 +1119,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/from-what-mistake",
-    "lunr_id": 77
+    "lunr_id": 79
   },
   {
     "pid": "romance-of-the-moon-and-the-child",
@@ -1106,7 +1133,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/romance-of-the-moon-and-the-child",
-    "lunr_id": 78
+    "lunr_id": 80
   },
   {
     "pid": "eternity",
@@ -1120,7 +1147,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/eternity",
-    "lunr_id": 79
+    "lunr_id": 81
   },
   {
     "pid": "eclipse",
@@ -1134,7 +1161,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/eclipse",
-    "lunr_id": 80
+    "lunr_id": 82
   },
   {
     "pid": "the-butterfly-june-4th-1942",
@@ -1148,7 +1175,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/the-butterfly-june-4th-1942",
-    "lunr_id": 81
+    "lunr_id": 83
   },
   {
     "pid": "a-letter-of-menakhem-mendl",
@@ -1160,9 +1187,9 @@ layout: none
     "transpoem": "My lovely wife Sheyne-Sheyndl,\nThrough a cloud the moon is shining.  \nThrough storm and night, you handle \nMy dreamy head, gently patting. \n \nThe mighty wind blows up my capota\nMy hat drops to the back of my head.\nLike that I walked alive, like that I lie dead\nSince my figure, so they say, is immortal.\n\nMy Sheyne-Sheyndl, it is snowing white.\nNot a soul, all are gone, face it.\nTevye died \nAnd Motl died too, the son of cantor Peyse,\nUncle Pinye, dear man, is dead too. \n\nStempenyu on the snow cradles, small and barefoot,\nCharming as ever and more.\nBut his fiddle is silent, no sound no hoot \nAll are gone, all who listened before.\n\nTopeleh too is resting, simple-minded tuturitu \nThe toddler is resting dead and smiling. \nPeople’s jokes and tears are immortal, \nSo immortal is Topeleh too.\n\nMy Sheyne-Sheyndl, do you remember\nDeep, deep was the night we parted,\nIn line we stood facing death together\nWith whom in tears and laughs we delighted.\n\nSheyne-Sheyndl you wore your holiday shawl,\nMy tattered capota you tried to mend.\nThis time our people did not laugh, not at all,\nThey just kissed your glowing hand.\n\nThe night turned scarlet from flames,\nAnd for you, my will I wrote \nOn a small piece of paper with your name.\nAnd, sure enough, the main point I forgot.\n\nI wanted to thank you, so much and no less\nFor being a patient, forgiving wife\nSheyne-Sheyndl, we played our life\nFor a laugh, but the finish was something else.\n\nOur joke foretold this end from the start, \nPlaying silent music in us, inside.\nWe pounded our heroes at their heart\nBut nobody listened or cared to mind.\n\nI did not know and you did not get\nThe sad drama we played till too late.\nNo lit., so they say, has a jester tell jokes\nWhile a hangman’s noose his neck chokes.\n\nTill judgement day we did not exit,      \nDreamy knights and clumsy heroes,\nThe figures of the great Yiddish lit,\nThat like me in the snow wallow.\n\nThrough storm and night, Sheyne Sheyndl, \nMy murdered head you are gently patting. \nMy lovely wife Sheyne-Sheyndl,\nIn heaven the moon is shining.",
     "language": "Hebrew",
     "collection": "poems_2021",
-    "content": "כך אומרים ---היא בת-נצח. שינה שינדל שלי, יורד שלג לבן, אין אדם. כלם תמו. הביני. טוביה מת ומת מוטל בן פיסי החזן. מת האיש היקר הדוד פיני. ועל השלג נח סטמפניו, קט ויחף, וכלו כמאז מלא חן עוד. אך אלם הכנור. לא נגון הוא רועף. יען אין לו למי לנגן עוד. וגם טופלה נח, טוטוריטו התם נח פעוט ומחיך ממות. נצחיים הם שחוקו ובכיו של העם. לכן טופלה הוא בן-אלמות. שינה שינדל שלי. לילה, לילה עמק. את זוכרת הליל בו נפרדנו. עם העם שנתנו לו דמע ושחוק גם אנחנו מול מות עמדנו. את לבשת, שינה שינדל, מטפחת של חג. את נקית הקפוטה שלי הנושנת. והעם זאת הפעם צחוק לא צחק. הוא נשק את ידך הקורנת. והלילה היה משרפות חכלילי ואני צואה לך נסחתי, על אגרת קטנה, שינה שינדל שלי. וברור כי עקר שכחתי. העקר...לך רציתי תודה להגיד, שהיית לי בת-זוג, סבלנית ומכפרת. שינה שינדל, שחקנו קומדיה נצחית, אך גמרנו אחרת, אחרת. זאת נבאה בדיחתנו מאז,טרם סוף, עת נגנו כנוריה בתוך הלע היא על לב גבוריה הכתה באגרוף , אבל איש לא אבה לשמע. גם אני לא ידעתי, גם את לא הבנת, את חזיון התוגה ששחקנו עד ערב. שום ספרות---כך יאמרו---לא ידעה קומדינט שכמונו נשא על צואר את החרב. עד יום גזר...עד נצבנו בתוך הגולה, אבירי החלום, גאוני העני, גבורי הספרות היהודית הגדולה, הנופלת בשלג כמוני. --- --- שינה שינדל שלי, דרף ליל וסופה בראשי ההרוג את נוגעת. שינה שינדל שלי, זוגתי היפה במרומים הלבנה נוגהת. transpoem: 'My lovely wife Sheyne-Sheyndl,Through a cloud the moon is shining. Through storm and night, you handle My dreamy head, gently patting. The mighty wind blows up my capotaMy hat drops to the back of my head.Like that I walked alive, like that I lie deadSince my figure, so they say, is immortal.My Sheyne-Sheyndl, it is snowing white.Not a soul, all are gone, face it.Tevye died And Motl died too, the son of cantor Peyse,Uncle Pinye, dear man, is dead too. Stempenyu on the snow cradles, small and barefoot,Charming as ever and more.But his fiddle is silent, no sound no hoot All are gone, all who listened before.Topeleh too is resting, simple-minded tuturitu The toddler is resting dead and smiling. People’s jokes and tears are immortal, So immortal is Topeleh too.My Sheyne-Sheyndl, do you rememberDeep, deep was the night we parted,In line we stood facing death togetherWith whom in tears and laughs we delighted.Sheyne-Sheyndl you wore your holiday shawl,My tattered capota you tried to mend.This time our people did not laugh, not at all,They just kissed your glowing hand.The night turned scarlet from flames,And for you, my will I wrote On a small piece of paper with your name.And, sure enough, the main point I forgot.I wanted to thank you, so much and no lessFor being a patient, forgiving wifeSheyne-Sheyndl, we played our lifeFor a laugh, but the finish was something else.Our joke foretold this end from the start, Playing silent music in us, inside.We pounded our heroes at their heartBut nobody listened or cared to mind.I did not know and you did not getThe sad drama we played till too late.No lit., so they say, has a jester tell jokesWhile a hangman’s noose his neck chokes.Till judgement day we did not exit, Dreamy knights and clumsy heroes,The figures of the great Yiddish lit,That like me in the snow wallow.Through storm and night, Sheyne Sheyndl, My murdered head you are gently patting. My lovely wife Sheyne-Sheyndl,In heaven the moon is shining.' note: 'The poem was published in Hebrew in the newspaper Davar (March 9, 1945) and was included in subsequent editions of Alterman’s collected poems. The speaker in this poetic monologue is Menakhem Mendl, the protagonist of the epistolary novel The Letters of Menakhem-Mendl and Sheyn-Sheyndl, by Sholem Aleichem (Sholem Yakov Rabinovitz [1859–1916]), published in 1892–1913. The latest English translation is published together with a book about another figure from Sholem Aleichem’s fictional gallery who is mentioned in the poem, “The Letters of Menakhen-Mendl and Motl, the Cantor’s Son,” translated by Hillel Halkin (New Yiddish Library. New Haven: Yale University Press, 2002). Uncle Pinye is also a character in this book. Stempenyu, the gifted fiddler, is the hero of Sholem Aleichem’s first novel that was published in Yiddish in 1888, and its latest English translation is by Hanna Berman (Stempenyu: A Yiddish Romance, [Brooklyn: Melville, 2007]). Topeleh Tuturitu is the child who narrates the tale “The Flag” in Sholem Aleichem’s stories for children, published in English as A Treasury of Sholom Aleichem Children’s Stories, translated by Aliza Shervin (Northvale, NJ: Jason Aronson, 1996). Tevye is Tevye the Dairyman of Fiddler on the Roof fame, whose story was published first as Tevye and his Daughters in 1894, and later in English translation as Tevye’s Daughters, translated by Frances Butwin (New York: Crown, 1949).' abio: |- Nathan Alterman (1910–1970) was one of the leading Hebrew poets of the twentieth century. He was awarded major literary prizes in Israel: in 1946 and 1967 he received the Tchernichovsky Prize for translating classical French plays into Hebrew, in 1947 the Ruppin Literary Prize for his second book of poems, in 1957 the Bialik Prize for Literature, and in 1968 the highest Israeli prize for literature, the Israel Prize. He became a cultural literary monument, and in 2011 the State of Israel printed his portrait on its currency. Alterman began publishing topical poems in July 1934 at the age of twenty-four in Davar and, later, in the leading newspaper Ha-Aretz. During eight years with Ha-Aretz, he wrote about three hundred poems. In 1942, he returned to Davar, where he continued to publish his topical poetry. Until 1965, Alterman’s work at Davar was commentary in prose. In addition to his topical poetry, he published several volumes of lyrical poems, wrote poems for the theater (many of them became popular songs), translated classical plays, and wrote four plays, which were produced in Israel. tbio: 'Dan Ben-Amos teaches folklore at the University of Pennsylvania. He earned his BA in literature from the Hebrew University of Jerusalem, and his doctorate degree in folklore from Indiana University. Among his books are Sweet Words, Folklore in Context, Folklore Concepts, and the edited volumes of Folktales of the Jews, Folklore Genres, Folklore: Performance and Communication (with Kenneth S. Goldstein), Cultural Memory and the Construction of Identity (with Liliane Weissberg), and The Diary: The Epic of Everyday Life (with Batsheva Ben-Amos). His translations of Alterman’s poems appeared in Jewish Review of Books and Moment.' language: Hebrew lang: he image: imagecredit: origaudio: ' \\ ' translaudio: |- edition: '2021' pagetype: submission wrapformat: sequence: order: '27' layout: poempage collection: poems_2021 --- ",
+    "content": "כך אומרים ---היא בת-נצח. שינה שינדל שלי, יורד שלג לבן, אין אדם. כלם תמו. הביני. טוביה מת ומת מוטל בן פיסי החזן. מת האיש היקר הדוד פיני. ועל השלג נח סטמפניו, קט ויחף, וכלו כמאז מלא חן עוד. אך אלם הכנור. לא נגון הוא רועף. יען אין לו למי לנגן עוד. וגם טופלה נח, טוטוריטו התם נח פעוט ומחיך ממות. נצחיים הם שחוקו ובכיו של העם. לכן טופלה הוא בן-אלמות. שינה שינדל שלי. לילה, לילה עמק. את זוכרת הליל בו נפרדנו. עם העם שנתנו לו דמע ושחוק גם אנחנו מול מות עמדנו. את לבשת, שינה שינדל, מטפחת של חג. את נקית הקפוטה שלי הנושנת. והעם זאת הפעם צחוק לא צחק. הוא נשק את ידך הקורנת. והלילה היה משרפות חכלילי ואני צואה לך נסחתי, על אגרת קטנה, שינה שינדל שלי. וברור כי עקר שכחתי. העקר...לך רציתי תודה להגיד, שהיית לי בת-זוג, סבלנית ומכפרת. שינה שינדל, שחקנו קומדיה נצחית, אך גמרנו אחרת, אחרת. זאת נבאה בדיחתנו מאז,טרם סוף, עת נגנו כנוריה בתוך הלע היא על לב גבוריה הכתה באגרוף , אבל איש לא אבה לשמע. גם אני לא ידעתי, גם את לא הבנת, את חזיון התוגה ששחקנו עד ערב. שום ספרות---כך יאמרו---לא ידעה קומדינט שכמונו נשא על צואר את החרב. עד יום גזר...עד נצבנו בתוך הגולה, אבירי החלום, גאוני העני, גבורי הספרות היהודית הגדולה, הנופלת בשלג כמוני. --- --- שינה שינדל שלי, דרף ליל וסופה בראשי ההרוג את נוגעת. שינה שינדל שלי, זוגתי היפה במרומים הלבנה נוגהת. transpoem: 'My lovely wife Sheyne-Sheyndl,Through a cloud the moon is shining. Through storm and night, you handle My dreamy head, gently patting. The mighty wind blows up my capotaMy hat drops to the back of my head.Like that I walked alive, like that I lie deadSince my figure, so they say, is immortal.My Sheyne-Sheyndl, it is snowing white.Not a soul, all are gone, face it.Tevye died And Motl died too, the son of cantor Peyse,Uncle Pinye, dear man, is dead too. Stempenyu on the snow cradles, small and barefoot,Charming as ever and more.But his fiddle is silent, no sound no hoot All are gone, all who listened before.Topeleh too is resting, simple-minded tuturitu The toddler is resting dead and smiling. People’s jokes and tears are immortal, So immortal is Topeleh too.My Sheyne-Sheyndl, do you rememberDeep, deep was the night we parted,In line we stood facing death togetherWith whom in tears and laughs we delighted.Sheyne-Sheyndl you wore your holiday shawl,My tattered capota you tried to mend.This time our people did not laugh, not at all,They just kissed your glowing hand.The night turned scarlet from flames,And for you, my will I wrote On a small piece of paper with your name.And, sure enough, the main point I forgot.I wanted to thank you, so much and no lessFor being a patient, forgiving wifeSheyne-Sheyndl, we played our lifeFor a laugh, but the finish was something else.Our joke foretold this end from the start, Playing silent music in us, inside.We pounded our heroes at their heartBut nobody listened or cared to mind.I did not know and you did not getThe sad drama we played till too late.No lit., so they say, has a jester tell jokesWhile a hangman’s noose his neck chokes.Till judgement day we did not exit, Dreamy knights and clumsy heroes,The figures of the great Yiddish lit,That like me in the snow wallow.Through storm and night, Sheyne Sheyndl, My murdered head you are gently patting. My lovely wife Sheyne-Sheyndl,In heaven the moon is shining.' note: 'The poem was published in Hebrew in the newspaper Davar (March 9, 1945) and was included in subsequent editions of Alterman’s collected poems. The speaker in this poetic monologue is Menakhem Mendl, the protagonist of the epistolary novel The Letters of Menakhem-Mendl and Sheyn-Sheyndl, by Sholem Aleichem (Sholem Yakov Rabinovitz [1859–1916]), published in 1892–1913. The latest English translation is published together with a book about another figure from Sholem Aleichem’s fictional gallery who is mentioned in the poem, “The Letters of Menakhen-Mendl and Motl, the Cantor’s Son,” translated by Hillel Halkin (New Yiddish Library. New Haven: Yale University Press, 2002). Uncle Pinye is also a character in this book. Stempenyu, the gifted fiddler, is the hero of Sholem Aleichem’s first novel that was published in Yiddish in 1888, and its latest English translation is by Hanna Berman (Stempenyu: A Yiddish Romance, [Brooklyn: Melville, 2007]). Topeleh Tuturitu is the child who narrates the tale “The Flag” in Sholem Aleichem’s stories for children, published in English as A Treasury of Sholom Aleichem Children’s Stories, translated by Aliza Shervin (Northvale, NJ: Jason Aronson, 1996). Tevye is Tevye the Dairyman of Fiddler on the Roof fame, whose story was published first as Tevye and his Daughters in 1894, and later in English translation as Tevye’s Daughters, translated by Frances Butwin (New York: Crown, 1949).' abio: |- Nathan Alterman (1910–1970) was one of the leading Hebrew poets of the twentieth century. He was awarded major literary prizes in Israel: in 1946 and 1967 he received the Tchernichovsky Prize for translating classical French plays into Hebrew, in 1947 the Ruppin Literary Prize for his second book of poems, in 1957 the Bialik Prize for Literature, and in 1968 the highest Israeli prize for literature, the Israel Prize. He became a cultural literary monument, and in 2011 the State of Israel printed his portrait on its currency. Alterman began publishing topical poems in July 1934 at the age of twenty-four in Davar and, later, in the leading newspaper Ha-Aretz. During eight years with Ha-Aretz, he wrote about three hundred poems. In 1942, he returned to Davar, where he continued to publish his topical poetry. Until 1965, Alterman’s work at Davar was commentary in prose. In addition to his topical poetry, he published several volumes of lyrical poems, wrote poems for the theater (many of them became popular songs), translated classical plays, and wrote four plays, which were produced in Israel. tbio: 'Dan Ben-Amos teaches folklore at the University of Pennsylvania. He earned his BA in literature from the Hebrew University of Jerusalem, and his doctorate degree in folklore from Indiana University. Among his books are Sweet Words, Folklore in Context, Folklore Concepts, and the edited volumes of Folktales of the Jews, Folklore Genres, Folklore: Performance and Communication (with Kenneth S. Goldstein), Cultural Memory and the Construction of Identity (with Liliane Weissberg), and The Diary: The Epic of Everyday Life (with Batsheva Ben-Amos). His translations of Alterman’s poems appeared in Jewish Review of Books and Moment.' epigraph: language: Hebrew lang: he image: imagecredit: origaudio: ' \\ ' translaudio: |- edition: '2021' pagetype: submission wrapformat: sequence: ! '': order: '28' layout: poempage collection: poems_2021 --- ",
     "permalink": "/poems_2021/a-letter-of-menakhem-mendl",
-    "lunr_id": 82
+    "lunr_id": 84
   },
   {
     "pid": "the-city",
@@ -1176,7 +1203,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/the-city",
-    "lunr_id": 83
+    "lunr_id": 85
   },
   {
     "pid": "the-sand-and-the-angel",
@@ -1190,7 +1217,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/the-sand-and-the-angel",
-    "lunr_id": 84
+    "lunr_id": 86
   },
   {
     "pid": "lilies",
@@ -1204,7 +1231,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/lilies",
-    "lunr_id": 85
+    "lunr_id": 87
   },
   {
     "pid": "if-heritage-were-called-hither-air",
@@ -1218,7 +1245,7 @@ layout: none
     "collection": "poems_2021",
     "content": " ",
     "permalink": "/poems_2021/if-heritage-were-called-hither-air",
-    "lunr_id": 86
+    "lunr_id": 88
   },
   {
     "pid": "in-front-of-you-is-this-ancient-rain",
@@ -1232,7 +1259,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/in-front-of-you-is-this-ancient-rain",
-    "lunr_id": 87
+    "lunr_id": 89
   },
   {
     "pid": "farewell-violin",
@@ -1246,7 +1273,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/farewell-violin",
-    "lunr_id": 88
+    "lunr_id": 90
   },
   {
     "pid": "a-words-wish",
@@ -1260,7 +1287,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-words-wish",
-    "lunr_id": 89
+    "lunr_id": 91
   },
   {
     "pid": "a-french-minstrel-and-an-italian-lady",
@@ -1274,7 +1301,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-french-minstrel-and-an-italian-lady",
-    "lunr_id": 90
+    "lunr_id": 92
   },
   {
     "pid": "ah-motherland-dear-motherland",
@@ -1288,7 +1315,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/ah-motherland-dear-motherland",
-    "lunr_id": 91
+    "lunr_id": 93
   },
   {
     "pid": "a-joy-a-bliss",
@@ -1302,7 +1329,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-joy-a-bliss",
-    "lunr_id": 92
+    "lunr_id": 94
   },
   {
     "pid": "grave-news-at-dawn-great-tidings-at-dusk",
@@ -1316,7 +1343,21 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/grave-news-at-dawn-great-tidings-at-dusk",
-    "lunr_id": 93
+    "lunr_id": 95
+  },
+  {
+    "pid": "editor-note",
+    "title": null,
+    "transtitle": "Editor's Note",
+    "author": "Rhosean Asmah",
+    "translator": null,
+    "poem": null,
+    "transpoem": null,
+    "language": null,
+    "collection": "poems_2020",
+    "content": " ",
+    "permalink": "/poems_2020/editor-note",
+    "lunr_id": 96
   },
   {
     "pid": "you-who-cried-two-thousand-years",
@@ -1330,7 +1371,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/you-who-cried-two-thousand-years",
-    "lunr_id": 94
+    "lunr_id": 97
   },
   {
     "pid": "to-the-poet",
@@ -1344,7 +1385,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/to-the-poet",
-    "lunr_id": 95
+    "lunr_id": 98
   },
   {
     "pid": "scissiparity",
@@ -1358,7 +1399,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/scissiparity",
-    "lunr_id": 96
+    "lunr_id": 99
   },
   {
     "pid": "to-my-mother-he-who-lost-everything",
@@ -1372,7 +1413,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/to-my-mother-he-who-lost-everything",
-    "lunr_id": 97
+    "lunr_id": 100
   },
   {
     "pid": "little-lessons-in-eroticism",
@@ -1386,7 +1427,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/little-lessons-in-eroticism",
-    "lunr_id": 98
+    "lunr_id": 101
   },
   {
     "pid": "bitter-song",
@@ -1400,7 +1441,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/bitter-song",
-    "lunr_id": 99
+    "lunr_id": 102
   },
   {
     "pid": "winter-heart",
@@ -1414,7 +1455,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/winter-heart",
-    "lunr_id": 100
+    "lunr_id": 103
   },
   {
     "pid": "galeria-lxii-varia-xciv",
@@ -1428,7 +1469,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/galeria-lxii-varia-xciv",
-    "lunr_id": 101
+    "lunr_id": 104
   },
   {
     "pid": "crossing",
@@ -1442,7 +1483,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/crossing",
-    "lunr_id": 102
+    "lunr_id": 105
   },
   {
     "pid": "just-one-detail",
@@ -1456,7 +1497,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/just-one-detail",
-    "lunr_id": 103
+    "lunr_id": 106
   },
   {
     "pid": "a-tree-to-its-flowers",
@@ -1470,7 +1511,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-tree-to-its-flowers",
-    "lunr_id": 104
+    "lunr_id": 107
   },
   {
     "pid": "staff-translation-2020",
@@ -1484,7 +1525,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/staff-translation-2020",
-    "lunr_id": 105
+    "lunr_id": 108
   },
   {
     "pid": "canal",
@@ -1498,7 +1539,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/canal",
-    "lunr_id": 106
+    "lunr_id": 109
   },
   {
     "pid": "after-everything-still-you",
@@ -1512,7 +1553,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/after-everything-still-you",
-    "lunr_id": 107
+    "lunr_id": 110
   },
   {
     "pid": "mirror",
@@ -1526,7 +1567,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/mirror",
-    "lunr_id": 108
+    "lunr_id": 111
   },
   {
     "pid": "be-well-thanks-in-front-of-you-this-ancient-rain",
@@ -1540,7 +1581,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/be-well-thanks-in-front-of-you-this-ancient-rain",
-    "lunr_id": 109
+    "lunr_id": 112
   },
   {
     "pid": "a-poem-nabakovs-butterfly",
@@ -1554,7 +1595,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-poem-nabakovs-butterfly",
-    "lunr_id": 110
+    "lunr_id": 113
   },
   {
     "pid": "preaching-to-women",
@@ -1568,7 +1609,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/preaching-to-women",
-    "lunr_id": 111
+    "lunr_id": 114
   },
   {
     "pid": "shadow-of-the-coming-days",
@@ -1582,7 +1623,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/shadow-of-the-coming-days",
-    "lunr_id": 112
+    "lunr_id": 115
   },
   {
     "pid": "a-trial-race",
@@ -1596,7 +1637,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-trial-race",
-    "lunr_id": 113
+    "lunr_id": 116
   },
   {
     "pid": "a-sun-did-not-rise",
@@ -1610,7 +1651,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-sun-did-not-rise",
-    "lunr_id": 114
+    "lunr_id": 117
   },
   {
     "pid": "interview-yoon",
@@ -1624,7 +1665,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/interview-yoon",
-    "lunr_id": 115
+    "lunr_id": 118
   },
   {
     "pid": "diary",
@@ -1638,7 +1679,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/diary",
-    "lunr_id": 116
+    "lunr_id": 119
   },
   {
     "pid": "the-holy-land",
@@ -1652,7 +1693,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/the-holy-land",
-    "lunr_id": 117
+    "lunr_id": 120
   },
   {
     "pid": "conversation",
@@ -1666,7 +1707,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/conversation",
-    "lunr_id": 118
+    "lunr_id": 121
   },
   {
     "pid": "valet",
@@ -1680,7 +1721,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/valet",
-    "lunr_id": 119
+    "lunr_id": 122
   },
   {
     "pid": "a-bookworm",
@@ -1694,7 +1735,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/a-bookworm",
-    "lunr_id": 120
+    "lunr_id": 123
   },
   {
     "pid": "earthworms",
@@ -1708,7 +1749,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/earthworms",
-    "lunr_id": 121
+    "lunr_id": 124
   },
   {
     "pid": "sonnet-1",
@@ -1722,7 +1763,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/sonnet-1",
-    "lunr_id": 122
+    "lunr_id": 125
   },
   {
     "pid": "five-poems-by-Vladimir-Mayakovsky",
@@ -1736,7 +1777,7 @@ layout: none
     "collection": "poems_2020",
     "content": " ",
     "permalink": "/poems_2020/five-poems-by-Vladimir-Mayakovsky",
-    "lunr_id": 123
+    "lunr_id": 126
   },
   {
     "pid": "a-flowers-pride",
@@ -1750,7 +1791,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/a-flowers-pride",
-    "lunr_id": 124
+    "lunr_id": 127
   },
   {
     "pid": "here-i-love-you",
@@ -1764,7 +1805,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/here-i-love-you",
-    "lunr_id": 125
+    "lunr_id": 128
   },
   {
     "pid": "autumn-eyes",
@@ -1778,7 +1819,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/autumn-eyes",
-    "lunr_id": 126
+    "lunr_id": 129
   },
   {
     "pid": "easily-written-poem",
@@ -1792,7 +1833,21 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/easily-written-poem",
-    "lunr_id": 127
+    "lunr_id": 130
+  },
+  {
+    "pid": "editor-note",
+    "title": null,
+    "transtitle": "Editor's Note",
+    "author": "Nadia Park",
+    "translator": null,
+    "poem": null,
+    "transpoem": null,
+    "language": null,
+    "collection": "poems_2019",
+    "content": " ",
+    "permalink": "/poems_2019/editor-note",
+    "lunr_id": 131
   },
   {
     "pid": "the-man-who-walks-too-fast",
@@ -1806,7 +1861,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/the-man-who-walks-too-fast",
-    "lunr_id": 128
+    "lunr_id": 132
   },
   {
     "pid": "ghazal",
@@ -1820,7 +1875,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/ghazal",
-    "lunr_id": 129
+    "lunr_id": 133
   },
   {
     "pid": "i",
@@ -1834,7 +1889,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/i",
-    "lunr_id": 130
+    "lunr_id": 134
   },
   {
     "pid": "i-was-ten-years-old-head-in-the-sky",
@@ -1848,7 +1903,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/i-was-ten-years-old-head-in-the-sky",
-    "lunr_id": 131
+    "lunr_id": 135
   },
   {
     "pid": "in-the-south-simple-speech",
@@ -1862,7 +1917,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/in-the-south-simple-speech",
-    "lunr_id": 132
+    "lunr_id": 136
   },
   {
     "pid": "song-for-helen",
@@ -1876,7 +1931,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/song-for-helen",
-    "lunr_id": 133
+    "lunr_id": 137
   },
   {
     "pid": "the-abandoned",
@@ -1890,7 +1945,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/the-abandoned",
-    "lunr_id": 134
+    "lunr_id": 138
   },
   {
     "pid": "paper-crane",
@@ -1904,7 +1959,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/paper-crane",
-    "lunr_id": 135
+    "lunr_id": 139
   },
   {
     "pid": "crucifixion",
@@ -1918,7 +1973,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/crucifixion",
-    "lunr_id": 136
+    "lunr_id": 140
   },
   {
     "pid": "blind-scrap-dealer",
@@ -1932,7 +1987,7 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/blind-scrap-dealer",
-    "lunr_id": 137
+    "lunr_id": 141
   },
   {
     "pid": "a-ballad-about-departing-for-heaven",
@@ -1946,6 +2001,6 @@ layout: none
     "collection": "poems_2019",
     "content": " ",
     "permalink": "/poems_2019/a-ballad-about-departing-for-heaven",
-    "lunr_id": 138
+    "lunr_id": 142
   }
 ]

@@ -37,6 +37,7 @@ tbio: "<p>Yehudith Dashevsky graduated from the University of Pennsylvania in 20
   with a bachelors in English literature. She is currently living and working in Washington,
   D.C., and enjoys the curiosity about language and exchanges of meaning occasioned
   by the act of translation.</p>"
+epigraph: 
 language: Hebrew
 lang: he
 image: 
@@ -47,7 +48,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: first
-order: '34'
+order: '35'
 layout: poempage
 collection: poems_2020
 ---

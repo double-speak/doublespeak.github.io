@@ -32,6 +32,7 @@ tbio: "<p>Chamini Kulathunga is a translator from Sri Lanka working with contemp
   at Cornell University’s South Asia Program in the summer of 2019, and is the blog
   editor and a member of the editorial board of <em>Exchanges: Journal of Literary
   Translation</em>.</p>"
+epigraph: 
 language: Sinhalese
 lang: si
 image: "/assets/images/images_20/kulathunga.jpg"
@@ -42,7 +43,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: first
-order: '22'
+order: '23'
 layout: poempage
 collection: poems_2020
 ---

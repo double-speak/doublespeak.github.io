@@ -49,6 +49,7 @@ abio: <p>Al-Hallaj (Abu el-Mughith al-Husayn bin Mansur al-Hallaj, 858 CE–922 
 tbio: |-
   <p>Michael Karam (Penn C’17) is a translator, writer and poet living and working in Boston, MA. Michael grew up in Lebanon, between a small apple-growing village and a Beirut suburb. He is fluent in Arabic and French, knows some Spanish, and is learning Farsi so he can read Rumi in his original language.</p>
   <p>He currently works in marketing and fundraising for a non-profit news organization, The GroundTruth Project, which supports emerging journalists to tell under-covered stories around the world.</p>
+epigraph: 
 language: Arabic
 lang: ar
 image: 
@@ -59,7 +60,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '29'
+order: '30'
 layout: notepage
 collection: notes_2020
 ---

@@ -82,6 +82,7 @@ tbio: "<p>My name is Wenhan Zhang. I come from Singapore and China. I studied ph
   of everything I hope to achieve. Language moves hearts, inspires changes, connects
   resources, and consummates meaning. It helps me find myself. It creates a performance
   out of life that makes it worth living, for myself and all others.</p>"
+epigraph: 
 language: Russian
 lang: ru
 image: "/assets/images/images_21/tsvetaeva.jpeg"
@@ -103,7 +104,7 @@ edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '28'
+order: '29'
 layout: notepage
 collection: notes_2021
 ---

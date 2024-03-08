@@ -72,6 +72,7 @@ tbio: "<p>Dan Ben-Amos teaches folklore at the University of Pennsylvania. He ea
   and Communication</em> (with Kenneth S. Goldstein), and <em>The Diary: The Epic
   of Everyday Life</em> (with Batsheva Ben-Amos). His translations of Alterman’s poems
   appeared in <em>Jewish Review of Books</em> and <em>Moment</em>.</p>"
+epigraph: 
 language: Hebrew
 lang: he
 image: 
@@ -82,7 +83,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '12'
+order: '13'
 layout: notepage
 collection: notes_2020
 ---

@@ -49,6 +49,7 @@ tbio: "<p>Kejia Wang graduated from Penn in 2016 with a BSE in bioengineering an
   Her poem “Disorientation” was published in the <em>Penn Review</em> in 2015, and
   she’s contributed Chinese-to-English translations to <em>DoubleSpeak Magazine</em>
   since 2014.</p>"
+epigraph: 
 language: Chinese
 lang: zh
 image: 
@@ -59,7 +60,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '13'
+order: '14'
 layout: notepage
 collection: notes_2020
 ---

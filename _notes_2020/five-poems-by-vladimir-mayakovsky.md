@@ -67,6 +67,7 @@ tbio: "<p>Jianing Zhao is a senior at Princeton University majoring in Slavic La
   and Literatures and minoring in archaeology, theater, and digital humanities. She
   spent the past summer modeling in Berlin and St. Petersburg, climbing rooftops,
   listening to Soviet rock, and touching electric wires.</p>"
+epigraph: 
 language: Russian
 lang: ru
 image: "/assets/images/images_20/jianing_zhao.jpeg"
@@ -77,7 +78,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '04'
+order: '05'
 layout: notepage
 collection: notes_2020
 ---

@@ -37,6 +37,7 @@ abio: "<p>Mohammad Ali Bahmani (b. 1942) is an Iranian poet and songwriter. Beyo
 tbio: '<p>Ali Noori is a doctoral student in religious studies at Penn. He likes <em>ghazals</em>.His
   dissertation is titled "Pious Praise Poetry: Emotions, Piety, and the Making of
   Medieval Islamic Subject."</p>'
+epigraph: 
 language: Farsi
 lang: fa
 image: "/assets/images/images_20/noori.png"
@@ -47,7 +48,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '33'
+order: '34'
 layout: notepage
 collection: notes_2020
 ---

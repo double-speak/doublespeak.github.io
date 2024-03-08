@@ -46,6 +46,7 @@ abio: "<p>Adolf Brand (1874–1945) was a German gay activist and the founder of
   was forced to abandon his activism in the 1930s due to harassment from Nazi authorities.</p>"
 tbio: "<p>Robert Chen is a fourth-year at the University of Pennsylvania studying
   biochemistry and chemistry                                                                                                          .</p>"
+epigraph: 
 language: German
 lang: de
 image: "/assets/images/images_22/Brand_Morituri.png"
@@ -75,7 +76,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '07'
+order: '08'
 layout: poempage
 collection: poems_2022
 ---

@@ -60,6 +60,7 @@ tbio: "<p>Stephanie Diaz is a junior at the University of Pennsylvania studying 
   her Rs. She started learning French in high school and has been studying the language
   and culture ever since. Her hobbies include baking, gardening, and dreaming of a
   future life in a cottage by a lake with dogs and a garden.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: 
@@ -70,7 +71,7 @@ edition: '2019'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '13'
+order: '14'
 layout: notepage
 collection: notes_2019
 ---

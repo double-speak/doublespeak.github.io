@@ -45,7 +45,7 @@ layout: default
   {% if page.pagetype == "musing" or page.pagetype == "interview" or page.pagetype == "frontmatter" %}
     <div class="container">
       <div class="note">
-        <h1>{{page.title}}</h1>
+        <h1>{{page.transtitle}}</h1>
         <h2>{{page.author}}</h2>
         <p class="note"> {{page.note}}</p>
       </div>
@@ -139,7 +139,7 @@ layout: default
     </div></a>
 
   {% endif %}
-  
+
     {% if page.pid == "editor-note" %}
     <a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"><div class="previouslink">
       <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>

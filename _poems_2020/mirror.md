@@ -87,6 +87,7 @@ tbio: "<p>Shuke Zeng is an undergraduate student at Penn. She majors in English 
   at Penn. Shu Ting has been one of her favorite Chinese poets since childhood, and
   working on the translation of this poem has allowed her to revisit some qualities
   of Shu Ting’s poems and the Chinese language that she has always been drawn to.</p>"
+epigraph: 
 language: Chinese
 lang: zh
 image: "/assets/images/images_20/shengyi_lu.png"
@@ -97,7 +98,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '32'
+order: '33'
 layout: poempage
 collection: poems_2020
 ---

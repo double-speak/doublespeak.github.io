@@ -55,6 +55,7 @@ tbio: "<p>Claudia Nuñez de Ibieta translates and interprets within Spanish and 
   House Press Cartonera Collective</em> in Phoenix and a long-time bookseller, she
   grew up in Los Angeles, California, and Santiago, Chile, but Tempe, Arizona, has
   been her home the longest.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: none
@@ -83,7 +84,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '01'
+order: '02'
 layout: notepage
 collection: notes_2022
 ---

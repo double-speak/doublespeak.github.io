@@ -78,6 +78,7 @@ tbio: "<p>Peeriya is a native speaker of Thai and a current Fulbright Teaching A
   Literary Review</em>’s 2018 Translation Prize (and were subsequently published).
   All in all, we excel in creating English language rhyme schemes that echo those
   of the Thai sources while faithfully communicating the author’s message.</p>"
+epigraph: 
 language: Thai
 lang: th
 image: "/assets/images/images_19/pitpreecha.jpg"
@@ -88,7 +89,7 @@ edition: '2019'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '14'
+order: '15'
 layout: poempage
 collection: poems_2019
 ---

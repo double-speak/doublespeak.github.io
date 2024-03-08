@@ -39,6 +39,7 @@ tbio: "<p>Anjali Gupta is a senior at the University of Pennsylvania studying li
   interaction and translating untranslatable experiences in the biomedical space.
   She enjoys baking, going for walks with her friends, and practicing her Hindi with
   her grandparents.  </p>"
+epigraph: 
 language: Hindi
 lang: hi
 image: "/assets/images/images_22/varma.jpg"
@@ -49,7 +50,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '00'
+order: '01'
 layout: poempage
 collection: poems_2022
 ---

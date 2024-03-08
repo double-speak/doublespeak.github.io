@@ -72,6 +72,7 @@ tbio: "<p>Pablo (he/him) Abrante is a Spanish and Cuban and Miamian. He does sci
   out on one’s own. An urban fantasy novel — about tropical diaspora best friend assassins,
   spilling cafecito for the cafecito god, and queer spanglish passenger seat conversations
   — may or may not be forthcoming.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: "/assets/images/images_22/armengol.jpg"
@@ -100,7 +101,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '02'
+order: '03'
 layout: notepage
 collection: notes_2022
 ---

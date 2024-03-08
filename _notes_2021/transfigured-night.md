@@ -80,6 +80,7 @@ tbio: "<p>Jonathan Iwry graduated <em>summa cum laude</em> from the University o
   Second World War. In addition to speaking Hebrew, he has been teaching himself German
   over the course of the pandemic; this is his first translation from German into
   English.</p>"
+epigraph: 
 language: German
 lang: de
 image: 
@@ -101,7 +102,7 @@ edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '25'
+order: '26'
 layout: notepage
 collection: notes_2021
 ---

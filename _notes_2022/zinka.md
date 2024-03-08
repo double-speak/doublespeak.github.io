@@ -94,6 +94,7 @@ tbio: |-
   <p>
   A native Russian and English speaker, Maya Shumyatcher (C’14) boasts substantial experience as a medical interpreter and language tutor. In addition to her passion for languages (there are a few more on the bucket list), she dabbles in a variety of creative projects. Professionally, she is in the medical field.
   </p>
+epigraph: 
 language: Russian
 lang: ru
 image: "/assets/images/images_22/drunina1.jpg; /assets/images/images_22/drunina2.jpg"
@@ -122,7 +123,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '10'
+order: '11'
 layout: notepage
 collection: notes_2022
 ---

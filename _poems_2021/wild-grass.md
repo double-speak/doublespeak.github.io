@@ -49,6 +49,7 @@ tbio: "<p>Chardonnay Needler is just a scatterbrained person who likes languages
   use of translanguaging in song. The next language on her list is German, to get
   back in touch with her German-Jewish roots and read Hannah Arendt’s pieces in their
   original language.</p>"
+epigraph: 
 language: Chinese
 lang: zh
 image: 
@@ -76,7 +77,7 @@ edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '23'
+order: '24'
 layout: poempage
 collection: poems_2021
 ---

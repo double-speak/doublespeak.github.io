@@ -37,6 +37,7 @@ abio: "<p>Hossein Monzavi (d. 2003) was an Iranian poet, essayist, and translato
 tbio: "<p>Ali Noori is a doctoral student in religious studies at Penn. He likes <em>ghazals</em>.His
   dissertation is titled Pious Praise Poetry: Emotions, Piety, and the Making of Medieval
   Islamic Subject.</p>"
+epigraph: 
 language: Farsi
 lang: fa
 image: 
@@ -47,7 +48,7 @@ edition: '2019'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '02'
+order: '03'
 layout: poempage
 collection: poems_2019
 ---

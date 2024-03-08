@@ -54,6 +54,7 @@ tbio: "<p>David F. Ting recently completed his pre-medical post-bacc program at 
   is a part of his genre-spanning bio-critical fiction on the later poetry of Paul
   Celan, entitled <em>Antschel … Ancel … Celan. Five Acts</em>. David also posts his
   cinema musings on Letterboxd, where you can find him under the name <em>Lichtzwang</em>.</p>"
+epigraph: 
 language: German
 lang: de
 image: 
@@ -64,7 +65,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '30'
+order: '31'
 layout: poempage
 collection: poems_2020
 ---

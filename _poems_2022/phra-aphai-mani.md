@@ -58,6 +58,7 @@ tbio: |-
   <p>
   Viano and Pongsarigun have translated more than 150 children’s books. They last published with <em>DoubleSpeak</em>  in Spring 2021.
   </p>
+epigraph: 
 language: Thai
 lang: th
 image: none
@@ -77,7 +78,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '11'
+order: '12'
 layout: poempage
 collection: poems_2022
 ---

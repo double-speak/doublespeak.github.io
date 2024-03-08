@@ -28,6 +28,7 @@ tbio: "<p>Shoshana Akabas teaches writing at Columbia University. She earned a b
   and literary translation. Her writing has been featured or is forthcoming in the
   <i>Washington Post</i>, <i>Kenyon Review</i>, <i>American Short Fiction</i>, <i>The
   Believer</i>, and <i>Electric Literature</i>.</p>"
+epigraph: 
 language: Hebrew
 lang: he
 image: "/assets/images/images_19/bluwstein.JPG"
@@ -38,7 +39,7 @@ edition: '2019'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '00'
+order: '01'
 layout: notepage
 collection: notes_2019
 ---

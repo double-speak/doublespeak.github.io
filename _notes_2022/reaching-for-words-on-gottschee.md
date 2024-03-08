@@ -26,6 +26,7 @@ abio: "<p>Quinn Gruber is a senior at the University of Pennsylvania studying En
   their Oma, which reads in German: “When boys won’t leave you alone, stay at home
   and darn socks.”</p>"
 tbio: 
+epigraph: 
 language: 
 lang: 
 image: "/assets/images/images_22/gruber.jpg"
@@ -36,7 +37,7 @@ edition: '2022'
 pagetype: musing
 wrapformat: 
 sequence: 
-order: '09'
+order: '10'
 layout: notepage
 collection: notes_2022
 ---

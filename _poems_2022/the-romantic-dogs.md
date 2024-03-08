@@ -156,6 +156,7 @@ tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and languag
   beautiful poetry submissions. Whether we’re playing multilingual Scramble or commenting
   on submissions in rhymed couplets, we’re drawn together by our shared passion for
   language and translation.</p>"
+epigraph: 
 language: 
 lang: 
 image: "/assets/images/images_22/group_translation.JPG"
@@ -166,7 +167,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '18'
+order: '19'
 layout: poempage
 collection: poems_2022
 ---

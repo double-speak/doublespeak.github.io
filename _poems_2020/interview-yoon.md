@@ -183,6 +183,7 @@ abio: "<p>Emily Jungmin Yoon is Assistant Professor of Korean Literature at the 
   BA in English and Communication at the University of Pennsylvania, where she began
   her studies in literary translation.</p> "
 tbio: 
+epigraph: 
 language: Korean
 lang: ko
 image: 
@@ -193,7 +194,7 @@ edition: '2020'
 pagetype: interview
 wrapformat: 
 sequence: 
-order: '17'
+order: '18'
 layout: poempage
 collection: poems_2020
 ---

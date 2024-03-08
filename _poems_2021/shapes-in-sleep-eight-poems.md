@@ -147,6 +147,7 @@ tbio: "<p>David F. Ting works for a renowned lung cancer specialist as a medical
   on its own, if annotations must travel with it like overweight luggage. At the time
   of this writing, he is about to fly across the country. He is flying alone, he has
   a good mask, and he is probably thinking about egg tarts.</p>"
+epigraph: 
 language: German
 lang: de
 image: "/assets/images/images_21/celan.jpg"
@@ -167,7 +168,7 @@ edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '02'
+order: '03'
 layout: poempage
 collection: poems_2021
 ---

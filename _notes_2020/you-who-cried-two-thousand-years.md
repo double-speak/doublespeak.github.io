@@ -83,6 +83,7 @@ tbio: "<p>Rhosean Asmah is a senior at the University of Pennsylvania. She studi
   Great Wave Off Kanagawa</em>, among other things. You can probably find her in her
   room. Interestingly, she didn’t know she liked poetry until she took a class about
   translating it.</p>"
+epigraph: 
 language: French
 lang: fr
 image: 
@@ -93,7 +94,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: last
-order: '21'
+order: '22'
 layout: notepage
 collection: notes_2020
 ---

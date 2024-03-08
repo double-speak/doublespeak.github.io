@@ -225,6 +225,7 @@ abio: "<p>Maria Dahvana Headley is an American novelist, memoirist, editor, tran
   Queen of Kings, an alternate-history fantasy novel about Cleopatra, and The Mere
   Wife, a retelling of Beowulf.</p>"
 tbio: 
+epigraph: 
 language: 
 lang: 
 image: "/assets/images/images_21/interview.jpeg"
@@ -235,7 +236,7 @@ edition: '2021'
 pagetype: interview
 wrapformat: 
 sequence: 
-order: '15'
+order: '16'
 layout: poempage
 collection: poems_2021
 ---

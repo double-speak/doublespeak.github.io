@@ -35,6 +35,7 @@ tbio: "<p>Chemistry, FC Barcelona, classic rock, in that order. Zhiqiao (Kate) J
   Science and Engineering. She enjoys translating poems because of the creative liberty
   between staying true to the original texts and making the translations sound natural
   in the new language.</p>"
+epigraph: 
 language: Chinese
 lang: zh
 image: 
@@ -45,7 +46,7 @@ edition: '2020'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '03'
+order: '04'
 layout: notepage
 collection: notes_2020
 ---
