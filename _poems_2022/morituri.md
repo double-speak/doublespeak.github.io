@@ -76,7 +76,7 @@ edition: '2022'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '08'
+order: '10'
 layout: poempage
 collection: poems_2022
 ---

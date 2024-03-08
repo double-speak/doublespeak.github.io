@@ -1,19 +1,17 @@
 ---
-pid: i-have-seen-ikh-hob-gezen
-title: איך האָבּ געזען
-transtitle: I Have Seen (<i>Ikh Hob Gezen</i>)
+pid: extinguish-the-sun
+title: פאַרלעש די זון
+transtitle: Extinguish the Sun (<em>Farlesh Di Zun</em>)
 author: Zusman Segalovitsh
 translator: Betsy Morgan
-poem: "איך האב געזען, ווי די זון האָט באַלויכטן הריגה,\nאיך האָב געזען, וואָס מענטש האָט
-  פון מענטשן געמאַכט,\nאון די האַרץ האָט געיאָמערט און האַרץ האָט געשוויגן...\nניט אומזיסט
-  איז מיר טייער געוואָרן די נאַכט.\n \nמען קען בלויז דעם קערפּער באַהאַלטן, פאַרהוילן,\nדער
-  דמיון בלייבט היימלאָז און האַרץ איז ניט בלינד.\nזאָלן קלאָגן די וויסטע שאָסייען פון
-  פּוילן,\nזאָל וויינען מיט בלוט פאַר אונדז אלע דער ווינט. "
-transpoem: "I have seen how the sun shines upon slaughter, \nI have seen what Man
-  has made of men,\nAnd my heart has moaned and my heart has been quiet...\nIt’s no
-  wonder the night has become dear, then.\n \nOne can only cover the bodies, conceal
-  them,\nFor the image still wanders and my heart is not blind.\nLet the barren roads
-  of Poland wail,\nLet the wind cry with blood for all of our kind."
+poem: "אַלמעכטיקער! און זאָל דאָס זיין דיין ווילן\nניט שווייגן מער און ניט פאַרגעבן...\nפאַרבלוטיקט
+  קומט צו דיר מיין לעצטע תפילה:\nפאַרלעש די זון, די ליכט פון לעבן.\n \nפאַרלעש די
+  זון און גיב זיי דיינע ברואים\nדעם שוואַרצן חושך פון די מכות.\nפאַר’סם דאָס פעלד,
+  פאַרברען די לעצטע תבואה,\nגענוג צו האָדעוון די ליידאַקעס..."
+transpoem: "Almighty! And may it be Your will:\nNo more silence, no forgiving... \nMy
+  final prayer comes to You bloodied:\nExtinguish the sun, the light of living.\n
+  \nExtinguish the sun and give Your creations\nThe black darkness of the Plagues.\nPoison
+  the fields, burn the last of the crops,\nEnough to feed those who had cruel ways..."
 note: |-
   <p>
   I chose to translate these two poems, as they share a motif of sunlight portrayed negatively. I usually associate sunlight with hope and joy, so seeing it used here to highlight the cruelty of man, or as this entity that should be blunted, as a curse to the world, was very striking.
@@ -64,8 +62,8 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
-sequence: first
-order: '06'
-layout: notepage
-collection: notes_2022
+sequence: last
+order: '07'
+layout: poempage
+collection: poems_2022
 ---

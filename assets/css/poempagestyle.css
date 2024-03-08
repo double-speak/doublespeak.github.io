@@ -48,9 +48,11 @@ a {
 
 .ogpoem-stacked {
 	/*	min-width: 25rem;*/
-		/*width:max-content;*/
+		max-width:max-content;
 		width: 80vw !important;
 		flex-basis:80% !important;
+		margin-left: 15%;
+		margin-right: auto;
 	}
 
 .transpoem-stacked {
@@ -58,7 +60,29 @@ a {
 		width: 80vw !important;
 		/*width:max-content;*/
 		flex-basis:80% !important;
+		margin-left: 15%;
+		margin-right: auto;
+
+
 	}
+
+.poemtitle-stacked {
+	height:max-content;
+	max-width: 80%;
+}
+
+.poem-image {
+	justify-content:center;
+	width: 18rem;
+
+}
+
+.image{
+		justify-content:center;
+	height: 80%;
+	padding: 20px;
+	max-width: 20rem;
+}
 
 .previousmobile{
 	display: none;

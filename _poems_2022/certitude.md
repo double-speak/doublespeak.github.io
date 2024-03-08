@@ -1,31 +1,33 @@
 ---
-pid: whispered
-title: Tiše
-transtitle: Whispered
+pid: certitude
+title: Jistota
+transtitle: Certitude
 author: František Halas
 translator: Kathryn Dettmer
 poem: |-
-  Kláskem hubeným je tělo tvé
-  z nějž zrno vypadlo a nevzlící
-  jak klásek hubený je tělo tvé
+  Vcházím do lásky a oslepen
+  tápám klopýtaje o tmu minulou
+  milostí tvojí zasažen
 
-  Přadenem z hedvábí je tělo tvé
-  toužením popsané do vrásky poslední
-  jak přadeno z hedvábí je tělo tvé
+  Prohledám náhle a již vím
+  není mi dáno zůstat v tomto ráji
+  tolik jsem prahnul a přece sem nepatřím
 
-  Spáleným nebem je tělo tvé
-  čivavě v tkáni smrtka sní
-  jak spálené nebe je tělo tvé
+  Míjím ač ničeho se nezříkám
+  zahleděn v tvé oči vznešené
+  půl smrt půl stín se vkradu tam
+transpoem: |-
+  I enter into love and while blinded
+  feel my way, stumbling into the dark past
+  of your stricken mercies
 
-  Přetiché je tělo tvé
-  jeho pláč zachvívá mými víčky
-  jak tiché je tělo tvé
-transpoem: "A thin stalk is your body\nfrom which grain fell without sprouting\nhow
-  like a thin stalk is your body\n\nA skein of silk is your body\ndesire written on
-  the tissues’s \nevery last wrinkling\nhow like a skein of silk is your body\n\nA
-  burning sky is your body\nfurtively, a banshee with it, \nin the weaving\nhow like
-  a burning sky is your body\n\nThe quiet is your body\nits cry sets my eyelids trembling\nhow
-  like the quiet is your body"
+  I ransack and, unexpectedly and already, I know
+  it is not a given for me to stay in this paradise
+  I have so longed and yet do not belong
+
+  I pass though I renounce nothing
+  while staring into your noble eyes
+  there, I steal into half death half shadow
 note: |+
   <p>The poems here were chosen from the book <em>Krásné neštěstí</em> (<em>Beautiful Bad Luck</em> – or <em>Unhappiness</em>, depending on how you read it), which was first published in 2006 by one of Halas’s sons, a well-known radio presenter in the Czech Republic. The poems were published for the first time alongside the letters that Halas sent them in, to his wife, between the years 1928 and 1939. None of her correspondence is included in the volume.</p>
   <p>I chose both poems because they delighted and challenged me. The first thing I discovered is that making things rhyme in Czech is much easier than in English. I was only able to preserve the rhyme in “Whispered,” but since Halas was often accused of not being poetic enough, I figured he would not mind.</p>
@@ -64,8 +66,8 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
-sequence: first
-order: '04'
+sequence: last
+order: '05'
 layout: poempage
 collection: poems_2022
 ---

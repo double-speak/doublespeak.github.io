@@ -4,7 +4,7 @@ title: Tiše
 transtitle: Whispered
 author: František Halas
 translator: Kathryn Dettmer
-poem: |+
+poem: |-
   Kláskem hubeným je tělo tvé
   z nějž zrno vypadlo a nevzlící
   jak klásek hubený je tělo tvé
@@ -20,32 +20,12 @@ poem: |+
   Přetiché je tělo tvé
   jeho pláč zachvívá mými víčky
   jak tiché je tělo tvé
-
-  <h1>Jistota</h1>
-
-  Vcházím do lásky a oslepen
-  tápám klopýtaje o tmu minulou
-  milostí tvojí zasažen
-
-  Prohledám náhle a již vím
-  není mi dáno zůstat v tomto ráji
-  tolik jsem prahnul a přece sem nepatřím
-
-  Míjím ač ničeho se nezříkám
-  zahleděn v tvé oči vznešené
-  půl smrt půl stín se vkradu tam
-
 transpoem: "A thin stalk is your body\nfrom which grain fell without sprouting\nhow
   like a thin stalk is your body\n\nA skein of silk is your body\ndesire written on
   the tissues’s \nevery last wrinkling\nhow like a skein of silk is your body\n\nA
   burning sky is your body\nfurtively, a banshee with it, \nin the weaving\nhow like
   a burning sky is your body\n\nThe quiet is your body\nits cry sets my eyelids trembling\nhow
-  like the quiet is your body\n\n<h1>Certitude</h1>\n\nI enter into love and while
-  blinded\nfeel my way, stumbling into the dark past\nof your stricken mercies\n\nI
-  ransack and, unexpectedly and already, I know\nit is not a given for me to stay
-  in this paradise\nI have so longed and yet do not belong\n\nI pass though I renounce
-  nothing\nwhile staring into your noble eyes\nthere, I steal into half death half
-  shadow\n"
+  like the quiet is your body"
 note: |+
   <p>The poems here were chosen from the book <em>Krásné neštěstí</em> (<em>Beautiful Bad Luck</em> – or <em>Unhappiness</em>, depending on how you read it), which was first published in 2006 by one of Halas’s sons, a well-known radio presenter in the Czech Republic. The poems were published for the first time alongside the letters that Halas sent them in, to his wife, between the years 1928 and 1939. None of her correspondence is included in the volume.</p>
   <p>I chose both poems because they delighted and challenged me. The first thing I discovered is that making things rhyme in Czech is much easier than in English. I was only able to preserve the rhyme in “Whispered,” but since Halas was often accused of not being poetic enough, I figured he would not mind.</p>
@@ -84,7 +64,7 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
-sequence: 
+sequence: first
 order: '04'
 layout: notepage
 collection: notes_2022

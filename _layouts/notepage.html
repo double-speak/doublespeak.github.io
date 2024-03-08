@@ -82,8 +82,7 @@ layout: default
 
     <div class="flex-container">
 
-       <div class="note-text">
-
+      <div class="note-text">
           <div class="abio">
 
             <h1 class="abio">about the author</h1>
@@ -95,15 +94,21 @@ layout: default
             <h1 class="tbio">about the translator</h1>
             <p>{{page.tbio}}</p>
         </div>
-      {% endif %}
-
-
-      {% if page.image and page.image != "none" and page.image != "none " and page.image != "" %}
+    </div>
+      {% if page.image and page.image != "none" and page.image != "" %}
+         <div class="image">
+          {% assign images = page.image | split: '; ' %}       
+            {% for image in images %}
+              <img class="poem-image" src="{{site.baseurl}}{{image}}"></img>
+            {% endfor %}
          <p class="caption"> 
+        {{page.imagecredit}}
         </p>
-         <!-- <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img> -->
-         </div>
+      </div>
       {% endif %}
+
+      {% endif %}
+
 {% if page.note and page.pagetype == "interview" %}
   <div class='flex-container'>
     <div class="container">
@@ -112,6 +117,13 @@ layout: default
 
           <p>{{page.abio}}</p>
           </div>
+          {% if page.image and page.image != "none" and page.image != "" %}
+         <div class="image">
+         <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img><p class="caption"> 
+        {{page.imagecredit}}
+        </p>
+      </div>
+      {% endif %}
         </div>
       </div>
 {% endif %}
@@ -150,7 +162,7 @@ layout: default
 
 </body>
 <style>
-body {
+/*body {
 background-color:#fffdfa;
 background-image: url('{{site.baseurl}}{{page.image}}');
 background-size: cover;
@@ -163,7 +175,7 @@ background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-}
+}*/
 
 </style>
 

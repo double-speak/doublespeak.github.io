@@ -386,29 +386,34 @@ h1 {
 
 .abio {
 	float: left;
+	width: 18rem;
 }
 
 .tbio {
 	float: left;
+	width: 18rem;
 }
 
 .note-text {
 	padding: 0px;
 	position: static;
-	overflow: hidden;
 	flex: 1;
-	width: 50%;
 }
 
 .poem-image {
-	opacity: 0.62;
-	display: flex;
 	justify-content:center;
-	width: 50%;
+	width: 18rem;
 
 }
 
-.tbio {
+.image{
+		justify-content:center;
+	height: 80%;
+	padding: 20px;
+	max-width: 20rem;
+}
+
+/*.tbio {
 	text-align: right;
 	margin-right: 30px;
 }
@@ -416,7 +421,7 @@ h1 {
 .trbio {
 	text-align: right;
 }
-
+*/
 /*links to other poems*/
 
 .link p {
@@ -459,12 +464,12 @@ h1 {
 	font-style: normal;
 	float: right;
 	font-size: 18px;
-	line-height:0px;
 }
 
 .flex-container{
 	display:flex;
 	align-items:center;
+	flex-wrap: wrap;
 }
 
 .previous-next-buttons {

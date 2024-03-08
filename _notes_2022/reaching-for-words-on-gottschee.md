@@ -37,7 +37,7 @@ edition: '2022'
 pagetype: musing
 wrapformat: 
 sequence: 
-order: '10'
+order: '12'
 layout: notepage
 collection: notes_2022
 ---

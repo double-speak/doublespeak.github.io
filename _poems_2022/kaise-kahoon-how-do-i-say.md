@@ -87,7 +87,7 @@ edition: '2022'
 pagetype: musing
 wrapformat: 
 sequence: 
-order: '09'
+order: '11'
 layout: poempage
 collection: poems_2022
 ---
