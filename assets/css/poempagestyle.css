@@ -46,6 +46,20 @@ a {
 
 }
 
+.ogpoem-stacked {
+	/*	min-width: 25rem;*/
+		/*width:max-content;*/
+		width: 80vw !important;
+		flex-basis:80% !important;
+	}
+
+.transpoem-stacked {
+	/*	min-width: 25rem;*/
+		width: 80vw !important;
+		/*width:max-content;*/
+		flex-basis:80% !important;
+	}
+
 .previousmobile{
 	display: none;
 }

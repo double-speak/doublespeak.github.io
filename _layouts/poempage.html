@@ -50,8 +50,36 @@ layout: default
         <p class="note"> {{page.note}}</p>
       </div>
     </div>
-  {% else %}
+  {% elsif page.wrapformat =="stacked" %}
     <div class="poems">
+       {% if page.epigraph %}
+          <pre style="width:60vw; background-color:#F1E9DE; padding:10px">               
+            {{page.epigraph}}
+          </pre>
+        {% endif %}
+      <div class="ogpoem-stacked">
+        <h1 class="poemtitle" lang= "{{ page.lang }}">{{page.title}}</h1>
+        <div class="headerart">
+          <img src="{{site.baseurl}}/assets/images/header_light.png" alt="line">
+        </div>
+        <h2>{{page.author}}</h2>
+        <hr />
+        <pre>{{page.poem}}</pre>
+      </div>
+      <div class="transpoem-stacked">
+        <h1 class="poemtitle">{{page.transtitle}}</h1>
+        <div class="headerart">
+          <img src="{{site.baseurl}}/assets/images/header_dark.png" alt="line">
+        </div>
+        <h2>{{page.translator}}</h2>
+        <hr />
+        <pre>{{page.transpoem}}</pre>
+      </div>
+    </div>
+
+   {% else %} 
+
+   <div class="poems">
        {% if page.epigraph %}
           <pre style="width:60vw; background-color:#F1E9DE; padding:10px">               
             {{page.epigraph}}
