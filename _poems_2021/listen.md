@@ -47,6 +47,13 @@ transpoem: "Listen!\nAfter all, if the stars are set alight,\ndoes it mean anyon
   stars\nare set alight,\ndoes it mean anyone needs it?\nDoes it mean it’s necessary\nthat
   every night,\nabove the roofs,\nat least one star is set ablaze?!\n(1914)\n"
 note: |-
+  <p>I began with a literal translation of the poem, ignoring word order and providing several translations of the same words to choose from later. Next, I formatted lines to match the original poem. Before moving onto polishing, I also identified turns of phrase that would need more time and thought to accurately incorporate into a final product. In polishing my rough translation of Mogutin’s poem, I began by adjusting word order to best match the point of syllabic emphasis in each clause, while with Mayakovsky’s I focused more on the emotions behind the poem. I then moved to honing in on word choices, leaving notes that indicated desired sentiment where I was still unsure of what I wanted to highlight. Next, I read through, thoughtfully evaluating and altering verb choices based on verbal aspect and active-passive voice within the clause. Lastly, I reviewed capitalization, punctuation, and line breaks to best match the original. A series of more detailed notes regarding stylistic choices in my translation are listed below:</p>
+  <ul class="note"><strong>“Conversation of a drunk poetess and her new lover”:</strong></ul>
+  <li class="note"><span lang= "ru"><em>захожу в дома</em></span> — To maintain the poetess’ conversational tone, I translated the prefix <span lang= "ru"><em>за-</em></span> as indicative of fleeting entrances, in which “I swing by” felt more appropriate.</li>
+  <li class="note"><span lang= "ru"><em>благодать такая</em></span> —  <span lang= "ru"><em>Такая</em></span> indicates a conversational ellipsis and buffer around the verb. I added “sort of” to add a brief pause to the line and slightly dampen the verb’s delivery.</li>
+  <li class="note"><span lang= "ru"><em>от меня лучи во все стороны</em></span> — “Beams” highlighted the emanating light of a saintly glow. I added “of light” to ensure readers wouldn’t picture large beams of wood protruding from the poetess. I inserted “going” into my translation of <span lang= "ru"><em>во все стороны</em></span> to highlight the outward movement indicated by the accusative case while maintaining a similar meter.</li>
+  <li class="note"><span lang= "ru"><em>между прочим, тебе телефон из-за меня отключили</em></span> — I originally translated this section as “it was cause of me that your phone line / was cut off.” I moved “cause of me” to the second line to improve the flow of the first. I also shortened “because" to “cause,” to soften the point of emphasis on “me” in the sentence.</li>
+  <li class="note"><span lang= "ru"><em>телефон твой пиздец совсем, е.т.м.!</em></span> — I was struck by the sudden heatedness of this line and hoped to highlight it. I considered “your phone is totally fucked up,” but didn’t want the line sounding redundant when paired with the <span lang= "ru"><em>е.т.м.!</em></span> (“fuck your mother”). Given the wide range of meanings for <span lang= "ru"><em>пиздец</em></span>, “your phone is a total piece of shit, you motherfucker” fit the build and tone of the line best.</li>
   <ul class="note"><strong>Listen!:</strong></ul>
   <li class="note"><span lang= "ru"><em>плевочки</em></span> — A plural, diminutive form of <span lang= "ru"><em>плевок</em></span>, meaning “spit.” Originally, I translated the word as “spittles,” but felt that it was out of place. While somewhat contrived, “spitlets” offered a more robust alternative that could more easily be imagined in individual units.</li>
   <li class="note"><span lang= "ru"><em>жемчужиной</em></span> — In my rough translation, I translated this word as “pearl-like,” but found that it slowed the meter’s momentum. The shift to “pearls” as a subject complement to the direct object, improved fluidity while adding a luster to the otherwise gross imagery of bits of spit. I felt that this was closer to Mayakovsky’s poetic intentions for the phrase.</li>
@@ -76,6 +83,7 @@ tbio: "<p>Ryan is an undergraduate at the University of Pennsylvania, pursuing a
   languages, having most recently started a course in Czech. Ryan’s collaborative
   translation of Tamara Dmitrievna Skoblikova-Kudryavtseva’s memoir, <em>Words for
   Oneself</em>, is due for release by the end of 2021.</p>"
+epigraph: 
 language: Russian
 lang: ru
 image: 
@@ -95,7 +103,9 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
-order: '06'
+wrapformat: 
+sequence: last
+order: '07'
 layout: poempage
 collection: poems_2021
 ---

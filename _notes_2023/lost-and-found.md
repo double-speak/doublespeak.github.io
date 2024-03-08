@@ -1,7 +1,7 @@
 ---
 pid: lost-and-found
-title: 'Lost and Found: Musing'
-transtitle: 
+title: 
+transtitle: 'Lost and Found: Musing'
 author: Aiyana Nosizwe Mate
 translator: 
 poem: 
@@ -39,19 +39,18 @@ abio: |-
   <p>Aiyana Nosizwe Mate is an undergraduate student pursuing a bachelor’s in Anthropology from the
   University of Pennsylvania. She was born in Vancouver, British Columbia, and currently lives in Philadelphia. In her free time, she enjoys writing poetry and is currently an editor of Doublespeak Magazine.</p>
 tbio: 
-language: 
+epigraph: 
+language: siSwati
 lang: en
 image: "/assets/images/images_23/lost-and-found.jpg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: musing
 wrapformat: 
-nonote: '0'
-order: '10'
+sequence: '0'
+order: '11'
 layout: notepage
 collection: notes_2023
 ---

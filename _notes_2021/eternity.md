@@ -66,6 +66,7 @@ tbio: "<p>Keshav Sharma is a freshman at Queen’s University in Kingston, Ontar
   novelist Victor Hugo, postmodern novelist Antoine de Saint-Exupéry, and seventeenth-century
   playwright Molière. His interest in translating poetry stems from his belief that
   all languages have universal similarities and it is simply up to us to uncover them.</p>"
+epigraph: 
 language: French
 lang: fr
 image: 
@@ -85,7 +86,9 @@ translaudio: |
   </div>
 edition: '2021'
 pagetype: submission
-order: '34'
+wrapformat: 
+sequence: 
+order: '39'
 layout: notepage
 collection: notes_2021
 ---

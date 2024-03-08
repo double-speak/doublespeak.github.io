@@ -25,9 +25,14 @@ layout: default
    {% for poem in issues %}
 <!--          look in the language spreadsheet
  -->    
+{% assign authors = poem.author | split: '; ' %} 
+{% assign translators = poem.translator | split: '; ' %} 
+{% assign languages = poem.language | split: '; ' %} 
+
 
         {% if page.type == "language" %}
-            {% if poem.language == page.name %}
+          {% for lang in languages %}
+            {% if lang == page.name %}
               {% if poem.pagetype == 'submission' %}
                 <div class="tcleft">
                   <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
@@ -43,28 +48,54 @@ layout: default
                 </div>
             {% endif %}
             {% endif %}
+            {% endfor %}
             {% endif %}
 <!--          look in the author spreadsheet
- -->    {% if page.type == "author" %}
-            {% if poem.author == page.name %}
-            <div class="tcleft">
-              <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2>
-              <h3 class="tcleft">written by {{ poem.author }}<br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
-            </div>
+ -->    {% if page.type == "author" or page.type == "translator" %}
+           {% for auth in authors %}
+            {% if auth == page.name %}
+              {% if poem.pagetype == 'submission' %}
+                <div class="tcleft">
+                  <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2>
+                  <h3 class="tcleft">written by {{ poem.author }}<br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+                </div>
+              {% endif %}
+              {% if poem.pagetype != 'submission' %}
+                <div class="tcleft">
+                  <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
+                  {% if poem.author %}
+                    <h3 class="tcleft">by {{ poem.author }}</h3>
+                  {% endif %}
+                </div>
             {% endif %}
             {% endif %}
+            {% endfor %}
+ 
 <!--          look in the translator spreadsheet
- -->    {% if page.type == "translator" %}
-            {% if poem.translator == page.name %}
-            <div class="tcleft">
-              <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
-              <h3 class="tcleft">written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
-            </div>
+ -->      {% for trans in translators %}
+            {% if trans == page.name %}
+              {% if poem.pagetype == 'submission' %}
+                <div class="tcleft">
+                  <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
+                  <h3 class="tcleft">written by {{ poem.author }} <br>translated from {{ poem.language }} by {{ poem.translator }}</h3>
+                </div>
+              {% endif %}
+              {% if poem.pagetype != 'submission' %}
+                <div class="tcleft">
+                  <h2 class="tcleft"><a href="{{site.baseurl}}/poems_{{poem.edition}}/{{poem.pid}}">{{poem.transtitle | capitalize}}</a></h2><br>
+                  {% if poem.author %}
+                    <h3 class="tcleft">by {{ poem.author }}</h3>
+                  {% endif %}
+                </div>
+              {% endif %}
             {% endif %}
-        {% endif %}
+            {% endfor %}
+            {% endif %}
+
       {% endfor %}
     {% endfor %}
   </div>
+
 </div>
 
 

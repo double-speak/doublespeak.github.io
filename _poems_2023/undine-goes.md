@@ -98,12 +98,11 @@ abio: "<p>Ingeborg Bachmann (1926 –1973) was an Austrian poet and author. The 
 tbio: "<p>Ailie Margot studies medieval Christian mysticism and letter writing. She
   is currently working on her dissertation project, which focuses on the epistolary
   exchanges of the medieval German religious group who called themselves “God’s Friends.”</p>"
+epigraph: 
 language: German
 lang: de
 image: "/assets/images/images_23/undine-goes.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -118,8 +117,8 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
-order: '04'
+sequence: '0'
+order: '05'
 layout: poempage
 collection: poems_2023
 ---

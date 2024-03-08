@@ -4,35 +4,47 @@ title: За Киру
 transtitle: For Kira
 author: Alina Khaitlina
 translator: Yehudith Dashevsky
-poem: "<em>23 квітня, у переддень Великодня російська \nракета влучила в житловий
-  будинок в Одесі. \nВбито 8 людей, поранено 18.\nСеред загиблих — 3-місячна Кіра
-  і її мати.</em>\n\n<em>23 апреля, в преддверии Пасхи,\nроссийская ракета попала
-  в жилой дом в \nОдессе. Убито 8 людей, ранено 18. Среди \nпогибших 3х-месячная Кира
-  и ее мама.</em>\n\nКак вы там говорите — скорей бы мира?\nКоляска через ступеньку
-  летит по лестнице.\nДевочку из Одессы назвали Кира.\nКире было три месяца.\n\nВ
-  три месяца начинают держать игрушку,\nУчатся переворачиваться на спинку.\nВ три
-  месяца человек похож на зверушку —\nБелочку или свинку.\n\nУлыбается маме, уставшей
-  от вечных стирок,\nНачинает другие лица вокруг учить.\nКирина мама погибла в Одессе
-  с Кирой,\nТеперь никто не сумеет их разлучить.\n\nУ мамы на запястье старая фенечка,\nСказали,
-  что защитит. Видно, обманули.\nУ Киры в приданом — купальник размера \"феечка,\"\nДолжна
-  была примерить его в июле.\n\nКак они там \"а давай напишем им 'с пасхой вас,'\nСейчас
-  докурю и ракетку им в тыл закину.\"\nЖители ада выйдут, боясь испачкаться,\nНа дверях
-  напишут:\n\"За Киру.\"\n\n\n\n"
-transpoem: "<em>On the 23rd of April [2022], just before Easter, a Russian rocket
-  hit a civilian residence in Odessa. Eight people were killed, eighteen wounded.
-  Among the dead were 3-month old Kira and her mother. </em>\n\nWhat’s it called —
-  let peace come quicker? \nThe step, the stairs, where a stroller flies over —\nIn
-  Odessa, there was a girl\nwho was three months old. Her name was Kira. \n\nAt three
-  months you might begin to teach her\nto hold a toy, to learn to turn on her back.\nAt
-  three months a person looks like a squirrel,\nor a piglet — a small animal, a creature.
-  \n\nShe smiles at her mom, who’s exhausted \nfrom infinite laundry. She’s solving
-  the quandary \nof other faces around her, but she can’t separate\nfrom her mom now.
-  Kira’s mom died in Odessa with Kira.\n\nOn the mom’s wrist was an old bauble, which
-  they said \nwould protect her. That turned out to be a con. \nKira was about to
-  inherit a fairy-sized swimsuit, \nwhich, in July, she was supposed to try on. \n\nSo
-  they were like — “Let’s send them a ‘Happy Easter!’\nGonna finish this smoke and
-  blow their brains out with a rocket.”\nThe dwellers of hell will crawl out, afraid
-  to get stained, \nand write on the door:\n“For Kira.”"
+poem: |+
+  Как вы там говорите — скорей бы мира?
+  Коляска через ступеньку летит по лестнице.
+  Девочку из Одессы назвали Кира.
+  Кире было три месяца.
+
+  В три месяца начинают держать игрушку,
+  Учатся переворачиваться на спинку.
+  В три месяца человек похож на зверушку —
+  Белочку или свинку.
+
+  Улыбается маме, уставшей от вечных стирок,
+  Начинает другие лица вокруг учить.
+  Кирина мама погибла в Одессе с Кирой,
+  Теперь никто не сумеет их разлучить.
+
+  У мамы на запястье старая фенечка,
+  Сказали, что защитит. Видно, обманули.
+  У Киры в приданом — купальник размера "феечка,"
+  Должна была примерить его в июле.
+
+  Как они там "а давай напишем им 'с пасхой вас,'
+  Сейчас докурю и ракетку им в тыл закину."
+  Жители ада выйдут, боясь испачкаться,
+  На дверях напишут:
+  "За Киру."
+
+
+transpoem: "What’s it called — let peace come quicker? \nThe step, the stairs, where
+  a stroller flies over —\nIn Odessa, there was a girl\nwho was three months old.
+  Her name was Kira. \n\nAt three months you might begin to teach her\nto hold a toy,
+  to learn to turn on her back.\nAt three months a person looks like a squirrel,\nor
+  a piglet — a small animal, a creature. \n\nShe smiles at her mom, who’s exhausted
+  \nfrom infinite laundry. She’s solving the quandary \nof other faces around her,
+  but she can’t separate\nfrom her mom now. Kira’s mom died in Odessa with Kira.\n\nOn
+  the mom’s wrist was an old bauble, which they said \nwould protect her. That turned
+  out to be a con. \nKira was about to inherit a fairy-sized swimsuit, \nwhich, in
+  July, she was supposed to try on. \n\nSo they were like — “Let’s send them a ‘Happy
+  Easter!’\nGonna finish this smoke and blow their brains out with a rocket.”\nThe
+  dwellers of hell will crawl out, afraid to get stained, \nand write on the door:\n“For
+  Kira.”"
 note: "<p>The poem opens with an introduction in Ukrainian, with a Russian translation
   beneath it. The relationship Ukrainians have with the Russian language is complex.
   According to a survey from 2004, around 40% of Ukranians use Russian at home and
@@ -97,19 +109,24 @@ abio: "<p>Alina Khaitlina (b. 1987) is a poet and linguist born in 1987, and is 
 tbio: |-
   <p>Yehudith Dashevsky is a writer and translator living in Washington D.C. She currently works in development for the non-profit public health care and policy magazine, <em>Health Affairs</em>. She is also a managing editor for the post-Soviet diaspora poetry magazine, <em>Pocket Samovar</em>. She is a Penn graduate and a proud former editor of <em>Doublespeak Magazine</em>.
   </p>
+epigraph: "<em>23 квітня, у переддень Великодня російська \nракета влучила в житловий
+  будинок в Одесі. \nВбито 8 людей, поранено 18.\nСеред загиблих — 3-місячна Кіра
+  і її мати.</em>\n\n<em>23 апреля, в преддверии Пасхи,\nроссийская ракета попала
+  в жилой дом в \nОдессе. Убито 8 людей, ранено 18. Среди \nпогибших 3х-месячная Кира
+  и ее мама.</em>\n\n<em>On the 23rd of April [2022], just before Easter, a Russian
+  rocket hit a civilian residence in Odessa. Eight people were killed, eighteen wounded.
+  Among the dead were 3-month old Kira and her mother. </em>"
 language: Russian
 lang: ru
 image: "/assets/images/images_23/for-kira.jpeg"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
-order: '15'
+sequence: '0'
+order: '16'
 layout: notepage
 collection: notes_2023
 ---

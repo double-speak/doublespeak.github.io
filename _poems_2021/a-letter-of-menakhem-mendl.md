@@ -126,6 +126,7 @@ tbio: "<p>Dan Ben-Amos teaches folklore at the University of Pennsylvania. He ea
   Construction of Identity</em> (with Liliane Weissberg), and <em>The Diary: The Epic
   of Everyday Life</em> (with Batsheva Ben-Amos). His translations of Alterman’s poems
   appeared in <em>Jewish Review of Books</em> and <em>Moment</em>.</p>"
+epigraph: 
 language: Hebrew
 lang: he
 image: 
@@ -145,7 +146,9 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
-order: '25'
+wrapformat: 
+sequence: 
+order: '28'
 layout: poempage
 collection: poems_2021
 ---

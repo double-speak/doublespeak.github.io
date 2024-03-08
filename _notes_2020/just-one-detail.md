@@ -73,17 +73,18 @@ tbio: "<p>Ella Konefal is an artist who takes translation as conceptual groundin
   like the labor or attunement of drawing and the labor or attunement of reading something
   for the second time, translation is a form of prayer. It moves something. Where
   that movement leads is as of yet unknown.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '29'
+wrapformat: 
+sequence: 
+order: '37'
 layout: notepage
 collection: notes_2020
 ---

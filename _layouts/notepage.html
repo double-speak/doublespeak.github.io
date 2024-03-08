@@ -14,20 +14,31 @@ layout: default
 
 </head>
 
-   <title>{{page.translator}} on translating {{page.author}}</title>
-
 <body>
   <div class="bg">
   {% include navbar.html %}
-    <div class="poemtags">
+
+<div class="poemtags">
       <ul>
         <p class="tcontentslink link"><a href="{{site.baseurl}}/toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
-        {% if page.language %}<li><a href="{{site.baseurl}}/language_tags/{{page.language | slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
-        {% endif %}
+        {% if page.language and page.language != "English" %}
+          {% assign tags = page.language | split: ';' %}       
+            {% for tag in tags %}
+              <li><a href="{{site.baseurl}}/language_tags/{{tag| slugify: 'latin' | replace: '-','_'}}">{{tag}}</a></li>
+            {% endfor %}
+          {% endif %}
         {% if page.translator %}
-        <li><a href="{{site.baseurl}}/translator_tags/{{page.translator | slugify: 'latin' | replace: '-','_'}}">{{page.translator}}</a></li>
-        {% endif %}
-        <li><a href="{{site.baseurl}}/author_tags/{{page.author | slugify: 'latin' | replace: '-','_'}}">{{page.author}}</a></li>
+          {% assign tags = page.translator | split: ';' %}       
+            {% for tag in tags %}
+              <li><a href="{{site.baseurl}}/translator_tags/{{tag| slugify: 'latin' | replace: '-','_'}}">{{tag}}</a></li>
+            {% endfor %}
+          {% endif %}
+        {% if page.author %}
+          {% assign tags = page.author | split: ';' %}       
+            {% for tag in tags %}
+              <li><a href="{{site.baseurl}}/author_tags/{{tag| slugify: 'latin' | replace: '-','_'}}">{{tag}}</a></li>
+            {% endfor %}        
+          {% endif %}
       </ul>
     </div>
   <br>
@@ -53,24 +64,26 @@ layout: default
 
         {% endif %}
 
-
-
-
 {% endfor %}
+
+{% if page.pagetype == "submission" %}
+
+  <title>{{page.translator}} on translating {{page.author}}</title>
+
 <div class='flex-container'>
   <div class="container">
+    {% if page.note %}
       <div class="note">
         <h1>{{page.translator}}</h1><br>
-        {% if page.note %}
         <h2 class="note">on translating {{page.author}}</h2><br>
-        <p class="note"> {{page.note}}
-        </p>
-        {% endif %}
-        
+        <p class="note"> {{page.note}}</p>
       </div>
+      {% endif %}
+
     <div class="flex-container">
 
        <div class="note-text">
+
           <div class="abio">
 
             <h1 class="abio">about the author</h1>
@@ -82,44 +95,59 @@ layout: default
             <h1 class="tbio">about the translator</h1>
             <p>{{page.tbio}}</p>
         </div>
+      {% endif %}
+
+
       {% if page.image and page.image != "none" and page.image != "none " and page.image != "" %}
          <p class="caption"> 
         </p>
          <!-- <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img> -->
          </div>
       {% endif %}
+{% if page.note and page.pagetype == "interview" %}
+  <div class='flex-container'>
+    <div class="container">
+      <h1 class="abio" style="width:100%">About the Interviewee</h1>
+         <div class="note-text">
 
-  </div>
-
-    <div class="previouslink">
-    <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{page.pid}}"><  &nbsp; previous</a></p>
-  </div>
-  <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{page.pid}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
-    </div>
-
-{% if thisIndex == endLength %}
-<div class="nextlink">
-  <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/copyright{{page.edition}}">next &nbsp; ></a></p>
-</div>
-<div class="nextmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/copyright{{page.edition}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
-    </div>
-{% else %}
-<div class="nextlink">
-  <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"> next &nbsp; ></a></p>
-</div>
-<div class="nextmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
-    </div>
+          <p>{{page.abio}}</p>
+          </div>
+        </div>
+      </div>
 {% endif %}
   </div>
-<!-- </div> -->
 
+
+<!-- PREVIOUS BUTTON CODE -->  
+
+    <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{page.pid}}"><div class="previouslink">
+      <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>  
+    </div></a>
+
+{% if thisIndex == endLength %}
+
+  <a href="{{site.url}}{{site.baseurl}}/frontmatter/copyright{{page.edition}}">
+    <div class="nextlink">
+      <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
+    </div>
+  </a>
+
+{% else %}
+
+<a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><div class="nextlink">
+  <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
+</div></a>
+
+{% endif %}
+
+  </div>
+</div>
+         </div>
     <div class="lineart">
-           <img class="line" style="margin: -100px -100px 0 0;" src="{{site.baseurl}}/assets/images/line 2022.svg"/>
+           <img class="line" style="" src="{{site.baseurl}}/assets/images/line 2022.svg"/>
          </div>
          </div>
+
 </body>
 <style>
 body {

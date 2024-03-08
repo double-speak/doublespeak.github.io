@@ -49,17 +49,18 @@ tbio: "<p>Yi Feng is a scholar, translator and associate professor at Northeaste
   novels and contemporary American poetry. She was awarded the Hunt Scholarship in
   2016. She also won the Bronze Prize with her poem “Future Is Several Songs Written
   by Poetry” in an International Chinese Poetry Competition in 2017.</p>"
+epigraph: 
 language: Chinese
 lang: zh
 image: "/assets/images/images_19/yuansheng.jpg"
-image2: 
 imagecredit: photo by Yi Feng
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
-order: '12'
+wrapformat: 
+sequence: 
+order: '13'
 layout: notepage
 collection: notes_2019
 ---

@@ -3,7 +3,8 @@ pid: the-romantic-dogs
 title: Los perros románticos
 transtitle: The Romantic Dogs
 author: Roberto Bolaño
-translator: "<em>DoubleSpeak Staff</em>"
+translator: "<em>DoubleSpeak</em> Staff; Andrea Conde; Chardonnay Needler; Ziang (Arthur)
+  Wei; Ryan Hardy; Daniel Shevchenko"
 poem: |-
   En aquel tiempo yo tenía veinte años
   y estaba loco.
@@ -155,18 +156,18 @@ tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and languag
   beautiful poetry submissions. Whether we’re playing multilingual Scramble or commenting
   on submissions in rhymed couplets, we’re drawn together by our shared passion for
   language and translation.</p>"
+epigraph: 
 language: 
 lang: 
 image: "/assets/images/images_22/group_translation.JPG"
-image2: none
 imagecredit: photo by Quinn Gruber
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2022'
 pagetype: submission
 wrapformat: 
-order: '18'
+sequence: 
+order: '19'
 layout: poempage
 collection: poems_2022
 ---

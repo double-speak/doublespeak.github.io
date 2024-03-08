@@ -72,17 +72,18 @@ tbio: "<p><em>DoubleSpeak</em> is composed of a group of passionate language lov
   it does in French, <em>frileuse</em>. For those reasons, here, we use “untranslatable”
   to mean untranslatable into English, as that is a language with which all of our
   staff members are familiar, or without equivalent in other languages that we know.</p>"
+epigraph: 
 language: Japanese
 lang: ja
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '14'
+wrapformat: 
+sequence: 
+order: '15'
 layout: notepage
 collection: notes_2020
 ---

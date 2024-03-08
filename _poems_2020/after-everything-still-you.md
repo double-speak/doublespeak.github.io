@@ -44,17 +44,18 @@ tbio: "<p>Quinn Gruber (C’22) studies English and Italian Literature at the Un
   dictionary, which probably explains why they refuse to use the OED. In their free
   time, they write poetry, play in a quartet, work at the Kelly Writers House, and
   go on long walks. If you have a spare copy of an Italian dictionary, let them know.</p>"
+epigraph: 
 language: Italian
 lang: it
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '10'
+wrapformat: 
+sequence: 
+order: '11'
 layout: poempage
 collection: poems_2020
 ---

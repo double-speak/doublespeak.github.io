@@ -2,7 +2,7 @@
 pid: Michael_Freeman
 name: Michael Freeman
 type: translator
-order: '096'
+order: '101'
 layout: tagpage
 collection: translator_tags
 ---

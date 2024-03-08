@@ -76,18 +76,18 @@ abio: |-
   Simran Chand recently graduated from the University of Pennsylvania in December 2021, double-majoring in biology and Gender, Sexuality, and Women’s Studies. She grew up speaking Hindi and English simultaneously, simply through exposure to her parents’ native tongue. She took Hindi grammar lessons through her early years of high school with Kishori Barman, a passionate resident of Newtown, Connecticut, committed to teaching the surrounding area’s  South Asian youth the beauty of the Hindi language. With a vested interest in ethnic identity,  gender/sexuality, and healthcare, Simran is the author of an honors research thesis documenting trends of familial sexual education amongst South Asian Americans at Penn. Simran plans to attend medical school while continuing to investigate the intersections of identity and medicine.
   </p>
 tbio: 
+epigraph: 
 language: 
 lang: 
-image: "/assets/images/images_22/musing1.jpg"
-image2: "../assets/images/images_22/musing2.jpg"
-imagecredit: photo by Stacy Shimanuki
-imagecredit2: photo by Stacy Shimanuki
+image: "/assets/images/images_22/musing1.jpg; /assets/images/images_22/musing2.jpg"
+imagecredit: photos by Stacy Shimanuki
 origaudio: 
 translaudio: 
 edition: '2022'
 pagetype: musing
 wrapformat: 
-order: '08'
+sequence: 
+order: '09'
 layout: notepage
 collection: notes_2022
 ---

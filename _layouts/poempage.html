@@ -22,27 +22,69 @@ layout: default
       <ul>
         <p class="tcontentslink link"><a href="{{site.baseurl}}/toc{{page.edition}}.html"><  &nbsp; table of contents</a></p>
         {% if page.language and page.language != "English" %}
-        <li><a href="{{site.baseurl}}/language_tags/{{page.language| slugify: 'latin' | replace: '-','_'}}">{{page.language}}</a></li>
-        {% endif %}
+          {% assign tags = page.language | split: ';' %}       
+            {% for tag in tags %}
+              <li><a href="{{site.baseurl}}/language_tags/{{tag| slugify: 'latin' | replace: '-','_'}}">{{tag}}</a></li>
+            {% endfor %}
+          {% endif %}
         {% if page.translator %}
-        <li><a href="{{site.baseurl}}/translator_tags/{{page.translator | slugify: 'latin' | replace: '-','_'}}">{{page.translator}}</a></li>
-        {% endif %}
+          {% assign tags = page.translator | split: ';' %}       
+            {% for tag in tags %}
+              <li><a href="{{site.baseurl}}/translator_tags/{{tag| slugify: 'latin' | replace: '-','_'}}">{{tag}}</a></li>
+            {% endfor %}
+          {% endif %}
         {% if page.author %}
-        <li><a href="{{site.baseurl}}/author_tags/{{page.author | slugify: 'latin' | replace: '-','_'}}">{{page.author}}</a></li>
-        {% endif %}
+          {% assign tags = page.author | split: ';' %}       
+            {% for tag in tags %}
+              <li><a href="{{site.baseurl}}/author_tags/{{tag| slugify: 'latin' | replace: '-','_'}}">{{tag}}</a></li>
+            {% endfor %}        
+          {% endif %}
       </ul>
     </div>
 
-  {% if page.pagetype == "musing" or page.pagetype == "interview" %}
+  {% if page.pagetype == "musing" or page.pagetype == "interview" or page.pagetype == "frontmatter" %}
     <div class="container">
       <div class="note">
-        <h1>{{page.title}}</h1>
+        <h1>{{page.transtitle}}</h1>
         <h2>{{page.author}}</h2>
         <p class="note"> {{page.note}}</p>
       </div>
     </div>
-  {% else %}
+  {% elsif page.wrapformat =="stacked" %}
     <div class="poems">
+       {% if page.epigraph %}
+          <pre style="width:60vw; background-color:#F1E9DE; padding:10px">               
+            {{page.epigraph}}
+          </pre>
+        {% endif %}
+      <div class="ogpoem-stacked">
+        <h1 class="poemtitle" lang= "{{ page.lang }}">{{page.title}}</h1>
+        <div class="headerart">
+          <img src="{{site.baseurl}}/assets/images/header_light.png" alt="line">
+        </div>
+        <h2>{{page.author}}</h2>
+        <hr />
+        <pre>{{page.poem}}</pre>
+      </div>
+      <div class="transpoem-stacked">
+        <h1 class="poemtitle">{{page.transtitle}}</h1>
+        <div class="headerart">
+          <img src="{{site.baseurl}}/assets/images/header_dark.png" alt="line">
+        </div>
+        <h2>{{page.translator}}</h2>
+        <hr />
+        <pre>{{page.transpoem}}</pre>
+      </div>
+    </div>
+
+   {% else %} 
+
+   <div class="poems">
+       {% if page.epigraph %}
+          <pre style="width:60vw; background-color:#F1E9DE; padding:10px">               
+            {{page.epigraph}}
+          </pre>
+        {% endif %}
       <div class="ogpoem">
         <h1 class="poemtitle" lang= "{{ page.lang }}">{{page.title}}</h1>
         <div class="headerart">
@@ -50,7 +92,7 @@ layout: default
         </div>
         <h2>{{page.author}}</h2>
         <hr />
-        <pre lang="{{ page.lang }}">{{page.poem}}</pre>
+        <pre>{{page.poem}}</pre>
       </div>
       <div class="transpoem">
         <h1 class="poemtitle">{{page.transtitle}}</h1>
@@ -62,10 +104,7 @@ layout: default
         <pre>{{page.transpoem}}</pre>
       </div>
     </div>
-    <div class="both-audio">
-      {{page.origaudio}}
-      {{page.translaudio}}
-    </div>
+
   {% endif %}
 
 
@@ -82,24 +121,34 @@ layout: default
           {% assign nextIndex = forloop.index | plus: 1 %}
         {% endif %}
 
-    {% endfor %}
+      {% endfor %}
 
     {% for pg in site.data[path] %}
 
-
-        {% if forloop.index == 1 %}
-          {% assign previousPage = "ednote" | append: page.edition %}
-
-        {% endif %}
-
-        {% if forloop.index == previousIndex and pg.pagetype != "musing" %}
+<!--     if we are on the previous page, and our current page is not a musing or frontmatter, set up the previousPage variable -->
+        {% if forloop.index == previousIndex %}
           {% assign previousPage = pg.pid %}
+          {% assign previousPageType = pg.pagetype %}
 
         {% endif %}
 
-        {% if forloop.index == previousIndex and forloop.index != 1 and pg.pagetype == "musing" %}
+<!--     if we are on the previous page, and our current page IS a musing or frontmatter, set up the previousPage variable and add fixpath -->
+        {% if forloop.index == previousIndex and pg.pagetype == "musing" or pg.pagetype == "frontmatter" %}
           {% assign previousPage = pg.pid %}
           {% assign fixpath = "poems_" %}
+        {% endif %}
+
+<!--     if we are on index 2, and our current page is not frontmatter, assign the editor-note pid to the previous page and the fixpath -->
+        {% if forloop.index == 3 and page.pagetype != "frontmatter" %}
+          {% assign previousPage = "editor-note" %}
+          {% assign fixpath = "poems_" %}
+
+        {% endif %}
+
+<!--     if we are on index 2, and our current page IS frontmatter, assign the staff pid to the previous page and the fixpath -->
+        {% if forloop.index == 2 and page.pagetype == "frontmatter" %}
+          {% assign previousPage = "staff" | append: page.edition %}
+
         {% endif %}
 
         {% if forloop.index == nextIndex %}
@@ -109,77 +158,62 @@ layout: default
     {% endfor %}
 
 
+
+<!-- PREVIOUS BUTTON CODE --> 
   {% if fixpath == "poems_" %}
 
-    <div class="previouslink">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"> < &nbsp;previous</a></p>
-    </div>
-    <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
-    </div>
+    <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><div class="previouslink">
+      <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
+    </div></a>
 
-  {% elsif previousPage contains "ednote" %}
-    <div class="previouslink">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"> < &nbsp;previous</a></p>
-    </div>
-  <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
-    </div>
-  {% else %}
-    {% if page.nonote == "2" or page.nonote == "consecutive" or page.nonote == "1" %}
-  <div class="previouslink">
-    <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
-  </div>
-  <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
-    </div>
+  {% endif %}
+
+    {% if page.pid == "editor-note" %}
+    <a href="{{site.url}}{{site.baseurl}}/frontmatter/{{previousPage}}"><div class="previouslink">
+      <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
+    </div></a>
+
+<!--   if statement for going back to previous poem, skipping note page -->    
+ 
+ {% elsif previousPageType == "musing" or previousPageType == "frontmatter" %}
+  <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><div class="previouslink">
+    <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
+  </div></a>
+        
+
+ {% elsif page.sequence == "middle" or page.sequence == "last" %}
+  <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><div class="previouslink">
+    <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
+  </div></a>
         
     {% else %}
 
-  <div class="previouslink">
-    <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><  &nbsp; previous</a></p>
-  </div>
-  <div class="previousmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><i class="fa-solid fa-circle-chevron-left"></i></a></p>
-    </div>
-    {% endif %}
+  <a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{previousPage}}"><div class="previouslink">
+    <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
+  </div></a>
+
   {% endif %}
 
 
+<!-- NEXT BUTTON CODE -->  
+ {% if page.pagetype == "musing" or page.pagetype == "frontmatter" %}
+  <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><div class="nextlink">
+      <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
+    </div></a>
 
-  {% if page.pagetype == "musing" %}
-  <div class="nextlink">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
-    </div>
-
-<div class="nextmobile">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
-    </div>
-
-  {% else %}
-    {% if page.nonote == "1" or page.nonote == "consecutive" or page.nonote == "3" %}
-         <div class="nextlink">
-            <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}">next &nbsp; ></a></p>
-          </div>
-
-        <div class="nextmobile">
-
-          <p class="link"><a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
-
-        </div>
+<!--   if statement for going to next poem page, skipping notepage -->    
+{% elsif page.sequence == "first" or page.sequence == "middle" %}
+         <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><div class="nextlink">
+          <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
+          </div></a>
 
     {% else %}
-    <div class="nextlink">
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}">next &nbsp; ></a></p>
-    </div>
 
-      <div class="nextmobile">
+    <a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}"><div class="nextlink">
+      <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
+    </div></a>
 
-      <p class="link"><a href="{{site.url}}{{site.baseurl}}/notes_{{page.edition}}/{{page.pid}}"><i class="fa-solid fa-circle-chevron-right"></i></a></p>
-
-    </div>
     {% endif %}
-{% endif %}
   
 </body>
 </html>

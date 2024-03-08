@@ -22,7 +22,7 @@ function getThumbnail(item, url) {
 function displayResult(item, fields, url) {
   console.log("display thumbnail")
   var transtitle = item.transtitle;
-  var title = item.title || 'Untitled';
+  var title = item.title;
   var link  = item.permalink;
   var author = item.author;
   var translator = item.translator;
@@ -32,12 +32,26 @@ function displayResult(item, fields, url) {
   for (i in fields) {
     fieldLabel = fields[i];
     if (fieldLabel in item ) {
-      if (fieldLabel !== "title" && fieldLabel !== "poem" && fieldLabel !== "transpoem") {
+      if (fieldLabel !== "title" && fieldLabel !== "transtitle" && fieldLabel !== "poem" && fieldLabel !== "transpoem") {
       meta.push(`<br>${excerptedString(item[fieldLabel])}`);
       }
     }
   }
-  return `<div class="result"><a href="${url}${link}"><p><b><span class="title">${item.title}</span></b><span class="meta">${meta.join('')}</span></p></a></div>`;
+
+  if (title != null && transtitle != null){
+
+    return `<div class="result"><a href="${url}${link}"><p><b><span class="title">${item.title}</span></b><br><i><span class="title">${item.transtitle}</span></i><span class="meta">${meta.join('')}</span></p></a></div>`;
+
+  }else if (title == null && transtitle != null){
+
+    return `<div class="result"><a href="${url}${link}"><p><b><span class="title">${item.transtitle}</span></b><span class="meta">${meta.join('')}</span></p></a></div>`;
+
+  }else if (title != null && transtitle == null){
+
+    return `<div class="result"><a href="${url}${link}"><p><b><span class="title">${item.title}</span></b><span class="meta">${meta.join('')}</span></p></a></div>`;
+
+  }
+
 }
 
 function startSearchUI(fields, indexFile, url) {
@@ -63,7 +77,7 @@ function startSearchUI(fields, indexFile, url) {
         var ref    = results[r].ref;
         var item   = store[ref];
         var result = displayResult(item, fields, url);
-
+        console.log(item);
         results_div.append(result);
       }
     });

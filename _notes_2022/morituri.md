@@ -46,13 +46,12 @@ abio: "<p>Adolf Brand (1874–1945) was a German gay activist and the founder of
   was forced to abandon his activism in the 1930s due to harassment from Nazi authorities.</p>"
 tbio: "<p>Robert Chen is a fourth-year at the University of Pennsylvania studying
   biochemistry and chemistry                                                                                                          .</p>"
+epigraph: 
 language: German
 lang: de
 image: "/assets/images/images_22/Brand_Morituri.png"
-image2: none
 imagecredit: An illustration by Richard Grimm accompanying the original poem in <i>Der
   Eigene</i>.
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -76,7 +75,8 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
-order: '07'
+sequence: 
+order: '08'
 layout: notepage
 collection: notes_2022
 ---

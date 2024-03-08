@@ -75,17 +75,18 @@ tbio: "<p>Dillon is a junior majoring in comparative literature. He loves mornin
   at a time. He also loves languages and began his studies in Germanistik at the University
   of Freiburg before transferring to Penn. His heart is still in that sunny, charming
   university city next to Black Forest.</p>"
+epigraph: 
 language: German
 lang: de
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
-order: '09'
+wrapformat: 
+sequence: 
+order: '10'
 layout: notepage
 collection: notes_2019
 ---

@@ -28,6 +28,7 @@ tbio: "<p>Maria Dahvana Headley is an American novelist, memoirist, editor, tran
   poet, and playwright. Her work includes Magonia, a young-adult space-fantasy novel,
   Queen of Kings, an alternate-history fantasy novel about Cleopatra, and The Mere
   Wife, a retelling of Beowulf.</p>"
+epigraph: 
 language: Arabic
 lang: bs
 image: "/assets/images/images_21/headley.JPG"
@@ -36,7 +37,9 @@ origaudio:
 translaudio: 
 edition: '2021'
 pagetype: submission
-order: '14'
+wrapformat: 
+sequence: 
+order: '15'
 layout: notepage
 collection: notes_2021
 ---

@@ -60,12 +60,11 @@ tbio: "<p>Madison Weiss is a senior at the University of Pennsylvania majoring i
   Philosophy, Politics, and Economics, minoring in French and Spanish. They hold a
   deep appreciation for classic literature, deep conversation, and pairing either
   with a good cup of coffee.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: "/assets/images/images_23/sonnet.png"
-image2: none
 imagecredit: photo by Katherine Rozsypalek
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -80,8 +79,8 @@ translaudio:
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
-order: '17'
+sequence: '0'
+order: '18'
 layout: poempage
 collection: poems_2023
 ---

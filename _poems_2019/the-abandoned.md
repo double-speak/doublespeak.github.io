@@ -110,17 +110,18 @@ tbio: "<p>I translated this poem as my final project in Taije Silverman’s clas
   Translation of Poetry and the Poetry of Translation.” I study Spanish , French,
   and comparative literature in the College, so I am constantly translating between
   languages, authors, times, etc.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: "/assets/images/images_19/mistral.JPG"
-image2: 
 imagecredit: photo by a <i>DoubleSpeak</i> staffer
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
-order: '03'
+wrapformat: 
+sequence: 
+order: '04'
 layout: poempage
 collection: poems_2019
 ---

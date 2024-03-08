@@ -65,6 +65,7 @@ tbio: "<p>Claudia Nuñez de Ibieta grew up in Los Angeles, California, and Santi
   Research Center. Her literary translation includes work published by fiikbooks.org
   and harpyhybridreview.org. She’s also an active member of Cardboard House Press’
   Phoenix Cartonera Collective.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: 
@@ -84,7 +85,9 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
-order: '07'
+wrapformat: 
+sequence: 
+order: '08'
 layout: notepage
 collection: notes_2021
 ---

@@ -3,13 +3,20 @@ pid: a-flowers-pride
 title: อหังการของดอกไม้
 transtitle: A Flower’s Pride
 author: Chiranan Pitpreecha
-translator: Peeriya Pongsarigun and John Viano
-poem: "สตรีมีสองมือ   \t\tมั่นยึดถือในแก่นสาร\nเกลียวเอ็นจักเป็นงาน    \t\tมิใช่ร่านหลงแพรพรรณ\n\tสตรีมีสองตีน
-  \   \t\tไว้ป่ายปีนความใฝ่ฝัน\nยืนหยัดอยู่ร่วมกัน    \t\tมิหมายมั่นกินแรงใคร\nสตรีมีดวงตา
-  \   \t\tเพื่อเสาะหาชีวิตใหม่\nมองโลกอย่างกว้างไกล    \t\tมิใช่คอยชะม้อยชวน\nสตรีมีดวงใจ
-  \   \t\tเป็นดวงไฟมิผันผวน\nสร้างสมพลังมวล    \t\tด้วยเธอล้วนก็คือคน\nสตรีมีชีวิต
-  \   \t\tล้างรอยผิดด้วยเหตุผล\nคุณค่าเสรีชน     \t\t\tมิใช่ปรนกามารมณ์\n\tดอกไม้มีหนามแหลม
-  \   \tมิใช่แย้มคอยคนชม\nบานไว้เพื่อสะสม    \t\tความอุดมแห่งแผ่นดิน"
+translator: Peeriya Pongsarigun; John Viano
+poem: |2-
+          สตรีมีสองมือ                       มั่นยึดถือในแก่นสาร
+  เกลียวเอ็นจักเป็นงาน                   มิใช่ร่านหลงแพรพรรณ
+          สตรีมีสองตีน                       ไว้ป่ายปีนความใฝ่ฝัน
+  ยืนหยัดอยู่ร่วมกัน                        มิหมายมั่นกินแรงใคร
+         สตรีมีดวงตา                        เพื่อเสาะหาชีวิตใหม่
+  มองโลกอย่างกว้างไกล                มิใช่คอยชะม้อยชวน
+         สตรีมีดวงใจ                        เป็นดวงไฟมิผันผวน
+  สร้างสมพลังมวล                         ด้วยเธอล้วนก็คือคน
+         สตรีมีชีวิต                            ล้างรอยผิดด้วยเหตุผล
+  คุณค่าเสรีชน                               มิใช่ปรนกามารมณ์
+          ดอกไม้มีหนามแหลม            มิใช่แย้มคอยคนชม
+  บานไว้เพื่อสะสม                          ความอุดมแห่งแผ่นดิน
 transpoem: |-
   A woman’s hands hold firmly
   the righteousness of which she is worthy.
@@ -71,17 +78,18 @@ tbio: "<p>Peeriya is a native speaker of Thai and a current Fulbright Teaching A
   Literary Review</em>’s 2018 Translation Prize (and were subsequently published).
   All in all, we excel in creating English language rhyme schemes that echo those
   of the Thai sources while faithfully communicating the author’s message.</p>"
+epigraph: 
 language: Thai
 lang: th
 image: "/assets/images/images_19/pitpreecha.jpg"
-image2: 
 imagecredit: photo by Quinn Gruber
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
-order: '14'
+wrapformat: 
+sequence: 
+order: '15'
 layout: notepage
 collection: notes_2019
 ---

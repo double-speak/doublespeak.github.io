@@ -47,12 +47,11 @@ tbio: "<p>Yudi Xie is a poet, a fervent talker, one who dreams in Chinese and wr
   in the East Asian Languages and Civilizations graduate program at the University
   of Pennsylvania. She has translated bits of Henry Miller and Eileen Chang and aspires
   to be a writer.</p>"
+epigraph: 
 language: Chinese
 lang: zh
 image: "/assets/images/images_23/living-in-the-hills-impromptu-verses.png"
-image2: none
 imagecredit: photo by Chardonnay Needler
-imagecredit2: 
 origaudio: 
 translaudio: |-
   <div>
@@ -67,8 +66,8 @@ translaudio: |-
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
-order: '11'
+sequence: '0'
+order: '12'
 layout: poempage
 collection: poems_2023
 ---

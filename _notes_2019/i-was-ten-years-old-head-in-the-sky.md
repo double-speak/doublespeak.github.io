@@ -114,17 +114,18 @@ tbio: "<p><em>DoubleSpeak</em>’s editorial staff is a combination of strong in
   and Philadelphia. Between us, we speak Gujarati, Spanish, Mandarin, Korean, French,
   Japanese, Russian, Hebrew, Italian, and German. And we are forevermore mesmerized
   by the wonders of language, exploration, and discovery.</p>"
+epigraph: 
 language: French
 lang: fr
 image: "/assets/images/images_19/said.JPG"
-image2: 
 imagecredit: photo by a <i>DoubleSpeak</i> staffer
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
-order: '05'
+wrapformat: 
+sequence: 
+order: '06'
 layout: notepage
 collection: notes_2019
 ---

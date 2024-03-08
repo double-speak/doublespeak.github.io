@@ -114,8 +114,7 @@ transpoem: "I. \nTo ride the waters of a body \nis to sail around the world, nav
   \nArch your eyebrows, \nopen your nostrils like windows.  \n\n\nVIII.\nBreathe in.
   Breathe out.\nDie just a little.\nDie sweetly, slowly.  \nAgonize with your eyes,
   extend your pleasure.\nTurn the mast, give wind to the sails.\nThe sail bends towards
-  Venus\nmorning star— \nthe silver sea like a vast crystal—\nrest, you castaway.
-  \n"
+  Venus\nmorning star— \nthe silver sea like a vast crystal—\nrest, you castaway. "
 note: "<p>As I translated this poem, the most important element that I wanted to maintain
   was its sensuality, as, after all, this poem is a guidebook in eroticism. I wanted
   my translation to flow out of the mouth — I wanted the words to feel like they themselves
@@ -133,17 +132,18 @@ abio: "<p>Born on December 9, 1948, Nicaraguan poet and activist Giaconda Belli 
 tbio: "<p>Sam Friskey — always a playwright, occasionally a translator of Spanish
   poetry — is a senior in the College studying English with minors in economics and
   theater arts.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: "/assets/images/images_20/friskey.jpg"
-image2: 
 imagecredit: photo by Vivian Wen
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '05'
+wrapformat: 
+sequence: 
+order: '06'
 layout: poempage
 collection: poems_2020
 ---

@@ -25,6 +25,7 @@ tbio: <p>Vanessa is a rising sophomore studying computer science and Ethnicity, 
   a Japanese haiku collection translated into Mandarin. Vanessa spent her quarantine
   in the NJ suburbs drinking lattes, learning to dance, and overthinking a tad too
   much. </p>
+epigraph: 
 language: Japanese
 lang: ja
 image: 
@@ -89,7 +90,9 @@ translaudio: |+
 
 edition: '2021'
 pagetype: submission
-order: '08'
+wrapformat: 
+sequence: 
+order: '09'
 layout: notepage
 collection: notes_2021
 ---

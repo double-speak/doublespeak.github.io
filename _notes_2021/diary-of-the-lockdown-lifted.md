@@ -3,10 +3,11 @@ pid: diary-of-the-lockdown-lifted
 title: <span lang="zh">开封日记</span>
 transtitle: Diary of the Lockdown Lifted
 author: Zhang Zhihao
-translator: "<em>DoubleSpeak</em> Staff"
+translator: "<em>DoubleSpeak</em> Staff; Couloir Hanson; Quinn Gruber; Chardonnay
+  Needler; Ryan Hardy; Heta Patel"
 poem: "<p>重复生活的危险性\n就在于记忆容易被消磁\n我已经不记得昨天的事了\n就像昨天不存在似的\n今天是封城的第76天\n也是最后一日\n我坐在家里就像\n坐在城外的空地上\n阳光明艳照见我有泪水\n我必须眯上眼睛使劲看\n才能依稀看见\n一个未亡人\n闪烁在地平线上的影子\n扭曲，失真，不成人形\n当他越走越近时\n我会站起身来\n奔过去\n与他相拥而泣\n2020-4-7</p>\n<span
   lang=\"eng\" style=\"font-family: futura-pt, sans-serif !important\">\n<h3>Tagebuch
-  vom Ende der Quarantäne</h3>\n<h4>translated by Couloir Hanson</h4>\n\n<p>Die Gefahr,
+  vom Ende der Quarantäne</h3>\n<h2>translated by Couloir Hanson</h2>\n\n<p>Die Gefahr,
   dass sich das Leben wiederholt ist,\ndass das Gedächtnis dazu neigt, sich zu entmagnetisieren.\nIch
   kann mich schon nicht erinnern, was gestern passiert ist,\nals ob gestern nicht
   existiert hätte.\nHeute ist der 76. Tag der Quarantäne\nauch der letzte Tag.\nIch
@@ -102,6 +103,7 @@ tbio: "<p><em>DoubleSpeak</em> Staff is a group of poetry lovers and language af
   hosting a radio show at Penn. We are forever fascinated by the depth and breadth
   of language and translation, and we hope to share our love for such wonders with
   all the readers of <em>DoubleSpeak</em>.</p>\n"
+epigraph: 
 language: 
 lang: zh
 image: 
@@ -112,7 +114,9 @@ origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    
 translaudio: 
 edition: '2021'
 pagetype: submission
-order: '36'
+wrapformat: 
+sequence: 
+order: '41'
 layout: notepage
 collection: notes_2021
 ---

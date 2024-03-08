@@ -46,17 +46,18 @@ tbio: "<p>Heta Patel is a junior at the University of Pennsylvania studying heal
   in Latin America, she has also found writing poetry and its translation instrumental
   in her desire to learn more about the human condition. In her free time, she enjoys
   curating her Spotify playlists and bullet journaling.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '01'
+wrapformat: 
+sequence: 
+order: '02'
 layout: poempage
 collection: poems_2020
 ---

@@ -56,6 +56,7 @@ tbio: "<p>Samantha DeStefano graduated <em>summa cum laude</em> from the Univers
   and “He Who Lost Everything” in the Spring 2020 issue of <em>DoubleSpeak</em>. She
   has near-native knowledge of Spanish, and after graduation she embarked on four
   years of intensive study of French.</p>"
+epigraph: 
 language: French
 lang: fr
 image: 
@@ -75,7 +76,9 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
-order: '10'
+wrapformat: 
+sequence: 
+order: '11'
 layout: notepage
 collection: notes_2021
 ---

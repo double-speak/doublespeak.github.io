@@ -48,12 +48,11 @@ tbio: "<p>Maria Lourdes Riillo was born in Buenos Aires, Argentina. She is a gra
   and PEN America, a literary and human rights nonprofit. Currently, she is based
   in Philadelphia and works in publishing. You can find her petting dogs in the park,
   baking, or performing in a rehearsal when her nose isn’t in a book.</p>"
+epigraph: 
 language: Spanish
 lang: es
 image: "/assets/images/images_22/vilarino.jpg"
-image2: none
 imagecredit: photo by Ryan Hardy
-imagecredit2: 
 origaudio: |
   <div>
     <iframe
@@ -75,7 +74,8 @@ translaudio: |
 edition: '2022'
 pagetype: submission
 wrapformat: 
-order: '12'
+sequence: 
+order: '13'
 layout: poempage
 collection: poems_2022
 ---

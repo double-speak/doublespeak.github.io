@@ -95,17 +95,18 @@ tbio: "<p>Rawad Wehbe is a PhD student in the department of Near Eastern Languag
   and eventually teach, Arabic literature. He currently lives in Philadelphia, PA,
   but usually spends his summers in Lebanon, where he teaches Arabic at the American
   University of Beirut.</p>"
+epigraph: 
 language: Arabic
 lang: ar
 image: "/assets/images/images_19/hawi.jpeg"
-image2: 
 imagecredit: photo by Rawad Wehbe
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
-order: '07'
+wrapformat: 
+sequence: 
+order: '08'
 layout: poempage
 collection: poems_2019
 ---

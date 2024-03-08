@@ -34,17 +34,18 @@ tbio: "<p>Anne is a junior studying Digital Media Design at the University of Pe
   She lived in China for six years during elementary school. She admires the rhythm,
   language, and expression of Chinese poems and hopes to recreate such aspects through
   translation.</p>"
+epigraph: 
 language: Chinese
 lang: zh
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '07'
+wrapformat: 
+sequence: 
+order: '08'
 layout: notepage
 collection: notes_2020
 ---

@@ -87,17 +87,18 @@ tbio: "<p>Nadia Park is a senior at the University of Pennsylvania studying comm
   first through being born into a Korean immigrant family and then later translated
   Japanese manga and anime. In her free time, she loves to make coffee, bake, and
   travel the world.</p>"
+epigraph: 
 language: Korean
 lang: ko
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2019'
 pagetype: submission
-order: '10'
+wrapformat: 
+sequence: 
+order: '11'
 layout: poempage
 collection: poems_2019
 ---

@@ -74,6 +74,7 @@ tbio: "<p>Elizabeth Balabayev studies English literature and creative writing (C
   the environment, but her plays and screenwriting draw from history and women’s stories.
   She is from Texas, North Carolina, and Pennsylvania, and considers herself both
   Southern and Northern. Her family is American and Russian.</p>"
+epigraph: 
 language: Russian
 lang: ru
 image: 
@@ -93,7 +94,9 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
-order: '18'
+wrapformat: 
+sequence: 
+order: '20'
 layout: poempage
 collection: poems_2021
 ---

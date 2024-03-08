@@ -59,17 +59,18 @@ tbio: "<p>Aylin Malcolm is a PhD candidate studying medieval poetry and the envi
   and modern literature. Aylin’s favourite place in Montréal is the Carré Saint-Louis
   (Saint Louis Square), where a bust of Émile Nelligan stands near his former house
   on Avenue Laval.</p>"
+epigraph: 
 language: French
 lang: fr
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '21'
+wrapformat: 
+sequence: 
+order: '28'
 layout: notepage
 collection: notes_2020
 ---

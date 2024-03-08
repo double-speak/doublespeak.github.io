@@ -220,8 +220,12 @@ note: "<p><em>This interview was conducted by <strong><em>DoubleSpeak</em></stro
   poem is about. I got a new window into it. So, the things that I lost in terms of
   my ability to just write all day, I gained in my ability to see through the eyes
   of the mothers in the <em>Beowulf</em> story.</p>"
-abio: 
+abio: "<p>Maria Dahvana Headley is an American novelist, memoirist, editor, translator,
+  poet, and playwright. Her work includes Magonia, a young-adult space-fantasy novel,
+  Queen of Kings, an alternate-history fantasy novel about Cleopatra, and The Mere
+  Wife, a retelling of Beowulf.</p>"
 tbio: 
+epigraph: 
 language: 
 lang: 
 image: "/assets/images/images_21/interview.jpeg"
@@ -230,7 +234,9 @@ origaudio:
 translaudio: 
 edition: '2021'
 pagetype: interview
-order: '15'
+wrapformat: 
+sequence: 
+order: '16'
 layout: poempage
 collection: poems_2021
 ---

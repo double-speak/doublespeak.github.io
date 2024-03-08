@@ -285,17 +285,18 @@ tbio: "<p>I am a graduate student in the Comparative Literature and Literary The
   Tomas and I are currently translating Bataille’s preliminary work to <em>The Accursed
   Share</em>, including the author’s extensive, unfinished manuscript, <em>The Limit
   of the Useful</em>.</p>"
+epigraph: 
 language: French
 lang: fr
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '09'
+wrapformat: 
+sequence: 
+order: '10'
 layout: poempage
 collection: poems_2020
 ---

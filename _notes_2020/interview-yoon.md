@@ -4,7 +4,9 @@ title: An Interview with Emily Yoon
 transtitle: a conversation on translation, history, and feminism
 author: 
 translator: 
-poem: "<p><em>Interview conducted by Yuxin (Vivian) Wen and Rhosean Asmah</p></em>\n\n<p><b>DS:</b>
+poem: 
+transpoem: 
+note: "<p><em>Interview conducted by Yuxin (Vivian) Wen and Rhosean Asmah</p></em>\n\n<p><b>DS:</b>
   We’re really excited to have your translations of Yi Sang-hwa’s poems in this issue!
   Can you share with us when you first began translating from Korean into English,
   and specifically, when you began translating Yi Sang-hwa?</p>\n\n<p><b>EY:</b> So
@@ -171,21 +173,28 @@ poem: "<p><em>Interview conducted by Yuxin (Vivian) Wen and Rhosean Asmah</p></e
   kind of an isolating practice. But I never feel that way because I’ve always seen
   both practices as being a very rigorous communication with and analysis of other
   people who came before you, who wrote this before you could even imagine it.</p>"
-transpoem: 
-note: 
-abio: 
+abio: "<p>Emily Jungmin Yoon is Assistant Professor of Korean Literature at the University
+  of Hawaiʻi at Mānoa. She is the author of <i>A Cruelty Special to Our Species</i>
+  (Ecco | HarperCollins, 2018), published in Korean as 우리 종족의 특별한 잔인함 (trans. Han
+  Yujoo, Yolimwon 2020), and <i>Find Me as the Creature I Am</i>, forthcoming from
+  Knopf. She is the translator and editor of <i>Against Healing: Nine Korean Poets
+  </i>, a chapbook anthology of poems by Korean women writers. Before earning her
+  MFA at New York University and her PhD at University of Chicago, Yoon received her
+  BA in English and Communication at the University of Pennsylvania, where she began
+  her studies in literary translation.</p> "
 tbio: 
-language: 
-lang: 
+epigraph: 
+language: Korean
+lang: ko
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: interview
-order: '16'
+wrapformat: 
+sequence: 
+order: '18'
 layout: notepage
 collection: notes_2020
 ---

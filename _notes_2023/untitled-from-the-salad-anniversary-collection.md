@@ -50,19 +50,18 @@ tbio: "<p><em>DoubleSpeak</em>’s staff is a group of poetry lovers and languag
   submissions in rhymed couplets, we’re drawn together by our shared passion for language
   and translation.</p>\n\n<p>Thank you to all of our proofreaders in the DoubleSpeak
   community \nwho made this group translation possible!</p>"
+epigraph: 
 language: English
 lang: en
 image: "/assets/images/images_23/untitled-from-the-salad-anniversary-collection.png"
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: " "
 translaudio: 
 edition: '2023'
 pagetype: submission
 wrapformat: 
-nonote: '0'
-order: '25'
+sequence: '0'
+order: '26'
 layout: notepage
 collection: notes_2023
 ---

@@ -119,17 +119,18 @@ tbio: "<p>Yi Feng is a scholar, translator and associate professor at Northeaste
   in <em>Poetry Monthly</em>（《诗歌月刊》) in 2019. She was awarded the Hunt Scholarship
   in 2016 and she won the Bronze Prize in an International Chinese Poetry Competition
   in 2017.</p>"
+epigraph: 
 language: Chinese
 lang: zh
 image: 
-image2: 
 imagecredit: 
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '00'
+wrapformat: 
+sequence: 
+order: '01'
 layout: notepage
 collection: notes_2020
 ---

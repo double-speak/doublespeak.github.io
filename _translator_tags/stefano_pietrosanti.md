@@ -2,7 +2,7 @@
 pid: Stefano_Pietrosanti
 name: Stefano Pietrosanti
 type: translator
-order: '142'
+order: '147'
 layout: tagpage
 collection: translator_tags
 ---

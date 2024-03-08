@@ -47,6 +47,7 @@ abio: "<p>Yan An is one of the most famous poets in contemporary China, author o
 tbio: |-
   <p>Chen Du is a Voting Member of American Translators Association and a member of the Translators Association of China with a Master’s Degree in Biophysics from Roswell Park Cancer Institute, the State University of New York at Buffalo and a Master’s Degree in Radio Physics from the Chinese Academy of Sciences. She revised more than eight chapters of the Chinese translation of the biography of Helen Snow, <em>Helen Foster Snow – An American Woman in Revolutionary China</em>. In the United States, her translations have appeared in <em>Columbia Journal</em>, <em>Lunch Ticket</em>, <em>Pilgrimage</em>, the <em>Los Angeles Review</em>, and elsewhere. Three poems co-translated by her and Xisheng Chen were finalists in the Gabo Prize for Literature in Translation and Multilingual Texts in 2020. She is also the author of the book <em>Successful Personal Statements</em>. Find her online at ofsea.com.</p>
   <p>Xisheng Chen, a Chinese American, is an ESL grammarian, lexicologist, linguist, translator and educator. His educational background includes: a BA and an MA from Fudan University, Shanghai, China, and a Mandarin Healthcare Interpreter Certificate from the City College of San Francisco. His working history includes: translator for Shanghai TV Station, Evening English News; Lecturer at Jiangnan University, Wuxi, China; Adjunct Professor at the Departments of English and Social Sciences of Trine University (formerly Tri-State University), Angola, Indiana; notary public; and contract high-tech translator for Futurewei Technologies, Inc. in Santa Clara, California. As a translator for over three decades, he has published a lot of translations in various fields in newspapers and journals in China and abroad. Three poems co-translated by him and Chen Du were finalists in the Gabo Prize for Literature in Translation and Multilingual Texts in 2020.</p>
+epigraph: 
 language: Chinese
 lang: zh
 image: 
@@ -66,7 +67,9 @@ translaudio: |
   </div>
 edition: '2021'
 pagetype: submission
-order: '11'
+wrapformat: 
+sequence: 
+order: '12'
 layout: notepage
 collection: notes_2021
 ---

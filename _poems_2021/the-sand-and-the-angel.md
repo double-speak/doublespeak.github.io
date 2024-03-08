@@ -106,6 +106,7 @@ tbio: "<p>Quinn Gruber is a junior at the University of Pennsylvania studying En
   Their research interests include Dante, Joyce, twentieth- and twenty-first-century
   English and Italian poetry, and zines, especially the queer ones. They love writing,
   editing, and having far too many hobbies.</p>"
+epigraph: 
 language: Italian
 lang: it
 image: 
@@ -125,7 +126,9 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
-order: '09'
+wrapformat: 
+sequence: 
+order: '10'
 layout: poempage
 collection: poems_2021
 ---

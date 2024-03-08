@@ -83,6 +83,7 @@ tbio: "<p>Emma Arsekin is an undergraduate studying history and political scienc
   a Bosnian diaspora community, she is eager to uncover elements of Bosnian culture
   that were obscured by a childhood spent assimilating. She is an avid rock climber,
   traveler, and language-learner.</p>"
+epigraph: 
 language: Bosnian
 lang: bs
 image: "/assets/images/images_21/bodrozic.JPG"
@@ -102,7 +103,9 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
-order: '33'
+wrapformat: 
+sequence: 
+order: '38'
 layout: notepage
 collection: notes_2021
 ---

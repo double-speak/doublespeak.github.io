@@ -80,6 +80,7 @@ tbio: "<p>Leah Baxter is a senior in the College studying English, linguistics, 
   She does not have any firm post-grad plans, but loves literary translation and hopes
   to continue her language study in the future. She loves reading, especially science
   fiction, and using postcards as wall decorations.</p>"
+epigraph: 
 language: Arabic
 lang: ar
 image: 
@@ -99,7 +100,9 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
-order: '04'
+wrapformat: 
+sequence: 
+order: '05'
 layout: poempage
 collection: poems_2021
 ---

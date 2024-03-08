@@ -26,9 +26,11 @@ layout: default
           {% for issues_hash in site.data.issues %}
             {% assign issues = issues_hash[1] %}
             {% for poem in issues %}
-              {% if poem.pagetype == "submission" %}
-                {% assign new_author = poem.author %}
-                {% assign authors = authors | push: new_author %}
+              {% if poem.pagetype == "submission" or poem.pagetype == "musing" or poem.pagetype == "frontmatter" %}
+                {% assign poem_authors = poem.author | split: '; ' %}
+                {% for indiv_author in poem_authors %}
+                  {% assign authors = authors | push: indiv_author %}
+                {% endfor %}
               {% endif %}
             {% endfor %}
           {% endfor %}
@@ -49,14 +51,16 @@ layout: default
             {% assign issues = issues_hash[1] %}
             {% for poem in issues %}
               {% if poem.pagetype == "submission" %}
-                {% assign new_translator = poem.translator %}
-                {% assign translators = translators | push: new_translator %}
+                {% assign poem_translators = poem.translator | split: '; ' %}
+                {% for indiv_translator in poem_translators %}
+                  {% assign translators = translators | push: indiv_translator %}
+                {% endfor %}
               {% endif %}
             {% endfor %}
           {% endfor %}
           {% assign sortedtranslators = translators | sort | uniq %}
         {% for trans in sortedtranslators %}
-        <li class="content-l"><a href="{{site.baseurl}}/translator_tags/{{trans | slugify: 'latin' | replace: '-','_' }}">{{trans}}</a></li>
+          <li class="content-l"><a href="{{site.baseurl}}/translator_tags/{{trans | slugify: 'latin' | replace: '-','_' }}">{{trans}}</a></li>
         {% endfor %}
         </ul>
       </div>
@@ -72,17 +76,17 @@ layout: default
           {% for issues_hash in site.data.issues %}
             {% assign issues = issues_hash[1] %}
             {% for poem in issues %}
-              {% if poem.pagetype == 'submission' %}
-              {% assign new_language = poem.language | split: "; " %}
-              {% for lang in new_language %}
-                {% assign languages = languages | push: lang %}
-              {% endfor %}
+              {% if poem.pagetype == 'submission' or poem.pagetype == 'musing' %}
+              {% assign poem_languages = poem.language | split: '; ' %}
+                {% for indiv_language in poem_languages %}
+                  {% assign languages = languages | push: indiv_language %}
+                {% endfor %}
               {% endif %}
             {% endfor %}
             {% endfor %}
           {% assign sortedlanguages = languages | sort | uniq %}
         {% for lang in sortedlanguages %}
-        <li class="language-l"><a href="{{site.baseurl}}/language_tags/{{lang | slugify: 'latin' | replace: '-','_'}}">{{lang}}</a></li>
+          <li class="language-l"><a href="{{site.baseurl}}/language_tags/{{lang | slugify: 'latin' | replace: '-','_'}}">{{lang}}</a></li>
         {% endfor %}
         </ul>
         </div>

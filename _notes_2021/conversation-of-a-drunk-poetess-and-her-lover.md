@@ -87,6 +87,9 @@ note: |-
   <li class="note"><span lang= "ru"><em>от меня лучи во все стороны</em></span> — “Beams” highlighted the emanating light of a saintly glow. I added “of light” to ensure readers wouldn’t picture large beams of wood protruding from the poetess. I inserted “going” into my translation of <span lang= "ru"><em>во все стороны</em></span> to highlight the outward movement indicated by the accusative case while maintaining a similar meter.</li>
   <li class="note"><span lang= "ru"><em>между прочим, тебе телефон из-за меня отключили</em></span> — I originally translated this section as “it was cause of me that your phone line / was cut off.” I moved “cause of me” to the second line to improve the flow of the first. I also shortened “because" to “cause,” to soften the point of emphasis on “me” in the sentence.</li>
   <li class="note"><span lang= "ru"><em>телефон твой пиздец совсем, е.т.м.!</em></span> — I was struck by the sudden heatedness of this line and hoped to highlight it. I considered “your phone is totally fucked up,” but didn’t want the line sounding redundant when paired with the <span lang= "ru"><em>е.т.м.!</em></span> (“fuck your mother”). Given the wide range of meanings for <span lang= "ru"><em>пиздец</em></span>, “your phone is a total piece of shit, you motherfucker” fit the build and tone of the line best.</li>
+  <ul class="note"><strong>Listen!:</strong></ul>
+  <li class="note"><span lang= "ru"><em>плевочки</em></span> — A plural, diminutive form of <span lang= "ru"><em>плевок</em></span>, meaning “spit.” Originally, I translated the word as “spittles,” but felt that it was out of place. While somewhat contrived, “spitlets” offered a more robust alternative that could more easily be imagined in individual units.</li>
+  <li class="note"><span lang= "ru"><em>жемчужиной</em></span> — In my rough translation, I translated this word as “pearl-like,” but found that it slowed the meter’s momentum. The shift to “pearls” as a subject complement to the direct object, improved fluidity while adding a luster to the otherwise gross imagery of bits of spit. I felt that this was closer to Mayakovsky’s poetic intentions for the phrase.</li>
 abio: |-
   <p>Slava Mogutin, born in Kemerovo, Siberia, in 1974, is a New York-based artist, writer, and social activist. Slava’s career began with writing for independent newspapers and media outlets in Moscow. Son of Soviet poet and novelist Yuri Mogutin, Slava’s background in writing proved useful as he forged his career in journalism. His 1994 staged registry for a same-sex marraige liscence with his partner Robert Filipinni drew media attention as the first of its kind in the Russian Federation, but was rejected following a failed referendum of a 1969 Soviet law defining marriage as “a voluntary union between a man and woman.” Ensuing police harassment and another charge for “inflaming national, social, and religious division” motivated his subsequent immigration to New York.</p>
           <p>Mogutin’s writing centers themes of queerness and masculinity, and is heavily influenced by his experiences as an immigrant and dissident. His poems confront societal norms unabashedly. In New York, Slava continues to publish his work. His publications include titles in Russian, translations of Allen Ginsberg, monographs, essays, poems, and prose. Mogutin is the winner of the Andrey Bely Prize, and his writing and photography have been featured in publications worldwide, including the <i>New York Times</i>, <i>Stern</i>, <i>Flash Art</i>, <i>Libération</i>, and the <i>Calvert Journal</i>.</p>
@@ -101,6 +104,7 @@ tbio: "<p>Ryan is an undergraduate at the University of Pennsylvania, pursuing a
   languages, having most recently started a course in Czech. Ryan’s collaborative
   translation of Tamara Dmitrievna Skoblikova-Kudryavtseva’s memoir, <em>Words for
   Oneself</em>, is due for release by the end of 2021.</p>"
+epigraph: 
 language: Russian
 lang: ru
 image: 
@@ -120,7 +124,9 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
-order: '05'
+wrapformat: 
+sequence: first
+order: '06'
 layout: notepage
 collection: notes_2021
 ---

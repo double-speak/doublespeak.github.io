@@ -56,6 +56,7 @@ tbio: "<p>Ashley Sniffen is a junior at the University of Pennsylvania studying 
   education, she enjoys staring at the paintings hanging on white walls of museums
   and creating events that support artists and cultural institutions. In her spare
   time, she enjoys reading, basking in nature, and watching college basketball games.</p>"
+epigraph: 
 language: French
 lang: fr
 image: 
@@ -81,7 +82,9 @@ translaudio: |-
   </div>
 edition: '2021'
 pagetype: submission
-order: '00'
+wrapformat: 
+sequence: 
+order: '01'
 layout: poempage
 collection: poems_2021
 ---

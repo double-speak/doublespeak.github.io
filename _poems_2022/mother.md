@@ -40,12 +40,11 @@ abio: |-
 tbio: "<p>Emre Azizlerli, originally from Istanbul, has been living and working in
   the UK as a journalist for more than twenty years. He holds a degree in French literature
   and likes to translate poetry for his own pleasure.</p>"
+epigraph: 
 language: Turkish
 lang: tr
 image: none
-image2: none
 imagecredit: 
-imagecredit2: 
 origaudio: |
   <div>
     <iframe
@@ -67,7 +66,8 @@ translaudio: |
 edition: '2022'
 pagetype: submission
 wrapformat: 
-order: '14'
+sequence: 
+order: '15'
 layout: poempage
 collection: poems_2022
 ---

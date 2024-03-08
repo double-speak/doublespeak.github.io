@@ -97,17 +97,18 @@ tbio: "<p>Samantha DeStefano graduated <em>summa cum laude</em> from the Univers
   John Syng Dorsey, the author of the first American textbook of surgery, for which
   she translated quotations from Latin poetry. She has near-native knowledge of Spanish,
   and after graduation she embarked on three years of intensive study of French.</p>"
+epigraph: 
 language: French
 lang: fr
 image: "/assets/images/images_20/destefano.jpg"
-image2: 
 imagecredit: photo by Rhosean Asmah
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2020'
 pagetype: submission
-order: '02'
+wrapformat: 
+sequence: 
+order: '03'
 layout: notepage
 collection: notes_2020
 ---

@@ -25,58 +25,6 @@ a {
 }
 
 @media screen and (max-width: 750px) {
-	.previousmobile {
-		position: fixed;
-		bottom: 0;
-		left: 0;
-		display: inline-block !important;
-	}
-
-	.previousmobile a {
-		display: inline-block;
-		padding: 0px;
-		color: black;
-		text-decoration: none;
-		font-family: futura-pt, sans-serif;
-		font-weight: 300;
-		font-style: normal;
-		font-size: 18px;
-		line-height: 20px;
-		margin-top: 0px;
-		margin-bottom: 30px;
-		margin-left: -20px;
-		margin-right: 40px;
-	}
-
-	.nextmobile {
-		position: fixed;
-		bottom: 0;
-		right: 0;
-		display: inline-block !important;
-	}
-
-	.nextmobile a {
-		display: inline-block;
-		padding: 0px;
-		color: black;
-		text-decoration: none;
-		font-family: futura-pt, sans-serif;
-		font-weight: 300;
-		font-style: normal;
-		font-size: 18px;
-		line-height: 20px;
-		margin-top: 0px;
-		margin-bottom: 30px;
-		margin-left: 40px;
-		margin-right: -20px;
-	}
-
-	.previouslink{
-		display: none;
-	}
-	.nextlink{
-		display: none;
-	}
 
 	.poems {
 /*		justify-content:flex-start !important;
@@ -85,18 +33,32 @@ a {
 	.ogpoem {
 	/*	min-width: 25rem;*/
 		/*width:max-content;*/
-		width: 60vw !important;
-		flex-basis:30%;
+		width: 80vw !important;
+		flex-basis:80% !important;
 	}
 
 	.transpoem {
 	/*	min-width: 25rem;*/
-		width: 60vw !important;
+		width: 80vw !important;
 		/*width:max-content;*/
-		flex-basis:30%;
+		flex-basis:80% !important;
 	}
 
 }
+
+.ogpoem-stacked {
+	/*	min-width: 25rem;*/
+		/*width:max-content;*/
+		width: 80vw !important;
+		flex-basis:80% !important;
+	}
+
+.transpoem-stacked {
+	/*	min-width: 25rem;*/
+		width: 80vw !important;
+		/*width:max-content;*/
+		flex-basis:80% !important;
+	}
 
 .previousmobile{
 	display: none;
@@ -359,7 +321,7 @@ p strong {
 /*poem contents*/
 
 .poems {
-	width: 85%;
+	width: 90%;
 	margin: 0px auto 0 auto;
 	display:flex;
 	flex-wrap: wrap;
@@ -385,13 +347,21 @@ p strong {
 .ogpoem {
 /*	min-width: 25rem;*/
 	width:max-content;
-	flex-basis:30%;
+	flex-basis:45%;
+/*	n.b. - changing flex-basis to max-content changes the look 
+substantially, and looks much better on smaller poems. 
+worth thinking about it.
+*/
 }
 
 .transpoem {
 /*	min-width: 25rem;*/
 	width:max-content;
-	flex-basis:30%;
+	flex-basis:45%;
+/*	n.b. - changing flex-basis to max-content changes the look 
+substantially, and looks much better on smaller poems. 
+worth thinking about it.
+*/
 }
 
 .audio {
@@ -422,56 +392,23 @@ p strong {
 
 .previouslink {
 	position: fixed;
-	bottom: 0;
+	top:76px;
+	bottom: 76px;
 	left: 0;
-}
-
-.previouslink a {
-	display: inline-block;
-	padding: 10px;
-	color: black;
-	text-decoration: none;
-	font-family: futura-pt, sans-serif;
-	font-weight: 300;
-	font-style: normal;
-	font-size: 18px;
-	line-height: 20px;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 20px;
-	margin-right: 40px;
-	background-color: white;
-}
-
-.previouslink a:hover {
-	text-decoration: underline;
+	height:calc(100% - 152px);
+	background-color:#D8CEBF;
+	width:30px;
 }
 
 .nextlink {
 	position: fixed;
+	top:76px;
 	bottom: 0;
 	right: 0;
-}
+	height:calc(100% - 152px);
+	background-color:#D8CEBF;
+	width:30px;
 
-.nextlink a {
-	display: inline-block;
-	padding: 10px;
-	color: black;
-	text-decoration: none;
-	font-family: futura-pt, sans-serif;
-	font-weight: 300;
-	font-style: normal;
-	font-size: 18px;
-	line-height: 20px;
-	margin-top: 0px;
-	margin-bottom: 30px;
-	margin-left: 40px;
-	margin-right: 20px;
-	background-color: white;
-}
-
-.nextlink a:hover {
-	text-decoration: underline;
 }
 
 /* language code */

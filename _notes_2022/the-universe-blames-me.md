@@ -90,12 +90,11 @@ tbio: "<p>Michael Karam (Penn C’17) is a translator, writer, and poet living a
   and has recently taken up knitting. He currently works in marketing and fundraising
   for a non-profit news organization, The GroundTruth Project, which supports emerging
   journalists reporting on under-covered stories around the world.</p>"
+epigraph: 
 language: Arabic
 lang: ar
 image: "/assets/images/images_22/qabbani.jpg"
-image2: none
 imagecredit: photo by Michael Karam
-imagecredit2: 
 origaudio: |-
   <div>
 
@@ -119,7 +118,8 @@ translaudio: |-
 edition: '2022'
 pagetype: submission
 wrapformat: 
-order: '16'
+sequence: 
+order: '17'
 layout: notepage
 collection: notes_2022
 ---

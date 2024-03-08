@@ -97,18 +97,18 @@ tbio: "<p>Ryan Hardy is an undergraduate at the University of Pennsylvania, purs
   plans to continue learning languages, having most recently started a course in Czech.
   Ryan’s collaborative translation of Tamara Dmitrievna Skoblikova-Kudryavtseva’s
   memoir, <em>Words for Oneself</em>, is pending release with Slavica Publishers.</p>"
+epigraph: 
 language: Russian
 lang: ru
 image: "/assets/images/images_22/akhmatova.jpeg"
-image2: none
 imagecredit: photo by Ryan Hardy
-imagecredit2: 
 origaudio: 
 translaudio: 
 edition: '2022'
 pagetype: submission
 wrapformat: 
-order: '17'
+sequence: 
+order: '18'
 layout: notepage
 collection: notes_2022
 ---
