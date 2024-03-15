@@ -40,8 +40,8 @@ jobs:
 
 ## here begin the collection builds
 ## tags
-      - name: clobber author tags
-        run: bundle exec rake wax:clobber author_tags
+      # - name: clobber author tags
+      #   run: bundle exec rake wax:clobber author_tags
       - name: build author tags
         run: bundle exec rake wax:pages author_tags
       # - name: clobber language tags
