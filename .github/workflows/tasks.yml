@@ -40,11 +40,11 @@ jobs:
 
 ## here begin the collection builds
 ## tags
-      # - name: clobber author tags
+      - name: clobber author tags
         run: bundle exec rake wax:clobber author_tags
-      # - name: clobber language tags
+      - name: clobber language tags
         run: bundle exec rake wax:clobber language_tags      
-      # - name: clobber translator tags
+      - name: clobber translator tags
         run: bundle exec rake wax:clobber translator_tags
 
 ## poems
