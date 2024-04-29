@@ -40,18 +40,17 @@ jobs:
 
 ## here begin the collection builds
 ## tags
-      # - name: clobber author tags
-      #   run: bundle exec rake wax:clobber author_tags
+      - name: clobber author tags
+        run: bundle exec rake wax:clobber author_tags
       - name: build author tags
         run: bundle exec rake wax:pages author_tags
-      # - name: clobber language tags
-      #   run: bundle exec rake wax:clobber language_tags
+      - name: clobber language tags
+        run: bundle exec rake wax:clobber language_tags
       - name: build language tags
         run: bundle exec rake wax:pages language_tags
-      # - name: clobber translator tags
-      #   run: bundle exec rake wax:clobber translator_tags
-      - name: build translator tags
-        run: bundle exec rake wax:pages translator_tags
+      - name: clobber translator tags
+        run: bundle exec rake wax:clobber translator_tags
+
 ## poems
       - name: clobber poems 2023
         run: bundle exec rake wax:clobber poems_2023
@@ -95,6 +94,9 @@ jobs:
       - name: build notes 2019
         run: bundle exec rake wax:pages notes_2019
 
+      - name: build translator tags
+        run: bundle exec rake wax:pages translator_tags
+
 ## search
       - name: build search 
         run: bundle exec rake wax:search main
@@ -102,6 +104,9 @@ jobs:
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build
+        with:
+          source: ./
+          destination: ./_site
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
