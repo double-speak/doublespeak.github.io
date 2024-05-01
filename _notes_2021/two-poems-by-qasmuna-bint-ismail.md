@@ -33,13 +33,13 @@ language: Arabic
 lang: bs
 image: "/assets/images/images_21/headley.JPG"
 imagecredit: photo by Yan Zhang
-origaudio: 
-translaudio: 
+origaudio: two-poems-by-qasmuna-bint-ismail_orig.m4a
+translaudio: two-poems-by-qasmuna-bint-ismail_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '15'
+order: '16'
 layout: notepage
 collection: notes_2021
 ---

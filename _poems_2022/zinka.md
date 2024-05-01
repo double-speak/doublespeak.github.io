@@ -99,26 +99,8 @@ language: Russian
 lang: ru
 image: "/assets/images/images_22/drunina1.jpg; /assets/images/images_22/drunina2.jpg"
 imagecredit: photo by Stacy Shimanuki; photo by Ryan Hardy
-origaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1DVISR3x_aNSWz9MHHmOQhSSG5YQXtBOS/preview">
-  </iframe>
-  </div>
-translaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1G1iNf4XhEWYnOerdgTB8d1kWtd11yRib/preview">
-  </iframe>
-  </div>
+origaudio: zinka_orig.m4a
+translaudio: zinka_english.m4a
 edition: '2022'
 pagetype: submission
 wrapformat: 

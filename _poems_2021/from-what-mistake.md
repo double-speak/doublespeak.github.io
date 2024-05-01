@@ -53,24 +53,13 @@ language: Korean
 lang: ko
 image: "/assets/images/images_21/kim_soon_mi.jpeg"
 imagecredit: photo by Nadia Park
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1xAIJOXgGKGMel-HVxue8KT9WF8ZQofSP/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1fiYaYRFoIEMLZcMxH-Sca7G0zWsOuC2-/preview">
-    </iframe>
-  </div>
+origaudio: from-what-mistake_orig.mp3
+translaudio: from-what-mistake_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: first
-order: '17'
+order: '18'
 layout: poempage
 collection: poems_2021
 ---

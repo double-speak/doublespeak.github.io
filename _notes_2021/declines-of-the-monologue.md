@@ -176,21 +176,13 @@ language: Spanish
 lang: es
 image: 
 imagecredit: 
-origaudio: |
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1E-WXA42l7Zua7rsUTsOMD-H8DLp_gxeb/preview">
-    </iframe>
-  </div>
+origaudio: declines-of-the-monologue_orig.m4a
 translaudio: 
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '27'
+order: '28'
 layout: notepage
 collection: notes_2021
 ---

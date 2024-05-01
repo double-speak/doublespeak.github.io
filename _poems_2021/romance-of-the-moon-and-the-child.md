@@ -64,24 +64,13 @@ language: Spanish
 lang: es
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1H2SLjgNfAjNHDhwDXMunm2grSD0-XPtG/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: |
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1tZ1srWJ1UXH7DVMGmfIQOUoSPyxOARkj/preview">
-    </iframe>
-  </div>
+origaudio: romance-of-the-moon-and-the-child_orig.mp3
+translaudio: romance-of-the-moon-and-the-child_english.mp3
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '40'
+order: '41'
 layout: poempage
 collection: poems_2021
 ---

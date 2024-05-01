@@ -63,17 +63,8 @@ language: Thai
 lang: th
 image: none
 imagecredit: 
-origaudio: 
-translaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1-y1Ug28wOQajvZDtBnVOp-gms0vWTRJk/preview">
-  </iframe>
-  </div>
+origaudio: phra-aphai-mani_orig.mp3
+translaudio: phra-aphai-mani_english.mp3
 edition: '2022'
 pagetype: submission
 wrapformat: 

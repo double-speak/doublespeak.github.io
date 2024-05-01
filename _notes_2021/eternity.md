@@ -71,24 +71,13 @@ language: French
 lang: fr
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1ucgCY-VYJw1nD2IqyRxsSLnKHbNnV-fE/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: |
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1DcrUXY_WUFPr_Zq4VqbYgloiQDRanJUC/preview">
-    </iframe>
-  </div>
+origaudio: eternity_orig.mp3
+translaudio: eternity_english.mp3
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '39'
+order: '40'
 layout: notepage
 collection: notes_2021
 ---

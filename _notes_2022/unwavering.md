@@ -77,26 +77,8 @@ language: Spanish
 lang: es
 image: "/assets/images/images_22/armengol.jpg"
 imagecredit: photo by Stacy Shimanuki
-origaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1TGU58DCeXPxUd9Th7qwYsAqDOS1V0yOa/preview">
-  </iframe>
-  </div>
-translaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1kxjOJ6Nsb-jvcPovr1zpKK9u9L3QoNKk/preview">
-  </iframe>
-  </div>
+origaudio: unwavering_orig.m4a
+translaudio: unwavering_english.m4a
 edition: '2022'
 pagetype: submission
 wrapformat: 

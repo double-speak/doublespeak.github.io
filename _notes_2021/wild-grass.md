@@ -54,30 +54,13 @@ language: Chinese
 lang: zh
 image: 
 imagecredit: 
-origaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1gBCPCGzgkaXCVEh--cLSlePrEa1SQd2h/preview">
-    </iframe>
-  </div>
-translaudio: |
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1V-M4i0Hc_C9gBcSkhzLL0Hj5APuyB8mZ/preview">
-    </iframe>
-  </div>
+origaudio: wild-grass_orig.mp3
+translaudio: wild-grass_english.mp3
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '24'
+order: '25'
 layout: notepage
 collection: notes_2021
 ---

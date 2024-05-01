@@ -45,49 +45,13 @@ language: French
 lang: fr
 image: 
 imagecredit: 
-origaudio: |-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1kTD1ntRUv5MvfGCnUaHPStC6J6q70FxM/preview">
-    </iframe>
-  </div>
-
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1-nEb5luuxxDUP1rllnFfs6I655FshoDq/preview">
-    </iframe>
-  </div>
-translaudio: |+
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1QWjJQ0dGuvkG9wEg0NyDSBpbwm-6Ya9E/preview">
-    </iframe>
-  </div>
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1W4WmXTzTJP_9I85EBIjE9ZFAenJnFuID/preview">
-    </iframe>
-  </div>
-
+origaudio: epitaph-for-when-i-die_orig.m4a
+translaudio: epitaph-for-when-i-die_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: first
-order: '22'
+order: '23'
 layout: notepage
 collection: notes_2021
 ---

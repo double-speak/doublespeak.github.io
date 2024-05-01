@@ -84,44 +84,63 @@ layout: default
 
       <div class="note-text">
           <div class="abio">
-
-            <h1 class="abio">about the author</h1>
+            {% if page.author contains ";" %}
+              <h1 class="abio">about the authors</h1>
+            {% else %}
+              <h1 class="abio">about the author</h1>
+            {% endif %}
             <p>{{page.abio}}</p>
           </div>
 
           <div class="tbio">
-
-            <h1 class="tbio">about the translator</h1>
+            {% if page.translator contains ";" %}
+              <h1 class="tbio">about the translators</h1>
+            {% else %}
+              <h1 class="tbio">about the translator</h1>
+            {% endif %}
             <p>{{page.tbio}}</p>
         </div>
     </div>
-      {% if page.image and page.image != "none" and page.image != "" %}
+      {% if page.image contains "assets" %}
          <div class="image">
           {% assign images = page.image | split: '; ' %}       
             {% for image in images %}
               <img class="poem-image" src="{{site.baseurl}}{{image}}"></img>
             {% endfor %}
+        {% if page.imagecredit contains "by"%}
          <p class="caption"> 
         {{page.imagecredit}}
         </p>
+        {% endif %}
       </div>
       {% endif %}
 
       {% endif %}
 
-{% if page.note and page.pagetype == "interview" %}
+{% if page.note and page.pagetype == "interview" or page.pagetype == "musing" %}
   <div class='flex-container'>
     <div class="container">
-      <h1 class="abio" style="width:100%">About the Interviewee</h1>
+      {% if page.pagetype == "interview" %}
+        <h1 class="abio" style="width:100%">About the Interviewee</h1>
+      {% endif %}
+      {% if page.pagetype == "musing" %}
+        <h1 class="abio" style="width:100%">About the Muser</h1>
+      {% endif %}
          <div class="note-text">
 
           <p>{{page.abio}}</p>
           </div>
-          {% if page.image and page.image != "none" and page.image != "" %}
+          {% if page.image contains "assets" %}
          <div class="image">
-         <img class="poem-image" src="{{site.baseurl}}{{page.image}}"></img><p class="caption"> 
+          {% assign images = page.image | split: '; ' %}       
+            {% for image in images %}
+              <img class="poem-image" src="{{site.baseurl}}{{image}}"></img>
+            {% endfor %}
+        {% if page.imagecredit contains "by"%}
+         <p class="caption"> 
         {{page.imagecredit}}
         </p>
+        {% endif %}
       </div>
       {% endif %}
         </div>

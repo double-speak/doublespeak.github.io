@@ -131,24 +131,13 @@ language: Hebrew
 lang: he
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1entKtPfghmJuAVe2WBXaU1Xuf17wh4x1/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1LrOA5BRE14JfJWx-uA_2IyoU6zSdSOhI/preview">
-    </iframe>
-  </div>
+origaudio: a-letter-of-menakhem-mendl_orig.mp3
+translaudio: a-letter-of-menakhem-mendl_english.mp3
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '28'
+order: '29'
 layout: poempage
 collection: poems_2021
 ---

@@ -43,24 +43,13 @@ language: Portuguese
 lang: pt
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \  src=\"https://drive.google.com/file/d/1TiL2Nfnnxb1x0_ZZx9c8rVNi9f-kjoPN/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1VW-MOca2uvHszEaAu7iqyZOy849imV9B/preview">
-    </iframe>
-  </div>
+origaudio: eclipse_orig.m4a
+translaudio: eclipse_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '25'
+order: '26'
 layout: poempage
 collection: poems_2021
 ---

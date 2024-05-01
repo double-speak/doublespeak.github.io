@@ -52,24 +52,13 @@ language: German
 lang: de
 image: "/assets/images/images_21/friedmann.JPEG"
 imagecredit: photo by Quinn Gruber
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1lV_dzFOlHHBTZU4AMSiwrBMyuhQwJ6Mu/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: |
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1mKcmJ5mlNZG4dD_JTXEJdr656vrjGi2F/preview">
-    </iframe>
-  </div>
+origaudio: the-butterfly-june-4th-1942_orig.m4a
+translaudio: the-butterfly-june-4th-1942_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '13'
+order: '14'
 layout: notepage
 collection: notes_2021
 ---

@@ -45,17 +45,8 @@ language: Italian
 lang: it
 image: "/assets/images/images_22/n'djoku.jpg"
 imagecredit: photo by Ryan Hardy
-origaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1Qi1pKy_UbfgI7yHcGobHwbHHAgHOZ5dt/preview">
-  </iframe>
-  </div>
-translaudio: 
+origaudio: three-poems_orig.mp3
+translaudio: three-poems_english_1.mp3
 edition: '2022'
 pagetype: submission
 wrapformat: 

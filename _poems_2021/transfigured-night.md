@@ -85,24 +85,13 @@ language: German
 lang: de
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1OFFFGrfIXD2F7qrK7rFPuYmA1zWpMtIJ/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1_Q7k9n0DCDMKQ2DNCGXWgiJFZMYvB3kV/preview">
-    </iframe>
-  </div>
+origaudio: transfigured-night_orig.m4a
+translaudio: transfigured-night_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '26'
+order: '27'
 layout: poempage
 collection: poems_2021
 ---

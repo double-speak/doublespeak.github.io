@@ -56,15 +56,13 @@ language: Thai
 lang: th
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1JXPDsNBiGAaVEltDaPcH6ISynhwbexSu/preview\">\n
-  \ </iframe>\n</div>"
+origaudio: khun-chang-khun-phaen-book-4-the-affair-of-phlai-kaew-and-nang-phim_orig.mp3
 translaudio: 
 edition: '2021'
 pagetype: submission
 wrapformat: stacked
 sequence: 
-order: '37'
+order: '38'
 layout: notepage
 collection: notes_2021
 ---

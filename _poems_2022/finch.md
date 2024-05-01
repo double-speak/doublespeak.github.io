@@ -64,8 +64,8 @@ language: Chinese
 lang: zh
 image: "/assets/images/images_22/ergun.jpg"
 imagecredit: photo by Stacy Shimanuki
-origaudio: 
-translaudio: 
+origaudio: finch_orig.mp3
+translaudio: finch_english.mp3
 edition: '2022'
 pagetype: submission
 wrapformat: 

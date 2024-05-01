@@ -70,24 +70,13 @@ language: Norwegian
 lang: 'no'
 image: "/assets/images/images_21/obstfelder.JPG"
 imagecredit: photo by Jordan Barger
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1WeVl42HCzZ8lXreqeCRO-ZLkejwhAM6y/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: |
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1-dCN-3h4BnkGKfmRexqdKPnnJvyN8g3s/preview">
-    </iframe>
-  </div>
+origaudio: the-city_orig.mp3
+translaudio: the-city_english.mp3
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '21'
+order: '22'
 layout: poempage
 collection: poems_2021
 ---

@@ -88,24 +88,13 @@ language: Bosnian
 lang: bs
 image: "/assets/images/images_21/bodrozic.JPG"
 imagecredit: photo by a <em>DoubleSpeak</em> staffer
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/190dnGQUqZ_bNKqOfR_cBtLiYgFi9BEiK/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/15PON1B3RHHzTaNv5RMzjnpycY3k_BbEd/preview">
-    </iframe>
-  </div>
+origaudio: lilies_orig.mp3
+translaudio: lilies_english.mp3
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '38'
+order: '39'
 layout: poempage
 collection: poems_2021
 ---

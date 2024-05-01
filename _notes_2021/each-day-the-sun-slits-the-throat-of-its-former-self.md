@@ -61,25 +61,8 @@ language: French
 lang: fr
 image: 
 imagecredit: 
-origaudio: |-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1L-z_C2gp6x6jbbmJ_n6OpeZZFu200suH/preview">
-    </iframe>
-  </div>
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1IyzaqIGKU2UFmLpN0paRBo6QicbmEK5Z/preview">
-    </iframe>
-  </div>
+origaudio: each-day-the-sun-slits-the-throat-of-its-former-self_orig.m4a
+translaudio: each-day-the-sun-slits-the-throat-of-its-former-self_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 

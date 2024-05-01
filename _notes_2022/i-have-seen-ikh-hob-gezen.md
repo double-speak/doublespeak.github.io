@@ -43,24 +43,8 @@ language: Yiddish
 lang: he
 image: "/assets/images/images_22/segalovitsh.jpg"
 imagecredit: photo by Betsy Morgan
-origaudio: |-
-  <div>
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1sK_uHApqkFeAXSfr-Sy7mQoXMw6YRSVY/preview">
-  </iframe>
-  </div>
-translaudio: |-
-  <div>
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/17b5jBig3dSR578GHLfEEXR2ITKBTUIOr/preview">
-  </iframe>
-  </div>
+origaudio: i-have-seen-ikh-hob-gezen_orig.mp3
+translaudio: i-have-seen-ikh-hob-gezen_english.mp3
 edition: '2022'
 pagetype: submission
 wrapformat: 

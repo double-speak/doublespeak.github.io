@@ -61,19 +61,8 @@ language: French
 lang: fr
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1Z2i1quF_lJHUCN5qSCBOzcLTkoc-ScGk/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1coutRUWh_weazk81bR_GQDyGNnirLqNp/preview">
-    </iframe>
-  </div>
+origaudio: to-a-black-dancer_orig.mp3
+translaudio: to-a-black-dancer_english.mp3
 edition: '2021'
 pagetype: submission
 wrapformat: 

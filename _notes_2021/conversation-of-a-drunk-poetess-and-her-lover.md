@@ -109,19 +109,8 @@ language: Russian
 lang: ru
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/10fjasOsGkVp21mx0OwAb4roQ3OnB8o4A/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1xGIV86eB_RWdh-J3OmqZtC9rBl22rUiw/preview">
-    </iframe>
-  </div>
+origaudio: conversation-of-a-drunk-poetess-and-her-lover_orig.m4a
+translaudio: conversation-of-a-drunk-poetess-and-her-lover_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 

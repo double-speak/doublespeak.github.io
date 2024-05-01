@@ -108,15 +108,13 @@ language:
 lang: zh
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1zZbY1ri7v576AOO6ZKhCkLtBWBa1ULsA/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: 
+origaudio: 
+translaudio: diary-of-the-lockdown-lifted_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '41'
+order: '42'
 layout: poempage
 collection: poems_2021
 ---

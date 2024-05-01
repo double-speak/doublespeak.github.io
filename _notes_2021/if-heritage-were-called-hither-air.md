@@ -77,24 +77,13 @@ language: German
 lang: de
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1FzgKF7p6yfM_mGnRyOm2XN7CI2TySE6D/preview\">\n
-  \ </iframe>\n</div>\n\n"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1TcCBVDvvZrMaH_vu_aB4GoFDGErvkeWB/preview">
-    </iframe>
-  </div>
+origaudio: if-heritage-were-called-hither-air_orig.m4a
+translaudio: if-heritage-were-called-hither-air_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '35'
+order: '36'
 layout: notepage
 collection: notes_2021
 ---

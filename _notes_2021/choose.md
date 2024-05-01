@@ -85,19 +85,8 @@ language: Arabic
 lang: ar
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1riWY1NrBLfTI4Je_mgtY4LfZCgNY2SvM/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1IyzUivxs4lsdxed41VhwJJATngI7Vz-W/preview">
-    </iframe>
-  </div>
+origaudio: choose_orig.m4a
+translaudio: choose_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 

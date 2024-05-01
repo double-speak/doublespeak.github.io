@@ -48,16 +48,17 @@ layout: default
         <h1>{{page.transtitle}}</h1>
         <h2>{{page.author}}</h2>
         <p class="note"> {{page.note}}</p>
-        {% if page.image and page.image != "none" and page.image != "" %}
-        <div class="image">
-        {% assign images = page.image | split: '; ' %}       
+        {% if page.image contains "assets" %}
+         <div class="image">
+          {% assign images = page.image | split: '; ' %}       
             {% for image in images %}
               <img class="poem-image" src="{{site.baseurl}}{{image}}"></img>
             {% endfor %}
-         
+        {% if page.imagecredit contains "by"%}
          <p class="caption"> 
         {{page.imagecredit}}
         </p>
+        {% endif %}
       </div>
       {% endif %}
       </div>
@@ -77,6 +78,11 @@ layout: default
         <h2>{{page.author}}</h2>
         <hr  style="max-width: 70%; margin-left:0" />
         <pre lang="{{ page.lang }}">{{page.poem}}</pre>
+        {% if page.origaudio contains "." %}
+          <figure style="margin-left:0px">
+            <audio controls src="/assets/audio/audio_{{page.edition}}/{{ page.origaudio }}"></audio>
+          </figure>
+        {% endif %}
       </div>
       <div class="transpoem-stacked">
         <h1 class="poemtitle-stacked">{{page.transtitle}}</h1>
@@ -86,6 +92,11 @@ layout: default
         <h2>{{page.translator}}</h2>
         <hr style="max-width: 70%; margin-left:0"/>
         <pre>{{page.transpoem}}</pre>
+        {% if page.translaudio contains "." %}
+          <figure style="margin-left:0px">
+            <audio controls src="/assets/audio/audio_{{page.edition}}/{{ page.translaudio }}"></audio>
+          </figure>
+        {% endif %}
       </div>
     </div>
 
@@ -105,6 +116,11 @@ layout: default
         <h2>{{page.author}}</h2>
         <hr />
         <pre lang="{{ page.lang }}">{{page.poem}}</pre>
+        {% if page.origaudio contains "." %}
+          <figure style="margin-left:0px">
+            <audio controls src="/assets/audio/audio_{{page.edition}}/{{ page.origaudio }}"></audio>
+          </figure>
+        {% endif %}
       </div>
       <div class="transpoem">
         <h1 class="poemtitle">{{page.transtitle}}</h1>
@@ -114,6 +130,11 @@ layout: default
         <h2>{{page.translator}}</h2>
         <hr />
         <pre>{{page.transpoem}}</pre>
+        {% if page.translaudio contains "." %}
+          <figure style="margin-left:0px">
+            <audio controls src="/assets/audio/audio_{{page.edition}}/{{ page.translaudio }}"></audio>
+          </figure>
+        {% endif %}
       </div>
     </div>
 
@@ -137,15 +158,15 @@ layout: default
 
     {% for pg in site.data[path] %}
 
-<!--     if we are on the previous page, and our current page is not a musing or frontmatter, set up the previousPage variable -->
+<!--     if we are on the previous page, and our current page is not frontmatter, set up the previousPage variable -->
         {% if forloop.index == previousIndex %}
           {% assign previousPage = pg.pid %}
           {% assign previousPageType = pg.pagetype %}
 
         {% endif %}
 
-<!--     if we are on the previous page, and our current page IS a musing or frontmatter, set up the previousPage variable and add fixpath -->
-        {% if forloop.index == previousIndex and pg.pagetype == "musing" or pg.pagetype == "frontmatter" %}
+<!--     if we are on the previous page, and our current page IS frontmatter, set up the previousPage variable and add fixpath -->
+        {% if forloop.index == previousIndex and  pg.pagetype == "frontmatter" %}
           {% assign previousPage = pg.pid %}
           {% assign fixpath = "poems_" %}
         {% endif %}
@@ -187,7 +208,7 @@ layout: default
 
 <!--   if statement for going back to previous poem, skipping note page -->    
  
- {% elsif previousPageType == "musing" or previousPageType == "frontmatter" %}
+ {% elsif previousPageType == "frontmatter" %}
   <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{previousPage}}"><div class="previouslink">
     <i class="fa-solid fa-chevron-left" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
   </div></a>
@@ -208,7 +229,7 @@ layout: default
 
 
 <!-- NEXT BUTTON CODE -->  
- {% if page.pagetype == "musing" or page.pagetype == "frontmatter" %}
+ {% if page.pagetype == "frontmatter" %}
   <a href="{{site.url}}{{site.baseurl}}/poems_{{page.edition}}/{{nextPage}}"><div class="nextlink">
       <i class="fa-solid fa-chevron-right" style="font-size:40px;margin-top:40vh; margin-bottom:40vh; color:#A0998D;"></i>
     </div></a>

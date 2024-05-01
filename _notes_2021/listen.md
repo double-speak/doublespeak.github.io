@@ -88,19 +88,8 @@ language: Russian
 lang: ru
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1DyW5LJAluutOBbP63VxrjR_z_QGXYmbd/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1MF9AonATOBceRfNA-pb34fn9kmuaGTlG/preview">
-    </iframe>
-  </div>
+origaudio: listen_orig.m4a
+translaudio: listen_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 

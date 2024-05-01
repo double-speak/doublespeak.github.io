@@ -36,24 +36,13 @@ language: French
 lang: fr
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/184u8BlRdW95dfjfYIgZL2cZr6G3F26Fq/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: |
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1mSuulfp699jZx5h1lSn1_q0ZkUpKWwT7/preview">
-    </iframe>
-  </div>
+origaudio: millibars-of-the-storm_orig.m4a
+translaudio: millibars-of-the-storm_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '34'
+order: '35'
 layout: notepage
 collection: notes_2021
 ---

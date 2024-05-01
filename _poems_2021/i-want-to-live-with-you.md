@@ -87,24 +87,13 @@ language: Russian
 lang: ru
 image: "/assets/images/images_21/tsvetaeva.jpeg"
 imagecredit: photo by Limin Gao
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1x3OqEdDtMGSqU-P16GxunsCwjudZGdlV/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1h_qIYyDj1UVS0nY4gAyXJypXpHx10lmN/preview">
-    </iframe>
-  </div>
+origaudio: i-want-to-live-with-you_orig.m4a
+translaudio: i-want-to-live-with-you_english.mp3
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '29'
+order: '30'
 layout: poempage
 collection: poems_2021
 ---

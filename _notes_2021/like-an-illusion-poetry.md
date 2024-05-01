@@ -38,24 +38,13 @@ language: Korean
 lang: ko
 image: "/assets/images/images_21/kim_soon_mi.jpeg"
 imagecredit: photo by Nadia Park
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1xAIJOXgGKGMel-HVxue8KT9WF8ZQofSP/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1fiYaYRFoIEMLZcMxH-Sca7G0zWsOuC2-/preview">
-    </iframe>
-  </div>
+origaudio: like-an-illusion-poetry_orig.m4a
+translaudio: like-an-illusion-poetry_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: last
-order: '18'
+order: '19'
 layout: notepage
 collection: notes_2021
 ---

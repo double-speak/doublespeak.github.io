@@ -3,7 +3,7 @@ pid: can-we-keep-quiet
 title: Riusciamo a fare silenzio
 transtitle: Can we keep quiet
 author: Filippo Vignali
-translator: Giulia Rupi and John Sherer
+translator: Giulia Rupi; John Sherer
 poem: |-
   Riusciamo a fare silenzio
   e a metterci in ascolto dei corpi?
@@ -51,69 +51,13 @@ language: Italian
 lang: it
 image: "/assets/images/images_21/vignali.jpeg"
 imagecredit: photo by a <em>DoubleSpeak</em> staffer
-origaudio: |+
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1TlTOiTXRb5ZU-bzCCoxwg3cL4xU8RPxQ/preview">
-    </iframe>
-  </div>
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1KSasxirEWUIa6Yj0fFpWvIDP0QcpY_AX/preview">
-    </iframe>
-  </div>
-
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/17z1gEnaUB5_17Jvf_ov_dDLII6z5w6-l/preview">
-    </iframe>
-  </div>
-
-translaudio: |+
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/11wzROo_V0VLHPZ0LZa0BC2PA8xzqJ-Pu/preview">
-    </iframe>
-  </div>
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1bvMku0xPb0bd6S_ypCbx6Qj7phhXRQSP/preview">
-    </iframe>
-  </div>
-
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1gwniTThX4gs6QiNXCdBaGpXbFuMMfgcc/preview">
-    </iframe>
-  </div>
-
+origaudio: can-we-keep-quiet_orig.mp3
+translaudio: can-we-keep-quiet_english.mp3
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: middle
-order: '32'
+order: '33'
 layout: notepage
 collection: notes_2021
 ---

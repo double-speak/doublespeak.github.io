@@ -3,7 +3,7 @@ pid: maybe-its-clarity
 title: Forse la trasparenza
 transtitle: Maybe it's clarity
 author: Filippo Vignali
-translator: Giulia Rupi and John Sherer
+translator: Giulia Rupi; John Sherer
 poem: |-
   Forse la trasparenza o la capacità di rendere bella
   la luce che lo attraversa anche quando è scarsa.
@@ -51,69 +51,13 @@ language: Italian
 lang: it
 image: "/assets/images/images_21/vignali.jpeg"
 imagecredit: photo by a <em>DoubleSpeak</em> staffer
-origaudio: |+
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1TlTOiTXRb5ZU-bzCCoxwg3cL4xU8RPxQ/preview">
-    </iframe>
-  </div>
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1KSasxirEWUIa6Yj0fFpWvIDP0QcpY_AX/preview">
-    </iframe>
-  </div>
-
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/17z1gEnaUB5_17Jvf_ov_dDLII6z5w6-l/preview">
-    </iframe>
-  </div>
-
-translaudio: |+
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/11wzROo_V0VLHPZ0LZa0BC2PA8xzqJ-Pu/preview">
-    </iframe>
-  </div>
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1bvMku0xPb0bd6S_ypCbx6Qj7phhXRQSP/preview">
-    </iframe>
-  </div>
-
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1gwniTThX4gs6QiNXCdBaGpXbFuMMfgcc/preview">
-    </iframe>
-  </div>
-
+origaudio: maybe-its-clarity_orig.mp3
+translaudio: maybe-its-clarity_english.mp3
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: first
-order: '31'
+order: '32'
 layout: poempage
 collection: poems_2021
 ---

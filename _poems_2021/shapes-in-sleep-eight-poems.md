@@ -152,18 +152,8 @@ language: German
 lang: de
 image: "/assets/images/images_21/celan.jpg"
 imagecredit: photo by Heta Patel
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1ano_WwbTdechI5VP5-utZV6WWF_Cq9in/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1fBGuzFzX1nfSeS5a-QyTH5In97wcX7H6/preview">
-    </iframe>
-  </div>
+origaudio: shapes-in-sleep-eight-poems_orig_1.m4a
+translaudio: shapes-in-sleep-eight-poems_english_1.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 

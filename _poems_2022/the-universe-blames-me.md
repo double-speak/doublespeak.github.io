@@ -95,26 +95,8 @@ language: Arabic
 lang: ar
 image: "/assets/images/images_22/qabbani.jpg"
 imagecredit: photo by Michael Karam
-origaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1EwnEcJ6HFSW4EtN65IPPlXCRq6fWzbN6/preview">
-  </iframe>
-  </div>
-translaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/19lleN2f1fkMscjNYOzyTJVHEo3X61jQf/preview">
-  </iframe>
-  </div>
+origaudio: the-universe-blames-me_orig.m4a
+translaudio: the-universe-blames-me_english.m4a
 edition: '2022'
 pagetype: submission
 wrapformat: 

@@ -59,25 +59,8 @@ language: French
 lang: fr
 image: none
 imagecredit: 
-origaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/13jpfp-6zONv1HmWdEKtAEFz1jO78myNw/preview">
-  </iframe>
-  </div>
-translaudio: |-
-  <div>
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1oINc1OW7K6CPJOw3N04ktcDNx2uz3MZf/preview">
-  </iframe>
-  </div>
+origaudio: the-vultures_orig.mp3
+translaudio: the-vultures_english.mp3
 edition: '2022'
 pagetype: submission
 wrapformat: 

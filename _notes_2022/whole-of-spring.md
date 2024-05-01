@@ -53,24 +53,8 @@ language: Spanish
 lang: es
 image: "/assets/images/images_22/vilarino.jpg"
 imagecredit: photo by Ryan Hardy
-origaudio: |
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1ESflU02ozyehC4l3J_kzUJZfQGGevc5x/preview">
-    </iframe>
-  </div>
-translaudio: |
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/14pqSmxK1U7dpQw0m8KqhFKlNVyu-Zmqq/preview">
-    </iframe>
-  </div>
+origaudio: whole-of-spring_orig.mp3
+translaudio: whole-of-spring_english.mp3
 edition: '2022'
 pagetype: submission
 wrapformat: 

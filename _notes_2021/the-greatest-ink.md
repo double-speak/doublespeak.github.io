@@ -50,24 +50,13 @@ language: Spanish
 lang: es
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/16cfcpPsFhBwXltFLY7yo-uBFK1_sEGNg/preview\">\n
-  \ </iframe>\n</div>\n\n"
-translaudio: |
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1nlLqvTHcmZSI7V7bJI-2xkNPQXSIU9Vl/preview">
-    </iframe>
-  </div>
+origaudio: the-greatest-ink_orig.m4a
+translaudio: the-greatest-ink_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '36'
+order: '37'
 layout: notepage
 collection: notes_2021
 ---

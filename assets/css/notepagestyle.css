@@ -386,31 +386,38 @@ h1 {
 
 .abio {
 	float: left;
-	width: 18rem;
-}
+/*	width: 18rem;
+*/}
 
 .tbio {
 	float: left;
-	width: 18rem;
-}
+/*	width: 18rem;
+*/}
 
 .note-text {
 	padding: 0px;
+	padding-right: 20px !important;
 	position: static;
 	flex: 1;
+	min-width: 30vw;
 }
 
 .poem-image {
 	justify-content:center;
-	width: 18rem;
+	width: 25rem;
+	padding: 10px;
 
 }
 
 .image{
-		justify-content:center;
-	height: 80%;
-	padding: 20px;
-	max-width: 20rem;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+/*	height: 80%;
+*/	padding: 20px;
+	max-width: 30rem;
+	background-color: #D8CEBF;
+	flex-wrap: wrap;
 }
 
 /*.tbio {
@@ -462,7 +469,6 @@ h1 {
 	font-family: futura-pt, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	float: right;
 	font-size: 18px;
 }
 

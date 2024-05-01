@@ -61,24 +61,13 @@ language: Spanish
 lang: es
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1H32REqqNHK2YHQ-0jo_u4KX8e1K5wRg8/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1Z0FcQxaIDRAXPWmU3OitHm1S_aWZ4n3k/preview">
-    </iframe>
-  </div>
+origaudio: verb_orig.m4a
+translaudio: verb_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '14'
+order: '15'
 layout: poempage
 collection: poems_2021
 ---

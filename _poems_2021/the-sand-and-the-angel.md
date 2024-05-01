@@ -111,19 +111,8 @@ language: Italian
 lang: it
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/18plNA6dO0XPkYX8pLP08qbM719c9tGrv/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1y_hLaWrIYIavOQp0g-N6qjQ80VDRYxGD/preview">
-    </iframe>
-  </div>
+origaudio: the-sand-and-the-angel_orig.m4a
+translaudio: the-sand-and-the-angel_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 

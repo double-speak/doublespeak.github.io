@@ -3,7 +3,7 @@ pid: some-later-day
 title: <span lang="ko">먼 후일</span>
 transtitle: Some Later Day
 author: Kim Sowol
-translator: Younghoon Jeong and Saagar Asnani
+translator: Younghoon Jeong; Saagar Asnani
 poem: |-
   먼 훗날 당신이 찾으시면
   그때에 내 말이 잊었노라.
@@ -60,24 +60,13 @@ language: Korean
 lang: ko
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1CtI76YH2UqLpPzRvr48I8ftG1KVcFWYK/preview\">\n
-  \ </iframe>\n</div>"
-translaudio: |-
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1N5Ghhuzo5E-U-H5ggK_NhldOoC0YrDlQ/preview">
-    </iframe>
-  </div>
+origaudio: some-later-day_orig.mp3
+translaudio: some-later-day_english.mp3
 edition: '2021'
 pagetype: submission
 wrapformat: 
 sequence: 
-order: '30'
+order: '31'
 layout: notepage
 collection: notes_2021
 ---

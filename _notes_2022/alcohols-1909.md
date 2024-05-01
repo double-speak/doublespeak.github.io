@@ -75,24 +75,8 @@ language: French
 lang: fr
 image: 
 imagecredit: photo by Ryan Hardy
-origaudio: |-
-  <div>
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1bSQcXPggZHg-jAR5vzmMwgaQsyaYBup3/preview">
-  </iframe>
-  </div>
-translaudio: |-
-  <div>
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/17NVzJOMqL12P05Y3k0m_WsHQ4NyIebrr/preview">
-  </iframe>
-  </div>
+origaudio: alcohols-1909_orig.mp3
+translaudio: alcohols-1909_english.mp3
 edition: '2022'
 pagetype: submission
 wrapformat: 

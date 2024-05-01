@@ -52,26 +52,8 @@ lang: de
 image: "/assets/images/images_22/Brand_Morituri.png"
 imagecredit: An illustration by Richard Grimm accompanying the original poem in <i>Der
   Eigene</i>.
-origaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1XUmyX3zGBqGV8YZRcHdxp9LaJDYDL37i/preview">
-  </iframe>
-  </div>
-translaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1UkRcqFEPMxfxcWkooO5hnY8yeuWb4b2H/preview">
-  </iframe>
-  </div>
+origaudio: morituri_orig.mp3
+translaudio: morituri_english.mp3
 edition: '2022'
 pagetype: submission
 wrapformat: 

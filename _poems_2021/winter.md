@@ -30,64 +30,8 @@ language: Japanese
 lang: ja
 image: 
 imagecredit: 
-origaudio: |+
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1WLTVSdP-ppMneJ5S7wpy9AAVGVjitsdu/preview">
-    </iframe>
-  </div>
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1pMM9n8YAQ9GbwCsCDlJmNTGI7KMzQdSX/preview">
-    </iframe>
-  </div>
-
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1fv6EKuZg74N4kJ9fMRSbYoyj11u2h2ng/preview">
-    </iframe>
-  </div>
-
-translaudio: |+
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1IOKKGIeExmNJmmW_KHsem-KbQt21R5AV/preview">
-    </iframe>
-  </div>
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1qTu6QMVNqZLA7XaRYBg8WAqkJRmC1hL-/preview">
-    </iframe>
-  </div>
-
-
-  <div>
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1VgaOevbmgp7DcYEdn7xi0w9ZMKPSOLjN/preview">
-    </iframe>
-  </div>
-
+origaudio: winter_orig.m4a
+translaudio: winter_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 

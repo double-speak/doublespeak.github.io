@@ -60,26 +60,8 @@ language: Spanish
 lang: es
 image: none
 imagecredit: 
-origaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1k33TmXe1FCr_np2FV10xp9TqY9jMuxH6/preview">
-  </iframe>
-  </div>
-translaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/13Xxcmkc0LFk7XPVkdFPcUzg2JYruCbux/preview">
-  </iframe>
-  </div>
+origaudio: you-dont-raise-children-to-watch-them-die_orig.m4a
+translaudio: you-dont-raise-children-to-watch-them-die_english.m4a
 edition: '2022'
 pagetype: submission
 wrapformat: 

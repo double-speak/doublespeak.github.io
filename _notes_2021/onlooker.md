@@ -3,12 +3,10 @@ pid: onlooker
 title: <span lang="zh">瞭望者</span>
 transtitle: Onlooker
 author: Yan An
-translator: Chen Du and Xisheng Chen
+translator: Chen Du; Xisheng Chen
 poem: "戴宽边草帽的瞭望者\n他的可疑的行程    在夏天的北方\n走向高潮    他的忽而被群峰突出\n忽而又被幽暗的峡谷藏匿的行程\n在渐渐靠近沙漠时\n明显地慢下来了
   \       \n\n一边是草原    一边是沙地的情景\n令他迷惑    他看见\n一条河流摇摆着尾巴\n和一条受惊的慌不择路的蜥蜴\n他们结伴而行    消失般地奔赴远处\n\n我是在一辆比河流跑得更快的卡车\n一晃而过时看到瞭望者的
-  \   我看到了宽边草帽下\n他的阴影都掩饰不住的迷惑\n和他的在高潮中夹杂着些许落魄\n而忽然停下来的旅程\n\n<h1><span lang=\"zh\">和镜子睡在一起</span></h1>\n\n一只白天鹅\n（也许仅仅是一个类似的白乎乎的事物）\n和它的不太真实的白\n在秋天的天池里\n在比新疆还远的地方\n和镜子睡在一起\n\n一块有弯度的巨石和它的黑青苔\n和一大堆白花花的鸟粪\n在大河上空的危崖上\n在古代的风中
-  \   在一只试图确定\n飞翔姿态的鸟的翅翼下\n和时间睡在一起\n\n一条蛇在丛林中蜕掉白皮\n（这一切只是在想象之中）\n追逐一只饥饿的老虎未果\n在迷失了返回洞穴的道路之后\n由于恐惧而仓皇逃窜\n天黑之前它要赶到旷野上\n和乌云
-  \   月亮睡在一起\n\n我父亲和他的白发\n以及他的黑皮中的白骨\n今夜在故乡的梦中和我的梦中\n闪着无处安放的白花花的寒光\n和某种难以名状的忧伤\n和北方的群山睡在一起\n"
+  \   我看到了宽边草帽下\n他的阴影都掩饰不住的迷惑\n和他的在高潮中夹杂着些许落魄\n而忽然停下来的旅程"
 transpoem: "The suspicious odyssey of an onlooker \nWearing a broad-brimmed straw
   hat in the northern summer\nIs reaching its climax — sometimes punctuated by peaks\nOtherwise
   concealed by a gloomy canyon —\nAnd is obviously slowing down\nWhile gradually approaching
@@ -17,19 +15,7 @@ transpoem: "The suspicious odyssey of an onlooker \nWearing a broad-brimmed stra
   to choose its path\nTravel together, hurriedly vanishing into the distance\n\nIt
   is when a truck faster than a river rushes by\nThat I behold the onlooker, his bewilderment\nUnconcealable
   by the shadow under his broad-brimmed straw hat\nAnd his abruptly stopped journey\nWith
-  an apex mingled with slight abjection\n\n<h1>Sleeping with a Mirror</h1>\n\nA white
-  swan\n(Or maybe just a similar whitish thing)\nAnd its somewhat unreal whiteness\nIn
-  an autumn heavenly lake\nA place farther than Xinjiang\nAre sleeping with a mirror\n\nA
-  massive, curved boulder with black moss\nAnd a large heap of shining-white bird
-  droppings\nOn a precipitous cliff above a great river\nIn the ancient wind, under
-  the wings\nOf a bird determining its flight gesture\nAre sleeping with time\n\nA
-  snake having sloughed off its white skin in a jungle\n(All these exist only in imagination)\nFruitlessly
-  chased a hungry tiger\nLost its way back to its pit\nAnd hence fled hurriedly out
-  of fright\nNeeds to hasten to the moors before night falls\nTo sleep with gloomy
-  clouds and the moon\n\nMy father and his grey hair\nAs well as his white bones under
-  his dark skin\nAll glittering with chilling white shimmers\nWith nowhere to rest\nAnd
-  with certain indescribable melancholy\nIn the homeland’s dreams and mine tonight\nAre
-  sleeping with the northern mountains\n"
+  an apex mingled with slight abjection"
 note: |
   <p>Yan An’s poems are highly experimental, unconventional, and unique according to the standards and traditions of Chinese culture, considering their aesthetic value, contents, philosophical denotations and meanings. As a pioneer in modern Westernized Chinese poetry, Yan An has completely transformed Chinese readers’ concepts and understanding of poetry through his unique views about the universe, life, society, and people. His way of thinking is unusual and unconventional. His poems do not contain any of the Chinese elements traditionally and commonly depicted by other Chinese poets and even if they do, they are addressed from unique perspectives. Therefore, they can transcend the boundaries between nations and cultures, reaching for a wider audience across the world. In each of his poems, behind his boundless imagination, there lies a story and Yan An’s sentiments and understandings of life, people, society, and the universe.</p>
   <p>His language is intense and abstract. Just like his other poems, these poems are rich in imagery and literary devices, such as metaphor, personification, and parallelism. These literary devices have well served their purpose in the Chinese versions. Nevertheless, in their English versions, some transcreation techniques have to be exploited to retain the same or similar effect.</p>
@@ -52,23 +38,12 @@ language: Chinese
 lang: zh
 image: 
 imagecredit: 
-origaudio: "<div>\n  \n  <iframe\n    frameborder=\"0\"\n    width=\"375\"\n    height=\"65\"\n
-  \   src=\"https://drive.google.com/file/d/1VD0ayMr8c-4Lxql_sdQ81Zx78TAORHuY/preview\">\n
-  \ </iframe>\n</div>\n"
-translaudio: |
-  <div>
-
-    <iframe
-      frameborder="0"
-      width="375"
-      height="65"
-      src="https://drive.google.com/file/d/1dz6nd8pitqhOlwxtk1eHRQLYMSgiytJf/preview">
-    </iframe>
-  </div>
+origaudio: onlooker_orig.m4a
+translaudio: onlooker_english.m4a
 edition: '2021'
 pagetype: submission
 wrapformat: 
-sequence: 
+sequence: first
 order: '12'
 layout: notepage
 collection: notes_2021

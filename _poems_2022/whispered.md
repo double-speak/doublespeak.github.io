@@ -41,26 +41,8 @@ language: Czech
 lang: cs
 image: "/assets/images/images_22/halas.jpg; /assets/images/images_22/halas2.JPG"
 imagecredit: photos by Kathryn Dettmer
-origaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src="https://drive.google.com/file/d/1P-UYmnjajSduW2mD-opeysxyi_0-KnB8/preview">
-  </iframe>
-  </div>
-translaudio: |-
-  <div>
-
-  <iframe
-    frameborder="0"
-    width="375"
-    height="65"
-    src=" ">
-  </iframe>
-  </div>
+origaudio: whispered_orig.mp3
+translaudio: 
 edition: '2022'
 pagetype: submission
 wrapformat: 
