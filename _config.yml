@@ -57,7 +57,7 @@ plugins:
 collections:
 
   #used to generate the tags for the site
-  author_tags:
+  authors:
     layout: 'tagpage'
     output: true # this must be true for your .md pages to be built to html!
     metadata:
