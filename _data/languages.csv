@@ -1,45 +1,47 @@
 pid,name,type
-Ancient_Greek,Ancient Greek,language
-Arabic,Arabic,language
-Bahasa_Indonesia,Bahasa Indonesia,language
-Bosnian,Bosnian,language
-Bulgarian,Bulgarian,language
-Chinese,Chinese,language
-Czech,Czech,language
-Esperanto,Esperanto,language
-Dutch,Dutch,language
-Farsi,Farsi,language
-French,French,language
-Friulian,Friulian,language
-German,German,language
-Genovese,Genovese,language
-Greek,Greek,language
-Hebrew,Hebrew,language
-Hindi,Hindi,language
-Hungarian,Hungarian,language
-Italian,Italian,language
-Japanese,Japanese,language
-Kannada,Kannada,language
-Kashmiri,Kashmiri,language
-Korean,Korean,language
-Latin,Latin,language
-Lithuanian,Lithuanian,language
-Mandarin,Mandarin,language
-Middle_English,Middle English,language
-Norwegian,Norwegian,language
-Old_English,Old English,language
-Old_Occitan,Old Occitan,language
-Polish,Polish,language
-Portuguese,Portuguese,language
-Russian,Russian,language
-Sanskrit,Sanskrit,language
-Sinhalese,Sinhalese,language
-Spanish,Spanish,language
-Swedish,Swedish,language
-Tagalog,Tagalog,language
-Thai,Thai,language
-Turkish,Turkish,language
-Urdu,Urdu,language
-Yiddish,Yiddish,language
-English,English,language
-siSwati,siSwati,language
+ancient_greek,Ancient Greek,language
+arabic,Arabic,language
+bahasa_indonesia,Bahasa Indonesia,language
+bosnian,Bosnian,language
+bulgarian,Bulgarian,language
+chinese,Chinese,language
+czech,Czech,language
+esperanto,Esperanto,language
+dutch,Dutch,language
+farsi,Farsi,language
+french,French,language
+friulian,Friulian,language
+german,German,language
+genovese,Genovese,language
+greek,Greek,language
+hebrew,Hebrew,language
+hindi,Hindi,language
+hungarian,Hungarian,language
+italian,Italian,language
+japanese,Japanese,language
+judeo_spanish,Judeo Spanish,language
+kannada,Kannada,language
+kashmiri,Kashmiri,language
+korean,Korean,language
+latin,Latin,language
+lithuanian,Lithuanian,language
+mandarin,Mandarin,language
+malayalam,Malayalam,language
+middle_english,Middle English,language
+norwegian,Norwegian,language
+old_english,Old English,language
+old_occitan,Old Occitan,language
+polish,Polish,language
+portuguese,Portuguese,language
+russian,Russian,language
+sanskrit,Sanskrit,language
+sinhalese,Sinhalese,language
+spanish,Spanish,language
+swedish,Swedish,language
+tagalog,Tagalog,language
+thai,Thai,language
+turkish,Turkish,language
+urdu,Urdu,language
+yiddish,Yiddish,language
+english,English,language
+siswati,siSwati,language

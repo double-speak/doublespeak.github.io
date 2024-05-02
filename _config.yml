@@ -61,7 +61,7 @@ collections:
     layout: 'tagpage'
     output: true # this must be true for your .md pages to be built to html!
     metadata:
-      source: 'author_tags.csv' # path to the metadata file, must be within '_data'
+      source: 'authors.csv' # path to the metadata file, must be within '_data'
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
 
