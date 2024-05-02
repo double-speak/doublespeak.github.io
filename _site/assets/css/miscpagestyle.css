@@ -1,0 +1,255 @@
+body{
+	background-color:#fffdfa;
+	text-align:left;
+	margin: 0px;
+	font-size: 20px;
+}
+
+html,body {
+	height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+@media screen and (max-width: 750px) {
+	
+
+	.staff-l {
+		font-family: futura-pt, sans-serif;
+		font-weight: 300;
+		font-style: normal;
+		font-size: 20px;
+		line-height: 30px !important;
+		color: black;
+		text-align: left;
+		margin: 0 20px 0 20px !important;
+		list-style: none;
+	}
+}
+
+.previousmobile{
+	display: none;
+}
+.nextmobile{
+	display: none;
+}
+
+
+
+/*navigation bar*/
+
+.logo img {
+	position: static;
+	display: inline-block;
+	float: left;
+	padding: 0px 0px 0px 10px;
+	margin-left: 40px;
+	height: 80px;
+	width: 80px;
+}
+
+.nav {
+	position: static;
+	height: 40px;
+	padding: 5px;
+	padding-bottom: 30px;
+	border-bottom: solid black 1px;
+}
+
+.nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 10px;
+	overflow: hidden;
+}
+.nav li {
+	float: right;
+}
+.nav li a {
+	display: block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: right;
+	padding: 10px 16px;
+	border: transparent solid 1px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: 0.3s;
+}
+.nav a:hover{
+  	border: solid black 1px;
+}
+
+/*top links*/
+
+.tcontentslink {
+	height: 70px;
+}
+
+.tcontentslink a {
+	display: inline-block;
+	margin: 40px 0 0 -80px;
+	color: black;
+	text-decoration: none;
+	font-size: 18px;
+	line-height: 20px;
+}
+
+.tcontentslink a:hover {
+	text-decoration: underline;
+}
+
+/*main content style!*/
+
+h1{
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 34px;
+	line-height: 36px;
+	color: black;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+h2 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+	margin-left: 60px;
+}
+
+p {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+.container {
+	width: 100%;
+	height: 826px;
+	margin-top: -1px;
+	position: absolute;
+}
+
+/*staff page formats */
+
+
+.staff {
+	padding: 10px 60px 20px 0;
+}
+
+.staff-u ul {
+	list-style: none;
+	text-decoration: none;
+	columns: 2;
+	column-width: 1000px;
+	column-gap: 60px;
+	width: 60%;
+	font-size: 20px;
+	border: solid red 1px;
+	background-color: black;
+}
+
+.staff-l {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 40px;
+	color: black;
+	text-align: left;
+	margin: 0 180px 0 20px;
+	list-style: none;
+}
+
+.acknowledgements {
+	padding: 0px 0 10px 0;
+}
+
+/* ednote formats */
+
+.ednote {
+	width: 70%;
+	margin-top: 30px;
+}
+
+/* copyright formats */
+
+
+/*links to other poems*/
+
+p.link {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	margin-right: 40px;
+}
+
+.previouslink {
+	position: fixed;
+	top:76px;
+	bottom: 76px;
+	left: 0;
+	height:calc(100% - 152px);
+	background-color:#D8CEBF;
+	width:30px;
+}
+
+.nextlink {
+	position: fixed;
+	top:76px;
+	bottom: 0;
+	right: 0;
+	height:calc(100% - 152px);
+	background-color:#D8CEBF;
+	width:30px;
+
+}
+
+.note-text{
+	flex:1;
+}
+
+.image {
+	float: right;    
+ 	margin: 0 0 0 15px;
+}
+
+.poem-image {
+	max-width:100%;
+	margin:20px;
+	opacity: 0.63;
+}
+
+.flex-container{
+	display:flex;
+	align-items:center;
+}

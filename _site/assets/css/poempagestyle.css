@@ -1,0 +1,763 @@
+body{
+	background-color:#fffdfa;
+	margin: 0px;
+	font-size: 20px;
+}
+
+html,body {
+/*	height: 100%;*/
+}
+
+a {
+	text-decoration: none;
+}
+
+/*navigation bar*/
+
+.logo img {
+	position: static;
+	display: inline-block;
+	float: left;
+	padding: 0px 0px 0px 10px;
+	margin-left: 40px;
+	height: 80px;
+	width: 80px;
+}
+
+@media screen and (max-width: 750px) {
+
+	.poems {
+/*		justify-content:flex-start !important;
+*/
+	}
+	.ogpoem {
+	/*	min-width: 25rem;*/
+		/*width:max-content;*/
+		width: 80vw !important;
+		flex-basis:80% !important;
+	}
+
+	.transpoem {
+	/*	min-width: 25rem;*/
+		width: 80vw !important;
+		/*width:max-content;*/
+		flex-basis:80% !important;
+	}
+
+}
+
+.ogpoem-stacked {
+	/*	min-width: 25rem;*/
+		max-width:max-content;
+		width: 80vw !important;
+		flex-basis:80% !important;
+		margin-left: 15%;
+		margin-right: auto;
+	}
+
+.transpoem-stacked {
+	/*	min-width: 25rem;*/
+		width: 80vw !important;
+		/*width:max-content;*/
+		flex-basis:80% !important;
+		margin-left: 15%;
+		margin-right: auto;
+
+
+	}
+
+.poemtitle-stacked {
+	height:max-content;
+	max-width: 80%;
+}
+
+.poem-image {
+	justify-content:center;
+	width: 18rem;
+
+}
+
+.image{
+		justify-content:center;
+	height: 80%;
+	padding: 20px;
+	max-width: 20rem;
+}
+
+.previousmobile{
+	display: none;
+}
+.nextmobile{
+	display: none;
+}
+
+.nav .icon {
+  display: none;
+}
+
+.nav {
+	position: static;
+	height: 40px;
+	padding: 5px;
+	padding-bottom: 30px;
+	border-bottom: solid black 1px;
+}
+
+.nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 10px;
+	overflow: hidden;
+}
+.nav li {
+	float: right;
+}
+.nav li a {
+	display: block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: right;
+	padding: 10px 16px;
+	border: transparent solid 1px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: 0.3s;
+}
+.nav li link {
+	display: block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+	color: black;
+	text-align: right;
+	padding: 10px 16px;
+	border: transparent solid 1px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: 0.3s;
+}
+.nav a:hover{
+  	border: solid black 1px;
+}
+
+/* text */
+
+h1 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 34px;
+	line-height: 30px;
+	color: black;
+/*	text-align: left;*/
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+h2 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 20px;
+	line-height: 22px;
+	color: black;
+	text-align: left;
+/*	margin-left: 40px;*/
+}
+
+h3 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 22px;
+	color: black;
+/*	text-align: left;*/
+	margin-top: 40px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+pre {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	white-space: pre-wrap;
+/*	margin-left: 40px;
+	margin-right: 40px;*/
+}
+
+p {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.indent p {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+	text-indent: 10px;
+}
+
+p em {
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+/*	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 40px;
+	margin-right: 40px;*/
+}
+
+p strong {
+	font-family: futura-pt, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 0px;
+	margin-right: 5px;
+}
+
+.note h2 {
+	font-family: garamond-premier-pro, serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 26px;
+	line-height: 28px;
+	color: black;
+	text-align: left;
+	padding-left:50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top:10px;
+}
+
+.poemtitle {
+	height:max-content;
+}
+
+/*top links*/
+
+.tcontentslink {
+/*	height: 70px;
+	margin: 40px 0 0 120px;*/
+	margin-right:auto;
+	display:inline-block;
+}
+
+.tcontentslink a {
+	font-family: futura-pt, sans-serif;
+/*	margin: 40px 0 0 -80px;*/
+	font-weight: 300;
+	color: black;
+	text-decoration: none;
+	font-size: 18px;
+	line-height: 20px;
+}
+
+.tcontentslink a:hover {
+	text-decoration: underline;
+
+}
+
+.headerart {
+	width: 70%;
+	display: flex;
+	margin: -10px 0 20px -25px;
+}
+
+.poemtags {
+/*	margin: -63px 30px 0 0;
+*/	/*column-width: 50%;*/
+}
+
+.poemtags ul {
+	list-style: none;
+	margin: 10px;
+	padding: 10px;
+/*	overflow: hidden;
+*/	display: flex;
+	flex-wrap:wrap;
+	justify-content: flex-end;
+
+}
+
+.poemtags li {
+}
+
+.poemtags li a {
+	display: block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 14px;
+	color: black;
+	border: solid black 1px;
+	text-align: right;
+	padding: 10px 20px 10px 20px;
+	margin: 0px 10px 0px 10px;
+	text-decoration: none;
+}
+
+.poemtags a:hover {
+	color: #fffdfa;
+	background-color: black;
+	text-decoration: none;
+}
+
+/*poem contents*/
+
+.poems {
+	width: 90%;
+	margin: 0px auto 0 auto;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content:center;
+	gap:50px;
+}
+
+.ogtitle {
+	width: 50%;
+	clear: left;
+	float: left;
+}
+
+.transtitle {
+	width: 50%;
+	float: left;
+}
+
+.poemtitle {
+/*	margin-left: 40px;
+	margin-right: 40px;*/
+}
+.ogpoem {
+/*	min-width: 25rem;*/
+	width:max-content;
+	flex-basis:45%;
+/*	n.b. - changing flex-basis to max-content changes the look 
+substantially, and looks much better on smaller poems. 
+worth thinking about it.
+*/
+}
+
+.transpoem {
+/*	min-width: 25rem;*/
+	width:max-content;
+	flex-basis:45%;
+/*	n.b. - changing flex-basis to max-content changes the look 
+substantially, and looks much better on smaller poems. 
+worth thinking about it.
+*/
+}
+
+.audio {
+	margin-top: 50px;
+	width: 50%;
+}
+
+.both-audio{
+	display: flex;
+	justify-content: center;
+	gap:50px;
+	flex-wrap: wrap;
+	margin-bottom: 50px;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.poem-image {
+	justify-content:center;
+	width: 25rem;
+	padding: 10px;
+
+}
+
+.image{
+	display: flex;
+	justify-content:center;
+	align-items: center;
+/*	height: 80%;
+*/	padding: 20px;
+	max-width: 30rem;
+	background-color: #D8CEBF;
+	flex-wrap: wrap;
+}
+
+.note {
+	margin: 0px 0 30px 0px;
+}
+
+.container{
+	margin: 0% 15% 5% 15%;
+}
+
+/*links to other poems*/
+
+.previouslink {
+	position: fixed;
+	top:76px;
+	bottom: 76px;
+	left: 0;
+	height:calc(100% - 152px);
+	background-color:#D8CEBF;
+	width:30px;
+}
+
+.nextlink {
+	position: fixed;
+	top:76px;
+	bottom: 0;
+	right: 0;
+	height:calc(100% - 152px);
+	background-color:#D8CEBF;
+	width:30px;
+
+}
+
+/* language code */
+/*russian */
+p:lang(ru), pre:lang(ru){
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 20px;
+	color: black;
+	text-align: left;
+}
+/* arabic */
+:lang(ar){
+	font-family: adobe-arabic, sans-serif !important;
+	color: black;
+	text-align: right;
+	direction: rtl;
+}
+
+h1:lang(ar) {
+    font-family: adobe-arabic, sans-serif;
+    font-weight: 700;
+    font-style:  normal;
+    font-size: 42px;
+	line-height: 44px;
+  }
+
+h2:lang(ar) {
+    font-family: adobe-arabic, sans-serif;
+    font-weight: 400;
+    font-style:  normal;
+	font-size: 20px;
+	line-height: 22px;
+  }
+
+h3:lang(ar) {
+    font-family: adobe-arabic, sans-serif;
+    font-weight: 400;
+    font-style:  normal;
+ 	font-size: 20px;
+	line-height: 22px;
+  }
+
+pre:lang(ar), pre:lang(ar) {
+    font-family: adobe-arabic, sans-serif;
+    font-weight: 400;
+    font-style:  normal;
+    font-size: 22px;
+	line-height: 24px;
+  }
+/* chinese */
+:lang(zh) {
+	font-family: source-han-sans-traditional, sans-serif !important;
+	font-style: normal;
+	color: black;
+	text-align: left;
+}
+
+h1:lang(zh) {
+    font-weight: 500;
+    font-size: 34px;
+	line-height: 36px;
+  }
+
+h2:lang(zh) {
+    font-weight:  400;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+h3:lang(zh) {
+    font-weight:  400;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+p:lang(zh), pre:lang(zh){
+    font-weight:  400;
+    font-size: 18px;
+	line-height: 20px;
+  }
+/* japanese */
+:lang(ja) {
+    font-family: source-han-sans-japanese, sans-serif !important;
+    font-style:  normal;
+    color: black;
+	text-align: left;
+	}
+
+h1:lang(ja) {
+    font-weight:  500;
+    font-size: 34px;
+	line-height: 36px;
+  }
+
+h2:lang(ja) {
+    font-weight: 300;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+h3:lang(ja) {
+    font-weight: 300;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+p:lang(ja), pre:lang(ja) {
+    font-weight: 300;
+    font-style:  normal;
+    font-size: 18px;
+	line-height: 20px;
+  }
+
+/* korean */
+:lang(ko){
+    font-family: source-han-sans-korean, sans-serif !important;
+    font-style: normal;
+    color: black;
+	text-align: left;
+	}
+
+h1:lang(ko) {
+    font-weight: 500;
+    font-size: 34px;
+	line-height: 36px;
+
+  }
+
+h2:lang(ko) {
+    font-weight: 300;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+h3:lang(ko) {
+    font-weight: 300;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+p:lang(ko), pre:lang(ko) {
+    font-weight: 200;
+    font-style: normal;
+    font-size: 18px;
+	line-height: 20px;
+  }
+/* thai */
+:lang(th) {
+    font-family: ibm-plex-thai-looped, sans-serif !important;
+    font-style: normal;
+    color: black;
+	text-align: left;
+    }
+
+h1:lang(th) {
+    font-weight:  400;
+    font-size: 34px;
+	line-height: 36px;
+  }
+
+h2:lang(th) {
+    font-weight:  300;
+	font-size: 20px;
+	line-height: 22px;
+  }
+
+h3:lang(th) {
+    font-weight:  300;
+	font-size: 20px;
+	line-height: 22px;
+  }
+
+p:lang(th), pre:lang(th) {
+    font-weight:  300;
+    font-size: 18px;
+	line-height: 20px;
+  }
+/* hebrew */
+:lang(he) {
+    font-family: myriad-hebrew, sans-serif;
+    font-style: normal;
+    direction: rtl;
+    color: black;
+	}
+
+h1:lang(he) {
+    font-weight:  400;
+    font-size: 34px;
+	line-height: 36px;
+  }
+
+h2:lang(he) {
+    font-weight:  300;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+h3:lang(he) {
+    font-weight:  300;
+    font-size: 20px;
+	line-height: 22px;
+}
+
+p:lang(he), pre:lang(he) {
+    font-weight:  300;
+    font-size: 18px;
+	line-height: 20px;
+	text-align: right;
+	direction: rtl;
+  }
+/* hindi */
+:lang(hi){
+    font-family: hind-siliguri, sans-serif !important;
+    font-style: normal;
+    color: black;
+	text-align: left;
+	}
+
+h1:lang(hi) {
+    font-weight:  400;
+   	font-size: 34px;
+	line-height: 36px;
+
+  }
+
+h2:lang(hi) {
+    font-weight:  300;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+h3:lang(hi) {
+    font-weight:  300;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+p:lang(hi), pre:lang(hi) {
+    font-weight:  300;
+    font-size: 22px;
+    line-height: 24px;
+  }
+/* greek */
+:lang(el){
+	font-family: omnes-greek, sans-serif !important;
+	font-style: normal;
+    color: black;
+	text-align: left;
+}
+
+h1:lang(el) {
+    font-weight:  300;
+    font-size: 34px;
+	line-height: 36px;
+
+  }
+
+h2:lang(el) {
+    font-weight:  200;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+h3:lang(el) {
+    font-weight:  200;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+p:lang(el), pre:lang(el) {
+    font-weight:  200;
+    font-size: 18px;
+	line-height: 20px;
+  }
+/* georgian */
+:lang(ka){
+	font-family: omnes-georgian, sans-serif !important;
+	font-style: normal;
+    color: black;
+	text-align: left;
+}
+
+h1:lang(ka) {
+    font-weight:  500;
+    font-size: 34px;
+	line-height: 36px;
+
+  }
+
+h2:lang(ka) {
+    font-weight:  500;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+h3:lang(ka) {
+    font-weight:  500;
+    font-size: 20px;
+	line-height: 22px;
+  }
+
+p:lang(ka), pre:lang(ka) {
+    font-weight:  500;
+    font-size: 18px;
+	line-height: 20px;
+  }
+/* end language code */
