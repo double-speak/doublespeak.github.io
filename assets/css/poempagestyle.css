@@ -271,7 +271,8 @@ p strong {
 .epigraph{
 	font-style: italic;
 	background-color: #F1E9DE;
-	padding: 10px;
+	padding: 20px;
+	width: fit-content;
 }
 
 .poemtitle {
