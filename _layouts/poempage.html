@@ -65,11 +65,6 @@ layout: default
     </div>
   {% elsif page.wrapformat =="stacked" %}
     <div class="poems">
-       {% if page.epigraph %}
-          <pre style="width:60vw; background-color:#F1E9DE; padding:10px">               
-            {{page.epigraph}}
-          </pre>
-        {% endif %}
       <div class="ogpoem-stacked">
         <h1 class="poemtitle-stacked" lang= "{{ page.lang }}">{{page.title}}</h1>
         <div class="headerart">
@@ -103,11 +98,6 @@ layout: default
    {% else %} 
 
    <div class="poems">
-       {% if page.epigraph %}
-          <pre style="width:60vw; background-color:#F1E9DE; padding:10px">               
-            {{page.epigraph}}
-          </pre>
-        {% endif %}
       <div class="ogpoem">
         <h1 class="poemtitle" lang= "{{ page.lang }}">{{page.title}}</h1>
         <div class="headerart">
