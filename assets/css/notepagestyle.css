@@ -24,6 +24,7 @@ html,body {
 		float: none !important;
 		margin-left: auto;
 		margin-right: auto;
+		padding-left: 20px;
 	}
 }
 
