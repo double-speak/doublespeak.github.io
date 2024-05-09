@@ -130,7 +130,7 @@ layout: default
 
           <p>{{page.abio}}</p>
           </div>
-          {% if page.image contains "assets" %}
+          {% if page.image contains "assets" and page.pagetype == "interview" %}
          <div class="image">
           {% assign images = page.image | split: '; ' %}       
             {% for image in images %}
