@@ -81,6 +81,22 @@ collections:
     images:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
 
+  poems_2024:
+    layout: 'poempage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2024.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  notes_2024:
+    layout: 'notepage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2024.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+
+
   poems_2023:
     layout: 'poempage'
     output: true # this must be true for your .md pages to be built to html!
@@ -208,6 +224,16 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
+      poems_2024:
+        content: true # whether or not to index page content
+        fields: # the metadata fields to index
+          - transtitle
+          - title
+          - author
+          - translator
+          - poem
+          - transpoem
+          - language
       poems_2023:
         content: true # whether or not to index page content
         fields: # the metadata fields to index

@@ -53,6 +53,10 @@ jobs:
       - name: build translator tags
         run: bundle exec rake wax:pages translator_tags
 ## poems
+      - name: clobber poems 2024
+        run: bundle exec rake wax:clobber poems_2024
+      - name: build poems 2024
+        run: bundle exec rake wax:pages poems_2024
       - name: clobber poems 2023
         run: bundle exec rake wax:clobber poems_2023
       - name: build poems 2023
@@ -74,6 +78,10 @@ jobs:
       - name: build poems 2019
         run: bundle exec rake wax:pages poems_2019
 ## notes
+      - name: clobber notes 2024
+        run: bundle exec rake wax:clobber notes_2024
+      - name: build notes 2024
+        run: bundle exec rake wax:pages notes_2024
       - name: clobber notes 2023
         run: bundle exec rake wax:clobber notes_2023
       - name: build notes 2023

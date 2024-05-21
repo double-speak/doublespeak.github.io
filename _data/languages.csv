@@ -6,13 +6,14 @@ bosnian,Bosnian,language
 bulgarian,Bulgarian,language
 chinese,Chinese,language
 czech,Czech,language
-esperanto,Esperanto,language
 dutch,Dutch,language
+english,English,language
+esperanto,Esperanto,language
 farsi,Farsi,language
 french,French,language
 friulian,Friulian,language
-german,German,language
 genovese,Genovese,language
+german,German,language
 greek,Greek,language
 hebrew,Hebrew,language
 hindi,Hindi,language
@@ -25,8 +26,8 @@ kashmiri,Kashmiri,language
 korean,Korean,language
 latin,Latin,language
 lithuanian,Lithuanian,language
-mandarin,Mandarin,language
 malayalam,Malayalam,language
+mandarin,Mandarin,language
 middle_english,Middle English,language
 norwegian,Norwegian,language
 old_english,Old English,language
@@ -36,6 +37,7 @@ portuguese,Portuguese,language
 russian,Russian,language
 sanskrit,Sanskrit,language
 sinhalese,Sinhalese,language
+siswati,siSwati,language
 spanish,Spanish,language
 swedish,Swedish,language
 tagalog,Tagalog,language
@@ -43,5 +45,3 @@ thai,Thai,language
 turkish,Turkish,language
 urdu,Urdu,language
 yiddish,Yiddish,language
-english,English,language
-siswati,siSwati,language
