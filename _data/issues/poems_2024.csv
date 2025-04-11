@@ -1,9 +1,10 @@
 pid,title,transtitle,author,translator,poem,transpoem,note,abio,tbio,epigraph,language,lang,image,imagecredit,origaudio,translaudio,edition,pagetype,wrapformat,sequence
-editor-note,,Editor's Note,Editors,,,,"<p class=""ednote"">Dear readers,</p>
-    <p class=""ednote"">Our Editor's Note will be coming soon. Thank you for your patience.</p>
-    <p>Sincerely,<br><em>DoubleSpeak</em></p>
-    <p> . </p>
-    <p> . </p>",,,,,en,/assets/images/images_24/ednote24.png,photo by Katherine Rozsypalek,,,2024,frontmatter,,0
+editor-note,,,,,,,"<p class=""ednote"">Dear readers,</p>
+<p class=""ednote"">Welcome to the 2024 issue of <em>DoubleSpeak</em>. Our apologies for the few bumps you might find here as we transition to a new online platform, and assurances that we’ll smooth them soon.</p>
+<p>Sincerely,<br><em>DoubleSpeak</em></p>
+<p> . </p>
+<p> . </p>
+",,,,,en,/assets/images/images_24/ednote24.png,photo by Katherine Rozsypalek,,,2024,frontmatter,,0
 machine-of-the-world,A Máquina do Mundo,The Machine of the World,Carlos Drummond de Andrade,Anthony Doyle,"e como eu palmilhasse vagamente
 uma estrada de Minas, pedregosa,
 e no fecho da tarde um sino rouco
