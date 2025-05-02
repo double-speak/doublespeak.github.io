@@ -1,4 +1,10 @@
 pid,title,transtitle,author,translator,poem,transpoem,note,abio,tbio,language,lang,image,image2,imagecredit,imagecredit2,origaudio,translaudio,edition,pagetype
+editor-note,Editorial Note,Editor's Note,<em>DoubleSpeak</em>,,,,"<p class=""ednote"">Dear readers,</p>
+<p class=""ednote"">Welcome to the 2018 issue of <em>DoubleSpeak</em>. </p>
+<p>Sincerely,<br><em>DoubleSpeak</em></p>
+<p> . </p>
+<p> . </p>
+",,,,,en,/assets/images/images_18/ednote18.png,,,,2018,frontmatter,,0
 black-woman,Femme Noire,Black Woman,Léopold Sédar Senghor,Donnisa Edmonds,"Femme nue, femme noire
 Vêtue de ta couleur qui est vie, de ta forme qui est beauté!
 J’ai grandi à ton ombre ; la douceur de tes mains bandait
