@@ -129,7 +129,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://www.doublespeakmagazine.org
+      url: https://doublespeakjournal.org/
     runs-on: ubuntu-latest
     needs: build
     steps:
