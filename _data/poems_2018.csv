@@ -1,10 +1,5 @@
-pid,title,transtitle,author,translator,poem,transpoem,note,abio,tbio,language,lang,image,image2,imagecredit,imagecredit2,origaudio,translaudio,edition,pagetype,
-editor-note,Editorial Note,Editor's Note,<em>DoubleSpeak</em>,,,,"<p class=""ednote"">Dear readers,</p>
-<p class=""ednote"">Welcome to the 2018 issue of <em>DoubleSpeak</em>. </p>
-<p>Sincerely,<br><em>DoubleSpeak</em></p>
-<p> . </p>
-<p> . </p>
-",,,,,en,/assets/images/images_18/ednote18.png,,,,2018,frontmatter,,0
+pid,title,transtitle,author,translator,poem,transpoem,note,abio,tbio,language,lang,image,image2,imagecredit,imagecredit2,origaudio,translaudio,edition,pagetype
+,,,,,,,,,,,,,,,,,,,
 black-woman,Femme Noire,Black Woman,Léopold Sédar Senghor,Donnisa Edmonds,"Femme nue, femme noire
 Vêtue de ta couleur qui est vie, de ta forme qui est beauté!
 J’ai grandi à ton ombre ; la douceur de tes mains bandait
@@ -61,7 +56,7 @@ Bare Woman, Black Woman
 I sing of your passing beauty, a form that I fix among the Eternal
 Before jealous fate reduces you to ashes that will nourish the roots of life. ","<p>This poem is deeply rooted in the principles of Négritude that Senghor helped establish in France in the 1930s. The idea of celebrating and finding pride in blackness is evident in the way this poem conceptualizes a “Black Woman” as an almost otherworldly being, one that demands respect for simply her way of existing. As American society today is at a crossroads in terms of representations of Black women in media and in literature, I decided to translate this poem as a way to bring attention to the way poetry discusses Black women and to the fact that Black women are often absent in mainstream poetry.</p>","<p>Léopald Sédar Senghor was born in Joal, Senegal in 1906 and died in 2001 in Verson, France. At the age of eight, Senghor began his studies at a Christian boarding school. He later went onto to attend seminary but decided to leave the religious life behind to attend a secular university. After he completed his Baccalaureate, he continued his studies in France where formed a group with other intellectuals from the African diaspora. This group would eventually begin the Négritude movement in response to the racism present in France. This movement became a strong foundation for the rest of his literary work. The majority of his poetry addresses his opinions on Blackness and the complex relationship between France and its former colonies. The idea of Négritude also served as the basis for his political thought as he later advocated for Senegal’s independence from France. After the separation, he became the first president of Senegal. When he took his leave from politics he retired to France to publish more poetry and he was inducted into the French Academy as their first African member. He remains well-known as one of the most important twentieth-century African intellectuals.</p>
 ","<p>Donnisa Edmonds is a sophomore at Penn currently majoring in Biological Basis of Behavior with a minor in French and Francophone studies. She was born in the Bronx, but she grew up in a small college town in Ohio. She was inspired to try translation for the first time by her roommates.</p>
-",French,fr,,,,,,,2018,submission,
+",French,fr,,,,,,,2018,submission
 here-i-love-you,Aquí te amo,Here I Love You,Pablo Neruda,Sam Friskey,"Here I love you. 
 In the dark pines, the wind untangles its being.
 The phosphorescent moon glows on the wandering waters. 
@@ -126,7 +121,7 @@ La luna hace girar su rodaje de sueño.
 
 Me miran con tus ojos las estrellas más grandes. 
 Y como yo te amo, los pinos en el viento, quieren cantar tu nombre con sus hojas de alambre.","<p>When I was translating “Aquí te amo,” I was struck by the beautiful simplicity of reflexive verbs in Spanish. The second line, for example, features the verb <em>se desenreda</em>, which directly translates to “unravels itself.” As I translated, then, I wanted to subtly explore the idea of self within the context of a relationship. As the opening stanzas feature a handful of reflexive verbs, I began to ask myself: In relationships, what do we do to ourselves, and what do we do to others?</p>
-<p>The primary challenge of translating this poem was preserving the romantic nature of the work, as the poem is, of course, a love poem written in a romance language. I tried to preserve alliteration wherever I could and add alliteration in other parts of the poem to make up for alliterations that failed to translate well.</p>","<p>Pablo Neruda, a Chilean poet and diplomat, is known for his command of romance and sensuality. As best said by Robert Clemens in the <em>Saturday Review</em>, <em>Veinte poemas de amor y una canción desesperada</em> “established [Neruda] at the outset as a frank, sensuous spokesman for love.” At the time of the coup d’état led by Pinochet, Neruda was hospitalized for cancer-related causes. He died soon after, and it is believed that he was poisoned by the Pinochet regime.</p>","<p>Sam Friskey is an undergraduate at Penn who is majoring in English and earning a certificate in Hispanic studies. After being raised in a household that only spoke English, she has made it her life goal to become bilingual.</p>",Spanish,es,,,,,,,2018,submission,
+<p>The primary challenge of translating this poem was preserving the romantic nature of the work, as the poem is, of course, a love poem written in a romance language. I tried to preserve alliteration wherever I could and add alliteration in other parts of the poem to make up for alliterations that failed to translate well.</p>","<p>Pablo Neruda, a Chilean poet and diplomat, is known for his command of romance and sensuality. As best said by Robert Clemens in the <em>Saturday Review</em>, <em>Veinte poemas de amor y una canción desesperada</em> “established [Neruda] at the outset as a frank, sensuous spokesman for love.” At the time of the coup d’état led by Pinochet, Neruda was hospitalized for cancer-related causes. He died soon after, and it is believed that he was poisoned by the Pinochet regime.</p>","<p>Sam Friskey is an undergraduate at Penn who is majoring in English and earning a certificate in Hispanic studies. After being raised in a household that only spoke English, she has made it her life goal to become bilingual.</p>",Spanish,es,,,,,,,2018,submission
 where-does-such-tenderness-come-from,Откуда такая нежность?,Where Does Such Tenderness Come From?,Marina Tsvetaeva,Jianing Zhao,"<em>О. Э. Мандельштаму</em>
 
 Откуда такая нежность?
@@ -168,7 +163,7 @@ Where does such tenderness come from?
 And what to do with it — you youthful, 
 sauntering sly singer, have I known 
 eyelashes longer than yours?
-","<p>I used to believe that poetry is what’s lost during translations. Now that I’m carrying out a translation myself, I’m thinking about how to minimize the loss, what to lose, and what to gain in turn. I tried to stick to Tsvetaeva’s original syntax as much as possible although it’s often all over the place, a result of both the flexibility of Russian sentence structures and Tsvetaeva’s personal style. I supplied my own interpretations at places of ambiguity. For example, in the second stanza, Tsvetaeva didn’t specify whose eyes are “at my own” (literally) or “gazing into my own,” so I added “— your eyes” in the end of the third line, to keep the stylistic consistency with the first line (as Tsvetaeva did) and simultaneously distinguish it: while both stars and eyes “rose and dimmed,” I proposed that there is a difference between the vast vagueness of the stars and the specificity of the eyes that are the narrator’s concern. Another example is last two lines of the third stanza: literally translated, it would be “had a wedding in church — oh tenderness! — on the singer’s own chest.” Instead of resorting to the clumsy word “married,” I chose words that I thought captured the essence of the scene depicted while evoking the idea of a church wedding. I eventually settled on “charm,” “crown,” and “rest,” keeping in mind also the flow and rhythm of the stanza. Although Tsvetaeva didn’t employ a rhyme scheme, since this stanza is about a hymn, I decided to use some end rhyme and alliteration to render a sense of melody — one that’s a bit arbitrary and non-systematic (especially with the abruptness of the intrusion “oh tenderness!”), corresponding to the tonality of the hymn drifting through the dark night. I also framed the ending to resemble the ending of the first stanza, except that it turns from a declarative sentence to a question, which corresponds to the evolution of the narrator’s emotions throughout the poem — from trying to find a rational explanation for the unusual tenderness she feels towards him, to the realization of her complete infatuation despite all doubts and criticisms. The ending, therefore, is an exclamation masked by a question.</p>","<p>Marina Ivanovna Tsvetaeva (<span lang=”ru”>Марина Ивановна Цветаева</span>) was a Russian poet, born in Moscow, whose work is considered among the greatest in twentieth-century Russian literature. She lived through and wrote of the Russian Revolution of 1917. Her daughter died of the famine that followed the revolution, her husband was executed on espionage charges, and she committed suicide in 1941. Many of her poems (such as a famous one starting with “I’ve cut open my veins…”) handle rather heavy topics with daring linguistic experimentation, establishing her as a striking chronicler of her times and of the human condition in tragic circumstances. In this poem, however, we see another side of Tsvetaeva: she had a brief love affair with Osip Mandelstam, also a famous poet, when her husband was in the White Army. This poem was written in 1916 and dedicated to Mandelstam: here we can see her passion, her interest in temporality, and her emerging style of circular structure and unusual syntax.</p>","<p>Jianing Zhao is a sophomore at Princeton University majoring in comparative literature and minoring in archaeology, theater, and gender and sexuality studies. Based on her unrequited love for Soviet rock music, poetry (especially by Mayakovsky), and plays (especially those by Schwartz), she believes she was born in the wrong time and place. One of her favorite places in the world is a Soviet non-conformist art gallery hidden in the depth of an alley in St. Petersburg.</p>",Russian,ru,,,,,,,2018,submission,
+","<p>I used to believe that poetry is what’s lost during translations. Now that I’m carrying out a translation myself, I’m thinking about how to minimize the loss, what to lose, and what to gain in turn. I tried to stick to Tsvetaeva’s original syntax as much as possible although it’s often all over the place, a result of both the flexibility of Russian sentence structures and Tsvetaeva’s personal style. I supplied my own interpretations at places of ambiguity. For example, in the second stanza, Tsvetaeva didn’t specify whose eyes are “at my own” (literally) or “gazing into my own,” so I added “— your eyes” in the end of the third line, to keep the stylistic consistency with the first line (as Tsvetaeva did) and simultaneously distinguish it: while both stars and eyes “rose and dimmed,” I proposed that there is a difference between the vast vagueness of the stars and the specificity of the eyes that are the narrator’s concern. Another example is last two lines of the third stanza: literally translated, it would be “had a wedding in church — oh tenderness! — on the singer’s own chest.” Instead of resorting to the clumsy word “married,” I chose words that I thought captured the essence of the scene depicted while evoking the idea of a church wedding. I eventually settled on “charm,” “crown,” and “rest,” keeping in mind also the flow and rhythm of the stanza. Although Tsvetaeva didn’t employ a rhyme scheme, since this stanza is about a hymn, I decided to use some end rhyme and alliteration to render a sense of melody — one that’s a bit arbitrary and non-systematic (especially with the abruptness of the intrusion “oh tenderness!”), corresponding to the tonality of the hymn drifting through the dark night. I also framed the ending to resemble the ending of the first stanza, except that it turns from a declarative sentence to a question, which corresponds to the evolution of the narrator’s emotions throughout the poem — from trying to find a rational explanation for the unusual tenderness she feels towards him, to the realization of her complete infatuation despite all doubts and criticisms. The ending, therefore, is an exclamation masked by a question.</p>","<p>Marina Ivanovna Tsvetaeva (<span lang=”ru”>Марина Ивановна Цветаева</span>) was a Russian poet, born in Moscow, whose work is considered among the greatest in twentieth-century Russian literature. She lived through and wrote of the Russian Revolution of 1917. Her daughter died of the famine that followed the revolution, her husband was executed on espionage charges, and she committed suicide in 1941. Many of her poems (such as a famous one starting with “I’ve cut open my veins…”) handle rather heavy topics with daring linguistic experimentation, establishing her as a striking chronicler of her times and of the human condition in tragic circumstances. In this poem, however, we see another side of Tsvetaeva: she had a brief love affair with Osip Mandelstam, also a famous poet, when her husband was in the White Army. This poem was written in 1916 and dedicated to Mandelstam: here we can see her passion, her interest in temporality, and her emerging style of circular structure and unusual syntax.</p>","<p>Jianing Zhao is a sophomore at Princeton University majoring in comparative literature and minoring in archaeology, theater, and gender and sexuality studies. Based on her unrequited love for Soviet rock music, poetry (especially by Mayakovsky), and plays (especially those by Schwartz), she believes she was born in the wrong time and place. One of her favorite places in the world is a Soviet non-conformist art gallery hidden in the depth of an alley in St. Petersburg.</p>",Russian,ru,,,,,,,2018,submission
 repose,Giacere,Repose,Antonia Pozzi,Stephanie Diaz,"Ora l’annientamento blando
 di nuotare riversa,
 col sole in viso
@@ -190,7 +185,7 @@ with wide eyes,
 night’s white life.
 ","<p>I do not speak Italian, so this creating this translation was quite a trip! With the assistance of native speakers as well as Professor Silverman (who teaches a course on poetry translation at Penn), I was able to get a better feeling of the poem. In “Repose,” I focused on highlighting the intense physical sensations that Pozzi invokes in her version. In the line “– il cervello penetrato di rosso / traverso le palpebre chiuse –” Pozzi makes use of dashes to distinguish the sensation described from the rest of the piece. In my translation, I felt that, given the nature of the physicality of this line, it would be interesting to manifest this distinction in a more physical form. For this reason, I chose to indent the lines “brain interrupted by red / across eyes shut tight.”</p>
 <p>“Tonight, on the sheets, in the same shape,” was perhaps the hardest part of the poem to translate, as I really loved the repetition of <em>s</em> sounds in Pozzi’s version. While I didn’t manage to find an equivalent for “tonight” that had a similar sound, I worked to maintain the <em>s</em> and <em>sh</em> sounds in the rest of the sentence.</p>
-","<p>Antonia Pozzi was an Italian poet born in 1912 and died at the age of 26 in 1938. After her death her father collected poems and letters written by Pozzi and assembled them in a book which he heavily censored. Most notably, Pozzi’s father made efforts to exclude mentions of Pozzi’s longtime lover and former teacher. Newer publications and translations of her work have made efforts to reduce these “edits” and present a version which is more in line with Pozzi’s poems.</p>",,Italian,it,../assets/images/images_18/pozzi.jpeg,,photo by Sara Casella,,,,2018,submission,
+","<p>Antonia Pozzi was an Italian poet born in 1912 and died at the age of 26 in 1938. After her death her father collected poems and letters written by Pozzi and assembled them in a book which he heavily censored. Most notably, Pozzi’s father made efforts to exclude mentions of Pozzi’s longtime lover and former teacher. Newer publications and translations of her work have made efforts to reduce these “edits” and present a version which is more in line with Pozzi’s poems.</p>",,Italian,it,{{site.baseurl}}/assets/images/images_18/pozzi.jpeg,,photo by Sara Casella,,,,2018,submission
 three-sonnets-extracted-from-les-amours,Trois Sonnets extraits de Les Amours,Three Sonnets extracted from Les Amours,Pierre de Ronsard,Saagar Asnani,"<h1>VI</h1>
 
 Ces liens d’or, ceste bouche vermeille,
@@ -292,7 +287,7 @@ And that my name, by the fire in thine eyes
 Be defamed. Epirus’s peaks, ever higher
 Were defamèd by the flames in the skies.","<p>In French, there are two separate words for describing the rewriting of literature from one language to another. There is <em>traduction</em>, which is simply translating the meaning of a string of words from one language to another. One has the freedom to change the syntax, grammar, word choice, and even rhyme scheme in a <em>traduction</em>. The other word to describe such a process is <em>translation</em>, which means rewriting the work in another language while maintaining the original artistry, such as the rhyme scheme, the word choice, the rhythm, and flow. In essence, in a <em>translation</em>, one is writing poetry of one’s own, using the original as a baseline. In this case, I have chosen to do a <em>translation</em> of three sonnets from Pierre de Ronsard’s collection <em>Les Amours</em>. Written in <em>Moyen Français</em>, or Middle French, in the mid-sixteenth century, <em>Les Amours</em> is a collection of sonnets describing Ronsard’s love for a young woman named Cassandre. What Beatrice is to Dante, what Laure is to Petrarch, Cassandre is to Ronsard. He poured all his creative gifts into describing her virtues and beauty in these sonnets, a style of poem heavily influenced by Petrarch and Shakespeare before him. I chose these three sonnets to give a glimpse into Ronsard’s mastery of the genre. His succinct yet vague declarations of love tug at the heartstrings and depict love through a variety of lenses: physical, spiritual, and philosophical.</p>
 <p>I attempted to keep with Ronsard’s original poetry by keeping the decasyllabic form throughout the three sonnets. Every line is ten syllables long and follows the same rhyme scheme as the original. The first two quatrains are ABBAABBA, the next couplet is always CC, and the final quatrain alternates between DEED and DEDE. Finally, I attempted to keep with the time period and used the informal, ancient form “thou” for any parallel usage in the original French. What strikes me the most about Ronsard’s creativity, is that it holds true for tales and clichés of <em>amour</em> even today, nearly five hundred years later.</p>","<p>Pierre de Ronsard was born in 1524 in a small village known as Couture-Sur-Loir, on the banks of the Loir River. Ronsard finished his education in Paris and quickly made a name for himself as a great poet. Growing up in Renaissance France, he started his career under Madeleine de France as a translator of classical works into vernacular languages. After her death, he found himself in Paris and slowly made acquaintances with several other up-and-coming poets and authors of the time, including Antoine de Baïf, Pontus de Tyard, Joachim du Bellay, and Étienne Jodelle, among others. This group came to be called <em>La Pléiade</em>, modeled after the Alexandrian Pleiad of ancient times. Ronsard was the founding member of the group, and has since been known as one of the greatest lyricists of French history. Today, <em>La Pléiade</em> forms an essential part of the French literary canon and is studied by French literature students of all levels.</p>","<p>Saagar Asnani is a junior in the College of Arts and Sciences at Penn studying biology, French, and music. He has always considered himself an avid Francophile at heart, and more recently a medievalist, concentrating much of his French studies on the Middle Ages and Renaissance, mostly in the realm of literature. Having spent a semester in Lyon studying the works of poets like Ronsard and Chrétien de Troyes, he wishes to make these masterpieces accessible to a wider audience and to translate more works from Middle and Old French into English. He plays viola in various groups across campus, including the Penn Symphony, and intends to go to medical school after finishing his undergraduate education.</p>
-",Middle French,fr,,,,,,,2018,submission,
+",Middle French,fr,,,,,,,2018,submission
 meadow-in-the-forest,Die Wiese im Wald,Meadow in the Forest,Paul Celan,Michaela Kotziers,"Die grüne Fahne gehißt hat der Abend: mein Herz hat
                                                          geträumt…
 
@@ -312,7 +307,7 @@ So you sleep more deeply now. You know that I cried.
 
 For the star I dug a grave deep down, a spear throw from here —
 the mark of your cheek, my parting from heaven.","<p>Moving to Germany this past year has brought on a number of changes in my life, from the way that I drink my coffee, to keeping a travel bag packed for a new city every other weekend. These changes, of course, don’t begin to touch what it’s like to live in a new language, to feel at times that you’ve once again become a child lost for words. I spend many of my afternoons in Nuremberg walking through the city’s parks. Trees have always helped me to feel at home, no matter where I’ve moved. There’s something reassuring about seeing tree branches in a new place and thinking, <em>Yes, they’re peaceful here, too</em>. I was disappointed to realize, though, that when I tried to describe the quiet of these parks in German, the language in which they’d grown, I fell short. So when I came across a collection of Paul Celan’s early works in the city library and saw how many poems he’d written about parks and meadows, I felt a rush of gratitude for his words. I find translation to be an act of coming closer to a poem. You engage with every word before carrying the whole into a new language. Translating Celan has brought me closer to his individual poems and the German language, but even more importantly, it’s reminded me that our thoughts and emotional relationships to this world are shared. The impressions that I had in English existed in German as well, already years before. And this is why I love translation. It challenges us to look beyond something artificial, such as language, and find kinship with other humans.</p>
-<p>Translating from German to English always brings trouble when it comes to German definite articles and their cases, which simply don’t exist in English. Without definite articles to indicate accusative and nominative case, there’s less freedom to change the order of subject and object in an English sentence. For this reason, I’ve reordered words in certain lines but otherwise stayed quite close to the original.</p>","<p>Paul Celan was born in 1920 in Chernivsti, the capital of Bukovina, formerly northern Romania. Because Romania’s medical faculty was closed to him as a Jewish man, Celan began his first years of university study in France in 1938–1939. The Soviet Union occupied Bukovina in 1940, with Chernivtsi later coming under German occupation in 1941. Celan’s parents were sent to forced labor camps in June 1942; his father died some months later from typhus, and his mother was killed by an SS guard. Celan was sent to a forced labor battalion in northeast Romania from the summer of 1942 until early 1944. In 1945, Celan relocated to Bucharest, where he translated Russian into Romanian and published his first poems. Before moving to Paris in 1948, Celan lived in Vienna, his only residence with German as its exclusive vernacular language. His departure from Vienna was an attempt to leave behind his youth and its unbearable memories of war and his parents’ deaths. This geographic and emotional move is also manifested as a break between Celan’s early and later poetic works. Paul Celan died in Paris in April, 1970.</p>","<p>Michaela Kotziers received her BA in English literature with concentrations in creative writing and medieval studies from the University of Pennsylvania in 2017. She is currently teaching English in Nuremberg, Germany.</p>",German,de,,,,,,,2018,submission,
+<p>Translating from German to English always brings trouble when it comes to German definite articles and their cases, which simply don’t exist in English. Without definite articles to indicate accusative and nominative case, there’s less freedom to change the order of subject and object in an English sentence. For this reason, I’ve reordered words in certain lines but otherwise stayed quite close to the original.</p>","<p>Paul Celan was born in 1920 in Chernivsti, the capital of Bukovina, formerly northern Romania. Because Romania’s medical faculty was closed to him as a Jewish man, Celan began his first years of university study in France in 1938–1939. The Soviet Union occupied Bukovina in 1940, with Chernivtsi later coming under German occupation in 1941. Celan’s parents were sent to forced labor camps in June 1942; his father died some months later from typhus, and his mother was killed by an SS guard. Celan was sent to a forced labor battalion in northeast Romania from the summer of 1942 until early 1944. In 1945, Celan relocated to Bucharest, where he translated Russian into Romanian and published his first poems. Before moving to Paris in 1948, Celan lived in Vienna, his only residence with German as its exclusive vernacular language. His departure from Vienna was an attempt to leave behind his youth and its unbearable memories of war and his parents’ deaths. This geographic and emotional move is also manifested as a break between Celan’s early and later poetic works. Paul Celan died in Paris in April, 1970.</p>","<p>Michaela Kotziers received her BA in English literature with concentrations in creative writing and medieval studies from the University of Pennsylvania in 2017. She is currently teaching English in Nuremberg, Germany.</p>",German,de,,,,,,,2018,submission
 as-much-as-you-can,Όσο Mπορείς Αναγνωρισμένα,As Much As You Can,C. P. Cavafy,Josh Bryer,"Κι αν δεν μπορείς να κάμεις την ζωή σου όπως την θέλεις,
 τούτο προσπάθησε τουλάχιστον
 όσο μπορείς: μην την εξευτελίζεις
@@ -333,7 +328,7 @@ Do not corrupt it by hurrying it along,
 taking it around and overexposing it 
 to the daily idleness
 of social events and parties,
-until it becomes some strange duty.","<p>The last line in the original poem reads “<span lang=""el"">ώς που να γίνει σα μια ξένη φορτική</span>.” A literal word-for-word translation renders “until it becomes like a strange burden/load/cargo.” This last noun, <span lang=""el"">φορτική</span>, evokes a material object, creating a poetic relationship between “it” (life) and physical weight. However, Cavafy is describing how best to shape a life that just does not seem to work out as planned: “try as much as you can / not to corrupt it…until it becomes like <span lang=""el"">μια ξένη φορτική</span>.” Though “a strange burden” also makes sense in English, the emphatic <span lang=""el"">μια</span> (“one,” “a)” and the intangibility of life suggest that <span lang=""el"">φορτική</span> carries the metaphorical weight of “duty” or “obligation.” A life that is not shaped as you would like becomes something unfamiliar — a burden, an obligation and duty.</p>","<p>Famed for poems such as “Ithaka,” “Waiting for the Barbarians,” and “The City,” Constantine Petrou Cavafy was a Greek poet who lived from April 29, 1863, to April 29, 1933. Cavafy lived most of his life in Alexandria, where he was born and where he died, though he spent several years abroad in Britain and Constantinople. While alive, Cavafy published his poems in newspapers, periodicals, and annuals, only generating collections of his work upon request. Representative of the cosmopolitan Greek diaspora, Cavafy’s works appeal to international audiences. Cavafy’s works were first introduced to an English-speaking audience in 1919 and the first volume of his works was published posthumously in 1935. His poems broadly fit in three categories that, unsurprisingly, often overlap: historical, philosophical, and sensual.</p>","<p>At Penn, Josh Bryer studied classical languages and literature, learned modern Greek, and took classes in Hindi and Urdu. In the study of classical Greek and Latin, precision of translation is essential. However, such precision is often equated to substituting Greek or Latin words with their English equivalents as much as a dictionary entry will allow. Professor Taije Silverman’s translation of poetry course challenged his perception of the process of translation and, in turn, his understanding of how to accurately translate meaning; he learned that meaning is too often lost in word-for-word translation.</p>",Greek,el,../assets/images/images_18/cavafy.jpg,,photo by Leila Pearlman,,,,2018,submission,
+until it becomes some strange duty.","<p>The last line in the original poem reads “<span lang=""el"">ώς που να γίνει σα μια ξένη φορτική</span>.” A literal word-for-word translation renders “until it becomes like a strange burden/load/cargo.” This last noun, <span lang=""el"">φορτική</span>, evokes a material object, creating a poetic relationship between “it” (life) and physical weight. However, Cavafy is describing how best to shape a life that just does not seem to work out as planned: “try as much as you can / not to corrupt it…until it becomes like <span lang=""el"">μια ξένη φορτική</span>.” Though “a strange burden” also makes sense in English, the emphatic <span lang=""el"">μια</span> (“one,” “a)” and the intangibility of life suggest that <span lang=""el"">φορτική</span> carries the metaphorical weight of “duty” or “obligation.” A life that is not shaped as you would like becomes something unfamiliar — a burden, an obligation and duty.</p>","<p>Famed for poems such as “Ithaka,” “Waiting for the Barbarians,” and “The City,” Constantine Petrou Cavafy was a Greek poet who lived from April 29, 1863, to April 29, 1933. Cavafy lived most of his life in Alexandria, where he was born and where he died, though he spent several years abroad in Britain and Constantinople. While alive, Cavafy published his poems in newspapers, periodicals, and annuals, only generating collections of his work upon request. Representative of the cosmopolitan Greek diaspora, Cavafy’s works appeal to international audiences. Cavafy’s works were first introduced to an English-speaking audience in 1919 and the first volume of his works was published posthumously in 1935. His poems broadly fit in three categories that, unsurprisingly, often overlap: historical, philosophical, and sensual.</p>","<p>At Penn, Josh Bryer studied classical languages and literature, learned modern Greek, and took classes in Hindi and Urdu. In the study of classical Greek and Latin, precision of translation is essential. However, such precision is often equated to substituting Greek or Latin words with their English equivalents as much as a dictionary entry will allow. Professor Taije Silverman’s translation of poetry course challenged his perception of the process of translation and, in turn, his understanding of how to accurately translate meaning; he learned that meaning is too often lost in word-for-word translation.</p>",Greek,el,{{site.baseurl}}/assets/images/images_18/cavafy.jpg,,photo by Leila Pearlman,,,,2018,submission
 riddle-47,Riddle 47,Riddle 47,Anonymous,Samantha Pious,"<h1>Latin</h1>
 Littera me pavit nec quid sit littera novi: 
 In libris vixi nec sum studiosior inde; 
@@ -408,7 +403,7 @@ and won’t grow wiser by a crumb!
 <p>Of course, translation practices in the fourteenth century were very different from what they are today. Middle French narrative couplets tend to lend themselves to far more prolixity than Old English alliterative verse, and I’m afraid the poet may have allowed his feelings to run away with him. The French riddle is twenty lines — more than twice the length of its Old English source, to say nothing of the Latin original!</p>
 
 <p>Finally, I’ve added a relatively faithful Modern English translation of the “Middle French” version — except that, for better or worse, I embellished the English verse with far more internal rhymes than there are in the source text. Am I as flighty as the book moth? Or did I contemplate too much?</p>","<p>Symphosius was the author of a renowned collection of one hundred Latin riddles, entitled <em>Aenigmata</em>. The collection was most likely written in the late antique period. Many of the riddles, along with their solutions, have been transmitted.</p>","<p>Samantha Pious is a doctoral student in comparative literature at the University of Pennsylvania. Her first book, <em>A Crown of Violets</em> (Headmistress Press, 2017) offers a selection of verse translations from the French poetry of Renée Vivien. Some of her translations and poems have appeared in <em>Berkeley Poetry Review</em>, <em>Lavender Review</em>, <em>Lunch Ticket</em>, <em>Mezzo Cammin</em>, and other publications.</p>
-","Old English, Middle French, English",en,,,,,,,2018,submission,
+","Old English, Middle French, English",en,,,,,,,2018,submission
 if-you-dont-come-home-im-too-afraid-to-age,你不来，我不敢老去,"If You Don't Come Home, I'm Too Afraid to Age",Li Jizong,Kejia Wang,"其实我已经老了
 我老得让门前的那棵小树替我掉叶子
 我老得掉了一层土
@@ -444,7 +439,7 @@ the world turns and time goes on flying
 I say “if you don’t come home, I’m too afraid to age”
 because when the world is alone
 I still dimly wish that you are praying along","<p>I came across this poem of Li Jizong’s while browsing another Chinese amateur translator’s blog (<span lang=""zh"">黎历</span>/Lily) and was immediately struck by its lyricism and theme. As an international student living far away from home, I was touched by the melancholy of the (implied) parental speaker of the poem, especially since the poem was composed in my mother tongue. I want to bring this poem to Penn because I want to remind everyone in the Penn community of their aging parents and how they may miss us — even if the parent-child relationship is fraught, as it often turns out to be and often for good reason.</p>
-<p>To begin the translating process, I first produced a rough draft on my own, then compared it to the other translator Lily’s work. I anguished over “truly” versus “really” and “actually,” I anguished over the parallel structures in the original poem, I anguished over the long lines and over the use of time. The Chinese language’s employment of past and future tenses is quite ambiguous and I chose to value clarity over retaining the multitude of potential meanings. I owe my translation of line 14 (“the world turns and time goes on flying”) to Lily. The original Chinese has five characters (“world / change / time / move / location”) but Lily’s interpretation (“while the world is changing and time is flying”) reminded me of W. S. Merwin’s “Unknown Age” (“the bird lies still while the light goes on flying”), one of my favorite English-language poems, and gave me the inspiration to come up with my own translation of the line.</p>","<p>Li Jizong (<span lang=""zh"">李继宗</span>) is a middle-aged contemporary Hui Chinese poet. Born and raised in Gansu in Northwestern China, he has been published in prestigious Chinese poetry journals from <em>Shikan</em> and <em>Shanhua</em> to <em>People’s Literature</em> and <em>Fangcao</em>. He is referred to as one of “Gansu Poetry’s Eight Riders.” Li’s poems are loved for their conciseness, lyricism, subtlety, and examination of the human condition. He is often compared to Li Bai at his most mundane introspective, and the absence of punctuation in his poetry reminds many of the work of W. S. Merwin.</p>",<p>Kejia Wang spent half of her life speaking Chinese and half of her life speaking English. She graduated from Penn in 2016 with a BSE in bioengineering and a minor in English. She is now studying English and science and technology studies at the University of British Columbia.</p>,Chinese,zh,../assets/images/images_18/jizong.JPG,,photo by Vivian Yuxin Wen,,,,2018,submission,
+<p>To begin the translating process, I first produced a rough draft on my own, then compared it to the other translator Lily’s work. I anguished over “truly” versus “really” and “actually,” I anguished over the parallel structures in the original poem, I anguished over the long lines and over the use of time. The Chinese language’s employment of past and future tenses is quite ambiguous and I chose to value clarity over retaining the multitude of potential meanings. I owe my translation of line 14 (“the world turns and time goes on flying”) to Lily. The original Chinese has five characters (“world / change / time / move / location”) but Lily’s interpretation (“while the world is changing and time is flying”) reminded me of W. S. Merwin’s “Unknown Age” (“the bird lies still while the light goes on flying”), one of my favorite English-language poems, and gave me the inspiration to come up with my own translation of the line.</p>","<p>Li Jizong (<span lang=""zh"">李继宗</span>) is a middle-aged contemporary Hui Chinese poet. Born and raised in Gansu in Northwestern China, he has been published in prestigious Chinese poetry journals from <em>Shikan</em> and <em>Shanhua</em> to <em>People’s Literature</em> and <em>Fangcao</em>. He is referred to as one of “Gansu Poetry’s Eight Riders.” Li’s poems are loved for their conciseness, lyricism, subtlety, and examination of the human condition. He is often compared to Li Bai at his most mundane introspective, and the absence of punctuation in his poetry reminds many of the work of W. S. Merwin.</p>",<p>Kejia Wang spent half of her life speaking Chinese and half of her life speaking English. She graduated from Penn in 2016 with a BSE in bioengineering and a minor in English. She is now studying English and science and technology studies at the University of British Columbia.</p>,Chinese,zh,{{site.baseurl}}/assets/images/images_18/jizong.JPG,,photo by Vivian Yuxin Wen,,,,2018,submission
 wait,Warte,Wait,Nelly Sachs,Alex Stern,"Warte
 bis die Buchstaben heimgekehrt sind
 aus der lodernden Wüste 
@@ -478,7 +473,7 @@ dying as it sings,
 
         There was, in the Beginning, 
                 my beloved. 
-                        There was —","<p>This poem takes place in a wonderful knot, where letters and words pulse and push through a world that is beginning and ending at the same time. It is appropriate for Nelly Sachs, who, like her friend, penpal, and fellow Holocaust survivor Paul Celan, believed certain things to be inexpressible. “Warte” takes place in the future, the present, and the past, sometimes using conflicting or confusing tenses. It simultaneously speaks to the Bible and the Big Bang. In the process of translation, I tried to bring all those elements through.</p>","<p>Nelly Sachs (December 10, 1891–May 12, 1970) was a Jewish poet, playwright, and translator. She grew up in Germany but fled to Sweden in 1940 after she found out she was to be imprisoned in a labor camp. Though she escaped the Holocaust, she later had several nervous breakdowns driven by her fear of the Nazis. Many of her poems center on Jewish suffering: when she won the Nobel Prize for Literature in 1966, she said, “I represent the tragedy of the Jewish people.”</p>",<p>Alex Stern is a Penn alum and an audio producer. She lives in Philadelphia.</p>,German,de,,,,,,,2018,submission,
+                        There was —","<p>This poem takes place in a wonderful knot, where letters and words pulse and push through a world that is beginning and ending at the same time. It is appropriate for Nelly Sachs, who, like her friend, penpal, and fellow Holocaust survivor Paul Celan, believed certain things to be inexpressible. “Warte” takes place in the future, the present, and the past, sometimes using conflicting or confusing tenses. It simultaneously speaks to the Bible and the Big Bang. In the process of translation, I tried to bring all those elements through.</p>","<p>Nelly Sachs (December 10, 1891–May 12, 1970) was a Jewish poet, playwright, and translator. She grew up in Germany but fled to Sweden in 1940 after she found out she was to be imprisoned in a labor camp. Though she escaped the Holocaust, she later had several nervous breakdowns driven by her fear of the Nazis. Many of her poems center on Jewish suffering: when she won the Nobel Prize for Literature in 1966, she said, “I represent the tragedy of the Jewish people.”</p>",<p>Alex Stern is a Penn alum and an audio producer. She lives in Philadelphia.</p>,German,de,,,,,,,2018,submission
 poesia,Poesia,Poesia,Giovanni Pascoli,Stefano Pietrosanti,"I
 
 Io sono una lampada ch’arda
@@ -711,9 +706,64 @@ he steps back on the darkest of paths,
 <p>The decision to focus on the flow of images informed my choices in translation. In order not to break this flow, I often either adopted non-literal solutions, or I chose options more prosaic than the original. For example, “la veglia che fila” in the fourth verse describes weavers who are awake (keeping vigil) at night and spinning. These are encompassed by the lamp’s light, and the lamp looks at them, not at the night; though, directly introducing night and weavers allowed me to synthetically fix the image of the half-shaded room. Or, at the beginning of the shrine’s canvas, I was more explicit than the original in describing the “tribute of olive,” since the idea of an olive-oil lamp is quite remote to our present experience and the original passing mention would have complicated a passage which, to the best of my understanding, was not meant to be obscure. On the other hand, I tried to stay as close as possible to the original in matters of sound and structure, and I thus preserved the rhyme scheme at the end of each stanza.</p>
 
 <p>I have always been driven to Pascoli’s work by his struggle to remember what’s gone, to strengthen what’s close and frail, to fight a battle to save “temples that the Gods shall not save” (Borges). I’m happy to present to you “Poesia” as a sample of how Pascoli framed this effort as a hopeful and humble task. Before doing so, I want to thank Professor Taije Silverman, who reviewed my early drafts, and whose advice has been incredibly insightful and helpful in the process of translation.</p>
-","<p>With his death in 1912, Pascoli is celebrated as a founder of modern Italian verse.<P>","<p>I am an Italian PhD student in economics. I have studied t at Rome, Turin, and now here at the University of Pennsylvania. My work mostly focuses on how the real and banking/financial sectors interact. Having always been convinced that excessive specialization is boring, I try my best to also put some effort in literature and political thought. In these fields I am just an happy amateur and an avid reader.</p>
-",Italian,it,../assets/images/images_18/pascoli.JPG,,photo by Taije Silverman,,,,2018,submission,
-interview-with-ellen-doré-watson,Interview with Ellen Doré Watson conducted by Michaela Kotziers,Interview with Ellen Doré Watson,Ellen Doré Watson,Ellen Doré Watson,,,"<h2>Interview conducted by Michaela Kotziers</h2>
+",,"<p>I am an Italian PhD student in economics. I have studied t at Rome, Turin, and now here at the University of Pennsylvania. My work mostly focuses on how the real and banking/financial sectors interact. Having always been convinced that excessive specialization is boring, I try my best to also put some effort in literature and political thought. In these fields I am just an happy amateur and an avid reader.</p>
+",Italian,it,{{site.baseurl}}/assets/images/images_18/pascoli.JPG,,photo by Taije Silverman,,,,2018,submission
+the-birth-of-the-poem,O Nascimento do poema,The Birth of the Poem,Adélia Prado,Ellen Doré Watson,"O que existe são coisas,
+não palavras. Por isso
+te ouvirei sem cansaço recitar em búlgaro
+como olharei montanhas durante horas,
+ou nuvens.
+Sinais valem palavras,
+palavras valem coisas,
+coisas não valem nada.
+Entender é um rapto,
+é o mesmo que desentender.
+Minha mãe morrendo,
+não faltou a meu choro este arco-íris:
+o luto irá bem com meus cabelos claros.
+Granito, lápide, crepe,
+são belas coisas ou palavras belas?
+Mármore, sol, lixívia.
+Entender me seqüestra de palavra e de coisa,
+arremessa-me ao curacao da poesia.
+Por isso escrevo os poemas
+pra velar o que ameaça minha fraqueza mortal.
+Recuso-me a acreditar que homens inventam as línguas,
+é o Espírito quem me impele,
+quer sera adorado
+e sopra no meu ouvido este hino litúrgico:
+baldes, vassouras, dívidas e medo,
+desejo de ver Jonathan e ser condenada ao inferno.
+Não construí as pirâmides. Sou Deus.
+","What exists are things,
+not words. That’s why
+I’ll tirelessly listen as you recite poems in Bulgarian
+just as I’ll spend hours staring at mountains
+or clouds. 
+Signs stand for words, 
+words stand for things,
+things stand for nothing. 
+Understanding comes like rapture,
+it’s the same as not understanding. 
+When my mother lay dying, even my weeping
+contained a rainbow:
+black will highlight my fair hair. 
+Granite, gravestone, crepe —
+beautiful things or beautiful words? 
+Marble, sun, cellar door. 
+Understanding steals me away from words and things 
+and flings me into the heart of poetry. 
+That’s why I write poems,
+to hide what threatens my fatal weakness. 
+I refuse to believe that people invented languages, 
+it’s the Spirit driving me, 
+wanting to be adored. 
+He whispers this hymn in my ear:
+buckets, brooms, debts, and fear, 
+the desire to see Jonathan and be condemned to hell. 
+I don’t build the pyramids. I am God. 
+",,"<p>Adélia Prado was born and has lived all her life in the provincial, industrial city of Divinópolis, Minas Gerais, Brazil. Prado earned degrees in philosophy and religious education, taught school until 1979, and served as cultural liaison for the city of Divinópolis. Since the release of her debut collection <em>Baggage</em>, Prado has published an additional seven volumes of poetry and seven of prose.</p>","<p>Ellen Doré Watson is the author of four books of poems: <em>Ladder Music</em>, <em>We Live in Bodies</em>, <em>This Sharpening</em>, <em>Dogged Hearts</em> and most recently <em>pray me stay eager</em>, released in January 2018. Watson has also translated twelve books from the Brazilian Portuguese, including works by the acclaimed poet Adélia Prado. Since 1999, Watson has been the director of the poetry center at Smith College. She also serves as the poetry and translation editor of the <em>Massachusetts Review</em>.</p>",Portuguese,pt,,,,,,,2018,submission
+interview-with-ellen-dore-watson,Interview with Ellen Doré Watson,Interview with Ellen Doré Watson,Adélia Prado,Ellen Doré Watson,,,"<h2>Interview conducted by Michaela Kotziers</h2>
 
 <p><strong>Michaela Kotziers:</strong> I’d love to hear about how you came to translate Prado. I’m interested in whether you were on the hunt to translate Portuguese when you were in Brazil.</p>
 
@@ -733,7 +783,7 @@ interview-with-ellen-doré-watson,Interview with Ellen Doré Watson conducted by
 <p><strong>Kotziers:</strong> I’m wondering if we could talk a bit more about the process of your collaboration with Prado, in those sessions when you sat down at the table and you wrote with her because she doesn’t speak English. Could you talk about explaining your translations to her once they were written?</p>
 
 <p><strong>Watson:</strong> Well, I sort of paraphrased into Portuguese what I had on the page. After a while, when we both trusted each other and I trusted what I knew and knew what I didn’t, it was more of a matter of opening a book to a certain poem and me having my questions ready. There were times when there are references to Biblical moments and although I grew up with the Bible, it was a Protestant upbringing and I don’t remember it all that well, and so she would go to great lengths to bring out the Bible and show me what’s in it and the verse. We just sit there, and sometimes we get distracted and wander off somewhere else in our talking, and then I would say, “Ok, the next question is…” There was a time in her life when she kind of lost her faith for a while. She was clinically depressed and felt like her belief had somehow gotten frail, and she didn’t write for a number of years. She’s such a fervent believer that doubt wasn’t something that she could really accept. There are poems that refer to that, and we always talk about how much to reveal.</p>
-<p><strong>Kotziers:</strong> I can imagine that having known her poems so deeply and in a way that any other reader, without having spoken to her, wouldn’t quite know them, it would be difficult not to let that wander into your mind while you were translating and let it show too much, maybe even in ways that she hadn’t.</p>
+<strong>Kotziers:</strong> I can imagine that having known her poems so deeply and in a way that any other reader, without having spoken to her, wouldn’t quite know them, it would be difficult not to let that wander into your mind while you were translating and let it show too much, maybe even in ways that she hadn’t.</p>
 
 <p><strong>Watson:</strong> Exactly. I didn’t want the poem to reveal more than she put in the poem. Whether she’d want that or not, it really should have been loyal to the poem.</p>
 
@@ -769,34 +819,7 @@ interview-with-ellen-doré-watson,Interview with Ellen Doré Watson conducted by
 
 <p><strong>Kotziers:</strong> I’m wondering, for translation to be the guardian of metaphor, do you feel like this means realizing that there are metaphors in every language? Is it preserving that this is a powerful thing we do in the way we think as humans?</p>
 
-<p><strong>Watson:</strong> In a way, it’s that you are a guardian, so you need to take it seriously. It’s the commonality, that it happens in both languages, but you have to be creative in order to preserve it. I think translation is not an intellectual act. I think it’s an act of poem-making, in which the metaphor is supreme.</p>","<p>Ellen Doré Watson is the author of five books of poems: <em>Ladder Music</em>, <em>We Live in Bodies</em>, <em>This Sharpening</em>, <em>Dogged Hearts</em> and most recently <em>pray me stay eager</em>, released in January 2018. Watson has also translated twelve books from the Brazilian Portuguese, including works by the acclaimed poet Adélia Prado. Since 1999, Watson has been the director of the poetry center at Smith College. She also serves as the poetry and translation editor of the <em>Massachusetts Review</em>.</p>",,,,,,,,,,2018,interview,
-the-birth-of-the-poem,nacimiento del poema,The Birth of the Poem,Adélia Prado,Ellen Doré Watson,"O que existe são coisas,
-não palavras. Por isso
-te ouvirei sem cansaço recitar em búlgaro
-como olharei montanhas durante horas,
-ou nuvens.
-Sinais valem palavras,
-palavras valem coisas,
-coisas não valem nada.
-Entender é um rapto,
-é o mesmo que desentender.
-Minha mãe morrendo,
-não faltou a meu choro este arco-íris:
-o luto irá bem com meus cabelos claros.
-Granito, lápide, crepe,
-são belas coisas ou palavras belas?
-Mármore, sol, lixívia.
-Entender me seqüestra de palavra e de coisa,
-arremessa-me ao curacao da poesia.
-Por isso escrevo os poemas
-pra velar o que ameaça minha fraqueza mortal.
-Recuso-me a acreditar que homens inventam as línguas,
-é o Espírito quem me impele,
-quer sera adorado
-e sopra no meu ouvido este hino litúrgico:
-baldes, vassouras, dívidas e medo,
-desejo de ver Jonathan e ser condenada ao inferno.
-Não construí as pirâmides. Sou Deus.","What exists are things,",,"<p>Adélia Prado was born and has lived all her life in the provincial, industrial city of Divinópolis, Minas Gerais, Brazil. Prado earned degrees in philosophy and religious education, taught school until 1979, and served as cultural liaison for the city of Divinópolis. Since the release of her debut collection <em>Baggage</em>, Prado has published an additional seven volumes of poetry and seven of prose.</p>","<p>Ellen Doré Watson is the author of five books of poems: <em>Ladder Music</em>, <em>We Live in Bodies</em>, <em>This Sharpening</em>, <em>Dogged Hearts</em> and most recently <em>pray me stay eager</em>, released in January 2018. Watson has also translated twelve books from the Brazilian Portuguese, including works by the acclaimed poet Adélia Prado. Since 1999, Watson has been the director of the poetry center at Smith College. She also serves as the poetry and translation editor of the <em>Massachusetts Review</em>.</p>",Portuguese,pt,,,,,,,,,
+<p><strong>Watson:</strong> In a way, it’s that you are a guardian, so you need to take it seriously. It’s the commonality, that it happens in both languages, but you have to be creative in order to preserve it. I think translation is not an intellectual act. I think it’s an act of poem-making, in which the metaphor is supreme.</p>","<p>Adélia Prado was born and has lived all her life in the provincial, industrial city of Divinópolis, Minas Gerais, Brazil. Prado earned degrees in philosophy and religious education, taught school until 1979, and served as cultural liaison for the city of Divinópolis. Since the release of her debut collection <em>Baggage</em>, Prado has published an additional seven volumes of poetry and seven of prose.</p>","<p>Ellen Doré Watson is the author of four books of poems: <em>Ladder Music</em>, <em>We Live in Bodies</em>, <em>This Sharpening</em>, <em>Dogged Hearts</em> and most recently <em>pray me stay eager</em>, released in January 2018. Watson has also translated twelve books from the Brazilian Portuguese, including works by the acclaimed poet Adélia Prado. Since 1999, Watson has been the director of the poetry center at Smith College. She also serves as the poetry and translation editor of the <em>Massachusetts Review</em>.</p>",Portuguese,pt,,,,,,,2018,interview
 fair-lady-yu,虞美人,Fair Lady Yü,Li Yu,Yuchao Wang,"春花秋月何時了， 
 往事知多少。
 小樓昨夜又東風，
@@ -829,9 +852,34 @@ fair-lady-yu,虞美人,Fair Lady Yü,Li Yu,Yuchao Wang,"春花秋月何時了，
 <p>The above is mostly my extended justification (and self-exoneration) for choosing not to preserve the form of the original, as I found no satisfying way to do so. Of course, my judgment was partly clouded by my affection for the original, which I learned to recite from a young age and which represents a dense and riveting cultural history to me. It was my deliberate choice to write the translation as a third-person narrative, since it allowed me to integrate the historical background into the translation rather than provide a separate and dry footnote that broke the reader’s immersion in the story. The specific plot with guards and a dream, however, was arbitrary — I scribbled down the scene immediately after it came into my head during a relaxing hot shower. I hope this turns out to be an accessible and enjoyable translation.</p>
  
 <p>Well, at least I managed to get away without a title.</p>
-",not words. That’s why,"<p>As one can see, this translation is in no way faithful to the form of the original. The original was created under a set pattern (<em>ci pai</em>, <span lang=""zh"">詞牌</span>) that predetermined the number of characters in every line as well as their tones and rhyme scheme. By compromising on word-for-word fidelity, rhyme, and original imagery, among other things, however, this expansion into a narrative prose has the advantage of integrating background information with the scene and emotion of the poem by using Li’s dream, which is purely imagined. I borrowed ideas from the original in recreating this scene. For example, flowers, which indicate the advent of spring, are engraved on the windows. Another important feature is that Li does not speak a word in this entire narrative, nor does he show any emotion. This reservedness and the guard’s disrespect towards Li imply his miserable current situation, as he lives under the mercy of the new ruler, and help to tangibly illustrate the sorrow beyond words. Li’s personal reflections (dead elder brother, love for Buddhism, execution of loyal officials, passion for music and dance) are historically true.</p> ","<p>Li Yu (<span lang=""zh"">李煜</span>, 937–978 CE) was the third and the last ruler of the Southern Tang regime during the Five Dynasties and Ten Kingdoms period (907–960 CE). Li was not interested in politics, but rather indulged himself with the arts and sensual pleasures. He surrendered the capital to the ruler of the Song regime and lived under what we today may call home custody, though he did not live in his former home, the palace. This drastic change in his life circumstances resulted in a huge shift in the tone and content of his poems. Li switched from flowery descriptions of sensual pleasures to a more colloquial vocabulary and wrote laments about larger and heavier topics such as regime changes and the vicissitudes of life. His laments pioneered <em>ci</em>, a form of Chinese poetry. The stark contrast between his political incapability and his artistic genius makes Li a famous exemplar of the power of fate; people ponder the irony of the tragic destiny that turned him into one of the greatest Chinese poets of all time.</p>
+","Word-for-word Translation:
+
+Spring flowers, autumn moon, when will end?
+Foregone things, know much or little.
+Last night, again, east wind in small pavilion,
+Former country, in bright moonlight, bears not turning head back on. 
+
+Carved railings, jade stairs, should still exist,
+Only those crimson faces* have changed.
+Ask thee can have how much sorrow,
+Just like a river of spring tide eastward flow. 
+
+*Literally translated from the original, “crimson faces” (<span lang=""zh"">朱顏</span>) is a variation of “red faces,” (<span lang=""zh"">紅顏</span>) possibly as a result of the poet’s effort to fit the tone of set pattern. “Red faces” is a common phrase to refer to beautiful young girls in classical Chinese and does not suggest embarrassment or exertion. 
+
+<h1>Translation:</h1>
+
+<p>Li Yü, dressed in a coarse, gray robe, was in a plain room with bare wooden furniture. The windows, carved with shapes of flowers, clattered in the wind. Li stood up to open the window and looked out at the fresh green leaves and budding flowers in the yard. He stared at them for a moment without any expression of joy or sorrow, turned, and sat back down beside a low table, leaving the windows open. Against the closed doors, he could see shadows of two armed guards. “They are to protect the safety of your Highness,” he remembered being told when he surrendered his kingdom to the army just outside the city walls. “At least no more innocent people in the capital will die because of me,” he thought. “Ah, it’s the third year now.”</p>  
+
+<p>In a spring drowsiness, Li dozed off against the wall. In a rare dream, he was back in his carefree teenage years. He was never thought of as the next ruler, as his older brother was in line to succeed. Li indulged himself with the maidens’ dancing and singing, with poetry and painting, and with Buddhism. When his brother died unexpectedly, and he became the ruler, he was not too bothered either — he had even more freedom and resources to do what he liked. Pitiable were the officials who tried to divert his attention to politics and military affairs — they were simply executed.</p>
+
+<p>“Lunch!” a guard shouted as he barged into the room, holding a wooden tray with two bowls of plain buns and some pickles. Li, startled awake, silently watched the guard walking in, putting the plate on the table, and closing the door.</p>
+
+<p>“What are my people eating now?” Li found his thoughts wandering back to the dream a moment ago. “But it's not my country anymore.” He quickly self-corrected. “Yet, how many of them are still alive? What kind of life are they living? Hopefully better than mine, of course. The palace will probably still be there — it’s too magnificent and too much work to rebuild. Did they change the drapes, and throw away my writing? Ah, the talented maidens, they will probably never be as generously rewarded.”</p>
+
+<p>“Oh, this ruthless spring brings so much memory. But I shan’t blame the spring — how many more springs will I see? Ha. I used to say I knew of sorrow. Sorrow when an exquisite piece of music eventually ended, sorrow when my beloved wife died, sorrow when I couldn’t live long enough to read and write all the beautiful things. But now, now, I only long to see the Yangtze River one more time in the spring, with all its majestic tides, and let out a sigh.”</p>
+","<p>As one can see, this translation is in no way faithful to the form of the original. The original was created under a set pattern (<em>ci pai</em>, <span lang=""zh"">詞牌</span>) that predetermined the number of characters in every line as well as their tones and rhyme scheme. By compromising on word-for-word fidelity, rhyme, and original imagery, among other things, however, this expansion into a narrative prose has the advantage of integrating background information with the scene and emotion of the poem by using Li’s dream, which is purely imagined. I borrowed ideas from the original in recreating this scene. For example, flowers, which indicate the advent of spring, are engraved on the windows. Another important feature is that Li does not speak a word in this entire narrative, nor does he show any emotion. This reservedness and the guard’s disrespect towards Li imply his miserable current situation, as he lives under the mercy of the new ruler, and help to tangibly illustrate the sorrow beyond words. Li’s personal reflections (dead elder brother, love for Buddhism, execution of loyal officials, passion for music and dance) are historically true.</p> ","<p>Li Yu (<span lang=""zh"">李煜</span>, 937–978 CE) was the third and the last ruler of the Southern Tang regime during the Five Dynasties and Ten Kingdoms period (907–960 CE). Li was not interested in politics, but rather indulged himself with the arts and sensual pleasures. He surrendered the capital to the ruler of the Song regime and lived under what we today may call home custody, though he did not live in his former home, the palace. This drastic change in his life circumstances resulted in a huge shift in the tone and content of his poems. Li switched from flowery descriptions of sensual pleasures to a more colloquial vocabulary and wrote laments about larger and heavier topics such as regime changes and the vicissitudes of life. His laments pioneered <em>ci</em>, a form of Chinese poetry. The stark contrast between his political incapability and his artistic genius makes Li a famous exemplar of the power of fate; people ponder the irony of the tragic destiny that turned him into one of the greatest Chinese poets of all time.</p>
 <p>This poem was written during the period of Li’s home custody, and it was speculated that the grief and lament in this poem contributed to the new ruler’s decision to poison Li.</p>
-","<p>Yuchao Wang is a sophomore at Haverford College intending to major in cognitive science. Aside from amusing himself with imagination (like he has done here), he loves classical music, plays classical guitar, and also studies classics. How they all contain some form of “classic” is a completely irrelevant coincidence.</p>",Chinese,zh,../assets/images/images_18/li_yu.JPG,,photo by Jasmine Phun,,,,2018,musing,
+","<p>Yuchao Wang is a sophomore at Haverford College intending to major in cognitive science. Aside from amusing himself with imagination (like he has done here), he loves classical music, plays classical guitar, and also studies classics. How they all contain some form of “classic” is a completely irrelevant coincidence.</p>",Chinese,zh,{{site.baseurl}}/assets/images/images_18/li_yu.JPG,,photo by Jasmine Phun,,,,2018,musing
 life-song,Lebenslied,Life Song,Paul Celan,Michaela Kotziers,"Die Käfer der Nacht
 kommen.
 Sie wandern über deine Hände in die Welt.
@@ -846,7 +894,21 @@ gelegt über die Schluchten.
 Du bist die Brücke, doch du weißt es nicht.
 
 Die Käfer der Nacht
-kommen.",I’ll tirelessly listen as you recite poems in Bulgarian,"<p>The most difficult task in translating this poem was preserving its ambiguity. When translating, you choose to phrase a line in one way rather than another, and the new language assigns meaning to the poem. Especially when a poem is deeply metaphorical, it can be difficult to separate the task of translation from the task of interpretation. “Wimpern sind kein Zeichen mehr,” for example, might also have been translated to “lashes lose significance” or, more literally, “lashes are no longer signs.” All have quite different implications, none of which are wrong. In the end, “lashes cease to signify” won in order to preserve the rhyme with lines four and eight.</p>","<p>Paul Celan was born in 1920 in Chernivsti, the capital of Bukovina, formerly northern Romania. Because Romania’s medical faculty was closed to him as a Jewish man, Celan began his first years of university study in France in 1938–1939. The Soviet Union occupied Bukovina in 1940, with Chernivtsi later coming under German occupation in 1941. Celan’s parents were sent to forced labor camps in June 1942; his father died some months later from typhus, and his mother was killed by an SS guard. Celan was sent to a forced labor battalion in northeast Romania from the summer of 1942 until early 1944. In 1945, Celan relocated to Bucharest, where he translated Russian into Romanian and published his first poems. Before moving to Paris in 1948, Celan lived in Vienna, his only residence with German as its exclusive vernacular language. His departure from Vienna was an attempt to leave behind his youth and its unbearable memories of war and his parents’ deaths. This geographic and emotional move is also manifested as a break between Celan’s early and later poetic works. Paul Celan died in Paris in April, 1970.</p>","<p>Michaela Kotziers received her BA in English literature with concentrations in creative writing and medieval studies from the University of Pennsylvania in 2017. She is currently teaching English in Nuremberg, Germany.</p>",German,de,,,,,,,2018,submission,
+kommen.","The beetles of the night
+come flying.
+They wander across your hands into the world.
+A wind has blown you by,
+laid you across the canyon.
+You are the bridge and you don’t know it.
+
+Sleep well then, sleep: eyelashes cease to signify.
+
+A wind has blown you by,
+laid you across the canyon.
+You are the bridge, truly you don’t know it.
+
+The beetles of the night
+come flying.","<p>The most difficult task in translating this poem was preserving its ambiguity. When translating, you choose to phrase a line in one way rather than another, and the new language assigns meaning to the poem. Especially when a poem is deeply metaphorical, it can be difficult to separate the task of translation from the task of interpretation. “Wimpern sind kein Zeichen mehr,” for example, might also have been translated to “lashes lose significance” or, more literally, “lashes are no longer signs.” All have quite different implications, none of which are wrong. In the end, “lashes cease to signify” won in order to preserve the rhyme with lines four and eight.</p>","<p>Paul Celan was born in 1920 in Chernivsti, the capital of Bukovina, formerly northern Romania. Because Romania’s medical faculty was closed to him as a Jewish man, Celan began his first years of university study in France in 1938–1939. The Soviet Union occupied Bukovina in 1940, with Chernivtsi later coming under German occupation in 1941. Celan’s parents were sent to forced labor camps in June 1942; his father died some months later from typhus, and his mother was killed by an SS guard. Celan was sent to a forced labor battalion in northeast Romania from the summer of 1942 until early 1944. In 1945, Celan relocated to Bucharest, where he translated Russian into Romanian and published his first poems. Before moving to Paris in 1948, Celan lived in Vienna, his only residence with German as its exclusive vernacular language. His departure from Vienna was an attempt to leave behind his youth and its unbearable memories of war and his parents’ deaths. This geographic and emotional move is also manifested as a break between Celan’s early and later poetic works. Paul Celan died in Paris in April, 1970.</p>","<p>Michaela Kotziers received her BA in English literature with concentrations in creative writing and medieval studies from the University of Pennsylvania in 2017. She is currently teaching English in Nuremberg, Germany.</p>",German,de,,,,,,,2018,submission
 moon,ירח,Moon,Nathan Alterman,Josh Glahn,"גם למראה נושן 
 יש רגע של הולדת 
 שמיים בלי ציפור 
@@ -865,7 +927,25 @@ moon,ירח,Moon,Nathan Alterman,Josh Glahn,"גם למראה נושן
 שוקט העץ באודם עגילים 
 ולעד לא תיעקר ממני אלוהינו 
 תוגת צעצועיך הגדולים
-",just as I’ll spend hours staring at mountains,"<p>Hebrew’s rigid grammatical structure and distinctive syntax lends itself to the creation of poetry. The relative dearth of definite articles and ease in compounding words allows authors to cut extraneous verbiage and contributes to the exact definition of subjects and agents. This exacting and gendered language proves difficult in translation, and ambiguity arises in literal translation. This rendition of “Moon” reformulates unclear syntax to preserve the original meaning while maintaining the line-breaks laid out by Alterman. Furthermore, in the original, each stanza contains a disrupted rhyme scheme, ABCAC, wherein the final syllable of each line is rhymed. Unfortunately, the sing-song quality of the original created by this rhyme scheme was lost in translation.</p>","<p>Nathan Alterman was born to Jewish parents in Warsaw, Poland, in August 1910. At the age of fifteen, he relocated to Tel Aviv, which was then under British mandate. Despite training to be an agronomist in France, he began a promising career as a poet, journalist, translator, and activist. Alterman became an active participant in the establishment of the State of Israel and the reclamation of Hebrew as its national language. His poetry narrates the Jewish people’s longing for a homeland and the sacrifices necessary to secure a brighter future. His voice was highly influential in the development of contemporary Israel consciousness, and his poem “The Silver Platter” (1967) is still traditionally performed on Israeli Independence Day. Alterman died in 1970.</p>","<p>Josh Glahn is a senior at the University of Pennsylvania majoring in English with an individualized concentration in narrative bioethics. Josh grew up with a variety of languages spoken around the house, including Biblical and Modern Hebrew. After high school, Josh spent a year in Israel at <em>Yeshivat Har Etzion</em> where he pursued Talmud and advanced Judaic studies.</p>",Hebrew,he,,,,,,,2018,submission,
+","Even a common sight has its moment of rebirth,
+a sky devoid of birds,
+alien and entrenched 
+against the moonlit night. Beyond your window lies
+a city drowned by wailing crickets.
+
+And when you see the path extending on,
+the road stares back at you,
+and the Moon
+impaled on the spike of a cypress,
+you ask “God, is it all still out there?
+May we still seek it
+with whispered tones?”
+
+The water watches us from within its pools,
+through the resting trees
+with their rouge blossoms.
+“Never take from me, God,
+the sorrow of your monumental playthings.”","<p>Hebrew’s rigid grammatical structure and distinctive syntax lends itself to the creation of poetry. The relative dearth of definite articles and ease in compounding words allows authors to cut extraneous verbiage and contributes to the exact definition of subjects and agents. This exacting and gendered language proves difficult in translation, and ambiguity arises in literal translation. This rendition of “Moon” reformulates unclear syntax to preserve the original meaning while maintaining the line-breaks laid out by Alterman. Furthermore, in the original, each stanza contains a disrupted rhyme scheme, ABCAC, wherein the final syllable of each line is rhymed. Unfortunately, the sing-song quality of the original created by this rhyme scheme was lost in translation.</p>","<p>Nathan Alterman was born to Jewish parents in Warsaw, Poland, in August 1910. At the age of fifteen, he relocated to Tel Aviv, which was then under British mandate. Despite training to be an agronomist in France, he began a promising career as a poet, journalist, translator, and activist. Alterman became an active participant in the establishment of the State of Israel and the reclamation of Hebrew as its national language. His poetry narrates the Jewish people’s longing for a homeland and the sacrifices necessary to secure a brighter future. His voice was highly influential in the development of contemporary Israel consciousness, and his poem “The Silver Platter” (1967) is still traditionally performed on Israeli Independence Day. Alterman died in 1970.</p>","<p>Josh Glahn is a senior at the University of Pennsylvania majoring in English with an individualized concentration in narrative bioethics. Josh grew up with a variety of languages spoken around the house, including Biblical and Modern Hebrew. After high school, Josh spent a year in Israel at <em>Yeshivat Har Etzion</em> where he pursued Talmud and advanced Judaic studies.</p>",Hebrew,he,,,,,,,2018,submission
 memories-watch-me,Minnena Ser Mig,Memories Watch Me,Tomas Tranströmer,Rhosean Asmah,"En junimorgon då det är för tidigt
 aat vakna men för sent att somna om.
 
@@ -876,8 +956,18 @@ De syns inte, de smälter helt ihop
 med bakgrunden, perfekta kameleonter.
 
 De är så nära att jag hör dem andas
-fast fågelsången är bedövande.",or clouds.,"<p>I translated Tomas Tranströmer’s “Memories Watch Me” without any familiarity with the original Swedish. As a result, my translation is based more on direct translations of individual words, in-class discussions of the poem, and my knowledge of the author rather than on my comprehension of the original poem.</p>
-<p>In the original, a period ends the first stanza, but I decided to end the stanza with a colon. The colon brings a cohesiveness to the translation, connecting the speaker’s experience to the memories and the June day. The second stanza of the poem was the most difficult for me to translate. The problem was not in conveying what the original poem was saying, but in structuring those ideas in English and fitting them into the rest of the translation. I played around with several arrangements, but ultimately settled on the current version because I felt that it sounded the most cohesive when read aloud. Other arrangements of that stanza that I read in other translations or tried to create myself were awkward and confused the meaning of the poem. My only concern for the current version is in the lack of punctuation, which could cause one to rush as they read it. Nevertheless, these decisions, among others, allow my translation of “Memories Watch Me” to both accurately represent my interpretation of Tranströmer’s thoughts and be pleasing to the ear.</p>","<p>Born in 1931, Tomas Tranströmer was a Swedish poet, translator, and psychologist. The publication of <em>17 dikter</em> (<em>17 Poems</em>), his first book of poetry, was well-received, and he went on to become one of the foremost Swedish poets of his generation. Tranströmer’s work is internationally acclaimed and has been translated into over sixty languages. His poetry is admired for its distinctive language and form, most evident in his use of metaphor and his concision. He chose to address ideas of human isolation, memory, and identity and to integrate them with images of nature. In 1990, Tranströmer suffered a stroke that left him paralyzed and robbed him of his ability to speak. Nevertheless, he continued to write poetry. In the same year, he received the Neustadt International Prize for Literature and in 2011, he received the Nobel Prize in Literature, for which he had been nominated every year since 1993. Tranströmer passed away in 2015 at the age of eighty-three.</p>","<p>Rhosean Asmah is a sophomore studying linguistics at the University of Pennsylvania. She has always been interested in languages and culture, which led her to take a class in poetry translation during her freshman year. She realized that she does like poetry and loves the challenge that comes with translating it. So far, she has only translated poems from languages she is unfamiliar with, but is currently working on poetry translations from French and Mandarin Chinese, both of which she studies.</p>",Swedish,sv,../assets/images/images_18/transtromer.jpg,,photo by Simon Bazilian,,,,2018,submission,
+fast fågelsången är bedövande.","A morning in June, too soon to wake
+yet too late to fall back asleep:
+
+I must go out into the greenery packed
+with memories that follow me with their eyes.
+
+They can’t be seen, they merge entirely
+with the background, true chameleons. 
+
+They’re so close that I can hear them breathe
+even though the birdsong is deafening. ","<p>I translated Tomas Tranströmer’s “Memories Watch Me” without any familiarity with the original Swedish. As a result, my translation is based more on direct translations of individual words, in-class discussions of the poem, and my knowledge of the author rather than on my comprehension of the original poem.</p>
+<p>In the original, a period ends the first stanza, but I decided to end the stanza with a colon. The colon brings a cohesiveness to the translation, connecting the speaker’s experience to the memories and the June day. The second stanza of the poem was the most difficult for me to translate. The problem was not in conveying what the original poem was saying, but in structuring those ideas in English and fitting them into the rest of the translation. I played around with several arrangements, but ultimately settled on the current version because I felt that it sounded the most cohesive when read aloud. Other arrangements of that stanza that I read in other translations or tried to create myself were awkward and confused the meaning of the poem. My only concern for the current version is in the lack of punctuation, which could cause one to rush as they read it. Nevertheless, these decisions, among others, allow my translation of “Memories Watch Me” to both accurately represent my interpretation of Tranströmer’s thoughts and be pleasing to the ear.</p>","<p>Born in 1931, Tomas Tranströmer was a Swedish poet, translator, and psychologist. The publication of <em>17 dikter</em> (<em>17 Poems</em>), his first book of poetry, was well-received, and he went on to become one of the foremost Swedish poets of his generation. Tranströmer’s work is internationally acclaimed and has been translated into over sixty languages. His poetry is admired for its distinctive language and form, most evident in his use of metaphor and his concision. He chose to address ideas of human isolation, memory, and identity and to integrate them with images of nature. In 1990, Tranströmer suffered a stroke that left him paralyzed and robbed him of his ability to speak. Nevertheless, he continued to write poetry. In the same year, he received the Neustadt International Prize for Literature and in 2011, he received the Nobel Prize in Literature, for which he had been nominated every year since 1993. Tranströmer passed away in 2015 at the age of eighty-three.</p>","<p>Rhosean Asmah is a sophomore studying linguistics at the University of Pennsylvania. She has always been interested in languages and culture, which led her to take a class in poetry translation during her freshman year. She realized that she does like poetry and loves the challenge that comes with translating it. So far, she has only translated poems from languages she is unfamiliar with, but is currently working on poetry translations from French and Mandarin Chinese, both of which she studies.</p>",Swedish,sv,{{site.baseurl}}/assets/images/images_18/transtromer.jpg,,photo by Simon Bazilian,,,,2018,submission
 you-are-not-poetry,Poesía no eres tú,You Are Not Poetry,Rosario Castellanos,Stephanie Diaz,"Porque si tú existieras
 tendría que existir yo también. Y eso es mentira.
 
@@ -896,9 +986,27 @@ al que tiene la voz
 y reclama el oído del que escucha.
 
 El otro. Con el otro
-la humanidad, el diálogo, la poesía, comienzan.","Signs stand for words,","<p>Above all, this poem seemed both intensely personal and yet widely universal. In this poem Castellanos addresses her quarrels with the concept of what a relationship is and what this means to her existence as an individual. I think that it’s particularly important to consider the time and place in which “Poesía no eres tú” was created, as the role of women at this point in time was often very restrictive.</p>
+la humanidad, el diálogo, la poesía, comienzan.","Because if you existed,
+I would also have to, and that is wrong.
+
+Nothing but us: the couple, 
+sexes reconciled in a child,
+heads together, neither studying the other
+(to avoid turning into a mirror)
+instead looking ahead towards each other.
+
+The other: mediator, judge, balance
+between opposites. Witness, knot
+in which the broken is tied.
+
+The other: muteness that asks
+a voice of he who has one
+and demands the ear of he who listens
+
+The other. With whom
+humanity, dialogue, and poetry begin.","<p>Above all, this poem seemed both intensely personal and yet widely universal. In this poem Castellanos addresses her quarrels with the concept of what a relationship is and what this means to her existence as an individual. I think that it’s particularly important to consider the time and place in which “Poesía no eres tú” was created, as the role of women at this point in time was often very restrictive.</p>
 <p>In translating this poem, I stumbled on the first stanza because of the line “Y eso es mentira.” First of all, the line begins with the word “and,” a conjunction which every elementary teacher clearly told me should never start a sentence. In the original version I found that <em>y</em> has a more disruptive quality because the sharp sound of its pronunciation does not allow you to rest after the end of the first sentence, but instead pushes you into Castellanos’ next definitive line. Secondly, the sentence itself is a bit tricky since it does not use an article. Literally, the line reads “And that is lie.” To clear up this issue, I first tried to simply insert the article and say, “And that is a lie.” However, I found that this version did not quite pack the same punch that Castellano’s did. I then realized that what made her version so impactful was that I could imagine the lines being spoken in an argument, so my translation of “and that is <em>wrong</em>” was my effort to replicate this effect.</p>
-","<p>Rosario Castellanos, born in 1925, was a Mexican writer and diplomat who is considered one of Mexico’s most important authors and poets. Castellanos wrote on topics including Mexican culture and gender, often focusing on the intersection and implications of being a Mexican woman. Another subject which Castellanos highlighted in her works was the indigenous population of her native Chiapas. In addition to addressing injustices committed against this population, Castellanos also worked with the National Indigenous Institute to improve literacy in this region. In her later years Castellano served as the Mexican ambassador to Israel.</p>",,Spanish,es,,,,,,,2018,submission,
+","<p>Rosario Castellanos, born in 1925, was a Mexican writer and diplomat who is considered one of Mexico’s most important authors and poets. Castellanos wrote on topics including Mexican culture and gender, often focusing on the intersection and implications of being a Mexican woman. Another subject which Castellanos highlighted in her works was the indigenous population of her native Chiapas. In addition to addressing injustices committed against this population, Castellanos also worked with the National Indigenous Institute to improve literacy in this region. In her later years Castellano served as the Mexican ambassador to Israel.</p>",,Spanish,es,,,,,,,2018,submission
 o-motherland-my-dear-motherland,祖国啊，我亲爱的祖国,"O Motherland, My Dear Motherland",Shu Ting,Vivian Yuxin Wen,"我是你河边上破旧的老水车，
 数百年来纺着疲惫的歌；
 我是你额上熏黑的矿灯，
@@ -935,7 +1043,48 @@ o-motherland-my-dear-motherland,祖国啊，我亲爱的祖国,"O Motherland, My
 去取得
 你的富饶、你的荣光、你的自由；
 —— 祖国啊，
-我亲爱的祖国！","words stand for things,","<p>I used to be daunted by the impossible task of being “absolutely faithful” in translation but have since learned to enjoy the process as a creative endeavor while maintaining the utmost respect for the poet and the original work. In ""O Motherland, My Dear Motherland,"" what I tried to preserve was not the word-for-word translation, but the overall sentiment: we are enraptured by our country’s glorious moments, and we become deeply disappointed when she stops trying for herself.</p>
+我亲爱的祖国！","I am the wan, battered waterwheel by your riverbank,
+weaving a haggard song for hundreds of years;
+I am the smoke-smeared miner’s lamp on your forehead, 
+shining into the tunnel of your history, 
+searching and groping.
+I am the husk of rice, shriveled; the roadbed, out of repair;
+I am the barge mired in the silted strand,
+towed, a rope 
+carving into your arms and shoulders;
+— O Motherland!
+
+I am poverty, 
+I am sorrow.
+I am your generations of generations
+        in aching hope,
+I am the flowers in the wide sleeves of Feitian
+that, for thousands of years,
+have not landed;
+— O Motherland!
+
+I am your youngest wish, 
+shaking off the cobwebs of mythos;
+I am the embryo of an ancient lotus, 
+germinating under your quilt of snow;
+I am the tears pooling in the crease of your smile;
+I am your starting line, just painted;
+the red light of dawn, 
+        effusing, racing, 
+outpouring;
+— O Motherland!
+
+I am one fraction of your billions, 
+I am the sum of your nine-million-six-hundred-thousand square;
+You with your breasts, inscribed 
+with wounds, have nurtured me, 
+who waits 
+in bewilderment, in musing, in rapture;
+so from my body of skin and pulse
+please, take
+your glory, your flourishing, your liberation;
+— O Motherland,
+My dear Motherland!","<p>I used to be daunted by the impossible task of being “absolutely faithful” in translation but have since learned to enjoy the process as a creative endeavor while maintaining the utmost respect for the poet and the original work. In ""O Motherland, My Dear Motherland,"" what I tried to preserve was not the word-for-word translation, but the overall sentiment: we are enraptured by our country’s glorious moments, and we become deeply disappointed when she stops trying for herself.</p>
 
 <p>The first two lines in the original poem rhyme, with a variation in inflection that is unique to Chinese lyricism. Having recognized that it is very difficult to preserve such end rhyme without compromising syntactic clarity in English, I decided to utilize internal rhyme (“battered,” “haggard”), and let the poem sing through alliteration and assonance (“wan,” “waterwheel,” “weaving”). These drawn-out sounds also aptly capture the weariness of the old waterwheel with an almost onomatopoeia, a pleasant surprise that even the original Chinese could not deliver. Such an aspect of the poem is a result of my process: I read the lines aloud one time after another to let the sounds come to me and guide me, and then, amazingly, the meanings soon followed.</p>
 
@@ -944,7 +1093,7 @@ o-motherland-my-dear-motherland,祖国啊，我亲爱的祖国,"O Motherland, My
 <p>Interestingly, the word choice in the original poem was no less difficult; Shu Ting’s work was initially denied publishing on the basis of superfluous imagery and obscurity. The “waterwheel” we see here was an edit from “windmill” in an effort to make it more relatable to the average Chinese man. Another suggestion was made to change “weaving [the song]” to “singing [the song]” (“how could one weave a song?”), but Shu Ting remained firm in her choice. The poem was finally published in the official poetry journal, <em>Shi Kan</em>, and became widely applauded for the human, fervent, and discerning expression of “patriotism.”</p>","<p>Shu Ting (1952–) is arguably the most celebrated contemporary Chinese female poet. Born in Fujian in Southeast China, she lived through the Cultural Revolution (1966–1976), the most tumultuous and tortured years for Chinese intellectuals. In 1969, she was sent to the countryside, forced by the government who sought to transform “privileged urban-educated youths” into “cultural workers” to serve the people. This movement destroyed many treasured Chinese literary and artistic works; the entire generation was denied access to formal education. It also inspired poets like Shu Ting to read and write even more fervently in quiet protest.</p>
 
 <p>Widely considered a part of the “Misty School” along with poets like Bei Dao and Gu Cheng, Shu Ting writes in a penetrating language beyond the label. “O Motherland, My Dear Motherland” won the National Poetry Award in 1980; more importantly, it speaks of profound, ambivalent feelings that one can harbor for one’s country. Shu Ting is now back in her hometown, serving as the Chair of Xiamen Federation of Literary Art Circles and Member of China Writers’ Association.</p>
-","<p>Yuxin Wen (affectionately known as Viv/Vivi/Vivian) is a sophomore studying comparative literature and art history at Penn. She never thought she would become a translator until she found herself angry at the <em>absence</em> of good translations and the <em>presence</em> of bad translations of most Chinese poems. She strives to find English words that allow her to share the beauty of her mother tongue. Besides languages, she has a healthy obsession for running, watercolor painting, and writing letters, and her favorite foods are still back in Asia.</p>",Chinese,zh,,,,,,,2018,submission,
+","<p>Yuxin Wen (affectionately known as Viv/Vivi/Vivian) is a sophomore studying comparative literature and art history at Penn. She never thought she would become a translator until she found herself angry at the <em>absence</em> of good translations and the <em>presence</em> of bad translations of most Chinese poems. She strives to find English words that allow her to share the beauty of her mother tongue. Besides languages, she has a healthy obsession for running, watercolor painting, and writing letters, and her favorite foods are still back in Asia.</p>",Chinese,zh,,,,,,,2018,submission
 from-requiem,Из “Реквием”,From <em>Requiem</em>,Anna Akhmatova,Yehudith Dashevsky,"<h1>К смерти</h1>
 <h1>8</h1>
 Ты все равно придешь — зачем же не теперь?
@@ -978,10 +1127,44 @@ from-requiem,Из “Реквием”,From <em>Requiem</em>,Anna Akhmatova,Yehu
 А обо всех, кто там стоял со мною,
 И в лютый холод, и в июльский зной
 Под красною ослепшею стеною.
-",things stand for nothing.,"<p>Akhmatova’s <em>Requiem</em> is a cycle of poems about the years of terror in Russia (1935–1938) known as the Great Purge. Although written during and soon after the events it describes, the cycle remained unpublished in Russia until 1987, thirty-five years after Stalin’s death. The two poems above capture the two main subjects of the cycle: Akhmatova’s individual suffering and the suffering of the many in Russia. In “To Death,” Akhmatova alludes either to her son Lev being taken to a labor camp in Siberia or to her former husband, Nikolai Gumilev, being shot. In “Epilogue I,” Akhmatova mentions all those who waited on the prison lines to visit friends and family members, often to no avail. The shift from the individual to the collective is distinct here in that Akhmatova’s voice remains heard; the pronoun “I” is still used.</p>
+","<h1>8</h1>
+<h1>To Death</h1>
+You will come. Why not at once?
+I wait for you. I find it difficult. 
+I have blown out the candles, unlocked the door
+for you, simple and wondrous thing. 
+Put on any sort of face, any form —
+blow me up with an arsenious grenade, 
+or sneak up with a kettlebell, like an experienced bandit
+or infect me with typhus,
+or do it with a little story, made up by you
+and familiar to all, ad nauseam —
+for which I will be taken
+past the blanched face of the superintendent
+to the commander in the blue cap.
+It’s all the same for me now:
+The Yenisei river ripples, Polaris twinkles
+and the blue gleam of the beloved eyes 
+glazes over in the final terror.     
+
+<h1>Epilogue</h1>
+<h1>I</h1>
+I’ve soon found out how faces fall,
+how lashes hide a trace of fear,
+how suffering is etched on cheeks
+in crude strokes of cuneiform,
+how strands of black or ashen hair
+can silver in a day or hour,
+the smile wilts on docile lips, 
+the hollow laugh trembles with fear. 
+I pray not for myself alone
+but everyone who stood with me;
+in savage cold, in the heat of July  
+beside a wall, brick-red and blind. 
+","<p>Akhmatova’s <em>Requiem</em> is a cycle of poems about the years of terror in Russia (1935–1938) known as the Great Purge. Although written during and soon after the events it describes, the cycle remained unpublished in Russia until 1987, thirty-five years after Stalin’s death. The two poems above capture the two main subjects of the cycle: Akhmatova’s individual suffering and the suffering of the many in Russia. In “To Death,” Akhmatova alludes either to her son Lev being taken to a labor camp in Siberia or to her former husband, Nikolai Gumilev, being shot. In “Epilogue I,” Akhmatova mentions all those who waited on the prison lines to visit friends and family members, often to no avail. The shift from the individual to the collective is distinct here in that Akhmatova’s voice remains heard; the pronoun “I” is still used.</p>
 <p>I chose not to carry over the formal structure of the poems, which includes rhyme and a distinct Russian cadence, as it is heavily reliant on the Russian language’s easily-formed end-rhymes and fluid word order. However, some echo of form may be felt in the use of iambic tetrameter of “Epilogue I.” Although the emotional register of the poems is expressed in the original through the rhyme and rhythm, giving the content its expressive power, I tried to stay as close as possible to the images in the poem, which communicate by being direct and precise, and letting the sound follow.</p>
 ","<p>Anna Akhmatova (1889–1966) was an acclaimed Russian poet of the “Silver Age” of Russian poetry, the first half of the twentieth century. After moving to St. Petersburg, Akhmatova became a part of the Acmeists, a literary group of six people who attempted to write poetry in traditional form that focused on the objects and incidents of everyday life, in contrast with the highly experimental poetry in fashion at the time. During the war years, Akhmatova’s former husband Nikolai Gumilev was shot, her son Lev was imprisoned and exiled to Siberia, and her close friend Osip Mandelstam was arrested, exiled, and shot. <em>Requiem</em>, along with many other poems, was a response to those times. Beginning in 1925, Akhmatova’s poetry was banned by the Soviet government; even when the official ban was lifted, the implicit ban remained. Still, her poetry circulated orally and on scraps of paper that were burned upon being read. Akhmatova is known as the mother of the modern female Russian voice, freeing it to speak about complex topics including and other than love. She is also known as one of the only well-known poets to outlive the Stalinist era, stay in Russia, and chronicle those times.</p>
-","<p>Yehudith Dashevsky is a junior studying English, Russian, and Hebrew literature. She has also dabbled in Arabic and Old English. Her fascination with translation stems from her mental blocks in the world of words, and she is repeatedly amazed at how the space in the imagination before language is bridged when the right words (for a given time and place) are found. One word she recently encountered and was surprised exists is “idiolect,” which according to Wikipedia is “an individual’s distinctive and unique use of language.”</p>",Russian,ru,../assets/images/images_18/ahkmatova.JPG,,photo by Daila Wolfson,,,,2018,submission,
+","<p>Yehudith Dashevsky is a junior studying English, Russian, and Hebrew literature. She has also dabbled in Arabic and Old English. Her fascination with translation stems from her mental blocks in the world of words, and she is repeatedly amazed at how the space in the imagination before language is bridged when the right words (for a given time and place) are found. One word she recently encountered and was surprised exists is “idiolect,” which according to Wikipedia is “an individual’s distinctive and unique use of language.”</p>",Russian,ru,{{site.baseurl}}/assets/images/images_18/ahkmatova.JPG,,photo by Daila Wolfson,,,,2018,submission
 the-meditated-death,La morte meditata,The Meditated Death,Giuseppe Ungaretti,Carla Rossi,"<h1>Canto primo</h1>
 O sorella dell’ombra,
 Notturna quanto più la luce ha forza,
@@ -1060,7 +1243,85 @@ Non m’insegnasti a consumare?
 Con voi, fantasmi, non ho mai ritegno,
 E dei vostri rimorsi ho pieno il cuore
 Quando fa giorno.
-","Understanding comes like rapture,","<p>As usually happens when translating poetry, the title is the first challenge presented
+","<h1>First Canto</h1>
+O sister of shadow,
+darker in the brightest of lights,
+you chase me, death.
+In an untouched garden
+naive craving bore you,
+and peace,
+pensive death,
+was lost on your mouth.
+Since that moment
+I have heard you in the flows of my mind
+deepening distances,
+aching imitator of the eternity.
+Venomous mother of ages,
+in the fear of throb
+and loneliness,
+punished and laughing Beauty,
+in the slumber of flesh,
+fugitive dreamer,
+sleepless athlete
+of our greatness,
+once you have tamed me, tell me:
+Will my shadow fly long
+in the melancholy of the living?
+<h1>Second Canto</h1>
+The dark vigil of our fathers
+with its crazy blandishments
+hollows out the intimate lives
+of our unhappy mask
+(enclosure of the infinite).
+Death, still word,
+sand laid as a bed
+by blood,
+I hear you singing like a locust
+in the darkened rose of reflections.
+<h1>Third Canto</h1>
+The eternal deception of our fathers
+Engraves secret wrinkles
+On our unhappy masks.
+In the broad light,
+you, confused silence,
+insist like tense locusts.
+<h1>Fourth Canto</h1>
+Clouds took me by the hand.
+Upon the hill, I consume space and time
+like your harbinger,
+like a dream, divine death.
+<h1>Fifth canto</h1>
+You have closed your eyes.
+A night is born,
+a night full of false holes,
+of dead sounds,
+like corks
+of nets dropped into the water.
+Your hands become a breath
+of inviolable distances,
+as unreachable as ideas,
+and the moon’s ambiguity
+and its swinging — so tender —
+if you want to lay them on my eyes,
+they touch my soul.
+You are the woman
+who goes by like a leaf
+and you leave the trees like a fire during fall.
+<h1>Sixth canto</h1>
+O beautiful prey,
+nocturnal voice,
+the way you move
+raises my fever.
+Only you, demented memory,
+could capture freedom.
+On your flesh, unreachable
+and wavering in turbid mirrors,
+what crimes, dream,
+didn’t you lead me to commit?
+With you, ghosts, I have no restraint
+and my heart is filled with your remorse
+when a new day rises.
+","<p>As usually happens when translating poetry, the title is the first challenge presented
 to the translator, and “La morte meditata” is no exception. First of all, one wonders what
 “la morte meditata” actually means. I believe the meaning of the title is closely connected
 to the act of reflecting on something, to meditate on what on what all human beings have
@@ -1080,7 +1341,7 @@ the reader. Instead of opting for “mute,” the most straightforward equivalen
 using “still.” It is such an interesting word in English, because it conveys both the meaning
 related to the sound, but also the idea of steadiness. And of course, nothing can be as
 steady and motionless as death.</p>","<p>Giuseppe Ungaretti was born on February 10, 1888, in Alexandria, Egypt, from an Italian family originating from Lucca (Tuscany). The multicultural and cosmopolitan city of Alexandria had a considerable influence both on his life and on his work. Ungaretti is mostly known in Italy as “Il poeta Ssldato,” that is, “the soldier poet.” In 1915, in fact, when Italy joined World War I, he decided to volunteer. World War I left a mark on his life. He got to know both the suffering of war, but also the true meaning of brotherhood.</p>
-<p>Giuseppe Ungaretti is certainly one of the most appreciated Italian poets of the twentieth century. Students remember him for writing very short and incisive poems, but what makes him so great is his experience of war that gave a very introspective cut to his poetry.</p>","<p>My name is Carla Rossi, I’m twenty-five, and I’m from Italy. Last year I spent the spring semester at Penn, and I fell in love with it. I’ve just graduated from the University of Bologna in conference interpreting, with a concentration in English and Spanish — so I mostly translate speeches from English and Spanish into Italian (but also the other way around). In my free time I like playing with words, talking to my friends, and planning my next travel.</p>",Italian,it,,,,,,,2018,submission,
+<p>Giuseppe Ungaretti is certainly one of the most appreciated Italian poets of the twentieth century. Students remember him for writing very short and incisive poems, but what makes him so great is his experience of war that gave a very introspective cut to his poetry.</p>","<p>My name is Carla Rossi, I’m twenty-five, and I’m from Italy. Last year I spent the spring semester at Penn, and I fell in love with it. I’ve just graduated from the University of Bologna in conference interpreting, with a concentration in English and Spanish — so I mostly translate speeches from English and Spanish into Italian (but also the other way around). In my free time I like playing with words, talking to my friends, and planning my next travel.</p>",Italian,it,,,,,,,2018,submission
 the-verb,El verbo,The Verb,Mario Benedetti,Ella Konefal,"En el principio era el verbo
 y el verbo no era dios
 eran las palabras
@@ -1129,8 +1390,56 @@ y acaso ganen su derecho a ser sembradas
 a ser regadas por los hechos y las lluvias
 a abrirse en árboles y frutos
 a ser por fin alimento y trofeo
-de un pueblo ya maduro por la revolución y la inocencia.",it’s the same as not understanding.,"<p>I was drawn to translate Benedetti’s work from Spanish into English for much the same reason, I think, as Benedetti was drawn to translate the world from experience into poetry. Which is to say, not because I immediately loved it or found it beautiful, but rather because it confused and overwhelmed me, and I wanted to figure it out. Benedetti’s work is chaotic, wordy, both straightforward and cacophonous. There are too many simultaneous truths, there is too much death for life to hold, there are too many words, and the words can’t hold the death, either. I wanted to translate “El verbo” almost as a coping mechanism, some way to methodically and concretely process a mess that resists detangling.</p>
-<p>Benedetti writes in a conversational tone, no flourishes: “This people is overripe for revolution and for innocence.” “The verb will not be god.” <em>The world is a mess and words are failing us. I will throw them at you in a fluid stream and hope that something sticks.</em> Somehow this head-on confrontation of injustices, for all its matter-of-fact-ness, can’t make sense of the mess. To me, understanding Benedetti’s poetic translations of experience means understanding that words can’t make sense of unfathomable horror, be they fragments or sentences or Spanish or English. The world is not right; Benedetti searches frantically within and between and underneath words, grasping at some sense of understanding. Whether he achieves it is another question. Whether I achieve it by puzzling through his puzzling is also another question. Reading and translating Benedetti requires rigorous dialogue between how the world is and how it ought to be. Whether we get to the bottom of this or not, that dialogue is a good place to start.</p>","<p>Mario Benedetti (1920–2009) came of age and died in Montevideo, Uruguay, the country’s coastal capital that serves as a backdrop for much of Benedetti’s poetry. Part of the Generación del ’45, he was and is one of the most widely read poets in Latin America, revered for his seamless interweaving of love and politics and best-known for his short stories. In his youth he worked as a car mechanic, typist, secretary, journalist, and translator of Kafka from German into Spanish.  Benedetti was a vocal figure in left-wing political organizing in Uruguay. He was passionate and active in shaping domestic politics, championing revolutions in Puerto Rico and Cuba, and criticizing US political and economic involvement in Latin American dictatorships. The poet also wrote plays and novels and was heavily involved in journalism. He founded and led a leftist magazine called <em>Marcha</em>, which was shut down when Benedetti was forced into exile during the country’s 1973 military coup. He moved first to Buenos Aires, but fled to Cuba, Peru, and finally Spain following threats from Argentina’s right-wing military regime. He returned to Uruguay after twelve years of exile and split his time between Montevideo and Madrid until his death at eighty-eight.</p>","<p>Ella Konefal is a Penn junior studying fine arts and comparative literature. She cares deeply about voice, in all its many varied manifestations. She’s fluent in English, Spanish, and drawing, and getting there with Italian, French, and audiovisual composition. She’s grown up with a frequently shifting sense of home, having lived with her family of five in New York, Pennsylvania, Guatemala, Mexico, Ecuador, and Virginia. She’s happy to add a cozy third-floor apartment in West Philly to the list. The translation of poetry is a new pursuit, and she hopes you enjoy the final products as much as she enjoyed their formation.</p>",Spanish,es,,,,,,,2018,submission,
+de un pueblo ya maduro por la revolución y la inocencia.","In the beginning there was the verb 
+and the verb was not god
+there were words
+fragile transparent and fucked
+each came in its wrappings
+with legacies of indolence
+you could hold them to the light
+or turn them upside down
+interrogate them calmly or in french
+they’d toss back putrid cunning winks
+a lucky few were in the know
+we were the digest the quintessential the juice
+they were the passwords that swayed us to orgasm 
+taunted our sheepish vanity
+while that town of strangers
+with tortured sorrow said they couldn’t fathom
+what we might be speaking of or what was left unspoken 
+and even our silences rang twisted
+since they too would play that sublime score
+those words that settled and resettled
+they were our vanguard and when one fell
+struck down by fashion or by common sense
+the others rose together in splendid solidarity
+each defeat would feed their radiance
+because like the latinos on boul mich will prophesize 
+great literature comes only from unhappiness
+and in splendid solidarity they birthed
+adjectives and gerunds
+prepositions and deliriums
+with which to decorate the existential contraction
+and turn it into ode or nouvelle or manifesto
+these stymied revolutions have that going
+inciting angst of artistic proportions
+while triumphs rarely even reach for
+such banal achievements as social justice
+					
+in the end will be the verb
+and the verb will not be god
+only the shout of some assorted million throats 
+free to laugh and cry like men and women
+new
+					
+and the fucked and fragile words
+will grow into artisanal stability
+and maybe win their right to planting
+to be drenched in facts and floodings
+to bloom as trees and fruits
+to at last give sustenance and trophy
+to a people overripe for revolution and for innocence. ","<p>I was drawn to translate Benedetti’s work from Spanish into English for much the same reason, I think, as Benedetti was drawn to translate the world from experience into poetry. Which is to say, not because I immediately loved it or found it beautiful, but rather because it confused and overwhelmed me, and I wanted to figure it out. Benedetti’s work is chaotic, wordy, both straightforward and cacophonous. There are too many simultaneous truths, there is too much death for life to hold, there are too many words, and the words can’t hold the death, either. I wanted to translate “El verbo” almost as a coping mechanism, some way to methodically and concretely process a mess that resists detangling.</p>
+<p>Benedetti writes in a conversational tone, no flourishes: “This people is overripe for revolution and for innocence.” “The verb will not be god.” <em>The world is a mess and words are failing us. I will throw them at you in a fluid stream and hope that something sticks.</em> Somehow this head-on confrontation of injustices, for all its matter-of-fact-ness, can’t make sense of the mess. To me, understanding Benedetti’s poetic translations of experience means understanding that words can’t make sense of unfathomable horror, be they fragments or sentences or Spanish or English. The world is not right; Benedetti searches frantically within and between and underneath words, grasping at some sense of understanding. Whether he achieves it is another question. Whether I achieve it by puzzling through his puzzling is also another question. Reading and translating Benedetti requires rigorous dialogue between how the world is and how it ought to be. Whether we get to the bottom of this or not, that dialogue is a good place to start.</p>","<p>Mario Benedetti (1920–2009) came of age and died in Montevideo, Uruguay, the country’s coastal capital that serves as a backdrop for much of Benedetti’s poetry. Part of the Generación del ’45, he was and is one of the most widely read poets in Latin America, revered for his seamless interweaving of love and politics and best-known for his short stories. In his youth he worked as a car mechanic, typist, secretary, journalist, and translator of Kafka from German into Spanish.  Benedetti was a vocal figure in left-wing political organizing in Uruguay. He was passionate and active in shaping domestic politics, championing revolutions in Puerto Rico and Cuba, and criticizing US political and economic involvement in Latin American dictatorships. The poet also wrote plays and novels and was heavily involved in journalism. He founded and led a leftist magazine called <em>Marcha</em>, which was shut down when Benedetti was forced into exile during the country’s 1973 military coup. He moved first to Buenos Aires, but fled to Cuba, Peru, and finally Spain following threats from Argentina’s right-wing military regime. He returned to Uruguay after twelve years of exile and split his time between Montevideo and Madrid until his death at eighty-eight.</p>","<p>Ella Konefal is a Penn junior studying fine arts and comparative literature. She cares deeply about voice, in all its many varied manifestations. She’s fluent in English, Spanish, and drawing, and getting there with Italian, French, and audiovisual composition. She’s grown up with a frequently shifting sense of home, having lived with her family of five in New York, Pennsylvania, Guatemala, Mexico, Ecuador, and Virginia. She’s happy to add a cozy third-floor apartment in West Philly to the list. The translation of poetry is a new pursuit, and she hopes you enjoy the final products as much as she enjoyed their formation.</p>",Spanish,es,,,,,,,2018,submission
 in-the-pyre-of-war,בִּמְדוּרוֹת מִלְחָמָה,In the Pyre of War,Hannah Szenes,Jacob Hershman,"בִּמְדוּרוֹת מִלְחָמָה, בִּדְלֵקָהִּ, בִּשְרֵפָה,
 בֵּין יַמִּים סוֹעֲרִים שֶׁל הַדָּם,
 הִנְנִי מַבְעִירָה פַּנָּסִי הַקָּטָן,
@@ -1145,7 +1454,20 @@ in-the-pyre-of-war,בִּמְדוּרוֹת מִלְחָמָה,In the Pyre of Wa
 כִּי בָּאֵשׁ, בַּדְלֵקָה וּבַדָּם,
 כֵן אַכִּיר אֶת הַזִּיק הַטָּהוֹר, הַנִּצְחִי,
 אֶת אֲשֶׁר חִפַּשְׂתִּיו:  בֶּן-אָדָם.
-","When my mother lay dying, even my weeping","<p>In the original Hebrew, there are twelve syllables in the first and third lines of each four-line stanza. These lines are not rhymed. The second and fourth lines contain nine syllables and are rhymed. The poem as a whole follows a tribrachic meter, meaning each line comprises an assortment of three short, unstressed syllables.</p>
+","In the fire, explosions, the pyre of war. 
+Between days that are stormy with blood,
+I am burning my little lamp, casting the light,
+and I search, and I search for someone.
+
+The blaze darkens the glow of my little lamp’s flame,
+it is so bright that I cannot see; 
+will I realize, gaze forth, will I know, ascertain 
+when he finally stands before me?
+
+Give a sign, Blessed God, on his forehead a sign,
+for in fire, in explosions and blood,
+I will see the pure spark, see the infinite spark, 
+and find what I have searched for: someone.","<p>In the original Hebrew, there are twelve syllables in the first and third lines of each four-line stanza. These lines are not rhymed. The second and fourth lines contain nine syllables and are rhymed. The poem as a whole follows a tribrachic meter, meaning each line comprises an assortment of three short, unstressed syllables.</p>
 <p>I was able to recreate the syllabic makeup of each stanza, as well as the rhyme scheme. To do this successfully, I had to make a few sacrifices. For instance, notwithstanding the primacy of syllabic triplets in <span lang=""he"">במדורות מלחמה</span>, I could not incorporate tribrachic meter into this translation. I found it impossible to both rhyme the second and fourth lines and translate into the original meter without totally transforming the diction. I ought to mention that, strictly speaking, there is no rhyme in the first and final stanzas, merely an assonance between “blood” and “someone.” Given, first, my ultimate objective of representing the essence of the original piece, second, the parameters of my translation and, third, the exact rhyme in the second stanza, I believe my readers will be able to infer that the original Hebrew bears a rhyme.</p>","<p>Like many European Jews in the early twentieth century, Hannah Szenes was captivated by the prospect of establishing a Jewish homeland. As a teenager in Budapest, she joined local Zionist youth movements, eventually emigrating to Palestine in 1939 at the age of seventeen. For two years she lived in an agricultural cooperative (in Hebrew, <em>moshav</em>) in Nahalal. It was here that she composed, among other works, “In the Pyre of War.” In 1941, she relocated to a <em>kibbutz</em> in Caesarea.</p>
 <p>In 1943 Szenes joined a Zionist paramilitary organization called the Palmach as a volunteer. A year later, she joined the organization’s paratrooper unit, and, in 1944, was dropped into Yugoslavia to aid anti-Nazi forces. Only hours after entering Hungary, which was the central objective of the mission, Szenes and her compatriots were captured and imprisoned. Although Szenes was tortured for months, she never capitulated to her captors. In late November 1944, she was offered the choice to petition for clemency or face the firing squad. She did not want to beg for her life; she chose to die. Szenes faced her executioners without a blindfold. She was twenty-three.</p>
-","<p>Jacob Hershman is a sophomore in the College of Arts and Sciences, studying English.</p>",Hebrew,he,../assets/images/images_18/szenes.jpg,,photo by Josh Glahn,,,,2018,submission,
+","<p>Jacob Hershman is a sophomore in the College of Arts and Sciences, studying English.</p>",Hebrew,he,{{site.baseurl}}/assets/images/images_18/szenes.jpg,,photo by Josh Glahn,,,,2018,submission
