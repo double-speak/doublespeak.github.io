@@ -22,8 +22,10 @@
 <script type='text/javascript' src="{{ '/assets/search-ui.js' | absolute_url }}"></script>
 <script type='text/javascript'>
   var fields    = {{ fields | jsonify }};
-  var indexFile = "{{ index }}";
-  var url       = "{{ '' | absolute_url }}";
+  <!--var indexFile = "{{ index }}";-->
+  var indexFile = "https://www.doublespeakjournal.org/search/index.json"";
+  <!--var url       = "{{ '' | absolute_url }}";-->
+  var url       = "https://www.doublespeakjournal.org";
 
   $(document).ready(function() {
     startSearchUI(fields, indexFile, url);
