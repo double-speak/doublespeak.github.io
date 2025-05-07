@@ -112,6 +112,8 @@ jobs:
         run: bundle exec rake wax:pages notes_2018
         
 ## search
+      - name: clobber search 
+        run: bundle exec rake wax:clobber main
       - name: build search 
         run: bundle exec rake wax:search main
 
