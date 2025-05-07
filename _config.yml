@@ -285,7 +285,7 @@ search:
           - transpoem
           - language
       poems_2018:
-        content: false # whether or not to index page content
+        content: true # whether or not to index page content
         fields: # the metadata fields to index
           - transtitle
           - title
@@ -295,7 +295,7 @@ search:
           - transpoem
           - language
       poems_2017:
-        content: false # whether or not to index page content
+        content: true # whether or not to index page content
         fields: # the metadata fields to index
           - transtitle
           - title
