@@ -16,7 +16,7 @@ function excerptedString(str) {
 
 function displayResult(item, fields, url) {
   var pid   = item.pid;
-  var poem = item.poem || 'Untitled';
+  var title = item.title || 'Untitled';
   var link  = item.permalink.toLowerCase();
   var meta  = []
 
@@ -26,7 +26,7 @@ function displayResult(item, fields, url) {
       meta.push(`<b>${fieldLabel}:</b> ${excerptedString(item[fieldLabel])}`);
     }
   }
-  return `<div class="result"><a href="${url}${link}"><p><span class="title">${item.poem}</span><br><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
+  return `<div class="result"><a href="${url}${link}"><p><span class="title">${item.title}</span><br><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
 }
 
 function startSearchUI(fields, indexFile, url) {
