@@ -11,6 +11,31 @@
 {%- endcapture -%}
 {% assign fields = fields | split: '|||' | uniq %}
 
+<script type='text/javascript' src="https://www.doublespeakjournal.org/assets/elasticlunr.min.js"></script>
+<script type='text/javascript' src="https://www.doublespeakjournal.org/assets/search-ui.js"></script>
+
+<!--<script type='text/javascript' src="{{ '/assets/elasticlunr.min.js' | absolute_url }}"></script>
+<script type='text/javascript' src="{{ '/assets/search-ui.js' | absolute_url }}"></script>-->
+
+<!--  
+var fields    = {{ fields | jsonify }};
+var indexFile = "{{ index }}";
+var url       = "{{ '' | absolute_url }}";
+-->
+
+
+<script type='text/javascript'>
+  var fields    = ["transtitle","title","author","translator","poem","transpoem","language"];
+  var indexFile = "https://www.doublespeakjournal.org/search/index.json";
+  var url       = "https://www.doublespeakjournal.org";
+
+  $(document).ready(function() {
+    startSearchUI(fields, indexFile, url);
+  });
+</script>
+
+
+
 <div class='search-block'>
   <div class='input-group'>
     <input type='text' class='form-control' id='search' name='x' placeholder='{{ placeholder }}'>
@@ -18,22 +43,3 @@
   <div id='results'></div>
 </div>
 
-<script type='text/javascript' src="https://www.doublespeakjournal.org/assets/elasticlunr.min.js"></script>
-<script type='text/javascript' src="https://www.doublespeakjournal.org/assets/search-ui.js"></script>
-
-<!--<script type='text/javascript' src="{{ '/assets/elasticlunr.min.js' | absolute_url }}"></script>
-<script type='text/javascript' src="{{ '/assets/search-ui.js' | absolute_url }}"></script>-->
-
-<!--  var indexFile = "{{ index }}";
-var url       = "{{ '' | absolute_url }}";-->
-
-
-<script type='text/javascript'>
-  var fields    = {{ fields | jsonify }};
-  var indexFile = "https://www.doublespeakjournal.org/search/index.json"";
-  var url       = "https://www.doublespeakjournal.org";
-
-  $(document).ready(function() {
-    startSearchUI(fields, indexFile, url);
-  });
-</script>
