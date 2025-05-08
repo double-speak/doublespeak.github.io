@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/tcontentsstyle.css">
+      
+    
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+</head>
+
+   <title>table of contents</title>
+
+<body>
+  {% include navbar.html %}
+  <div class="tcontents">
+    <h3><i>Spring 2016 issue</i></h3>
+    <h1 class="tcontents-title">table of contents</h1>
+    <div class="toc-container">
+
+      <div class="left">
+        <div class="tcleft">
+              <h2 class="tcleft"><a href="frontmatter/staff2016">Staff</a></h2>
+            </div>
+
+        {% for item in site.data.poems_2016 %}
+          {% if item.pagetype == "frontmatter" %}
+              <div class="tcleft">
+                <h2 class="tcleft"><a href="poems_2016/{{item.pid}}">{{ item.transtitle }}</a></h2>
+                <h3 class="tcleft"> by {{ item.author }}</h3>
+              </div>
+          {% elsif item.pagetype == "musing" %}
+            <div class="tcleft">
+              <h2 class="tcleft"><a href="poems_2016/{{item.pid}}">{{ item.transtitle }}</a></h2>
+              <h3 class="tcleft"> by {{ item.author }}</h3>
+            </div>
+          {% elsif item.pagetype == "interview" %}
+            <div class="tcleft">
+              <h2 class="tcleft"><a href="poems_2016/{{item.pid}}">{{ item.transtitle }}</a></h2>
+              <h3 class="tcleft"> {{ item.author }}</h3>
+            </div>
+          {% elsif item.pagetype == "submission" %}
+            <div class="tcleft">
+              <h2 class="tcleft"><a href="poems_2016/{{item.pid}}">{{ item.transtitle }}</a>
+              {% if item.title %}
+                  <a href="poems_2016/{{item.pid}}">[<span lang= "{{ item.lang }}" dir="ltr">{{ item.title }}</span>]</a>
+              {% endif %}</h2>
+              <h3 class="tcleft">written by {{ item.author }} <br>translated from {{ item.language }} by {{ item.translator }}</h3>
+            </div>
+          {% endif %}
+        {% endfor %}
+        <div class="tcleft">
+              <h2 class="tcleft"><a href="frontmatter/copyright2016">Copyright</a></h2>
+            </div>
+      </div>
+           <div class="lineart">
+          <img class="line" style="margin: -100px -100px 0 0;" src="{{site.baseurl}}/assets/images/line 2022.svg"/>
+        </div>
+    </div>
+
+  </div>
+
+</body>
+<footer> 
+</footer>
+  <style>
+.tcontents {
+  background-image: url('{{site.baseurl}}/assets/images/background_logo_ds.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+</style>
+<html>
