@@ -120,10 +120,8 @@ jobs:
         run: bundle exec rake wax:pages notes_2017
         
 ## search
-      - name: clobber search 
-        run: bundle exec rake wax:clobber search
       - name: build search 
-        run: bundle exec rake wax:search main
+        run: bundle exec rake wax:search
         
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
