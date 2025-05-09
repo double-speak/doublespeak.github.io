@@ -33,7 +33,7 @@ function displayResult(item, fields, url) {
     fieldLabel = fields[i];
     if (fieldLabel in item ) {
       if (fieldLabel !== "title" && fieldLabel !== "transtitle" && fieldLabel !== "poem" && fieldLabel !== "transpoem") {
-      meta.push(`<b>${excerptedString(item[fieldLabel])}`);
+      meta.push(`<b>${fieldLabel}:</b> ${excerptedString(item[fieldLabel])}`);
       }
     }
   }
