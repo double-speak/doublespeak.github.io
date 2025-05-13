@@ -143,10 +143,6 @@ jobs:
         
 ## here end the collection builds!
 
-## Pagefind
-      - name: pagefind 
-        run: npx pagefind --source _site
-
     # Deployment job
   deploy:
     environment:
