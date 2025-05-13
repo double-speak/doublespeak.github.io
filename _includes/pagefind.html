@@ -2,6 +2,8 @@
 <script src="/pagefind/pagefind-ui.js"></script>
 <div id="search"></div>
 <script>
+    const pagefind = await import("/pagefind/pagefind.js");
+    pagefind.init();
     window.addEventListener('DOMContentLoaded', (event) => {
         new PagefindUI({ element: "#search", showSubResults: true });
     });
