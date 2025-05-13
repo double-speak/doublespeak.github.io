@@ -140,6 +140,10 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
+## Pagefind
+      - name: build pagefind 
+        run: pagefind --source _site
+        
 ## here end the collection builds!
 
 
@@ -155,6 +159,3 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-## Pagefind
-      - name: build pagefind 
-        run: pagefind --site _site
