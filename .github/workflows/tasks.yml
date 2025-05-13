@@ -154,3 +154,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+## Pagefind
+      - name: build pagefind 
+        run: pagefind --site _site
