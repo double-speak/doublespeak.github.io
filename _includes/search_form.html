@@ -1,23 +1,69 @@
+<form id="searchform">
 <!-- HTML search field -->
-<div id="search-container">
 <h1>search</h1>
 <p class="search-p">Looking for a poem? Search by author, translator, language, or key words to find translations across all issues of DoubleSpeak!</p>
-<input type="text" id="search-input" placeholder="Search..." autofocus>
-<ul id="results-container"></ul>
-</div>
+<input type="search" id="search-input" placeholder="Search..." class="form-control" name="q" value="" autofocus>
+<ul id="results-container" class="post-list"></ul>
+</form>
 
 <!-- Grab search-script.js -->
 <script src="https://doublespeakjournal.org/assets/search-script.js" type="text/javascript"></script>
 
-<!-- Configuration -->
+
 <script>
-  SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: 'https://doublespeakjournal.org/search/index.json',
-  searchResultTemplate: '<li><a href="{url}">{title}</a><br><span class="post-meta">{transtitle}</span><br><span class="post-meta">{author}</span><br><span class="post-meta">{translator}<br><span class="post-meta">{language}</span></span></li>',
-  noResultsText: 'Displaying 0 Results',
-  limit: '40',
-  fuzzy: 'true' 
-})
+  var sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById("searchform"),
+    resultsContainer: document.getElementById("results-container"),
+    json: 'https://doublespeakjournal.org/search/index.json',
+    templateMiddleware: function (prop, value, template) {
+      if (prop === "title" || prop === "poem") {
+        value = value.replace(/&amp;/g, "&");
+      }
+      if (prop === "url") {
+        return value;
+      }
+      return value.replace(
+        new RegExp(document.getElementById("search-input").value, "gi"),
+        '<span class="highlight">$&</span>'
+      );
+    },
+    sortMiddleware: function (a, b) {
+      aPrio = matchPriority(a.matchedField);
+      bPrio = matchPriority(b.matchedField);
+      return bPrio - aPrio;
+    },
+      searchResultTemplate: '<li><a href="{url}">{title}</a><br><span class="post-meta">{transtitle}</span><br><span class="post-meta">{author}</span><br><span class="post-meta">{translator}<br><span class="post-meta">{language}</span></span></li>',
+      noResultsText: 'Displaying 0 Results',
+      limit: '40',
+      fuzzy: 'true' 
+  });
+
+  function matchPriority(fieldMatched) {
+    switch (fieldMatched) {
+      case "tags":
+        return 5;
+      case "title":
+        return 4;
+      case "poem":
+        return 3;
+      default:
+        return 0;
+    }
+  }
+
+  window.addEventListener(
+    "load",
+    function () {
+      var searchParam = new URLSearchParams(window.location.search).get("q");
+      if (searchParam != null) {
+        document.getElementById("search-input").value = searchParam;
+        setTimeout(() => {
+          sjs.search(searchParam);
+        }, 100);
+      }
+      document.getElementById("search-input").placeholder =
+        "Search...";
+    },
+    false
+  );
 </script>
