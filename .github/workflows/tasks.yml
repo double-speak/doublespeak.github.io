@@ -128,8 +128,8 @@ jobs:
         run: bundle exec rake wax:pages notes_2016
         
 ## search
-      - name: build search 
-        run: bundle exec rake wax:search main
+#      - name: build search 
+#        run: bundle exec rake wax:search main
         
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
