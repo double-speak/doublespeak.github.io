@@ -143,6 +143,9 @@ jobs:
         
 ## here end the collection builds!
 
+## Pagefind
+      - name: pagefind 
+        run: npx -y pagefind --site _site
 
     # Deployment job
   deploy:
