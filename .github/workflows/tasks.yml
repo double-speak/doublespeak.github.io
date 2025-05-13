@@ -145,7 +145,7 @@ jobs:
 
 ## Pagefind
       - name: pagefind 
-        run: npx -y pagefind --site _site
+        run: npx pagefind --source _site
 
     # Deployment job
   deploy:
