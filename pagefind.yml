@@ -1,0 +1,3 @@
+source: _site
+bundle_dir: _pagefind
+split_pages_on: "h2"
