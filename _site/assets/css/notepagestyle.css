@@ -10,6 +10,24 @@ html,body {
 	height: 100%;
 }
 
+@media screen and (max-width: 750px) {
+
+	.note-text {
+	padding: 0px;
+	padding-right: 20px !important;
+	position: static;
+	flex: 1;
+	
+	}
+	.abio, .tbio{
+		width: 75vw !important;
+		float: none !important;
+		margin-left: auto;
+		margin-right: auto;
+		padding-left: 20px;
+	}
+}
+
 a {
 	text-decoration: none;
 }
@@ -416,7 +434,7 @@ h1 {
 /*	height: 80%;
 */	padding: 20px;
 	max-width: 30rem;
-	background-color: #D8CEBF;
+	background-color: #F1E9DE;
 	flex-wrap: wrap;
 }
 

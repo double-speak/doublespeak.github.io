@@ -268,6 +268,14 @@ p strong {
 	margin-top:10px;
 }
 
+.epigraph{
+	font-style: italic;
+	background-color: #F1E9DE;
+	padding: 20px;
+	width: fit-content;
+	margin-left: -10px;
+}
+
 .poemtitle {
 	height:max-content;
 }
@@ -417,8 +425,9 @@ worth thinking about it.
 	align-items: center;
 /*	height: 80%;
 */	padding: 20px;
-	max-width: 30rem;
-	background-color: #D8CEBF;
+	max-width: 90rem;
+	width: fit-content;
+	background-color: #F1E9DE;
 	flex-wrap: wrap;
 }
 

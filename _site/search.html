@@ -30,15 +30,48 @@ DYNAMIC LOADING ----
 <html lang="en">
 
   <head>
+
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/pagefind/pagefind-ui.js"></script>
+<!--   
     <link rel="stylesheet" type="text/css" href="/assets/css/searchpagestyle.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
     <link rel="stylesheet/less" href="/assets/css/_wax.scss">
+-->
+    <title>search</title>
+
+    <style>
+      body {
+        background-image: url('/assets/images/background_logo_ds.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+      
+      #results-container li {
+        margin-bottom: 1.5rem;
+      }
+
+      span.post-meta {
+          font-size: 1rem;
+      }
+      
+      li{
+        font-family: futura-pt, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 18px;
+        line-height: 20px;
+        color: black;
+        text-align: left;
+      }
+      </style>
 
   </head>
 
-   <title>search</title>
+  
 
 <body>
   <!-- Could be edited to pull from the config instead, so new pages can be added in the future? -->
@@ -76,56 +109,88 @@ DYNAMIC LOADING ----
     </script>
 </header>
 
-  <div class="search">
-    <h1>search</h1>
-    <p class="search-p">Looking for a poem? Search by author, translator, language, or key words to find translations across all issues of <i>DoubleSpeak</i>!</p>
-  </div>
+<--  <form id="searchform">
+<!-- HTML search field -->
+<h1>search</h1>
+<p class="search-p">Looking for a poem? Search by author, translator, language, or key words to find translations across all issues of DoubleSpeak!</p>
+<input type="search" id="search-input" placeholder="Search..." class="form-control" name="q" value="" autofocus>
+<ul id="results-container" class="post-list"></ul>
+</form>
+
+<!-- Grab search-script.js -->
+<script src="https://doublespeakjournal.org/assets/search-script.js" type="text/javascript"></script>
 
 
+<script>
+  var sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById("searchform"),
+    resultsContainer: document.getElementById("results-container"),
+    json: 'https://doublespeakjournal.org/search/index.json',
+    templateMiddleware: function (prop, value, template) {
+      if (prop === "title" || prop === "poem") {
+        value = value.replace(/&amp;/g, "&");
+      }
+      if (prop === "url") {
+        return value;
+      }
+      return value.replace(
+        new RegExp(document.getElementById("search-input").value, "gi"),
+        '<span class="highlight">$&</span>'
+      );
+    },
+    sortMiddleware: function (a, b) {
+      aPrio = matchPriority(a.matchedField);
+      bPrio = matchPriority(b.matchedField);
+      return bPrio - aPrio;
+    },
+      searchResultTemplate: '<li><a href="{url}">{title}</a><br><span class="post-meta">{transtitle}</span><br><span class="post-meta">{author}</span><br><span class="post-meta">{translator}<br><span class="post-meta">{language}</span></span></li>',
+      noResultsText: 'Displaying 0 Results',
+      limit: '40',
+      fuzzy: 'true' 
+  });
 
+  function matchPriority(fieldMatched) {
+    switch (fieldMatched) {
+      case "tags":
+        return 5;
+      case "title":
+        return 4;
+      case "poem":
+        return 3;
+      default:
+        return 0;
+    }
+  }
 
+  window.addEventListener(
+    "load",
+    function () {
+      var searchParam = new URLSearchParams(window.location.search).get("q");
+      if (searchParam != null) {
+        document.getElementById("search-input").value = searchParam;
+        setTimeout(() => {
+          sjs.search(searchParam);
+        }, 100);
+      }
+      document.getElementById("search-input").placeholder =
+        "Search...";
+    },
+    false
+  );
+</script>
+ -->
 
+  <div id="search"></div>
 
-  <div class="searchform">
-
-<!-- this is borrowed from wax tasks search + https://github.com/minicomp/wax/blob/main/_includes/search_box.html -->
-<div class='search-block'>
-  <div class='input-group'>
-    <input type="text" class='form-control'id="search" placeholder="Search poems and notes..">
-  </div>
-  <div id='results'></div>
-</div>
-
-  </div>
-
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+  </script>
 </body>
   
-  <style>
-body {
-  background-image: url('/assets/images/background_logo_ds.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-</style>
 
 </html>
-<!-- i think this is necessary but unclear - emily -->
-<!-- <script type='text/javascript' async defer src='https://www.doublespeakmagazine.org/assets/bootstrap/bootstrap.min.js'></script>
-<script type='text/javascript' async defer src='https://www.doublespeakmagazine.org/assets/popper.min.js'></script> -->
-<script type='text/javascript' src="https://www.doublespeakjournal.org/assets/elasticlunr.min.js"></script>
-<script type="text/javascript" src="https://www.doublespeakjournal.org/assets/search-ui.js"></script>
-<script type='text/javascript' src="https://www.doublespeakjournal.org/assets/jquery-3.2.1.min.js"></script>
-<script type='text/javascript'>
-  var fields    = ["transtitle","title","author","translator","poem","transpoem","language"];
-  var indexFile = "https://www.doublespeakjournal.org/search/index.json";
-  var url       = "https://www.doublespeakjournal.org/";
-
-  $(document).ready(function() {
-    startSearchUI(fields, indexFile, url);
-    console.log(fields);
-  });
-</script>
 
 
   </body>
