@@ -38,7 +38,6 @@ plugins:
   - jekyll-toc
   - kramdown
   - jekyll-sitemap
-  - ./_plugins/pagefind.rb
 
 # Exclude from processing.
 # The following items will not be processed, by default.
