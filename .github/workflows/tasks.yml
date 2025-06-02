@@ -128,19 +128,8 @@ jobs:
         run: bundle exec rake wax:pages notes_2016
         
 ## search
-    #  - name: build search 
-    #    run: bundle exec rake wax:search main
-        
-      - name: Install Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
-      - name: Install PageFind
-        run: npm install -g @pagefind/core
-
-      - name: Run PageFind indexing
-        run: pagefind --source _site
+      - name: build search 
+        run: bundle exec rake wax:search main
         
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
