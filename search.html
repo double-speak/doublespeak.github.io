@@ -6,25 +6,73 @@ layout: default
 <html lang="en">
 
   <head>
-   
+    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/searchpagestyle.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+    <link rel="stylesheet/less" href="{{site.baseurl}}/assets/css/_wax.scss">
+
   </head>
 
    <title>search</title>
 
 <body>
   {% include navbar.html %}
-  
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
-    <h2>Looking for a poem? Search by author, translator, language, or key words to find translations across all issues of <i>DoubleSpeak</i>!</h2>
+  <div class="search">
+    <h1>search</h1>
+    <p class="search-p">Looking for a poem? Search by author, translator, language, or key words to find translations across all issues of <i>DoubleSpeak</i>!</p>
+  </div>
 
-<div id="search"></div>
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
-    });
-</script>
-  
+{% assign placeholder = include.placeholder | default: 'Search... ' %}
+{% assign key = 'main' | default: 'main' %}
+{% assign config = site.search[key] %}
+{% assign index = '/search/index.json' | absolute_url %}
+{%- capture fields -%}
+  {%- for collection in config.collections -%}
+    {%- for field in collection[1].fields -%}
+      {{ field }}{% unless forloop.last %}|||{% endunless %}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{% assign fields = fields | split: '|||' | uniq %}
+
+  <div class="searchform">
+
+<!-- this is borrowed from wax tasks search + https://github.com/minicomp/wax/blob/main/_includes/search_box.html -->
+<div class='search-block'>
+  <div class='input-group'>
+    <input type="text" class='form-control'id="search" placeholder="Search poems and notes..">
+  </div>
+  <div id='results'></div>
+</div>
+
+  </div>
+
 </body>
+  
+  <style>
+body {
+  background-image: url('{{site.baseurl}}/assets/images/background_logo_ds.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+</style>
 
 </html>
+<!-- i think this is necessary but unclear - emily -->
+<!-- <script type='text/javascript' async defer src='{{ "/assets/bootstrap/bootstrap.min.js" | absolute_url }}'></script>
+<script type='text/javascript' async defer src='{{ "/assets/popper.min.js" | absolute_url }}'></script> -->
+<script type='text/javascript' src="{{ '/assets/elasticlunr.min.js' }}"></script>
+<script type="text/javascript" src="{{ '/assets/search-ui-edited.js' }}"></script>
+<script type='text/javascript' src="{{ '/assets/jquery-3.2.1.min.js' }}"></script>
+<script type='text/javascript'>
+  var fields    = {{ fields | jsonify }};
+  var indexFile = "{{ index }}";
+  var url       = "{{ '' | absolute_url }}";
+
+  $(document).ready(function() {
+    startSearchUI(fields, indexFile, url);
+    console.log(fields);
+  });
+</script>
