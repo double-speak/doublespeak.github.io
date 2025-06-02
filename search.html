@@ -26,7 +26,7 @@ layout: default
 {% assign placeholder = include.placeholder | default: 'Search... ' %}
 {% assign key = 'main' | default: 'main' %}
 {% assign config = site.search[key] %}
-{% assign index = '/search/index.json' | absolute_url %}
+{% assign index = 'https://doublespeakjournal.org/search/index.json' | absolute_url %}
 {%- capture fields -%}
   {%- for collection in config.collections -%}
     {%- for field in collection[1].fields -%}
