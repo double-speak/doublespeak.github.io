@@ -4,31 +4,57 @@ title: Riddle 15
 transtitle: Riddle 15
 author: 'The Exeter Book Riddles '
 translator: Ophelia Eryn Hostetter
-poem: |-
-  Ic eom mund-bora mīnre heorde,
-  eodor-wīrum fæst, innan gefylled
-  dryht-gestrēona. Dæg-tīdum oft
-  spǣte spere-brōgan; spēd biþ þȳ māre
-  fylle mīnre. Frēo þæt bihealdeð,
-  hū mē of hrīfe flēogað hylde-pīlas.
-  hwīlum ic sweartum swelgan onginne
-  brūnum beado-wǣpnum, bitrum ordum,
-  eglum āttor-sperum. Is mīn innað til,
-  womb-hord wlītig, wloncum dēore;
-  men gemūnan þæt mē þurh mūþ fareð.
-transpoem: "I’m the bold soldier of what I’ve been holding,\nwire-woven, hedged and
-  fledged,\npledged to the game, crowned & inwound —\nhours go down, spot me spitting\nby
-  the minute — spear-spite never quitting.\nSpeeding is the way that it goes,\ngrowing
-  swollen, overflowing what I savor.\nhow my belly bursts with battle-hurts,\nStarts
-  to swing when I start to swallow\nthis hollow dark, war-edges swart & sharp,\nthe
-  bitterness of biters, terrible teeth of spiders.\nInside’s a pleasure, trickled
-  up with treasure,\nsweetness to measure & loved by the leisured —\nfam can’t forget,
-  can’t figure how it flows, \nwhat flecks flicker in famous flocks from my nose."
-note: |-
-  <p>Nowhere else in the extant Old English corpus is the need for non-conforming, deviant, and Queer translation more urgently felt than in the “Exeter Book Riddles”. These voices repeatedly insist that they are “amazing” (<em>wundorlīcu</em>) and “fascinating” (<em>wrætlīc</em>), yet it is quite easy to fail to clock their extravagance in how they are usually rendered. My translations endeavor to re-estrange these poems, breaking down critical complacencies regarding them. I work to vibe with their voices — to follow the weird wendings of their language, to stay awake to their glitches and hiccups, and most of all to listen to their expressive capacities. Nonconforming identities, desires, and experiences are often awkward to state aloud and therefore are easily spoken over, and so the riddles often give voice to the voiceless, not only to objects or animals but also to those otherwise invisible socially.</p>
-  <p>The question of stranger and kinsfolk is central to “Riddle 7,” usually solved as “Cuckoo” — a macabre story of nature sometimes used as a warning against fostering another’s children (this is a sub-plot of <em>Beowulf</em>, for instance). Yet the text of this poem resists that interpretation: the manuscript reading <em>snārlīce swā</em> [literally “like a snare”; here perhaps, “deviously”] is conventionally emended to <em>swā ārlīce swā</em> [“as graciously as”], which casts the step-mother as noble victim of this interloper. My translation opens up further possibilities of interpretation by refusing to take sides and suggests other motivations for taking in children: hostage-taking; enslavement; even placement in a monastery.</p>
-  <p>Just above “Riddle 15” in the <em>Exeter Book</em>, the runic characters “Beorc” and “Lagu” can be found, possibly pointing to a solution containing the letters “B” and “L”. It was frequent to assume this poem was solved by “ballista” or “fortified town” — those letters, however, may be more convincingly read as <em>bēo-loca</em>: a “bees’ horde” or beehive. For this translation I chose a style derived from hip-hop verse, four beats per line, with an internal rhyme. In doing this, I open the possibility of a new voice in the poem: a poet grappling with their own potential for violence. Filled with sweetness, defended by the points of spears, this speaker bears a striking resemblance to the narrators created by Biggie Smalls or the Geto Boys.</p>
-  <p>The proximity of a riddle to its solution is often found reassuring, but what if there is none apparent? What if there’s no need for one? “Riddle 26” is one of just a few poems like this in the collection; its dazzle of rhyming, chiming sound-play has eluded scholars since the nineteenth century. Previous solutions seek to harness this aural profligacy to the process of craft — making beer or a manuscript book. But what if this wallowing in the fun actually goes nowhere? What if these pleasures are non-productive, self-contained, private — unnecessary to interpret?</p>
+poem: "Ic eom mund-bora mīnre heorde,\r\neodor-wīrum fæst, innan gefylled\r\ndryht-gestrēona.
+  Dæg-tīdum oft\r\nspǣte spere-brōgan; spēd biþ þȳ māre\r\nfylle mīnre. Frēo þæt bihealdeð,\r\nhū
+  mē of hrīfe flēogað hylde-pīlas.\r\nhwīlum ic sweartum swelgan onginne\r\nbrūnum
+  beado-wǣpnum, bitrum ordum,\r\neglum āttor-sperum. Is mīn innað til,\r\nwomb-hord
+  wlītig, wloncum dēore;\r\nmen gemūnan þæt mē þurh mūþ fareð."
+transpoem: "I’m the bold soldier of what I’ve been holding,\r\nwire-woven, hedged
+  and fledged,\r\npledged to the game, crowned & inwound —\r\nhours go down, spot
+  me spitting\r\nby the minute — spear-spite never quitting.\r\nSpeeding is the way
+  that it goes,\r\ngrowing swollen, overflowing what I savor.\r\nhow my belly bursts
+  with battle-hurts,\r\nStarts to swing when I start to swallow\r\nthis hollow dark,
+  war-edges swart & sharp,\r\nthe bitterness of biters, terrible teeth of spiders.\r\nInside’s
+  a pleasure, trickled up with treasure,\r\nsweetness to measure & loved by the leisured
+  —\r\nfam can’t forget, can’t figure how it flows, \r\nwhat flecks flicker in famous
+  flocks from my nose."
+note: "<p>Nowhere else in the extant Old English corpus is the need for non-conforming,
+  deviant, and Queer translation more urgently felt than in the “Exeter Book Riddles”.
+  These voices repeatedly insist that they are “amazing” (<em>wundorlīcu</em>) and
+  “fascinating” (<em>wrætlīc</em>), yet it is quite easy to fail to clock their extravagance
+  in how they are usually rendered. My translations endeavor to re-estrange these
+  poems, breaking down critical complacencies regarding them. I work to vibe with
+  their voices — to follow the weird wendings of their language, to stay awake to
+  their glitches and hiccups, and most of all to listen to their expressive capacities.
+  Nonconforming identities, desires, and experiences are often awkward to state aloud
+  and therefore are easily spoken over, and so the riddles often give voice to the
+  voiceless, not only to objects or animals but also to those otherwise invisible
+  socially.</p>\r\n<p>The question of stranger and kinsfolk is central to “Riddle
+  7,” usually solved as “Cuckoo” — a macabre story of nature sometimes used as a warning
+  against fostering another’s children (this is a sub-plot of <em>Beowulf</em>, for
+  instance). Yet the text of this poem resists that interpretation: the manuscript
+  reading <em>snārlīce swā</em> [literally “like a snare”; here perhaps, “deviously”]
+  is conventionally emended to <em>swā ārlīce swā</em> [“as graciously as”], which
+  casts the step-mother as noble victim of this interloper. My translation opens up
+  further possibilities of interpretation by refusing to take sides and suggests other
+  motivations for taking in children: hostage-taking; enslavement; even placement
+  in a monastery.</p>\r\n<p>Just above “Riddle 15” in the <em>Exeter Book</em>, the
+  runic characters “Beorc” and “Lagu” can be found, possibly pointing to a solution
+  containing the letters “B” and “L”. It was frequent to assume this poem was solved
+  by “ballista” or “fortified town” — those letters, however, may be more convincingly
+  read as <em>bēo-loca</em>: a “bees’ horde” or beehive. For this translation I chose
+  a style derived from hip-hop verse, four beats per line, with an internal rhyme.
+  In doing this, I open the possibility of a new voice in the poem: a poet grappling
+  with their own potential for violence. Filled with sweetness, defended by the points
+  of spears, this speaker bears a striking resemblance to the narrators created by
+  Biggie Smalls or the Geto Boys.</p>\r\n<p>The proximity of a riddle to its solution
+  is often found reassuring, but what if there is none apparent? What if there’s no
+  need for one? “Riddle 26” is one of just a few poems like this in the collection;
+  its dazzle of rhyming, chiming sound-play has eluded scholars since the nineteenth
+  century. Previous solutions seek to harness this aural profligacy to the process
+  of craft — making beer or a manuscript book. But what if this wallowing in the fun
+  actually goes nowhere? What if these pleasures are non-productive, self-contained,
+  private — unnecessary to interpret?</p>"
 abio: "<p>The “Exeter Book Riddles” are found in an Old English miscellany produced
   between 950–1000 CE, now housed at Exeter Cathedral Library. Few of these riddles,
   if any, were produced by the same hand, and the idea of an “author” may not even

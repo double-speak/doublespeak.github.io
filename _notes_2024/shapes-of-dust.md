@@ -4,29 +4,29 @@ title: Le forme della polvere
 transtitle: The Shapes of Dust
 author: Sebastiano Addamo
 translator: Alex Hoffmann
-poem: "Tutto ormai noto: l'amore\ne lo scempio, le ferite, il pane\ne i vermi sinuosi
-  come rimorsi,\ni treni senza meta volubili per la \ncollina come lunatici, come
-  soldati\nperduti dietro il loro pallore.\nSu e giù per corsie d'ospedali\nfendere
-  lo spazioso tempio\ndel crepuscolo senza luce\ni paradigmi ossuti e l'oscura\nmestizia
-  della speranza.\nDal treno scendono gai cadaveri\ncon grida e bandiere ne cercano\naltri
-  sotto il cielo\nrosso di rose rosse\nnella festa di rose rosse\nnella festa di tempie
-  arrossate.\nSotto il vento rose tempie e bandiere\nsi tuffano tra l'erba bassa.\nSi
-  sognano genesi e parabole\nin muti colloqui come preghiere.\n\nE io per me.\nPer
-  me lascio i miei dèi inetti e testardi\nbrucio vecchie (e nuove) domande\nmi ristendo
-  sotto l'opaca quercia\ndella terra nella luna furiosa,\nper ritrovar soltanto (ma
-  è tutto)\nun cane oscuro in cerca d'altri occhi."
-transpoem: "All well known by now: love\nand ruin, the wounds, the bread\nand the
-  sinuous worms like regrets,\nthe trains without destinations inconstant through
-  \nthe hill like lunatics, like soldiers\nlost behind their pallor.\nUp and down
-  through hospital wards\nto rend the spacious temple\nof the lightless crepuscule
-  \nthe ossified paradigms and the dark\nforlornness of hope.\nFrom the train descend
-  gay cadavers\nWith screams and flags they search\nfor more under the sky\nred with
-  rosy roses\nin the fête of rosy roses\nin the fête of rosied temples.\nIn the wind
-  roses temples and flags\nplunge into the low grass.\nThey dream of genesis and parables\nin
-  mute colloquies like prayers.\n\nAnd I on my own. \nOn my own I leave my inept and
-  stubborn gods\nburn old (and new) requests\nI lie down under the dark oak\nof the
-  earth in the furious moon\nto refind merely (but it’s everything)\na lowly dog in
-  search of other eyes."
+poem: "Tutto ormai noto: l'amore\r\ne lo scempio, le ferite, il pane\r\ne i vermi
+  sinuosi come rimorsi,\r\ni treni senza meta volubili per la \r\ncollina come lunatici,
+  come soldati\r\nperduti dietro il loro pallore.\r\nSu e giù per corsie d'ospedali\r\nfendere
+  lo spazioso tempio\r\ndel crepuscolo senza luce\r\ni paradigmi ossuti e l'oscura\r\nmestizia
+  della speranza.\r\nDal treno scendono gai cadaveri\r\ncon grida e bandiere ne cercano\r\naltri
+  sotto il cielo\r\nrosso di rose rosse\r\nnella festa di rose rosse\r\nnella festa
+  di tempie arrossate.\r\nSotto il vento rose tempie e bandiere\r\nsi tuffano tra
+  l'erba bassa.\r\nSi sognano genesi e parabole\r\nin muti colloqui come preghiere.\r\n\r\nE
+  io per me.\r\nPer me lascio i miei dèi inetti e testardi\r\nbrucio vecchie (e nuove)
+  domande\r\nmi ristendo sotto l'opaca quercia\r\ndella terra nella luna furiosa,\r\nper
+  ritrovar soltanto (ma è tutto)\r\nun cane oscuro in cerca d'altri occhi."
+transpoem: "All well known by now: love\r\nand ruin, the wounds, the bread\r\nand
+  the sinuous worms like regrets,\r\nthe trains without destinations inconstant through
+  \r\nthe hill like lunatics, like soldiers\r\nlost behind their pallor.\r\nUp and
+  down through hospital wards\r\nto rend the spacious temple\r\nof the lightless crepuscule
+  \r\nthe ossified paradigms and the dark\r\nforlornness of hope.\r\nFrom the train
+  descend gay cadavers\r\nWith screams and flags they search\r\nfor more under the
+  sky\r\nred with rosy roses\r\nin the fête of rosy roses\r\nin the fête of rosied
+  temples.\r\nIn the wind roses temples and flags\r\nplunge into the low grass.\r\nThey
+  dream of genesis and parables\r\nin mute colloquies like prayers.\r\n\r\nAnd I on
+  my own. \r\nOn my own I leave my inept and stubborn gods\r\nburn old (and new) requests\r\nI
+  lie down under the dark oak\r\nof the earth in the furious moon\r\nto refind merely
+  (but it’s everything)\r\na lowly dog in search of other eyes."
 note: "<p>It is my preference when translating poetry to stray as little as possible
   from the original text. I prefer to use a word like “crepuscule” instead of the
   more common “twilight,” for example, in order to remain in closer proximity to the

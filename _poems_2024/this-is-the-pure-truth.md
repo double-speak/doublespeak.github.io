@@ -4,29 +4,29 @@ title: Ésta es la pura verdad
 transtitle: This Is the Pure Truth
 author: Robert Bolaño
 translator: Naomi Bernstein
-poem: "Me he criado al lado de puritanos revolucionarios\nHe sido criticado ayudado
-  empujado por héroes\nde la poesía lírica\ny del balancín de la muerte.\nQuiero decir
-  que mi lirismo es DIFERENTE\n(ya está todo expresado pero permitidme\nañadir algo
-  más). \nNadar en los pantanos de la cursilería\nes para mí como un Acapulco de sangre
-  de pescado\nuna Disneylandia submarina\nEn donde soy en paz conmigo. \n\nRaro oficio
-  gratuito          Ir perdiendo el pelo\ny los dientes           Las antiguas maneras
-  de ser educado\nExtraña complacencia           (El poeta no desea ser más\nque los
-  otros)           Ni riqueza ni fama ni tan sólo\npoesía           Tai vez ésta sea
-  la única forma\nde no tener miedo           Instalarse en el miedo\ncomo quien vive
-  dentro de la lentitud\nFantasmas que todos poseemos           Simplemente\naguardando
+poem: "Me he criado al lado de puritanos revolucionarios\r\nHe sido criticado ayudado
+  empujado por héroes\r\nde la poesía lírica\r\ny del balancín de la muerte.\r\nQuiero
+  decir que mi lirismo es DIFERENTE\r\n(ya está todo expresado pero permitidme\r\nañadir
+  algo más). \r\nNadar en los pantanos de la cursilería\r\nes para mí como un Acapulco
+  de sangre de pescado\r\nuna Disneylandia submarina\r\nEn donde soy en paz conmigo.
+  \r\n\r\nRaro oficio gratuito          Ir perdiendo el pelo\r\ny los dientes           Las
+  antiguas maneras de ser educado\r\nExtraña complacencia           (El poeta no desea
+  ser más\r\nque los otros)           Ni riqueza ni fama ni tan sólo\r\npoesía           Tai
+  vez ésta sea la única forma\r\nde no tener miedo           Instalarse en el miedo\r\ncomo
+  quien vive dentro de la lentitud\r\nFantasmas que todos poseemos           Simplemente\r\naguardando
   a alguien o algo sobre las ruinas"
-transpoem: "I was raised alongside revolutionary puritans \nI have been criticized
-  saved and shoved by heroes \nof lyric poetry \nand the rocking chair of death. \nI
-  want to say that my lyricism is DIFFERENT \n(everything has been expressed already
-  but permit me \nto add one more thing). \nTo swim in the swamps of vulgarity \nis
-  for me like an Acapulco of mercury \nan Acapulco of fish blood \nan underwater Disneyland
-  \nwhere I am at peace with myself. \nStrange gratuitous trade           To go losing
-  one’s hair\nand one’s teeth           The old ways of becoming educated \nStrange
-  complacency           (The poet does not desire to be more \nthan others)           Neither
-  in riches nor fame nor in poetry \nitself           Maybe this is the only form
-  \nof not being afraid           To install oneself in the fear \nlike those who
-  live within slowness \nGhosts that we all possess           Simply \nwaiting for
-  someone or something among the ruins\n"
+transpoem: "I was raised alongside revolutionary puritans \r\nI have been criticized
+  saved and shoved by heroes \r\nof lyric poetry \r\nand the rocking chair of death.
+  \r\nI want to say that my lyricism is DIFFERENT \r\n(everything has been expressed
+  already but permit me \r\nto add one more thing). \r\nTo swim in the swamps of vulgarity
+  \r\nis for me like an Acapulco of mercury \r\nan Acapulco of fish blood \r\nan underwater
+  Disneyland \r\nwhere I am at peace with myself. \r\nStrange gratuitous trade           To
+  go losing one’s hair\r\nand one’s teeth           The old ways of becoming educated
+  \r\nStrange complacency           (The poet does not desire to be more \r\nthan
+  others)           Neither in riches nor fame nor in poetry \r\nitself           Maybe
+  this is the only form \r\nof not being afraid           To install oneself in the
+  fear \r\nlike those who live within slowness \r\nGhosts that we all possess           Simply
+  \r\nwaiting for someone or something among the ruins\r\n"
 note: "<p>Aside from a few ambiguous words, the most difficult part about translating
   this poem was deciding whether it was one poem, or two. In his <em>Poesía Reunida</em>,
   the two sections sit on two consecutive pages, mirroring each other, and the second
