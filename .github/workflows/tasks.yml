@@ -44,7 +44,10 @@ jobs:
         run: bundle exec rake wax:clobber author_tags
       - name: build author tags
         run: bundle exec rake wax:pages author_tags
-
+      - name: clobber language tags
+        run: bundle exec rake wax:clobber language_tags
+      - name: build language tags
+        run: bundle exec rake wax:pages language_tags
       - name: clobber translator tags
         run: bundle exec rake wax:clobber translator_tags
       - name: build translator tags
@@ -124,15 +127,18 @@ jobs:
       - name: build notes 2016
         run: bundle exec rake wax:pages notes_2016
 
-      - name: clobber language tags
-        run: bundle exec rake wax:clobber language_tags
-      - name: build language tags
-        run: bundle exec rake wax:pages language_tags
+## here end the collection builds!
         
 ## search
       - name: build search 
         run: bundle exec rake wax:search main
+
+## site clean and rebuild
         
+      - name: clean site
+        # Deletes './_site' directory 
+        run: bundle exec jekyll clean
+      
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build
@@ -142,7 +148,7 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
-## here end the collection builds!
+
 
     # Deployment job
   deploy:
