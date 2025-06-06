@@ -1,8 +1,8 @@
 ---
-pid: Ayla_Fudala
+pid: ayla_fudala
 name: Ayla Fudala
 type: translator
-order: '017'
+order: '027'
 layout: tagpage
 collection: translator_tags
 ---

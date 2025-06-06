@@ -1,8 +1,8 @@
 ---
-pid: Thomas_Carlyle
+pid: thomas_carlyle
 name: Thomas Carlyle
 type: author
-order: '146'
+order: '188'
 layout: tagpage
 collection: author_tags
 ---

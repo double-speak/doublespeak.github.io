@@ -1,8 +1,8 @@
 ---
-pid: Erich_Arendt
+pid: erich_arendt
 name: Erich Arendt
 type: author
-order: '035'
+order: '044'
 layout: tagpage
 collection: author_tags
 ---

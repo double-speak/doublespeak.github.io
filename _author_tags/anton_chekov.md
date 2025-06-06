@@ -1,8 +1,8 @@
 ---
-pid: Anton_Chekov
+pid: anton_chekov
 name: Anton Chekov
 type: author
-order: '012'
+order: '015'
 layout: tagpage
 collection: author_tags
 ---

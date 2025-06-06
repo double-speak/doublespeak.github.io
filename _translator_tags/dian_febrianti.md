@@ -1,8 +1,8 @@
 ---
-pid: Dian_Febrianti
+pid: dian_febrianti
 name: Dian Febrianti
 type: translator
-order: '165'
+order: '052'
 layout: tagpage
 collection: translator_tags
 ---

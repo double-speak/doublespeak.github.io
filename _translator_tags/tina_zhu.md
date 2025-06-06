@@ -1,8 +1,8 @@
 ---
-pid: Tina_Zhu
+pid: tina_zhu
 name: Tina Zhu
 type: translator
-order: '154'
+order: '186'
 layout: tagpage
 collection: translator_tags
 ---

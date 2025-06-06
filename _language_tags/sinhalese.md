@@ -1,8 +1,8 @@
 ---
-pid: Sinhalese
+pid: sinhalese
 name: Sinhalese
 type: language
-order: '34'
+order: '38'
 layout: tagpage
 collection: language_tags
 ---

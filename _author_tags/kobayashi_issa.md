@@ -1,8 +1,8 @@
 ---
-pid: Kobayashi_Issa
+pid: kobayashi_issa
 name: Kobayashi Issa
 type: author
-order: '071'
+order: '092'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Jackson_Gu
+pid: jackson_gu
 name: Jackson Gu
 type: translator
-order: '064'
+order: '085'
 layout: tagpage
 collection: translator_tags
 ---

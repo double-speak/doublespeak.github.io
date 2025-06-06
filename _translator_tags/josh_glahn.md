@@ -1,8 +1,8 @@
 ---
-pid: Josh_Glahn
+pid: josh_glahn
 name: Josh Glahn
 type: translator
-order: '074'
+order: '097'
 layout: tagpage
 collection: translator_tags
 ---

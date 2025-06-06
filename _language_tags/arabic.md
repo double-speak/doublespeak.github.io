@@ -1,5 +1,5 @@
 ---
-pid: Arabic
+pid: arabic
 name: Arabic
 type: language
 order: '01'

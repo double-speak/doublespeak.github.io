@@ -1,8 +1,8 @@
 ---
-pid: Nurullah_Genc
+pid: nurullah_genc
 name: Nurullah Genç
 type: author
-order: '106'
+order: '134'
 layout: tagpage
 collection: author_tags
 ---

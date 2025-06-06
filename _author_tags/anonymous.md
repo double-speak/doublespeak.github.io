@@ -1,8 +1,8 @@
 ---
-pid: Anonymous
+pid: anonymous
 name: Anonymous
 type: author
-order: '011'
+order: '013'
 layout: tagpage
 collection: author_tags
 ---

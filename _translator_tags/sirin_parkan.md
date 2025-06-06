@@ -1,8 +1,8 @@
 ---
-pid: Sirin_Parkan
+pid: sirin_parkan
 name: Sirin Parkan
 type: translator
-order: '146'
+order: '176'
 layout: tagpage
 collection: translator_tags
 ---

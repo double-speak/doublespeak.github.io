@@ -1,8 +1,8 @@
 ---
-pid: Laura_Francis
+pid: laura_francis
 name: Laura Francis
 type: translator
-order: '085'
+order: '109'
 layout: tagpage
 collection: translator_tags
 ---

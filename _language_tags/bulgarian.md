@@ -1,5 +1,5 @@
 ---
-pid: Bulgarian
+pid: bulgarian
 name: Bulgarian
 type: language
 order: '04'

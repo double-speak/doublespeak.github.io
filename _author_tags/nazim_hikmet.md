@@ -1,8 +1,8 @@
 ---
-pid: Nazım_Hikmet
+pid: nazım_hikmet
 name: Nâzım Hikmet
 type: author
-order: '102'
+order: '130'
 layout: tagpage
 collection: author_tags
 ---

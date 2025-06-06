@@ -1,8 +1,8 @@
 ---
-pid: Erika_Kontulainen
+pid: erika_kontulainen
 name: Erika Kontulainen
 type: translator
-order: '051'
+order: '068'
 layout: tagpage
 collection: translator_tags
 ---

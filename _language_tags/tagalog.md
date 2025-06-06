@@ -1,8 +1,8 @@
 ---
-pid: Tagalog
+pid: tagalog
 name: Tagalog
 type: language
-order: '37'
+order: '42'
 layout: tagpage
 collection: language_tags
 ---

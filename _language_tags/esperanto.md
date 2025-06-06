@@ -1,8 +1,8 @@
 ---
-pid: Esperanto
+pid: esperanto
 name: Esperanto
 type: language
-order: '07'
+order: '09'
 layout: tagpage
 collection: language_tags
 ---

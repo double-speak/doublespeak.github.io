@@ -1,8 +1,8 @@
 ---
-pid: Chiranan_Pitpreecha
+pid: chiranan_pitpreecha
 name: Chiranan Pitpreecha
 type: author
-order: '024'
+order: '032'
 layout: tagpage
 collection: author_tags
 ---

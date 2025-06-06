@@ -1,8 +1,8 @@
 ---
-pid: Perren_Carrillo
+pid: perren_carrillo
 name: Perren Carrillo
 type: translator
-order: '118'
+order: '147'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Armando_Valladares
+pid: armando_valladares
 name: Armando Valladares
 type: author
-order: '015'
+order: '018'
 layout: tagpage
 collection: author_tags
 ---

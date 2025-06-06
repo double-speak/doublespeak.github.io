@@ -1,8 +1,8 @@
 ---
-pid: Mario_Benedetti
+pid: mario_benedetti
 name: Mario Benedetti
 type: author
-order: '090'
+order: '116'
 layout: tagpage
 collection: author_tags
 ---

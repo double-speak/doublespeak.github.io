@@ -1,8 +1,8 @@
 ---
-pid: Yuchao_Wang
+pid: yuchao_wang
 name: Yuchao Wang
 type: translator
-order: '162'
+order: '196'
 layout: tagpage
 collection: translator_tags
 ---

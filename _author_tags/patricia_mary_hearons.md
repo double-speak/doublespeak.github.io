@@ -1,8 +1,8 @@
 ---
-pid: Patricia_Mary_Hearons
+pid: patricia_mary_hearons
 name: Patricia Mary Hearons
 type: author
-order: '111'
+order: '141'
 layout: tagpage
 collection: author_tags
 ---

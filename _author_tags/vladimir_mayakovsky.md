@@ -1,8 +1,8 @@
 ---
-pid: Vladimir_Mayakovsky
+pid: vladimir_mayakovsky
 name: Vladimir Mayakovsky
 type: author
-order: '152'
+order: '198'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Vladimir_Vysotskii
+pid: vladimir_vysotskii
 name: Vladimir Vysotskii
 type: author
-order: '153'
+order: '199'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Malika_Kadyrova
+pid: malika_kadyrova
 name: Malika Kadyrova
 type: translator
-order: '091'
+order: '116'
 layout: tagpage
 collection: translator_tags
 ---

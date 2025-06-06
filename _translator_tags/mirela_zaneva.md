@@ -1,8 +1,8 @@
 ---
-pid: Mirela_Zaneva
+pid: mirela_zaneva
 name: Mirela Zaneva
 type: translator
-order: '105'
+order: '131'
 layout: tagpage
 collection: translator_tags
 ---

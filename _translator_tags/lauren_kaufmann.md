@@ -1,8 +1,8 @@
 ---
-pid: Lauren_Kaufmann
+pid: lauren_kaufmann
 name: Lauren Kaufmann
 type: translator
-order: '086'
+order: '110'
 layout: tagpage
 collection: translator_tags
 ---

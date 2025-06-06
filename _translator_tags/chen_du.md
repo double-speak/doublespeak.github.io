@@ -1,8 +1,8 @@
 ---
-pid: Chen_Du
+pid: chen_du
 name: Chen Du
 type: translator
-order: '025'
+order: '038'
 layout: tagpage
 collection: translator_tags
 ---

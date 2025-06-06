@@ -1,8 +1,8 @@
 ---
-pid: Sanskrit
+pid: sanskrit
 name: Sanskrit
 type: language
-order: '33'
+order: '37'
 layout: tagpage
 collection: language_tags
 ---

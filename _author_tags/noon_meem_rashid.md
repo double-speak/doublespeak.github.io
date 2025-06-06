@@ -1,8 +1,8 @@
 ---
-pid: Noon_Meem_Rashid
+pid: noon_meem_rashid
 name: Noon Meem Rashid
 type: author
-order: '105'
+order: '133'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Anjali_Gupta
+pid: anjali_gupta
 name: Anjali Gupta
 type: translator
-order: '011'
+order: '015'
 layout: tagpage
 collection: translator_tags
 ---

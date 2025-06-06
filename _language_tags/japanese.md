@@ -1,8 +1,8 @@
 ---
-pid: Japanese
+pid: japanese
 name: Japanese
 type: language
-order: '19'
+order: '20'
 layout: tagpage
 collection: language_tags
 ---

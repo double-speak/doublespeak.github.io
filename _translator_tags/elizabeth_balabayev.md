@@ -1,8 +1,8 @@
 ---
-pid: Elizabeth_Balabayev
+pid: elizabeth_balabayev
 name: Elizabeth Balabayev
 type: translator
-order: '042'
+order: '057'
 layout: tagpage
 collection: translator_tags
 ---

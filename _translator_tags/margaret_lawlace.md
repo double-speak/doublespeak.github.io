@@ -1,8 +1,8 @@
 ---
-pid: Margaret_Lawlace
+pid: margaret_lawlace
 name: Margaret Lawlace
 type: translator
-order: '093'
+order: '118'
 layout: tagpage
 collection: translator_tags
 ---

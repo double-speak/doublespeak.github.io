@@ -1,8 +1,8 @@
 ---
-pid: Moses_Ibn_Ezra
+pid: moses_ibn_ezra
 name: Moses Ibn Ezra
 type: author
-order: '173'
+order: '124'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Donnisa_Edmonds
+pid: donnisa_edmonds
 name: Donnisa Edmonds
 type: translator
-order: '040'
+order: '055'
 layout: tagpage
 collection: translator_tags
 ---

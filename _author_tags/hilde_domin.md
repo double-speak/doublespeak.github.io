@@ -1,8 +1,8 @@
 ---
-pid: Hilde_Domin
+pid: hilde_domin
 name: Hilde Domin
 type: author
-order: '057'
+order: '069'
 layout: tagpage
 collection: author_tags
 ---

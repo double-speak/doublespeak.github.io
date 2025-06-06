@@ -1,8 +1,8 @@
 ---
-pid: Tim_Lorndale
+pid: tim_lorndale
 name: Tim Lorndale
 type: author
-order: '147'
+order: '189'
 layout: tagpage
 collection: author_tags
 ---

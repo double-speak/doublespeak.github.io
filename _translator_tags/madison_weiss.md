@@ -1,8 +1,8 @@
 ---
-pid: Madison_Weiss
+pid: madison_weiss
 name: Madison Weiss
 type: translator
-order: '175'
+order: '114'
 layout: tagpage
 collection: translator_tags
 ---

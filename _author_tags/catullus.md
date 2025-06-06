@@ -1,8 +1,8 @@
 ---
-pid: Catullus
+pid: catullus
 name: Catullus
 type: author
-order: '021'
+order: '026'
 layout: tagpage
 collection: author_tags
 ---

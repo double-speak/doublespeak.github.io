@@ -1,8 +1,8 @@
 ---
-pid: Russian
+pid: russian
 name: Russian
 type: language
-order: '32'
+order: '36'
 layout: tagpage
 collection: language_tags
 ---

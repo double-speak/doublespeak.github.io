@@ -1,8 +1,8 @@
 ---
-pid: Charlotte_Delbo
+pid: charlotte_delbo
 name: Charlotte Delbo
 type: author
-order: '023'
+order: '031'
 layout: tagpage
 collection: author_tags
 ---

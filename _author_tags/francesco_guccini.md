@@ -1,8 +1,8 @@
 ---
-pid: Francesco_Guccini
+pid: francesco_guccini
 name: Francesco Guccini
 type: author
-order: '041'
+order: '020'
 layout: tagpage
 collection: author_tags
 ---

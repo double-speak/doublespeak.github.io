@@ -1,8 +1,8 @@
 ---
-pid: Nathan_Alterman
+pid: nathan_alterman
 name: Nathan Alterman
 type: author
-order: '101'
+order: '129'
 layout: tagpage
 collection: author_tags
 ---

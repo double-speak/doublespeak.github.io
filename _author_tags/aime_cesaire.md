@@ -1,5 +1,5 @@
 ---
-pid: Aime_Cesaire
+pid: aime_cesaire
 name: Aimé Césaire
 type: author
 order: '002'

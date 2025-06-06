@@ -1,8 +1,8 @@
 ---
-pid: Anna_Carapellotti
+pid: anna_carapellotti
 name: Anna Carapellotti
 type: translator
-order: '013'
+order: '018'
 layout: tagpage
 collection: translator_tags
 ---

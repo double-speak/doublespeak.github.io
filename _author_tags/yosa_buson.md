@@ -1,8 +1,8 @@
 ---
-pid: Yosa_Buson
+pid: yosa_buson
 name: Yosa Buson
 type: author
-order: '161'
+order: '208'
 layout: tagpage
 collection: author_tags
 ---

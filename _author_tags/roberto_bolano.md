@@ -1,8 +1,8 @@
 ---
-pid: Roberto_Bolano
+pid: roberto_bolano
 name: Roberto Bolaño
 type: author
-order: '126'
+order: '159'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Margaret_Borowezyk
+pid: margaret_borowezyk
 name: Margaret Borowezyk
 type: translator
-order: '092'
+order: '117'
 layout: tagpage
 collection: translator_tags
 ---

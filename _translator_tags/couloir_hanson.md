@@ -1,8 +1,8 @@
 ---
-pid: Couloir_Hanson
+pid: couloir_hanson
 name: Couloir Hanson
 type: translator
-order: '032'
+order: '044'
 layout: tagpage
 collection: translator_tags
 ---

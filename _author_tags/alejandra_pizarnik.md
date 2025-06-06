@@ -1,8 +1,8 @@
 ---
-pid: Alejandra_Pizarnik
+pid: alejandra_pizarnik
 name: Alejandra Pizarnik
 type: author
-order: '005'
+order: '006'
 layout: tagpage
 collection: author_tags
 ---

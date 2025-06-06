@@ -1,8 +1,8 @@
 ---
-pid: Hebrew
+pid: hebrew
 name: Hebrew
 type: language
-order: '15'
+order: '16'
 layout: tagpage
 collection: language_tags
 ---

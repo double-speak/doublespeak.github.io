@@ -1,8 +1,8 @@
 ---
-pid: Tomas_Transtromer
+pid: tomas_transtromer
 name: Tomas Tranströmer
 type: author
-order: '148'
+order: '190'
 layout: tagpage
 collection: author_tags
 ---

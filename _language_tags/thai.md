@@ -1,8 +1,8 @@
 ---
-pid: Thai
+pid: thai
 name: Thai
 type: language
-order: '38'
+order: '43'
 layout: tagpage
 collection: language_tags
 ---

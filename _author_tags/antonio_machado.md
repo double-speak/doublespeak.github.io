@@ -1,8 +1,8 @@
 ---
-pid: Antonio_Machado
+pid: antonio_machado
 name: Antonio Machado
 type: author
-order: '014'
+order: '017'
 layout: tagpage
 collection: author_tags
 ---

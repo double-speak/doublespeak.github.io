@@ -1,8 +1,8 @@
 ---
-pid: Bethany_Wiggin
+pid: bethany_wiggin
 name: Bethany Wiggin
 type: translator
-order: '020'
+order: '032'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Spanish
+pid: spanish
 name: Spanish
 type: language
-order: '35'
+order: '40'
 layout: tagpage
 collection: language_tags
 ---

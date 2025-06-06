@@ -1,8 +1,8 @@
 ---
-pid: Mariama_Ndiaye
+pid: mariama_ndiaye
 name: Mariama Ndiaye
 type: author
-order: '086'
+order: '111'
 layout: tagpage
 collection: author_tags
 ---

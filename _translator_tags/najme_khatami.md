@@ -1,8 +1,8 @@
 ---
-pid: Najme_Khatami
+pid: najme_khatami
 name: Najme Khatami
 type: translator
-order: '108'
+order: '134'
 layout: tagpage
 collection: translator_tags
 ---

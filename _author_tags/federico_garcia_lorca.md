@@ -1,8 +1,8 @@
 ---
-pid: Federico_García_Lorca
+pid: federico_garcía_lorca
 name: Federico García Lorca
 type: author
-order: '038'
+order: '048'
 layout: tagpage
 collection: author_tags
 ---

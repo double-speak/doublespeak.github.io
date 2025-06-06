@@ -1,8 +1,8 @@
 ---
-pid: Ingeborg_Bachmann
+pid: ingeborg_bachmann
 name: Ingeborg Bachmann
 type: author
-order: '172'
+order: '073'
 layout: tagpage
 collection: author_tags
 ---

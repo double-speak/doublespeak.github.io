@@ -1,8 +1,8 @@
 ---
-pid: Shailly_Pandey
+pid: shailly_pandey
 name: Shailly Pandey
 type: translator
-order: '140'
+order: '169'
 layout: tagpage
 collection: translator_tags
 ---

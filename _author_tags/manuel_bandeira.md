@@ -1,8 +1,8 @@
 ---
-pid: Manuel_Bandeira
+pid: manuel_bandeira
 name: Manuel Bandeira
 type: author
-order: '169'
+order: '108'
 layout: tagpage
 collection: author_tags
 ---

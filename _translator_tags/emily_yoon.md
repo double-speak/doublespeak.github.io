@@ -1,8 +1,8 @@
 ---
-pid: Emily_Yoon
+pid: emily_yoon
 name: Emily Yoon
 type: translator
-order: '046'
+order: '062'
 layout: tagpage
 collection: translator_tags
 ---

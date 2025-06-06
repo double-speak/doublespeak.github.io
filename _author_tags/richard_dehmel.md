@@ -1,8 +1,8 @@
 ---
-pid: Richard_Dehmel
+pid: richard_dehmel
 name: Richard Dehmel
 type: author
-order: '125'
+order: '158'
 layout: tagpage
 collection: author_tags
 ---

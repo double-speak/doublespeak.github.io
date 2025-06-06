@@ -1,8 +1,8 @@
 ---
-pid: Yun_Dong_ju
+pid: yun_dong_ju
 name: Yun Dong-ju
 type: author
-order: '163'
+order: '210'
 layout: tagpage
 collection: author_tags
 ---

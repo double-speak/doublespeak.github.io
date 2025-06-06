@@ -1,8 +1,8 @@
 ---
-pid: Xisheng_Chen
+pid: xisheng_chen
 name: Xisheng Chen
 type: translator
-order: '026'
+order: '192'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Darío_Goldgel_Carballo
+pid: darío_goldgel_carballo
 name: Darío Goldgel Carballo
 type: translator
-order: '036'
+order: '049'
 layout: tagpage
 collection: translator_tags
 ---

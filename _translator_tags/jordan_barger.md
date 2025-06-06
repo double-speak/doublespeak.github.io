@@ -1,8 +1,8 @@
 ---
-pid: Jordan_Barger
+pid: jordan_barger
 name: Jordan Barger
 type: translator
-order: '072'
+order: '095'
 layout: tagpage
 collection: translator_tags
 ---

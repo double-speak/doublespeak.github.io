@@ -1,8 +1,8 @@
 ---
-pid: Stella_N_Djoku
+pid: stella_n_djoku
 name: Stella N’Djoku
 type: author
-order: '141'
+order: '181'
 layout: tagpage
 collection: author_tags
 ---

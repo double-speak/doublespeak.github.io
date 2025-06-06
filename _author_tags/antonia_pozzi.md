@@ -1,8 +1,8 @@
 ---
-pid: Antonia_Pozzi
+pid: antonia_pozzi
 name: Antonia Pozzi
 type: author
-order: '013'
+order: '016'
 layout: tagpage
 collection: author_tags
 ---

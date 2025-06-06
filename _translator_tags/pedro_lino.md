@@ -1,8 +1,8 @@
 ---
-pid: Pedro_Lino
+pid: pedro_lino
 name: Pedro Lino
 type: translator
-order: '116'
+order: '144'
 layout: tagpage
 collection: translator_tags
 ---

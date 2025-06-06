@@ -1,8 +1,8 @@
 ---
-pid: Naomi_Bernstein
+pid: naomi_bernstein
 name: Naomi Bernstein
 type: translator
-order: '109'
+order: '135'
 layout: tagpage
 collection: translator_tags
 ---

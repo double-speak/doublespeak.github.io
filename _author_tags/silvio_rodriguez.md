@@ -1,8 +1,8 @@
 ---
-pid: Silvio_Rodriguez
+pid: silvio_rodriguez
 name: Silvio Rodríguez
 type: author
-order: '137'
+order: '175'
 layout: tagpage
 collection: author_tags
 ---

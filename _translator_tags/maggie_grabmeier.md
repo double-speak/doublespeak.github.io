@@ -1,8 +1,8 @@
 ---
-pid: Maggie_Grabmeier
+pid: maggie_grabmeier
 name: Maggie Grabmeier
 type: translator
-order: '090'
+order: '115'
 layout: tagpage
 collection: translator_tags
 ---

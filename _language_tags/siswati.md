@@ -1,8 +1,8 @@
 ---
-pid: siSwati
+pid: siswati
 name: siSwati
 type: language
-order: '43'
+order: '39'
 layout: tagpage
 collection: language_tags
 ---

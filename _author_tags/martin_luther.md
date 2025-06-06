@@ -1,8 +1,8 @@
 ---
-pid: Martin_Luther
+pid: martin_luther
 name: Martin Luther
 type: author
-order: '091'
+order: '117'
 layout: tagpage
 collection: author_tags
 ---

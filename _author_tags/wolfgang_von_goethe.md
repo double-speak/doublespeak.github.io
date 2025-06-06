@@ -1,8 +1,8 @@
 ---
-pid: Wolfgang_von_Goethe
+pid: wolfgang_von_goethe
 name: Wolfgang von Goethe
 type: author
-order: '155'
+order: '202'
 layout: tagpage
 collection: author_tags
 ---

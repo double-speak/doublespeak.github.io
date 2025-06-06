@@ -1,8 +1,8 @@
 ---
-pid: Urdu
+pid: urdu
 name: Urdu
 type: language
-order: '40'
+order: '45'
 layout: tagpage
 collection: language_tags
 ---

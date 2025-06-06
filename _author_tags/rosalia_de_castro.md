@@ -1,8 +1,8 @@
 ---
-pid: Rosalia_de_Castro
+pid: rosalia_de_castro
 name: Rosalía de Castro
 type: author
-order: '174'
+order: '161'
 layout: tagpage
 collection: author_tags
 ---

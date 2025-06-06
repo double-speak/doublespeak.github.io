@@ -1,8 +1,8 @@
 ---
-pid: Giuseppe_Ungaretti
+pid: giuseppe_ungaretti
 name: Giuseppe Ungaretti
 type: author
-order: '050'
+order: '060'
 layout: tagpage
 collection: author_tags
 ---

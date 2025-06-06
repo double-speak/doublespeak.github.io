@@ -1,8 +1,8 @@
 ---
-pid: John_Sherer
+pid: john_sherer
 name: John Sherer
 type: translator
-order: '060'
+order: '091'
 layout: tagpage
 collection: translator_tags
 ---

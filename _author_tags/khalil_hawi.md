@@ -1,8 +1,8 @@
 ---
-pid: Khalil_Hawi
+pid: khalil_hawi
 name: Khalil Hawi
 type: author
-order: '067'
+order: '088'
 layout: tagpage
 collection: author_tags
 ---

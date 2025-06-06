@@ -1,5 +1,5 @@
 ---
-pid: Adolf_Brand
+pid: adolf_brand
 name: Adolf Brand
 type: author
 order: '001'

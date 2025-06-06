@@ -1,5 +1,5 @@
 ---
-pid: Bosnian
+pid: bosnian
 name: Bosnian
 type: language
 order: '03'

@@ -1,8 +1,8 @@
 ---
-pid: Portuguese
+pid: portuguese
 name: Portuguese
 type: language
-order: '31'
+order: '35'
 layout: tagpage
 collection: language_tags
 ---

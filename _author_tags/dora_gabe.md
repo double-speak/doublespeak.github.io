@@ -1,8 +1,8 @@
 ---
-pid: Dora_Gabe
+pid: dora_gabe
 name: Dora Gabe
 type: author
-order: '029'
+order: '037'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Yudi_Xie
+pid: yudi_xie
 name: Yudi Xie
 type: translator
-order: '171'
+order: '197'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Daniel_Sawey
+pid: daniel_sawey
 name: Daniel Sawey
 type: translator
-order: '035'
+order: '047'
 layout: tagpage
 collection: translator_tags
 ---

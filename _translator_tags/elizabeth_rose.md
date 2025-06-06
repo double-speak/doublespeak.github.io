@@ -1,8 +1,8 @@
 ---
-pid: Elizabeth_Rose
+pid: elizabeth_rose
 name: Elizabeth Rose
 type: translator
-order: '043'
+order: '058'
 layout: tagpage
 collection: translator_tags
 ---

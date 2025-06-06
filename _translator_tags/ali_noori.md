@@ -1,8 +1,8 @@
 ---
-pid: Ali_Noori
+pid: ali_noori
 name: Ali Noori
 type: translator
-order: '005'
+order: '008'
 layout: tagpage
 collection: translator_tags
 ---

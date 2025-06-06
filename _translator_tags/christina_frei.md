@@ -1,8 +1,8 @@
 ---
-pid: Christina_Frei
+pid: christina_frei
 name: Christina Frei
 type: translator
-order: '028'
+order: '040'
 layout: tagpage
 collection: translator_tags
 ---

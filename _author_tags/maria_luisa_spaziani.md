@@ -1,8 +1,8 @@
 ---
-pid: Maria_Luisa_Spaziani
+pid: maria_luisa_spaziani
 name: Maria Luisa Spaziani
 type: author
-order: '085'
+order: '110'
 layout: tagpage
 collection: author_tags
 ---

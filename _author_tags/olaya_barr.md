@@ -1,8 +1,8 @@
 ---
-pid: Olaya_Barr
+pid: olaya_barr
 name: Olaya Barr
 type: author
-order: '108'
+order: '137'
 layout: tagpage
 collection: author_tags
 ---

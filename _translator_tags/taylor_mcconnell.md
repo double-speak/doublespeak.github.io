@@ -1,8 +1,8 @@
 ---
-pid: Taylor_McConnell
+pid: taylor_mcconnell
 name: Taylor McConnell
 type: translator
-order: '152'
+order: '184'
 layout: tagpage
 collection: translator_tags
 ---

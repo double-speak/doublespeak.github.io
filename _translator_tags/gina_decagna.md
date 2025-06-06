@@ -1,8 +1,8 @@
 ---
-pid: Gina_DeCagna
+pid: gina_decagna
 name: Gina DeCagna
 type: translator
-order: '058'
+order: '077'
 layout: tagpage
 collection: translator_tags
 ---

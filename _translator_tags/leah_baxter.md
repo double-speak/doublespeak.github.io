@@ -1,8 +1,8 @@
 ---
-pid: Leah_Baxter
+pid: leah_baxter
 name: Leah Baxter
 type: translator
-order: '087'
+order: '111'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Wislawa_Szymborska
+pid: wislawa_szymborska
 name: Wislawa Szymborska
 type: author
-order: '154'
+order: '201'
 layout: tagpage
 collection: author_tags
 ---

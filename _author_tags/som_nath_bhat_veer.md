@@ -1,8 +1,8 @@
 ---
-pid: Som_Nath_Bhat_Veer_
+pid: som_nath_bhat_veer
 name: Som Nath Bhat “Veer”
 type: author
-order: '140'
+order: '178'
 layout: tagpage
 collection: author_tags
 ---

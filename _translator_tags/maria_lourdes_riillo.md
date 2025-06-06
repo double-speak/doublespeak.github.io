@@ -1,8 +1,8 @@
 ---
-pid: Maria_Lourdes_Riillo
+pid: maria_lourdes_riillo
 name: Maria Lourdes Riillo
 type: translator
-order: '095'
+order: '120'
 layout: tagpage
 collection: translator_tags
 ---

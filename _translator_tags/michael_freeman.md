@@ -1,8 +1,8 @@
 ---
-pid: Michael_Freeman
+pid: michael_freeman
 name: Michael Freeman
 type: translator
-order: '101'
+order: '127'
 layout: tagpage
 collection: translator_tags
 ---

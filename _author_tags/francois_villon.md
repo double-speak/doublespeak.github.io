@@ -1,8 +1,8 @@
 ---
-pid: Francois_Villon
+pid: francois_villon
 name: François Villon
 type: author
-order: '042'
+order: '052'
 layout: tagpage
 collection: author_tags
 ---

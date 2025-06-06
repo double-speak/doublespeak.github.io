@@ -1,8 +1,8 @@
 ---
-pid: Samantha_Pious
+pid: samantha_pious
 name: Samantha Pious
 type: translator
-order: '137'
+order: '166'
 layout: tagpage
 collection: translator_tags
 ---

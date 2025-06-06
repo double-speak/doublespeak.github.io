@@ -1,8 +1,8 @@
 ---
-pid: Esther_Jansma
-name: "Esther Jansma\r"
+pid: esther_jansma
+name: "Esther Jansma\r\n"
 type: author
-order: '189'
+order: '045'
 layout: tagpage
 collection: author_tags
 ---

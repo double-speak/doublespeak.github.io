@@ -1,8 +1,8 @@
 ---
-pid: Ella_Konefal
+pid: ella_konefal
 name: Ella Konefal
 type: translator
-order: '044'
+order: '059'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Polish
+pid: polish
 name: Polish
 type: language
-order: '30'
+order: '34'
 layout: tagpage
 collection: language_tags
 ---

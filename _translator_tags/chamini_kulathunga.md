@@ -1,8 +1,8 @@
 ---
-pid: Chamini_Kulathunga
+pid: chamini_kulathunga
 name: Chamini Kulathunga
 type: translator
-order: '023'
+order: '036'
 layout: tagpage
 collection: translator_tags
 ---

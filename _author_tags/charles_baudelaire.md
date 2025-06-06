@@ -1,8 +1,8 @@
 ---
-pid: Charles_Baudelaire
+pid: charles_baudelaire
 name: Charles Baudelaire
 type: author
-order: '022'
+order: '030'
 layout: tagpage
 collection: author_tags
 ---

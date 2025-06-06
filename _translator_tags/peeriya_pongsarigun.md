@@ -1,8 +1,8 @@
 ---
-pid: Peeriya_Pongsarigun
+pid: peeriya_pongsarigun
 name: Peeriya Pongsarigun
 type: translator
-order: '117'
+order: '145'
 layout: tagpage
 collection: translator_tags
 ---

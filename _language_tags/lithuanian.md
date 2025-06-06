@@ -1,8 +1,8 @@
 ---
-pid: Lithuanian
+pid: lithuanian
 name: Lithuanian
 type: language
-order: '24'
+order: '26'
 layout: tagpage
 collection: language_tags
 ---

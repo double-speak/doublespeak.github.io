@@ -1,8 +1,8 @@
 ---
-pid: Dan_Ben_Amos
+pid: dan_ben_amos
 name: Dan Ben-Amos
 type: translator
-order: '033'
+order: '045'
 layout: tagpage
 collection: translator_tags
 ---

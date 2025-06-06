@@ -1,8 +1,8 @@
 ---
-pid: Nicolette_Tan
+pid: nicolette_tan
 name: Nicolette Tan
 type: translator
-order: '111'
+order: '138'
 layout: tagpage
 collection: translator_tags
 ---

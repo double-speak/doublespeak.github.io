@@ -1,8 +1,8 @@
 ---
-pid: Allan_Persinger
+pid: allan_persinger
 name: Allan Persinger
 type: translator
-order: '006'
+order: '009'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Giulia_Rupi
+pid: giulia_rupi
 name: Giulia Rupi
 type: translator
-order: '059'
+order: '078'
 layout: tagpage
 collection: translator_tags
 ---

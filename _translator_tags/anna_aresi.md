@@ -1,8 +1,8 @@
 ---
-pid: Anna_Aresi
+pid: anna_aresi
 name: Anna Aresi
 type: translator
-order: '173'
+order: '017'
 layout: tagpage
 collection: translator_tags
 ---

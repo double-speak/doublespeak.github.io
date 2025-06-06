@@ -1,8 +1,8 @@
 ---
-pid: Gioconda_Belli
+pid: gioconda_belli
 name: Gioconda Belli
 type: author
-order: '048'
+order: '058'
 layout: tagpage
 collection: author_tags
 ---

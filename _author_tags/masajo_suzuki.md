@@ -1,8 +1,8 @@
 ---
-pid: Masajo_Suzuki
+pid: masajo_suzuki
 name: Masajo Suzuki
 type: author
-order: '092'
+order: '118'
 layout: tagpage
 collection: author_tags
 ---

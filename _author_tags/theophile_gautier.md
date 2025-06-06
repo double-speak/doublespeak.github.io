@@ -1,8 +1,8 @@
 ---
-pid: Theophile_Gautier
+pid: theophile_gautier
 name: Théophile Gautier
 type: author
-order: '145'
+order: '187'
 layout: tagpage
 collection: author_tags
 ---

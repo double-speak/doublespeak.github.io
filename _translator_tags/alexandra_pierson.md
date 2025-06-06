@@ -1,8 +1,8 @@
 ---
-pid: Alexandra_Pierson
+pid: alexandra_pierson
 name: Alexandra Pierson
 type: translator
-order: '004'
+order: '007'
 layout: tagpage
 collection: translator_tags
 ---

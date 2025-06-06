@@ -1,8 +1,8 @@
 ---
-pid: Anna_Akhmatova
+pid: anna_akhmatova
 name: Anna Akhmatova
 type: author
-order: '009'
+order: '011'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: English
+pid: english
 name: English
 type: language
-order: '42'
+order: '08'
 layout: tagpage
 collection: language_tags
 ---

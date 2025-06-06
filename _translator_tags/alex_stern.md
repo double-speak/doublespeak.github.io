@@ -1,8 +1,8 @@
 ---
-pid: Alex_Stern
+pid: alex_stern
 name: Alex Stern
 type: translator
-order: '002'
+order: '005'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Victor_Hugo
+pid: victor_hugo
 name: Victor Hugo
 type: author
-order: '151'
+order: '197'
 layout: tagpage
 collection: author_tags
 ---

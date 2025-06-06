@@ -1,8 +1,8 @@
 ---
-pid: Stefano_Pietrosanti
+pid: stefano_pietrosanti
 name: Stefano Pietrosanti
 type: translator
-order: '147'
+order: '179'
 layout: tagpage
 collection: translator_tags
 ---

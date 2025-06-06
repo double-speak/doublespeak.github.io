@@ -1,8 +1,8 @@
 ---
-pid: Kim_Soon_Mi
+pid: kim_soon_mi
 name: Kim Soon Mi
 type: author
-order: '068'
+order: '089'
 layout: tagpage
 collection: author_tags
 ---

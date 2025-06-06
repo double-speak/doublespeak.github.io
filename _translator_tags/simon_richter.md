@@ -1,8 +1,8 @@
 ---
-pid: Simon_Richter
+pid: simon_richter
 name: Simon Richter
 type: translator
-order: '145'
+order: '175'
 layout: tagpage
 collection: translator_tags
 ---

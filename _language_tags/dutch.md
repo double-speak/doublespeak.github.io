@@ -1,8 +1,8 @@
 ---
-pid: Dutch
+pid: dutch
 name: Dutch
 type: language
-order: '08'
+order: '07'
 layout: tagpage
 collection: language_tags
 ---

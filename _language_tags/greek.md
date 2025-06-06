@@ -1,8 +1,8 @@
 ---
-pid: Greek
+pid: greek
 name: Greek
 type: language
-order: '14'
+order: '15'
 layout: tagpage
 collection: language_tags
 ---

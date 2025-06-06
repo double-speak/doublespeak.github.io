@@ -1,8 +1,8 @@
 ---
-pid: Farsi
+pid: farsi
 name: Farsi
 type: language
-order: '09'
+order: '10'
 layout: tagpage
 collection: language_tags
 ---

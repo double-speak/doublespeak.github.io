@@ -1,8 +1,8 @@
 ---
-pid: Quinn_Gruber
+pid: quinn_gruber
 name: Quinn Gruber
 type: translator
-order: '121'
+order: '150'
 layout: tagpage
 collection: translator_tags
 ---

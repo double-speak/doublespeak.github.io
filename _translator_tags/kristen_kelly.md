@@ -1,8 +1,8 @@
 ---
-pid: Kristen_Kelly
+pid: kristen_kelly
 name: Kristen Kelly
 type: translator
-order: '084'
+order: '108'
 layout: tagpage
 collection: translator_tags
 ---

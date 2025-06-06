@@ -1,8 +1,8 @@
 ---
-pid: Wolfram_von_Eschenbach
+pid: wolfram_von_eschenbach
 name: Wolfram von Eschenbach
 type: author
-order: '156'
+order: '203'
 layout: tagpage
 collection: author_tags
 ---

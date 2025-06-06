@@ -1,5 +1,5 @@
 ---
-pid: Chinese
+pid: chinese
 name: Chinese
 type: language
 order: '05'

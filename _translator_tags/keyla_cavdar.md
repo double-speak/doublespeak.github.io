@@ -1,8 +1,8 @@
 ---
-pid: Keyla_Cavdar
+pid: keyla_cavdar
 name: Keyla Cavdar
 type: translator
-order: '083'
+order: '107'
 layout: tagpage
 collection: translator_tags
 ---

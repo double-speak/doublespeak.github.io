@@ -1,8 +1,8 @@
 ---
-pid: Ash_Maria
+pid: ash_maria
 name: Ash Maria
 type: translator
-order: '169'
+order: '024'
 layout: tagpage
 collection: translator_tags
 ---

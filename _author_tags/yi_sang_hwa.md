@@ -1,8 +1,8 @@
 ---
-pid: Yi_Sang_hwa
+pid: yi_sang_hwa
 name: Yi Sang-hwa
 type: author
-order: '160'
+order: '207'
 layout: tagpage
 collection: author_tags
 ---

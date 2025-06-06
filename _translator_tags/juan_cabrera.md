@@ -1,8 +1,8 @@
 ---
-pid: Juan_Cabrera
+pid: juan_cabrera
 name: Juan Cabrera
 type: translator
-order: '075'
+order: '098'
 layout: tagpage
 collection: translator_tags
 ---

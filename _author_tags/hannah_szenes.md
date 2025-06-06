@@ -1,8 +1,8 @@
 ---
-pid: Hannah_Szenes
+pid: hannah_szenes
 name: Hannah Szenes
 type: author
-order: '054'
+order: '065'
 layout: tagpage
 collection: author_tags
 ---

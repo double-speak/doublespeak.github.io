@@ -1,8 +1,8 @@
 ---
-pid: Chenel_Morrison
+pid: chenel_morrison
 name: Chenel Morrison
 type: translator
-order: '027'
+order: '039'
 layout: tagpage
 collection: translator_tags
 ---

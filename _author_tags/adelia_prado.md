@@ -1,5 +1,5 @@
 ---
-pid: Adelia_Prado
+pid: adelia_prado
 name: Adélia Prado
 type: author
 order: '000'

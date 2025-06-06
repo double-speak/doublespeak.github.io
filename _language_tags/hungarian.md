@@ -1,8 +1,8 @@
 ---
-pid: Hungarian
+pid: hungarian
 name: Hungarian
 type: language
-order: '17'
+order: '18'
 layout: tagpage
 collection: language_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Claudia_Nunez_de_Ibieta
+pid: claudia_nunez_de_ibieta
 name: Claudia Nuñez de Ibieta
 type: translator
-order: '030'
+order: '042'
 layout: tagpage
 collection: translator_tags
 ---

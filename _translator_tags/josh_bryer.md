@@ -1,8 +1,8 @@
 ---
-pid: Josh_Bryer
+pid: josh_bryer
 name: Josh Bryer
 type: translator
-order: '073'
+order: '096'
 layout: tagpage
 collection: translator_tags
 ---

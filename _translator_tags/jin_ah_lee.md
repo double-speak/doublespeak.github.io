@@ -1,8 +1,8 @@
 ---
-pid: Jin_Ah_Lee
+pid: jin_ah_lee
 name: Jin Ah Lee
 type: translator
-order: '068'
+order: '090'
 layout: tagpage
 collection: translator_tags
 ---

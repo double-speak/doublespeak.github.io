@@ -1,8 +1,8 @@
 ---
-pid: Frantisek_Halas
+pid: frantisek_halas
 name: František Halas
 type: author
-order: '044'
+order: '054'
 layout: tagpage
 collection: author_tags
 ---

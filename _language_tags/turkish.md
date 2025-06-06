@@ -1,8 +1,8 @@
 ---
-pid: Turkish
+pid: turkish
 name: Turkish
 type: language
-order: '39'
+order: '44'
 layout: tagpage
 collection: language_tags
 ---

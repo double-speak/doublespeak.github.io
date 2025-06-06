@@ -1,8 +1,8 @@
 ---
-pid: Jacob_Hershman
+pid: jacob_hershman
 name: Jacob Hershman
 type: translator
-order: '065'
+order: '086'
 layout: tagpage
 collection: translator_tags
 ---

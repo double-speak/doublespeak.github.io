@@ -1,8 +1,8 @@
 ---
-pid: Ryan_Hardy
+pid: ryan_hardy
 name: Ryan Hardy
 type: translator
-order: '130'
+order: '159'
 layout: tagpage
 collection: translator_tags
 ---

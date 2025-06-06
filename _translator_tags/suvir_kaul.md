@@ -1,8 +1,8 @@
 ---
-pid: Suvir_Kaul
+pid: suvir_kaul
 name: Suvir Kaul
 type: translator
-order: '151'
+order: '183'
 layout: tagpage
 collection: translator_tags
 ---

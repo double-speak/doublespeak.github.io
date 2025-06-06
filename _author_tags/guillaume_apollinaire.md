@@ -1,8 +1,8 @@
 ---
-pid: Guillaume_Apollinaire
+pid: guillaume_apollinaire
 name: Guillaume Apollinaire
 type: author
-order: '051'
+order: '061'
 layout: tagpage
 collection: author_tags
 ---

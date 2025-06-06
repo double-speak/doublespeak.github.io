@@ -1,8 +1,8 @@
 ---
-pid: Jacey_Chang
+pid: jacey_chang
 name: Jacey Chang
 type: translator
-order: '056'
+order: '084'
 layout: tagpage
 collection: translator_tags
 ---

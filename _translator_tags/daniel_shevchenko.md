@@ -1,8 +1,8 @@
 ---
-pid: Daniel_Shevchenko
+pid: daniel_shevchenko
 name: Daniel Shevchenko
 type: translator
-order: '179'
+order: '048'
 layout: tagpage
 collection: translator_tags
 ---

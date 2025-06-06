@@ -1,8 +1,8 @@
 ---
-pid: Shez
+pid: shez
 name: Shez
 type: author
-order: '133'
+order: '171'
 layout: tagpage
 collection: author_tags
 ---

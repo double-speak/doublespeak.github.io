@@ -1,8 +1,8 @@
 ---
-pid: Hwang_Ji_woo
+pid: hwang_ji_woo
 name: Hwang Ji-woo
 type: author
-order: '059'
+order: '071'
 layout: tagpage
 collection: author_tags
 ---

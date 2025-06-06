@@ -1,8 +1,8 @@
 ---
-pid: Karina_Garcia_Albadiz
+pid: karina_garcia_albadiz
 name: Karina García Albadiz
 type: author
-order: '065'
+order: '084'
 layout: tagpage
 collection: author_tags
 ---

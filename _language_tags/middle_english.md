@@ -1,8 +1,8 @@
 ---
-pid: Middle_English
+pid: middle_english
 name: Middle English
 type: language
-order: '26'
+order: '29'
 layout: tagpage
 collection: language_tags
 ---

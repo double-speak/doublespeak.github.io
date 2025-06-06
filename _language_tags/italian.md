@@ -1,8 +1,8 @@
 ---
-pid: Italian
+pid: italian
 name: Italian
 type: language
-order: '18'
+order: '19'
 layout: tagpage
 collection: language_tags
 ---

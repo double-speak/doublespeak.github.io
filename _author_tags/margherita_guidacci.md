@@ -1,8 +1,8 @@
 ---
-pid: Margherita_Guidacci
+pid: margherita_guidacci
 name: Margherita Guidacci
 type: author
-order: '084'
+order: '109'
 layout: tagpage
 collection: author_tags
 ---

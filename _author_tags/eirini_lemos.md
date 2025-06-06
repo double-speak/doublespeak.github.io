@@ -1,8 +1,8 @@
 ---
-pid: Eirini_Lemos
+pid: eirini_lemos
 name: Eirini Lemos
 type: author
-order: '031'
+order: '039'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Tamara_Grosso
+pid: tamara_grosso
 name: Tamara Grosso
 type: author
-order: '144'
+order: '184'
 layout: tagpage
 collection: author_tags
 ---

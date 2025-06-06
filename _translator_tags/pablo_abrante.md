@@ -1,8 +1,8 @@
 ---
-pid: Pablo_Abrante
+pid: pablo_abrante
 name: Pablo Abrante
 type: translator
-order: '114'
+order: '142'
 layout: tagpage
 collection: translator_tags
 ---

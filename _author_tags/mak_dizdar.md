@@ -1,8 +1,8 @@
 ---
-pid: Mak_Dizdar
+pid: mak_dizdar
 name: Mak Dizdar
 type: author
-order: '082'
+order: '106'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Armghan_Ahmad
+pid: armghan_ahmad
 name: Armghan Ahmad
 type: translator
-order: '015'
+order: '022'
 layout: tagpage
 collection: translator_tags
 ---

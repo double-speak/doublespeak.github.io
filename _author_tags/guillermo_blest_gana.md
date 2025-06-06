@@ -1,8 +1,8 @@
 ---
-pid: Guillermo_Blest_Gana
+pid: guillermo_blest_gana
 name: Guillermo Blest Gana
 type: author
-order: '184'
+order: '062'
 layout: tagpage
 collection: author_tags
 ---

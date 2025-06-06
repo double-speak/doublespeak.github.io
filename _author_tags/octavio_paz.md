@@ -1,8 +1,8 @@
 ---
-pid: Octavio_Paz
+pid: octavio_paz
 name: Octavio Paz
 type: author
-order: '107'
+order: '136'
 layout: tagpage
 collection: author_tags
 ---

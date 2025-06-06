@@ -1,8 +1,8 @@
 ---
-pid: Filippo_Vignali
+pid: filippo_vignali
 name: Filippo Vignali
 type: author
-order: '040'
+order: '050'
 layout: tagpage
 collection: author_tags
 ---

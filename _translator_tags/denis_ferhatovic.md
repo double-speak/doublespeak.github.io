@@ -1,8 +1,8 @@
 ---
-pid: Denis_Ferhatovic
+pid: denis_ferhatovic
 name: Denis Ferhatovic
 type: translator
-order: '174'
+order: '051'
 layout: tagpage
 collection: translator_tags
 ---

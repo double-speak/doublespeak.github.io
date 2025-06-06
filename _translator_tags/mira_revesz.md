@@ -1,8 +1,8 @@
 ---
-pid: Mira_Revesz
+pid: mira_revesz
 name: Mira Revesz
 type: translator
-order: '104'
+order: '130'
 layout: tagpage
 collection: translator_tags
 ---

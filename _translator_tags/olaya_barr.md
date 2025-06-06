@@ -1,8 +1,8 @@
 ---
-pid: Olaya_Barr
+pid: olaya_barr
 name: Olaya Barr
 type: translator
-order: '112'
+order: '139'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Dillon_Bergin
+pid: dillon_bergin
 name: Dillon Bergin
 type: translator
-order: '038'
+order: '053'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Dahlia_Ravikovitch
+pid: dahlia_ravikovitch
 name: Dahlia Ravikovitch
 type: author
-order: '026'
+order: '034'
 layout: tagpage
 collection: author_tags
 ---

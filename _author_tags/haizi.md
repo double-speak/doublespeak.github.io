@@ -1,8 +1,8 @@
 ---
-pid: Haizi
+pid: haizi
 name: Haizi
 type: author
-order: '053'
+order: '064'
 layout: tagpage
 collection: author_tags
 ---

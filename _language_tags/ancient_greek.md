@@ -1,5 +1,5 @@
 ---
-pid: Ancient_Greek
+pid: ancient_greek
 name: Ancient Greek
 type: language
 order: '00'

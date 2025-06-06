@@ -1,8 +1,8 @@
 ---
-pid: Alexandra_Bousquet_Chavanne
+pid: alexandra_bousquet_chavanne
 name: Alexandra Bousquet-Chavanne
 type: translator
-order: '003'
+order: '006'
 layout: tagpage
 collection: translator_tags
 ---

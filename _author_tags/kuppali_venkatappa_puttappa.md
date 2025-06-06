@@ -1,8 +1,8 @@
 ---
-pid: Kuppali_Venkatappa_Puttappa
+pid: kuppali_venkatappa_puttappa
 name: Kuppali Venkatappa Puttappa
 type: author
-order: '185'
+order: '093'
 layout: tagpage
 collection: author_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: C_P_Cavafy
+pid: c_p_cavafy
 name: C. P. Cavafy
 type: author
-order: '018'
+order: '023'
 layout: tagpage
 collection: author_tags
 ---

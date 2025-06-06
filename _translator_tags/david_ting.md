@@ -1,8 +1,8 @@
 ---
-pid: David_Ting
+pid: david_ting
 name: David Ting
 type: translator
-order: '037'
+order: '050'
 layout: tagpage
 collection: translator_tags
 ---

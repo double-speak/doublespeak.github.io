@@ -1,8 +1,8 @@
 ---
-pid: Allison_Collins
+pid: allison_collins
 name: Allison Collins
 type: translator
-order: '007'
+order: '010'
 layout: tagpage
 collection: translator_tags
 ---

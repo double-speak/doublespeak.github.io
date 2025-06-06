@@ -1,8 +1,8 @@
 ---
-pid: Andrea_Conde
+pid: andrea_conde
 name: Andrea Conde
 type: translator
-order: '009'
+order: '012'
 layout: tagpage
 collection: translator_tags
 ---

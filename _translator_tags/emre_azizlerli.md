@@ -1,8 +1,8 @@
 ---
-pid: Emre_Azizlerli
+pid: emre_azizlerli
 name: Emre Azizlerli
 type: translator
-order: '050'
+order: '066'
 layout: tagpage
 collection: translator_tags
 ---

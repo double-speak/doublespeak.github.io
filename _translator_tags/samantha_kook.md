@@ -1,8 +1,8 @@
 ---
-pid: Samantha_Kook
+pid: samantha_kook
 name: Samantha Kook
 type: translator
-order: '135'
+order: '164'
 layout: tagpage
 collection: translator_tags
 ---

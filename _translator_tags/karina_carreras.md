@@ -1,8 +1,8 @@
 ---
-pid: Karina_Carreras
+pid: karina_carreras
 name: Karina Carreras
 type: translator
-order: '077'
+order: '100'
 layout: tagpage
 collection: translator_tags
 ---

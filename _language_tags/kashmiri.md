@@ -1,8 +1,8 @@
 ---
-pid: Kashmiri
+pid: kashmiri
 name: Kashmiri
 type: language
-order: '21'
+order: '23'
 layout: tagpage
 collection: language_tags
 ---

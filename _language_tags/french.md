@@ -1,8 +1,8 @@
 ---
-pid: French
+pid: french
 name: French
 type: language
-order: '10'
+order: '11'
 layout: tagpage
 collection: language_tags
 ---

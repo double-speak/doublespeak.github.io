@@ -1,5 +1,5 @@
 ---
-pid: Genovese
+pid: genovese
 name: Genovese
 type: language
 order: '13'

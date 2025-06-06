@@ -1,8 +1,8 @@
 ---
-pid: Old_Occitan
+pid: old_occitan
 name: Old Occitan
 type: language
-order: '29'
+order: '33'
 layout: tagpage
 collection: language_tags
 ---

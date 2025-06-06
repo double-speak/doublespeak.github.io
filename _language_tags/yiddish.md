@@ -1,8 +1,8 @@
 ---
-pid: Yiddish
+pid: yiddish
 name: Yiddish
 type: language
-order: '41'
+order: '46'
 layout: tagpage
 collection: language_tags
 ---

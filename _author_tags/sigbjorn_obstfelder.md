@@ -1,8 +1,8 @@
 ---
-pid: Sigbjorn_Obstfelder
+pid: sigbjorn_obstfelder
 name: Sigbjørn Obstfelder
 type: author
-order: '136'
+order: '174'
 layout: tagpage
 collection: author_tags
 ---

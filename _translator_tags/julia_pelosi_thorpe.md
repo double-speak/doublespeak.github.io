@@ -1,8 +1,8 @@
 ---
-pid: Julia_Pelosi_Thorpe
+pid: julia_pelosi_thorpe
 name: Julia Pelosi-Thorpe
 type: translator
-order: '076'
+order: '099'
 layout: tagpage
 collection: translator_tags
 ---

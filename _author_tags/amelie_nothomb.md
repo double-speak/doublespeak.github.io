@@ -1,8 +1,8 @@
 ---
-pid: Amelie_Nothomb
+pid: amelie_nothomb
 name: Amélie Nothomb
 type: author
-order: '007'
+order: '009'
 layout: tagpage
 collection: author_tags
 ---

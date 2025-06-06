@@ -1,8 +1,8 @@
 ---
-pid: Michael_Freeman
+pid: michael_freeman
 name: Michael Freeman
 type: author
-order: '094'
+order: '120'
 layout: tagpage
 collection: author_tags
 ---

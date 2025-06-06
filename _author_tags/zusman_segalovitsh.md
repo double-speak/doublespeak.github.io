@@ -1,8 +1,8 @@
 ---
-pid: Zusman_Segalovitsh
+pid: zusman_segalovitsh
 name: Zusman Segalovitsh
 type: author
-order: '167'
+order: '215'
 layout: tagpage
 collection: author_tags
 ---

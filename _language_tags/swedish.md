@@ -1,8 +1,8 @@
 ---
-pid: Swedish
+pid: swedish
 name: Swedish
 type: language
-order: '36'
+order: '41'
 layout: tagpage
 collection: language_tags
 ---

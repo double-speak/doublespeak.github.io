@@ -1,8 +1,8 @@
 ---
-pid: Nesara_Shree
+pid: nesara_shree
 name: Nesara Shree
 type: translator
-order: '176'
+order: '136'
 layout: tagpage
 collection: translator_tags
 ---

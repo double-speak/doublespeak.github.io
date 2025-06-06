@@ -1,8 +1,8 @@
 ---
-pid: Korean
+pid: korean
 name: Korean
 type: language
-order: '22'
+order: '24'
 layout: tagpage
 collection: language_tags
 ---

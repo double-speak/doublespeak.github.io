@@ -1,8 +1,8 @@
 ---
-pid: Annie_Ernaux
+pid: annie_ernaux
 name: Annie Ernaux
 type: author
-order: '010'
+order: '012'
 layout: tagpage
 collection: author_tags
 ---

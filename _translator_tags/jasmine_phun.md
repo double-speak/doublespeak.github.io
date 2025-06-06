@@ -1,8 +1,8 @@
 ---
-pid: Jasmine_Phun
+pid: jasmine_phun
 name: Jasmine Phun
 type: translator
-order: '066'
+order: '088'
 layout: tagpage
 collection: translator_tags
 ---

@@ -1,8 +1,8 @@
 ---
-pid: Mandarin
+pid: mandarin
 name: Mandarin
 type: language
-order: '25'
+order: '28'
 layout: tagpage
 collection: language_tags
 ---

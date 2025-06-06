@@ -1,8 +1,8 @@
 ---
-pid: Sapardi_Djoko_Damono
+pid: sapardi_djoko_damono
 name: Sapardi Djoko Damono
 type: author
-order: '170'
+order: '167'
 layout: tagpage
 collection: author_tags
 ---

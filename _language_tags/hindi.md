@@ -1,8 +1,8 @@
 ---
-pid: Hindi
+pid: hindi
 name: Hindi
 type: language
-order: '16'
+order: '17'
 layout: tagpage
 collection: language_tags
 ---

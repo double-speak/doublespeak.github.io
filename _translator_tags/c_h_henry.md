@@ -1,8 +1,8 @@
 ---
-pid: C_H_Henry
+pid: c_h_henry
 name: C.H. Henry
 type: translator
-order: '177'
+order: '034'
 layout: tagpage
 collection: translator_tags
 ---

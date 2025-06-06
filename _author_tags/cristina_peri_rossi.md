@@ -1,8 +1,8 @@
 ---
-pid: Cristina_Peri_Rossi
+pid: cristina_peri_rossi
 name: Cristina Peri Rossi
 type: author
-order: '025'
+order: '033'
 layout: tagpage
 collection: author_tags
 ---

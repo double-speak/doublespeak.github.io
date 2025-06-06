@@ -1,8 +1,8 @@
 ---
-pid: Anjali_Tsui
+pid: anjali_tsui
 name: Anjali Tsui
 type: translator
-order: '012'
+order: '016'
 layout: tagpage
 collection: translator_tags
 ---

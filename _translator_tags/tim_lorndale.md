@@ -1,8 +1,8 @@
 ---
-pid: Tim_Lorndale
+pid: tim_lorndale
 name: Tim Lorndale
 type: translator
-order: '153'
+order: '185'
 layout: tagpage
 collection: translator_tags
 ---

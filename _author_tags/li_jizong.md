@@ -1,8 +1,8 @@
 ---
-pid: Li_Jizong
+pid: li_jizong
 name: Li Jizong
 type: author
-order: '074'
+order: '096'
 layout: tagpage
 collection: author_tags
 ---

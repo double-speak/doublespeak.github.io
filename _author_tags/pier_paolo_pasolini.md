@@ -1,8 +1,8 @@
 ---
-pid: Pier_Paolo_Pasolini
+pid: pier_paolo_pasolini
 name: Pier Paolo Pasolini
 type: author
-order: '115'
+order: '147'
 layout: tagpage
 collection: author_tags
 ---

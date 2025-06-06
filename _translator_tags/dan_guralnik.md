@@ -1,8 +1,8 @@
 ---
-pid: Dan_Guralnik
+pid: dan_guralnik
 name: Dan Guralnik
 type: translator
-order: '034'
+order: '046'
 layout: tagpage
 collection: translator_tags
 ---
