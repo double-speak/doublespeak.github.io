@@ -44,10 +44,7 @@ jobs:
         run: bundle exec rake wax:clobber author_tags
       - name: build author tags
         run: bundle exec rake wax:pages author_tags
-      - name: clobber language tags
-        run: bundle exec rake wax:clobber language_tags
-      - name: build language tags
-        run: bundle exec rake wax:pages language_tags
+
       - name: clobber translator tags
         run: bundle exec rake wax:clobber translator_tags
       - name: build translator tags
@@ -126,6 +123,11 @@ jobs:
         run: bundle exec rake wax:clobber notes_2016
       - name: build notes 2016
         run: bundle exec rake wax:pages notes_2016
+
+      - name: clobber language tags
+        run: bundle exec rake wax:clobber language_tags
+      - name: build language tags
+        run: bundle exec rake wax:pages language_tags
         
 ## search
       - name: build search 
