@@ -6,7 +6,7 @@ layout: default
 
   <head>
 
-    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/indexstyle.css">
+    <link rel="stylesheet" type="text/css" href="https://doublespeakjournal.org/assets/css/indexstyle.css">
     
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
@@ -36,7 +36,7 @@ layout: default
           {% endfor %}
           {% assign sortedAuthors = authors | sort | uniq %}
         {% for aut in sortedAuthors %}
-          <li class="content-l"><a href="{{site.baseurl}}/author_tags/{{aut | slugify: 'latin' | replace: '-','_' }}">{{ aut }}</a></li>
+          <li class="content-l"><a href="https://doublespeakjournal.org/author_tags/{{aut | slugify: 'latin' | replace: '-','_' }}">{{ aut }}</a></li>
         {% endfor %}
         </ul>
       </div>
@@ -60,7 +60,7 @@ layout: default
           {% endfor %}
           {% assign sortedtranslators = translators | sort | uniq %}
         {% for trans in sortedtranslators %}
-          <li class="content-l"><a href="{{site.baseurl}}/translator_tags/{{trans | slugify: 'latin' | replace: '-','_' }}">{{trans}}</a></li>
+          <li class="content-l"><a href="https://doublespeakjournal.org/translator_tags/{{trans | slugify: 'latin' | replace: '-','_' }}">{{trans}}</a></li>
         {% endfor %}
         </ul>
       </div>
@@ -86,7 +86,7 @@ layout: default
             {% endfor %}
           {% assign sortedlanguages = languages | sort | uniq %}
         {% for lang in sortedlanguages %}
-          <li class="language-l"><a href="{{site.baseurl}}/language_tags/{{lang | slugify: 'latin' | replace: '-','_'}}">{{lang}}</a></li>
+          <li class="language-l"><a href="https://doublespeakjournal.org/language_tags/{{lang | slugify: 'latin' | replace: '-','_'}}">{{lang}}</a></li>
         {% endfor %}
         </ul>
         </div>
@@ -129,7 +129,7 @@ window.onclick = function(event) {
 </body>
 <style>
 .tcontents {
-  background-image: url('{{site.baseurl}}/assets/images/background_logo_ds.png');
+  background-image: url('https://doublespeakjournal.org/assets/images/background_logo_ds.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
