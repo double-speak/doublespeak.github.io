@@ -83,6 +83,10 @@ jobs:
         run: bundle exec rake wax:clobber poems_2016
       - name: build poems 2016
         run: bundle exec rake wax:pages poems_2016
+      - name: clobber poems 2015
+        run: bundle exec rake wax:clobber poems_2015
+      - name: build poems 2015
+        run: bundle exec rake wax:pages poems_2015
       - name: clobber poems 2014
         run: bundle exec rake wax:clobber poems_2014
       - name: build poems 2014
@@ -124,6 +128,10 @@ jobs:
         run: bundle exec rake wax:clobber notes_2016
       - name: build notes 2016
         run: bundle exec rake wax:pages notes_2016
+      - name: clobber notes 2015
+        run: bundle exec rake wax:clobber notes_2015
+      - name: build notes 2015
+        run: bundle exec rake wax:pages notes_2015
       - name: clobber notes 2014
         run: bundle exec rake wax:clobber notes_2014
       - name: build notes 2014
