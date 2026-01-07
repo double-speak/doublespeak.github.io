@@ -183,6 +183,7 @@ p {
 	width: 20em;
 }
 
+@media (hover: hover){
 .overlay {
 	position: absolute;
 	background-color: black;
@@ -208,4 +209,5 @@ p {
 
 .flex-item:hover .overlay-text {
 	opacity: 1;
+}
 }
