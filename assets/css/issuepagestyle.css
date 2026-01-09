@@ -183,6 +183,14 @@ p {
 	width: 20em;
 }
 
+.overlay{
+  display: none;
+}
+
+.overlay-text{
+  display: none;
+}
+
 @media (hover: hover){
 .overlay {
 	position: absolute;
