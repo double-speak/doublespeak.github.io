@@ -193,6 +193,7 @@ p {
 
 @media (hover: hover){
 .overlay {
+	display: block;
 	position: absolute;
 	background-color: black;
 	width: 100%;
@@ -203,6 +204,7 @@ p {
 }
 
 .overlay-text {
+	display: block;
 	position: absolute;
 	color: white;
 	margin-top: 40%;
