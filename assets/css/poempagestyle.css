@@ -396,6 +396,15 @@ worth thinking about it.
 */
 }
 
+.pull-quote{
+  	display: block;
+	font-family: futura-pt, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 30px;
+	color: black;
+}
+
 .audio {
 	margin-top: 50px;
 	width: 50%;
