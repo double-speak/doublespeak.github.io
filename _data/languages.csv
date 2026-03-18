@@ -1,48 +1,48 @@
-pid,name,type
-ancient_greek,Ancient Greek,language
-arabic,Arabic,language
-bahasa_indonesia,Bahasa Indonesia,language
-bosnian,Bosnian,language
-bulgarian,Bulgarian,language
-chinese,Chinese,language
-czech,Czech,language
-dutch,Dutch,language
-english,English,language
-esperanto,Esperanto,language
-farsi,Farsi,language
-french,French,language
-friulian,Friulian,language
-genovese,Genovese,language
-german,German,language
-greek,Greek,language
-hebrew,Hebrew,language
-hindi,Hindi,language
-hungarian,Hungarian,language
-italian,Italian,language
-japanese,Japanese,language
-judeo_spanish,Judeo Spanish,language
-kannada,Kannada,language
-kashmiri,Kashmiri,language
-korean,Korean,language
-latin,Latin,language
-lithuanian,Lithuanian,language
-malayalam,Malayalam,language
-mandarin,Mandarin,language
-middle_english,Middle English,language
-middle_french,Middle French,language
-norwegian,Norwegian,language
-old_english,Old English,language
-old_occitan,Old Occitan,language
-polish,Polish,language
-portuguese,Portuguese,language
-russian,Russian,language
-sanskrit,Sanskrit,language
-sinhalese,Sinhalese,language
-siswati,siSwati,language
-spanish,Spanish,language
-swedish,Swedish,language
-tagalog,Tagalog,language
-thai,Thai,language
-turkish,Turkish,language
-urdu,Urdu,language
-yiddish,Yiddish,language
+pid,name,type,,,,,
+ancient_greek,Ancient Greek,language,,,,,
+arabic,Arabic,language,,,,,
+bahasa_indonesia,Bahasa Indonesia,language,,,,,
+bosnian,Bosnian,language,,,,,
+bulgarian,Bulgarian,language,,,,,
+chinese,Chinese,language,,,,,
+czech,Czech,language,,,,,
+dutch,Dutch,language,,,,,
+english,English,language,,,,,
+esperanto,Esperanto,language,,,,,
+farsi,Farsi,language,,,,,
+french,French,language,,,,,
+friulian,Friulian,language,,,,, 
+genovese,Genovese,language,,,,,
+german,German,language,,,,,
+greek,Greek,language,,,,,
+hebrew,Hebrew,language,,,,,
+hindi,Hindi,language,,,,,
+hungarian,Hungarian,language,,,,,
+italian,Italian,language,,,,,
+japanese,Japanese,language,,,,,
+judeo_spanish,Judeo Spanish,language,,,,,
+kannada,Kannada,language,,,,,
+kashmiri,Kashmiri,language,,,,,
+korean,Korean,language,,,,,
+latin,Latin,language,,,,,
+lithuanian,Lithuanian,language,,,,,
+malayalam,Malayalam,language,,,,,
+mandarin,Mandarin,language,,,,,
+middle_english,Middle English,language,,,,,
+norwegian,Norwegian,language,,,,,
+old_english,Old English,language,,,,,
+old_occitan,Old Occitan,language,,,,,
+polish,Polish,language,,,,,
+portuguese,Portuguese,language,,,,,
+russian,Russian,language,,,,,
+sanskrit,Sanskrit,language,,,,,
+sinhalese,Sinhalese,language,,,,,
+siswati,siSwati,language,,,,,
+spanish,Spanish,language,,,,,
+swedish,Swedish,language,,,,,
+tagalog,Tagalog,language,,,,,
+thai,Thai,language,,,,,
+turkish,Turkish,language,,,,,
+ukrainian,Ukrainian,language,,,,,
+urdu,Urdu,language,,,,,
+yiddish,Yiddish,language,,,,,
