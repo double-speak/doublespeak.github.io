@@ -82,6 +82,22 @@ collections:
       source: 'source_images/objects' # path to the directory of source images, must be within '_data'
 
   #used to generate the poem + note pages for each issue/year
+
+  poems_2026:
+    layout: 'poempage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2026.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+  notes_2026:
+    layout: 'notepage'
+    output: true # this must be true for your .md pages to be built to html!
+    metadata:
+      source: 'poems_2026.csv' # path to the metadata file, must be within '_data'
+    images:
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
+
   poems_2025:
     layout: 'poempage'
     output: true # this must be true for your .md pages to be built to html!

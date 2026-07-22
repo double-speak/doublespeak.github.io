@@ -47,6 +47,10 @@ jobs:
 ## here begin the collection builds
 
 ## poems
+      - name: clobber poems 2026
+        run: bundle exec rake wax:clobber poems_2026
+      - name: build poems 2026
+        run: bundle exec rake wax:pages poems_2026
       - name: clobber poems 2025
         run: bundle exec rake wax:clobber poems_2025
       - name: build poems 2025
@@ -96,6 +100,10 @@ jobs:
       - name: build poems 2014
         run: bundle exec rake wax:pages poems_2014
 ## notes
+      - name: clobber notes 2026
+        run: bundle exec rake wax:clobber notes_2026
+      - name: build notes 2026
+        run: bundle exec rake wax:pages notes_2026
       - name: clobber notes 2025
         run: bundle exec rake wax:clobber notes_2025
       - name: build notes 2025
