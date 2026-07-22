@@ -1,4 +1,5 @@
 pid,name,type
+ada_negri,Ada Negri,author
 adelia_prado,Adélia Prado,author
 adolf_brand,Adolf Brand,author
 aime_cesaire,Aimé Césaire,author
@@ -9,8 +10,10 @@ alejandra_pizarnik,Alejandra Pizarnik,author
 alejandro_zambra,Alejandro Zambra,author
 alex_bousquet_chavanne,Alex Bousquet-Chavanne,author
 alina_khaitlina,Alina Khaitlina,author
+alisher_navoi,Alisher Navoi,author
 amelie_nothomb,Amélie Nothomb,author
 amina_said,Amina Saïd,author
+amir_houshang_ebtehaj,Amir Houshang Ebtehaj,author
 anna_akhmatova,Anna Akhmatova,author
 annie_ernaux,Annie Ernaux,author
 anonymous,Anonymous,author
@@ -20,10 +23,12 @@ antonia_pozzi,Antonia Pozzi,author
 antonio_machado,Antonio Machado,author
 armando_valladares,Armando Valladares,author
 arthur_rimbaud,Arthur Rimbaud,author
+attila_mohylyny,Attila Mohylyny,author
 francesco_guccini,Francesco Guccini,author
 bai_juyi,Bai Juyi,author
 bart_moeyaert,Bart Moeyaert,author
 c_p_cavafy,C. P. Cavafy,author
+bart_chabot,Bart Chabot,
 carine_medellus,Carine Medellus,author
 carlos_de_assumpcao,Carlos de Assumpção,author
 carlos_drummond_de_andrade,Carlos Drummond de Andrade,author
@@ -60,7 +65,9 @@ francois_villon,François Villon,author
 francoise_sagan,Françoise Sagan,author
 frantisek_halas,František Halas,author
 franz_kafka,Franz Kafka,author
+fereydoon_moshiri ,Fereydoon Moshiri ,author
 gabriela_mistral,Gabriela Mistral,author
+gaspara_stampa,Gaspara Stampa,author
 georges_bataille,Georges Bataille,author
 gerrit_komrij,Gerrit Komrij,author
 gioconda_belli,Gioconda Belli,author
@@ -95,12 +102,14 @@ kazimierz_staszewski ,Kazimierz Staszewski ,author
 keyla_cavdar,Keyla Çavdar,author
 khaled_juma,Khaled Juma,author
 khalil_hawi,Khalil Hawi,author
+khajeh_shams_od_din_mohammad_hafez_e_shirazi,Khajeh Shams od Din Moḥammad Ḥafeẓ e Shirazi,author
 kim_soon_mi,Kim Soon Mi,author
 kim_sowol,Kim Sowol,author
 king_rama_ii,King Rama II,author
 kobayashi_issa,Kobayashi Issa,author
 konstantin_mikhailovich_simonov,Konstantin Mikhailovich Simonov (Константин Симонов) ,author
 kuppali_venkatappa_puttappa,Kuppali Venkatappa Puttappa,author
+kunwar_narain,Kunwar Narain,author
 la_compiuta_donzella,La Compiuta Donzella,author
 leopold_sedar_senghor,Léopold Sédar Senghor,author
 li_jizong,Li Jizong,author
@@ -109,8 +118,10 @@ li_yuansheng,Li Yuansheng,author
 liu_guo-fang,Liu Guo-Fang (刘国芳),author
 liu_xiaobo,Liu Xiaobo,author
 liu_yu,Liu Yu,author
+lucan,Lucan,author
 lu_xun,Lu Xun,author
 machi_tawara,Machi Tawara,author
+magzhan_zhumabayev ,Magzhan Zhumabayev ,author
 mahadevi_varma,Mahadevi Varma,author
 mahmoud_darwish,Mahmoud Darwish,author
 mak_dizdar,Mak Dizdar,author
@@ -119,6 +130,7 @@ manuel_bandeira,Manuel Bandeira,author
 margarita_carrera,Margarita Carrera,author
 margherita_guidacci,Margherita Guidacci,author
 maria_luisa_spaziani,Maria Luisa Spaziani,author
+mariam_elnaggar,Mariam ElNaggar,author
 mariama_ndiaye,Mariama Ndiaye,author
 marica_bodroz_ic,Marica Bodrožić,author
 marie_krysinska,Marie Krysińska,author
@@ -129,11 +141,12 @@ martin_luther,Martin Luther,author
 masajo_suzuki,Masajo Suzuki,author
 megan_mansmann,Megan Mansmann,author
 michael_freeman,Michael Freeman,author
-mikilos_radnoti,Mikilós Radnóti,author
+miklos_radnoti,Miklós Radnóti,author
 mohammad_ali_bahmani,Mohammad Ali Bahmani,author
 moon_taejoon,Moon Taejoon,author
 moses_ibn_ezra,Moses Ibn Ezra,author
 mostarli_hasan_ziyai,Mostarli Hasan Ziyâî,author
+mukagali_makatayev,Mukagali Makatayev,author
 munir_nurettin_selcuk,Münír Nurettín Selçuk,author
 nadia_park,Nadia Park,author
 naji_munawar,Naji Munawar,author
@@ -180,8 +193,10 @@ sapardi_djoko_damono,Sapardi Djoko Damono,author
 sappho,Sappho,author
 sebastiano_addamo,Sebastiano Addamo,author
 sergei_yesenin,Sergei Yesenin,author
+seyed_ali_salehi,Seyed Ali Salehi,author
 shailly_pandey,Shailly Pandey,author
 shez,Shez,author
+shi_yan,Shi Yan,author
 shu_ting,Shu Ting,author
 shuguang_zhang,Shuguang Zhang,author
 sigbjorn_obstfelder,Sigbjørn Obstfelder,author
@@ -224,6 +239,7 @@ yaroslav_slava_mogutin,Yaroslav (Slava) Mogutin,author
 yi_sang_hwa,Yi Sang-hwa,author
 yosa_buson,Yosa Buson,author
 yuliya_drunina,Yuliya Drunina,author
+yu_xiuhua,Yu XiuHua,author
 yun_dong_ju,Yun Dong-ju,author
 yuriy_izdryk,Yuriy Izdryk (Юрій Іздрик),author
 zhang_ergun,Zhang Ergun,author
@@ -231,3 +247,4 @@ zhang_zhihao,Zhang Zhihao,author
 zhiqiao_kate_jiang,Zhiqiao (Kate) Jiang,author
 zoraida_armengol,Zoraida Armengol,author
 zusman_segalovitsh,Zusman Segalovitsh,author
+zuzanna_ginczanka,Zuzanna Ginczanka,author
